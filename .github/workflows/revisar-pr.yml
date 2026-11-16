@@ -1,0 +1,36 @@
+name: Revisar PR de datos
+
+# validar  — invariantes del repo (referencias, votos que suman los conteos,
+#            copias que coinciden con su huella). Es el required check de main.
+# fusionar — fusiona solo el PR de la actualización semanal, con rebase.
+on:
+  pull_request: {}
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Validar invariantes (GATE)
+        run: |
+          git clone -q --depth 1 https://github.com/OpenCodice/congreso-extractor.git /tmp/extractor
+          cd /tmp/extractor && python -m congreso validar --out "$GITHUB_WORKSPACE"
+
+  fusionar:
+    needs: validar
+    if: github.event.pull_request.head.repo.full_name == github.repository && startsWith(github.head_ref, 'datos/')
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.PR_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          [ -n "$GH_TOKEN" ] || { echo "Sin PR_TOKEN: queda para revisión manual."; exit 0; }
+          gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --rebase --delete-branch
