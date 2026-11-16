@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5776437,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "laam",
+      "publicacion": "2025-12-17"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.50)",
+      "id": "sil-4990617"
+    }
+  ],
+  "fecha": "2025-12-17",
+  "id": "dof-5776437",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:45Z",
+      "sha256": "e18f2b484197c2667c6be44a524481a45f9127e8b4db5119831c410fc1a2abaf",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/17-12-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5776437&fecha=17/12/2025"
+}

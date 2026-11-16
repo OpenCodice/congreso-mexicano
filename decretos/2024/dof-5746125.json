@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5746125,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lgdnna",
+      "publicacion": "2024-12-24"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.87)",
+      "id": "sil-4640716"
+    }
+  ],
+  "fecha": "2024-12-24",
+  "id": "dof-5746125",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:58:23Z",
+      "sha256": "bd1be835037a13bb56a4f7b8ae778098684e74e96fcfdeae5eb94a7336d77e1b",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/24-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se adiciona un artículo 101 Bis 3 a la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de acceso a Internet libre de violencia contra niñas, niños y adolescentes.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5746125&fecha=24/12/2024"
+}

@@ -1,0 +1,36 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5763157,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lgmdfp",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lgp",
+      "publicacion": "2025-07-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.72)",
+      "id": "sil-4909273"
+    }
+  ],
+  "fecha": "2025-07-16",
+  "id": "dof-5763157",
+  "pagina": 3,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:45Z",
+      "sha256": "8e3659a95612f309da79d39a37269944255d08fd61f3fa22a024c7daaf83348e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763157&fecha=16/07/2025"
+}

@@ -1,0 +1,44 @@
+{
+  "candidatos_expediente": [
+    {
+      "id": "sil-4784645",
+      "parecido": 0.62
+    },
+    {
+      "id": "sil-4785120",
+      "parecido": 0.47
+    },
+    {
+      "id": "sil-4798657",
+      "parecido": 0.43
+    }
+  ],
+  "codigo": 5744206,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5744205",
+        "dof-5744206",
+        "dof-5744207"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2024-12-02"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [],
+  "fecha": "2024-12-02",
+  "id": "dof-5744206",
+  "pagina": 4,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:33Z",
+      "sha256": "bc5f4eabf79d255e585998eb6ab13ab111c758d6ebb9aae105f55af832598114",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/02-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma y adiciona la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5744206&fecha=02/12/2024"
+}

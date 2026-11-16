@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5752569,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "loapf",
+      "publicacion": "2025-03-20"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4848186"
+    }
+  ],
+  "fecha": "2025-03-20",
+  "id": "dof-5752569",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:13Z",
+      "sha256": "c3e21c45e21ae3439111a0bdcc8ee7e933f878453ade344614f48ebaa45a7f0e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/20-03-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se expiden la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; y se reforma el artículo 37, fracción XV, de la Ley Orgánica de la Administración Pública Federal.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025"
+}

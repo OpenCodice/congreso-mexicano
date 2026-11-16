@@ -1,0 +1,36 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5752329,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lfmped",
+      "publicacion": "2025-03-18"
+    },
+    {
+      "commits": [],
+      "documento": "loapf",
+      "publicacion": "2025-03-18"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.76)",
+      "id": "sil-4842678"
+    }
+  ],
+  "fecha": "2025-03-18",
+  "id": "dof-5752329",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:52Z",
+      "sha256": "f6dabbdcce49cac8fb2d9e85f8379bbd8c60e63cd0f33a2415ca508803f1f1f7",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/18-03-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025"
+}

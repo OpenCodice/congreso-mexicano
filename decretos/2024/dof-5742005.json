@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5742005,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2024-10-30"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4778758"
+    }
+  ],
+  "fecha": "2024-10-30",
+  "id": "dof-5742005",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:20Z",
+      "sha256": "5b1e7ea74bd82ab8c706a4e49dc4fd22ad7bc3a0ec44fdfa676cb4d597a82d32",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/30-10-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma el párrafo cuarto y se adiciona un párrafo quinto al artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vías y transporte ferroviario.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5742005&fecha=30/10/2024"
+}

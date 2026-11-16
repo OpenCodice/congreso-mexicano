@@ -1,0 +1,51 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5774377,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cnpp",
+      "publicacion": "2025-11-28"
+    },
+    {
+      "commits": [],
+      "documento": "cpf",
+      "publicacion": "2025-11-28"
+    },
+    {
+      "commits": [],
+      "documento": "lfcdo",
+      "publicacion": "2025-11-28"
+    },
+    {
+      "commits": [],
+      "documento": "lned",
+      "publicacion": "2025-11-28"
+    },
+    {
+      "commits": [],
+      "documento": "lopjf",
+      "publicacion": "2025-11-28"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4961172"
+    }
+  ],
+  "fecha": "2025-11-28",
+  "id": "dof-5774377",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:07Z",
+      "sha256": "b17f400df5c321aad4c0804b1dcff42ec67613685dde4c1d4dc62d3e6c2f8a48",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/28-11-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5774377&fecha=28/11/2025"
+}

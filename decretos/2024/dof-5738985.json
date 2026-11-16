@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5738985,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2024-09-15"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4770610"
+    }
+  ],
+  "fecha": "2024-09-15",
+  "id": "dof-5738985",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:11Z",
+      "sha256": "52ecf3e6eb38637496d6d966b868e0b9adc1166523ea275d84e0618691c104f7",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/15-09-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5738985&fecha=15/09/2024"
+}

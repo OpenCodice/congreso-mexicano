@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5743185,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2024-11-15"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4791532"
+    }
+  ],
+  "fecha": "2024-11-15",
+  "id": "dof-5743185",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:29Z",
+      "sha256": "9c0a9814bab97a8c47817b98f0f3f42e351a5eec067e0d036165ca7d46ca3b21",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/15-11-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan los artículos 4o., 21, 41, 73, 116, 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5743185&fecha=15/11/2024"
+}

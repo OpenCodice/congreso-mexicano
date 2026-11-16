@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5784518,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cff",
+      "publicacion": "2026-04-09"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.83)",
+      "id": "sil-5054077"
+    }
+  ],
+  "fecha": "2026-04-09",
+  "id": "dof-5784518",
+  "pagina": 35,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:36Z",
+      "sha256": "8acb0d8155ed529a217fc317f8523b25341cd5cc4839657c80d96946824f1480",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/09-04-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma el artículo 141 del Código Fiscal de la Federación.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5784518&fecha=09/04/2026"
+}

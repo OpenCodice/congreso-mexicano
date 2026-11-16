@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5763397,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lebhn",
+      "publicacion": "2025-07-21"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4890589"
+    }
+  ],
+  "fecha": "2025-07-21",
+  "id": "dof-5763397",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:19Z",
+      "sha256": "629bd915a341dcea89d6d82fe19e877551b0d5c47f802bc8fea5fcff9366bb6b",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/21-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma el artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, en materia de reconocimiento a las mujeres que han transformado nuestra patria.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763397&fecha=21/07/2025"
+}

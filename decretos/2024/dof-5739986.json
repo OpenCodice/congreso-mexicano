@@ -1,0 +1,35 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5739986,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5739985",
+        "dof-5739986"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2024-09-30"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.57)",
+      "id": "sil-4771539"
+    }
+  ],
+  "fecha": "2024-09-30",
+  "id": "dof-5739986",
+  "pagina": 7,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:16Z",
+      "sha256": "6e3dc521648b15801bdc2dd6273e81a694cd1f8d04e85c6dda09992f1a3a10d9",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/30-09-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Pueblos y Comunidades Indígenas y Afromexicanos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5739986&fecha=30/09/2024"
+}

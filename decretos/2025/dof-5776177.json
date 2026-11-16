@@ -1,0 +1,36 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5776177,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lftse",
+      "publicacion": "2025-12-15"
+    },
+    {
+      "commits": [],
+      "documento": "lgra",
+      "publicacion": "2025-12-15"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4968530"
+    }
+  ],
+  "fecha": "2025-12-15",
+  "id": "dof-5776177",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:58:31Z",
+      "sha256": "ef76208bdbd8a52856a172267229c41a4f4a6d2416b79b219759749c89bde984",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/15-12-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5776177&fecha=15/12/2025"
+}

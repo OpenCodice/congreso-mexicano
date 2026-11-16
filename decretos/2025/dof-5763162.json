@@ -1,0 +1,41 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5763162,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lfprh",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lgcg",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lgds",
+      "publicacion": "2025-07-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.48)",
+      "id": "sil-4906896"
+    }
+  ],
+  "fecha": "2025-07-16",
+  "id": "dof-5763162",
+  "pagina": 206,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:45Z",
+      "sha256": "8e3659a95612f309da79d39a37269944255d08fd61f3fa22a024c7daaf83348e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763162&fecha=16/07/2025"
+}

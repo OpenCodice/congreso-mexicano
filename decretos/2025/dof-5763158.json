@@ -1,0 +1,55 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5763158,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cjm",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "cmpp",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lissfam",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5763158",
+        "dof-5763165"
+      ],
+      "documento": "loapf",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "loefam",
+      "publicacion": "2025-07-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.81)",
+      "id": "sil-4907135"
+    }
+  ],
+  "fecha": "2025-07-16",
+  "id": "dof-5763158",
+  "pagina": 17,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:45Z",
+      "sha256": "8e3659a95612f309da79d39a37269944255d08fd61f3fa22a024c7daaf83348e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763158&fecha=16/07/2025"
+}

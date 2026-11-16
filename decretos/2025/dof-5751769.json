@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5751769,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lamp",
+      "publicacion": "2025-03-13"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4825070"
+    }
+  ],
+  "fecha": "2025-03-13",
+  "id": "dof-5751769",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:58Z",
+      "sha256": "64f56b5689655aa70ad20f31305049e98e51160d6a86dd68332fee7796ac0578",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/13-03-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y derogan diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5751769&fecha=13/03/2025"
+}

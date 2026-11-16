@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5746626,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lgra",
+      "publicacion": "2025-01-02"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4817560"
+    }
+  ],
+  "fecha": "2025-01-02",
+  "id": "dof-5746626",
+  "pagina": 20,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:58:47Z",
+      "sha256": "7aa3fc06db24d9e2c664413c550d52c6b74bd44b816a6a8498d0956facd7301e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/02-01-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5746626&fecha=02/01/2025"
+}

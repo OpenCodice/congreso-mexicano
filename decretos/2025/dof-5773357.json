@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5773357,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "ladua",
+      "publicacion": "2025-11-19"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4944008"
+    }
+  ],
+  "fecha": "2025-11-19",
+  "id": "dof-5773357",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:49Z",
+      "sha256": "1a5e4d00ac4b0704b8bdeeca83c5f0b4708ca504ede086e97c74ba398dc74051",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/19-11-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5773357&fecha=19/11/2025"
+}

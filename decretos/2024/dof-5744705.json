@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5744705,
+  "dependencia": "CAMARA DE SENADORES",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "reg-senado",
+      "publicacion": "2024-12-06"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4818779"
+    }
+  ],
+  "fecha": "2024-12-06",
+  "id": "dof-5744705",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:45Z",
+      "sha256": "2c03a332606658e872c63b27bb9e07a8618a18c02fdaec102244c45caef50720",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/06-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversos artículos del Reglamento del Senado de la República, en materia de reunión de comisiones y votos particulares.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5744705&fecha=06/12/2024"
+}

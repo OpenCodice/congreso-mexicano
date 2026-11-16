@@ -1,0 +1,35 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5742012,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5742012",
+        "dof-5742105"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2024-10-31"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.85)",
+      "id": "sil-4778759"
+    }
+  ],
+  "fecha": "2024-10-31",
+  "id": "dof-5742012",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:24Z",
+      "sha256": "6498fbb2fe579bb435c285b8ccea1749beab0ba737c543256c804b1911573daa",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/31-10-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5742012&fecha=31/10/2024"
+}

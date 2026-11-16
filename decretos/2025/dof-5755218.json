@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [
+    {
+      "id": "sil-4868955",
+      "parecido": 0.27
+    }
+  ],
+  "codigo": 5755218,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lopsrm",
+      "publicacion": "2025-04-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [],
+  "fecha": "2025-04-16",
+  "id": "dof-5755218",
+  "pagina": 54,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:23Z",
+      "sha256": "bf96a3b25000cc3831a287ed704130ba04b0beaccaa25eb47b0e9d29a271b526",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-04-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5755218&fecha=16/04/2025"
+}

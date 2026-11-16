@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5756674,
+  "dependencia": "CAMARA DE DIPUTADOS",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "reg-diputados",
+      "publicacion": "2025-05-07"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4894202"
+    }
+  ],
+  "fecha": "2025-05-07",
+  "id": "dof-5756674",
+  "pagina": 51,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:41Z",
+      "sha256": "6ca9990657c5d9e593d4f8417e3d5004734393435c28d93815d7aa07a5ab5c9b",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/07-05-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de lenguaje inclusivo y optimización de trámites y procedimientos parlamentarios.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5756674&fecha=07/05/2025"
+}

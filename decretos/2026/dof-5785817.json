@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5785817,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2026-04-23"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-5054726"
+    }
+  ],
+  "fecha": "2026-04-23",
+  "id": "dof-5785817",
+  "pagina": 3,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:22Z",
+      "sha256": "a9fe223e28160af4844eac521a16bfabed07fd168a637c41075491e7b6e7bfee",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/23-04-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5785817&fecha=23/04/2026"
+}

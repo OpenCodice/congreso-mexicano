@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5786739,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "loapf",
+      "publicacion": "2026-05-07"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-5063129"
+    }
+  ],
+  "fecha": "2026-05-07",
+  "id": "dof-5786739",
+  "pagina": 4,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:18Z",
+      "sha256": "682dbb6ce70e64a3d2700735cb8e57a55d1c68d4ddb29460e12e34dcde03fbc5",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/07-05-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se adiciona una fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5786739&fecha=07/05/2026"
+}

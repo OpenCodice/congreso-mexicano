@@ -1,0 +1,26 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5780677,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "rladua",
+      "publicacion": "2026-02-23"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [],
+  "fecha": "2026-02-23",
+  "id": "dof-5780677",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:50Z",
+      "sha256": "f723e64c36197d0b27350ea9ab1f73463ceaf99cc4aa6bfdb6ef8d13a692e64c",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/23-02-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento de la Ley Aduanera.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5780677&fecha=23/02/2026"
+}

@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5744005,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "loapf",
+      "publicacion": "2024-11-28"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4802003"
+    }
+  ],
+  "fecha": "2024-11-28",
+  "id": "dof-5744005",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:08Z",
+      "sha256": "3b7f02a31596e4470531938893b279b5aa43c2e42b94faea5a3a54d7b7d1e1df",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/28-11-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5744005&fecha=28/11/2024"
+}

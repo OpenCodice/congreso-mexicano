@@ -1,0 +1,35 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5789357,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5789357",
+        "dof-5789358"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2026-06-02"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.93)",
+      "id": "sil-5097525"
+    }
+  ],
+  "fecha": "2026-06-02",
+  "id": "dof-5789357",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:31Z",
+      "sha256": "81992a2e7df3eec5f9eb1e7e41f6fd3cb26e3fafb0e9682c077c2be57a4ed9a3",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/02-06-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5789357&fecha=02/06/2026"
+}

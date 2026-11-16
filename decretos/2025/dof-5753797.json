@@ -1,0 +1,36 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5753797,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5753797",
+        "dof-5753798",
+        "dof-5753799"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2025-04-01"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.84)",
+      "id": "sil-4843362"
+    }
+  ],
+  "fecha": "2025-04-01",
+  "id": "dof-5753797",
+  "pagina": 3,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:55Z",
+      "sha256": "8685810cee9aa8f3b3feb86f447abef8f7dd2bfd487dafdf1933d9c85c4ff038",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/01-04-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5753797&fecha=01/04/2025"
+}

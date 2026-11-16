@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5745676,
+  "dependencia": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lft",
+      "publicacion": "2024-12-19"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.31)",
+      "id": "sil-4779301"
+    }
+  ],
+  "fecha": "2024-12-19",
+  "id": "dof-5745676",
+  "pagina": 45,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:38Z",
+      "sha256": "fc5dcddd73fb979af94fce5df884ef4d0fcb1d633f2e0dc7af67dae70cb4cdd8",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/19-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5745676&fecha=19/12/2024"
+}

@@ -1,0 +1,36 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5749909,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lft",
+      "publicacion": "2025-02-21"
+    },
+    {
+      "commits": [],
+      "documento": "lifnvt",
+      "publicacion": "2025-02-21"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4826387"
+    }
+  ],
+  "fecha": "2025-02-21",
+  "id": "dof-5749909",
+  "pagina": 4,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:58:27Z",
+      "sha256": "df6d21aeb2af39545d9e4c1015e635e79b451ccbbb4984a2003f457dafe287c8",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/21-02-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5749909&fecha=21/02/2025"
+}

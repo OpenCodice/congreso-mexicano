@@ -1,0 +1,26 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5775799,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lan",
+      "publicacion": "2025-12-11"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [],
+  "fecha": "2025-12-11",
+  "id": "dof-5775799",
+  "pagina": 6,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:02Z",
+      "sha256": "ecd12bc2fa97b062115b95ca1a578c5492d7b419d7812aad7a8e3fb92ed99781",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/11-12-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se expide la Ley General de Aguas y, se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5775799&fecha=11/12/2025"
+}

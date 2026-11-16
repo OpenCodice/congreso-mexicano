@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5745427,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cnpcf",
+      "publicacion": "2024-12-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.55)",
+      "id": "sil-4816257"
+    }
+  ],
+  "fecha": "2024-12-16",
+  "id": "dof-5745427",
+  "pagina": 8,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:54Z",
+      "sha256": "f5716ce659fc4f94759c31e1f8ad6e9b24c8c8fffdb795591c37c97ba269da6a",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5745427&fecha=16/12/2024"
+}

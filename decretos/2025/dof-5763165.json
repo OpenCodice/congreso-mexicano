@@ -1,0 +1,55 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5763165,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lcpaf",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lgbn",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5763158",
+        "dof-5763165"
+      ],
+      "documento": "loapf",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lrsf",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lvgc",
+      "publicacion": "2025-07-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.76)",
+      "id": "sil-4894185"
+    }
+  ],
+  "fecha": "2025-07-16",
+  "id": "dof-5763165",
+  "pagina": 242,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:45Z",
+      "sha256": "8e3659a95612f309da79d39a37269944255d08fd61f3fa22a024c7daaf83348e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763165&fecha=16/07/2025"
+}

@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5761785,
+  "dependencia": "CONGRESO DE LA UNION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "locg",
+      "publicacion": "2025-07-02"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4890547"
+    }
+  ],
+  "fecha": "2025-07-02",
+  "id": "dof-5761785",
+  "pagina": 98,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:22Z",
+      "sha256": "9ac9a3bf8549e9ae61b5e9200dfe7215773afff866b89853c3abd11a838781fd",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/02-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se adicionan un inciso n) al numeral 1, y un inciso f) al numeral 2 al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5761785&fecha=02/07/2025"
+}

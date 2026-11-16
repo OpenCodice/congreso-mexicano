@@ -1,0 +1,36 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5744207,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5744205",
+        "dof-5744206",
+        "dof-5744207"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2024-12-02"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.69)",
+      "id": "sil-4798657"
+    }
+  ],
+  "fecha": "2024-12-02",
+  "id": "dof-5744207",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:33Z",
+      "sha256": "bc5f4eabf79d255e585998eb6ab13ab111c758d6ebb9aae105f55af832598114",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/02-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5744207&fecha=02/12/2024"
+}

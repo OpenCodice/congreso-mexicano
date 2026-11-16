@@ -1,0 +1,35 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5746525,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5746525",
+        "dof-5746526"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2024-12-31"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.75)",
+      "id": "sil-4798658"
+    }
+  ],
+  "fecha": "2024-12-31",
+  "id": "dof-5746525",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:42Z",
+      "sha256": "ea330c17f52562d9044927416faa84ee0c7b2a7f24136ec11f865b602dc82d9c",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/31-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5746525&fecha=31/12/2024"
+}

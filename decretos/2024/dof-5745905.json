@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5745905,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2024-12-20"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4798659"
+    }
+  ],
+  "fecha": "2024-12-20",
+  "id": "dof-5745905",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:37Z",
+      "sha256": "6c5c03d62ec0e75ea8ad63d2046d8ea629b13e1b329c3b98ab97929b2d1b746c",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/20-12-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024"
+}

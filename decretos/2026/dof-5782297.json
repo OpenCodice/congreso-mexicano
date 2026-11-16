@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5782297,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpf",
+      "publicacion": "2026-03-13"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-5000552"
+    }
+  ],
+  "fecha": "2026-03-13",
+  "id": "dof-5782297",
+  "pagina": 3,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:40Z",
+      "sha256": "be1841af4f68466492acbd00dbb85e877ebcdbec8b9b65afe32b2356ebe4376e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/13-03-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782297&fecha=13/03/2026"
+}

@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5747305,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2025-01-17"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4809133"
+    }
+  ],
+  "fecha": "2025-01-17",
+  "id": "dof-5747305",
+  "pagina": 4,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:46Z",
+      "sha256": "427dac10b83e0bafc0f302a845447b8c77528352d744a9efb362d97efe612488",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/17-01-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se adicionan un párrafo quinto al artículo 4o. y un párrafo segundo al artículo 5o., de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección a la salud.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5747305&fecha=17/01/2025"
+}

@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5752330,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lish",
+      "publicacion": "2025-03-18"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.46)",
+      "id": "sil-4843216"
+    }
+  ],
+  "fecha": "2025-03-18",
+  "id": "dof-5752330",
+  "pagina": 260,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:52Z",
+      "sha256": "f6dabbdcce49cac8fb2d9e85f8379bbd8c60e63cd0f33a2415ca508803f1f1f7",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/18-03-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ingresos sobre Hidrocarburos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5752330&fecha=18/03/2025"
+}

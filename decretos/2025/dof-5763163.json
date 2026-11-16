@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [
+    {
+      "id": "sil-4417148",
+      "parecido": 0.13
+    }
+  ],
+  "codigo": 5763163,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lgvs",
+      "publicacion": "2025-07-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [],
+  "fecha": "2025-07-16",
+  "id": "dof-5763163",
+  "pagina": 213,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:45Z",
+      "sha256": "8e3659a95612f309da79d39a37269944255d08fd61f3fa22a024c7daaf83348e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan los artículos 47 Bis 4; 60 Bis; 122 y 127 de la Ley General de Vida Silvestre.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763163&fecha=16/07/2025"
+}

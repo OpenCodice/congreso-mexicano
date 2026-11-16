@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5752109,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2025-03-17"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4843211"
+    }
+  ],
+  "fecha": "2025-03-17",
+  "id": "dof-5752109",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:50Z",
+      "sha256": "e5288d3da90f9f0a84cab9cd68a094e58db91bbd0b54adc839f237059c25ac7b",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/17-03-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5752109&fecha=17/03/2025"
+}

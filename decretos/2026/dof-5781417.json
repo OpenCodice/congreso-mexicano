@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5781417,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2026-03-03"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-5012470"
+    }
+  ],
+  "fecha": "2026-03-03",
+  "id": "dof-5781417",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:13Z",
+      "sha256": "d240c94f1032fc5f84c4604b62b5d7b52e7274206bdae53210d0cdd29caab7e9",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/03-03-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman las fracciones IV y XI del Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de reducción de la jornada laboral.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5781417&fecha=03/03/2026"
+}

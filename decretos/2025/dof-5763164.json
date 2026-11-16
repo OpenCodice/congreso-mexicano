@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5763164,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lfce",
+      "publicacion": "2025-07-16"
+    },
+    {
+      "commits": [],
+      "documento": "lfep",
+      "publicacion": "2025-07-16"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [],
+  "fecha": "2025-07-16",
+  "id": "dof-5763164",
+  "pagina": 216,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:45Z",
+      "sha256": "8e3659a95612f309da79d39a37269944255d08fd61f3fa22a024c7daaf83348e",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5763164&fecha=16/07/2025"
+}

@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5772360,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lfd",
+      "publicacion": "2025-11-07"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.89)",
+      "id": "sil-4951950"
+    }
+  ],
+  "fecha": "2025-11-07",
+  "id": "dof-5772360",
+  "pagina": 71,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:28Z",
+      "sha256": "49c2e2ae6bb0e0c8c8e487470bd5f95672eb26c07d61098f2c506ea41c84731a",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/07-11-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5772360&fecha=07/11/2025"
+}

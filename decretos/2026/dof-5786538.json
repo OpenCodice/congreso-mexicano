@@ -1,0 +1,45 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5786538,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lce",
+      "publicacion": "2026-05-01"
+    },
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5786537",
+        "dof-5786538"
+      ],
+      "documento": "lft",
+      "publicacion": "2026-05-01"
+    },
+    {
+      "commits": [],
+      "documento": "loapf",
+      "publicacion": "2026-05-01"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.88)",
+      "id": "sil-5062783"
+    }
+  ],
+  "fecha": "2026-05-01",
+  "id": "dof-5786538",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:11Z",
+      "sha256": "d2765610fd02b79042635d5586bd898b1d5a0e4cad510f26de63012a2cdfbc99",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/01-05-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5786538&fecha=01/05/2026"
+}

@@ -1,0 +1,68 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5769997,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cpeum",
+      "publicacion": "2025-10-15"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4925062"
+    }
+  ],
+  "fecha": "2025-10-15",
+  "id": "dof-5769997",
+  "legislaturas_estatales": {
+    "aprobaron": [
+      "baja-california",
+      "campeche",
+      "cdmx",
+      "chiapas",
+      "colima",
+      "durango",
+      "edomex",
+      "guerrero",
+      "hidalgo",
+      "michoacan",
+      "morelos",
+      "oaxaca",
+      "quintana-roo",
+      "san-luis-potosi",
+      "sinaloa",
+      "sonora",
+      "tabasco",
+      "tamaulipas",
+      "veracruz",
+      "yucatan",
+      "zacatecas"
+    ],
+    "asunto": "4937626",
+    "fecha": "2025-09-30",
+    "fuente": "aspectos relevantes de la declaratoria en el SIL",
+    "nota": "el SIL solo lista los congresos con voto aprobatorio; el resto no tiene registro",
+    "sources": [
+      {
+        "consultado": "2026-11-16T19:00:06Z",
+        "sha256": "69ff650529dd887ce954445657cda36962a934176989fcf5b4a0ceac3f09484e",
+        "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4925062&Asunto=4937626"
+      }
+    ],
+    "votos_aprobatorios": 21
+  },
+  "pagina": 4,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:56:09Z",
+      "sha256": "4027dd5219dec8e640e6e66738700fa5aeed939516823c2c4c6cef4add8542f7",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/15-10-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman los artículos 76 y 78 de la Constitución Política de los Estados Unidos Mexicanos, en materia de ratificación de grados superiores de la Guardia Nacional.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5769997&fecha=15/10/2025"
+}

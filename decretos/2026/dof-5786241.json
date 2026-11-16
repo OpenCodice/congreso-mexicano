@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5786241,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lviv",
+      "publicacion": "2026-04-29"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-5051177"
+    }
+  ],
+  "fecha": "2026-04-29",
+  "id": "dof-5786241",
+  "pagina": 5,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:59:36Z",
+      "sha256": "b96ec735108024d59cc2c7e12e8cdf610e84882eb438abc963a07c3010f2a4ea",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/29-04-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Vivienda, en materia de vivienda adecuada.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5786241&fecha=29/04/2026"
+}

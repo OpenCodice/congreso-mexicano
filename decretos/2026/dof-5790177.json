@@ -1,0 +1,37 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5790177,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [
+        {
+          "repo": "OpenCodice/fiscal-mexicano",
+          "sha": "13fe40c3715dd42f6fe233f08246225b9f3fadf6",
+          "titulo": "Reforma LFPCA (DOF 2026-06-09): 93 artículos"
+        }
+      ],
+      "documento": "lfpca",
+      "publicacion": "2026-06-09"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-5000559"
+    }
+  ],
+  "fecha": "2026-06-09",
+  "id": "dof-5790177",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:58:10Z",
+      "sha256": "19ae2472d0fabeeaeaa1b21de1fd3722115b45eba9e0bce7b536746efe639f9c",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/09-06-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5790177&fecha=09/06/2026"
+}

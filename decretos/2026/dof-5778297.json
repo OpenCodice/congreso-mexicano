@@ -1,0 +1,105 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5778297,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "cnpcf",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lfda",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lfppi",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lft",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lftse",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lgcdc",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lgdnna",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lgds",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lge",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5778297",
+        "dof-5778298"
+      ],
+      "documento": "lgs",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lissste",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lmigra",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lplan",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lss",
+      "publicacion": "2026-01-15"
+    },
+    {
+      "commits": [],
+      "documento": "lviv",
+      "publicacion": "2026-01-15"
+    }
+  ],
+  "edicion": "MAT",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.88)",
+      "id": "sil-4990627"
+    }
+  ],
+  "fecha": "2026-01-15",
+  "id": "dof-5778297",
+  "pagina": 4,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:54:58Z",
+      "sha256": "0d6a9fb653d91faedd61989fe4987cc0645ee5b46d6d7c0c72351ce496ea4098",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/15-01-2026"
+    }
+  ],
+  "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5778297&fecha=15/01/2026"
+}

@@ -1,0 +1,31 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5759497,
+  "dependencia": "PRESIDENCIA DE LA REPUBLICA",
+  "documentos": [
+    {
+      "commits": [],
+      "documento": "lccaif",
+      "publicacion": "2025-06-06"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4885182"
+    }
+  ],
+  "fecha": "2025-06-06",
+  "id": "dof-5759497",
+  "pagina": 3,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:57:07Z",
+      "sha256": "43c0e87159b4fab346cc5c1dcf2ac4e286bc7c2d7b852e56b5af6c91f99d4168",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/06-06-2025"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5759497&fecha=06/06/2025"
+}

@@ -1,0 +1,35 @@
+{
+  "candidatos_expediente": [],
+  "codigo": 5742105,
+  "dependencia": "SECRETARIA DE GOBERNACION",
+  "documentos": [
+    {
+      "commits_candidatos": [],
+      "decretos_mismo_dia": [
+        "dof-5742012",
+        "dof-5742105"
+      ],
+      "documento": "cpeum",
+      "publicacion": "2024-10-31"
+    }
+  ],
+  "edicion": "VES",
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.84)",
+      "id": "sil-4791544"
+    }
+  ],
+  "fecha": "2024-10-31",
+  "id": "dof-5742105",
+  "pagina": 2,
+  "sources": [
+    {
+      "consultado": "2026-11-16T18:55:24Z",
+      "sha256": "6498fbb2fe579bb435c285b8ccea1749beab0ba737c543256c804b1911573daa",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/31-10-2024"
+    }
+  ],
+  "titulo": "Decreto por el que se reforma el primer párrafo de la fracción II del artículo 107, y se adiciona un quinto párrafo al artículo 105, de la Constitución Política de los Estados Unidos Mexicanos, en materia de inimpugnabilidad de las adiciones o reformas a la Constitución Federal.",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5742105&fecha=31/10/2024"
+}
