@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822135",
+      "denominacion": "Que reforma el artículo 10 de la Ley de Educación Naval.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822135_20241211_1730831000.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5024530",
+      "denominacion": "Que reforma la fracción III del artículo 10 de la Ley de Educación Naval.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5024530_20260303_1772576408.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5026691",
+      "denominacion": "Que reforma la fracción III del artículo 10 de la Ley de Educación Naval.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026691_20260303_1772576544.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5031504",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción III del artículo 10 de la Ley de Educación Naval.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031504_20260310_1773164236.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Que reforma la fracción III del artículo 10 de la Ley de Educación Naval.",
+  "id": "sil-5028031",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028031",
+  "sources": [
+    {
+      "archivo": "fuentes/52/5260f0ea45b80bd6bb8a15fd97ca35c55606703f1397a3ea1d2538f163e83969.html",
+      "consultado": "2026-11-16T17:49:01Z",
+      "sha256": "5260f0ea45b80bd6bb8a15fd97ca35c55606703f1397a3ea1d2538f163e83969",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028031&Asunto=5026691"
+    },
+    {
+      "archivo": "fuentes/48/48c195d930795a3d7ee8e540805dcfda1742a1b919e374a55bef9cc3b430ecba.html",
+      "consultado": "2026-11-16T17:49:04Z",
+      "sha256": "48c195d930795a3d7ee8e540805dcfda1742a1b919e374a55bef9cc3b430ecba",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026691&Seguimiento=5028031"
+    }
+  ],
+  "tramites": {
+    "5026691": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma la fracción III del artículo 10 de la Ley de Educación Naval.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 434
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 434 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5026691-1"
+  ]
+}

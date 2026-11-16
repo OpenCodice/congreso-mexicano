@@ -1,0 +1,328 @@
+{
+  "asuntos": [
+    {
+      "clave": "4837193",
+      "denominacion": "Que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4837193_20250218_1739896391.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4860233",
+      "denominacion": "Que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-03-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4860233_20250320_1742495601.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4907872",
+      "denominacion": "Que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907872_20250625_1750884166.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4909067",
+      "denominacion": "Con proyecto de decreto por el que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-06-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4909067_20250626_1750961911.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4909643",
+      "denominacion": "Con proyecto de decreto que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-06-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4909643_20250628_1751155930.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4910309",
+      "denominacion": "Con proyecto de decreto que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-07-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4910309_20250701_1751383461.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-07-01"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-07-01"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-07-01"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-07-16"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+  "id": "sil-4861106",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-07-16",
+  "seguimiento": "4861106",
+  "sources": [
+    {
+      "archivo": "fuentes/c2/c2a85e0dd9e620bd728250eb04ad6df3eaef647ea544cc7e966309f632f7c13c.html",
+      "consultado": "2026-11-16T16:07:10Z",
+      "sha256": "c2a85e0dd9e620bd728250eb04ad6df3eaef647ea544cc7e966309f632f7c13c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4861106&Asunto=4910309"
+    },
+    {
+      "archivo": "fuentes/90/90fc03b384a953ac8ce5d777307ac29bce04f0acf8ae07e2ce69e1c53f8e03d2.html",
+      "consultado": "2026-11-16T16:07:14Z",
+      "sha256": "90fc03b384a953ac8ce5d777307ac29bce04f0acf8ae07e2ce69e1c53f8e03d2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4910309&Seguimiento=4861106"
+    }
+  ],
+  "tramites": {
+    "4907872": [
+      {
+        "texto": "Aprobado incorporar la propuesta de modificación al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública presentada por integrantes de la Junta Directiva de la Comisión de Seguridad Ciudadana.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "1-19, 23, 24, 25, 27, 28, 30, 33, 34, 36, 40, 41, 42, 46, 47, 48, 49, 56, 60, 61, 70, 75, 78, 80, 87, 92, 96, 109, 111, 114, 115, 116, 117, 118, 120, 121, 123, 126 y 130 del proyecto de dictamen; y el Artículo Octavo Transitorio.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 37,
+          "yes": 445
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 445 En contra: 37 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Yerico Abramo Masso (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera Lorena (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Christian Mishel Castro Bello (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Miguel Medellín Amaya (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Zamora Gastélum (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Arturo Roberto Hernández Tapia (Morena) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Emma Mondragón Navarrete (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Moreno De Haro (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Fuensanta Guadalupe Guerrero Esquivel (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Antonio Meléndez Ortega (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 63,
+          "yes": 423
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 423 En contra: 63 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4910309": [
+      {
+        "texto": "Aprobado omitir la segunda lectura del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado se considera suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa que se reservaron los artículos 42, 93, 101, 102, 104 de la Ley General del Sistema Nacional de Seguridad Pública.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 16,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A favor solo para registro en el Diario de los Debates la Sen.Cynthia Iliana López Castro (Morena). A Favor: 89 En contra: 16 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Anabell Ávalos Zempoalteca (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Cristina Ruíz Sandoval (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ricardo Anaya Cortés (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Edna Geraldina García Gordillo (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. David Novoa Toscano (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 30,
+          "yes": 77
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en los términos del dictamen. A Favor: 77 En contra: 30 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 16/07/2025",
+  "votaciones": [
+    "sil-4907872-1",
+    "sil-4907872-2",
+    "sil-4910309-1",
+    "sil-4910309-2"
+  ]
+}

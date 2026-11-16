@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "4991161",
+      "denominacion": "Que adiciona diversas disposiciones de la Ley General en materia de Humanidades Ciencias, Tecnologías e Innovación.",
+      "estatus": "Turnado a revisora 10/11/2026",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4991161_20251203_1764781234.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5186089",
+      "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.",
+      "estatus": "Turnado a revisora 10/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5186089_20261103_1793764200.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5192314",
+      "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.",
+      "estatus": "Turnado a revisora 10/11/2026",
+      "fecha": "2026-11-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5192314_20261110_1793764202.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-10"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-10"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.",
+  "id": "sil-5187430",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5187430",
+  "sources": [
+    {
+      "archivo": "fuentes/54/54ae4525bfddee6891b681e277d334a0b25c7883505a9a174c1b7e452e04514e.html",
+      "consultado": "2026-11-16T18:53:00Z",
+      "sha256": "54ae4525bfddee6891b681e277d334a0b25c7883505a9a174c1b7e452e04514e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5187430&Asunto=5192314"
+    },
+    {
+      "archivo": "fuentes/e1/e16d5267cc0127834304009f6e5e53f23af591e07a0cb034a7bf6ade6f35f08e.html",
+      "consultado": "2026-11-16T18:53:04Z",
+      "sha256": "e16d5267cc0127834304009f6e5e53f23af591e07a0cb034a7bf6ade6f35f08e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5192314&Seguimiento=5187430"
+    }
+  ],
+  "tramites": {
+    "5192314": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 99
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 10/11/2026",
+  "votaciones": [
+    "sil-5192314-1"
+  ]
+}

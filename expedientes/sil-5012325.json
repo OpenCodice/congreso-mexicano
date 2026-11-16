@@ -1,0 +1,140 @@
+{
+  "asuntos": [
+    {
+      "clave": "5005365",
+      "denominacion": "Que establecen las características de tres monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 10/03/2026",
+      "fecha": "2026-01-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/01/asun_5005365_20260121_1769043230.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5011319",
+      "denominacion": "Por el que establecen las características de tres monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos y Canadá.",
+      "estatus": "Publicado en DOF 10/03/2026",
+      "fecha": "2026-02-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5011319_20260210_1770748172.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5011899",
+      "denominacion": "Por el que establecen las características de tres monedas conmemorativas de la Copa Mundial de la FIFA 2026.",
+      "estatus": "Publicado en DOF 10/03/2026",
+      "fecha": "2026-02-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5011899_20260210_1770748173.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5012521",
+      "denominacion": "Por el que se establecen las características de tres monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 10/03/2026",
+      "fecha": "2026-02-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5012521_20260211_1770827550.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5015171",
+      "denominacion": "Con proyecto de decreto por el que establece las características de tres monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 10/03/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5015171_20260217_1771346084.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-10"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-10"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-10"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-11"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-11"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-02-11"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Por el que establecen las características de tres monedas conmemorativas de la Copa Mundial de la FIFA 2026.",
+  "id": "sil-5012325",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-03-10",
+  "seguimiento": "5012325",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b59750cb760d7669f3437491a1307d64a806b1c48d71cfe97c1680c61201dc67.html",
+      "consultado": "2026-11-16T17:36:36Z",
+      "sha256": "b59750cb760d7669f3437491a1307d64a806b1c48d71cfe97c1680c61201dc67",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5012325&Asunto=5011899"
+    },
+    {
+      "archivo": "fuentes/ee/ee8912e940d4c3ff52b4664365d5e48995fbca18b3efd0e18aa7769a2425ead9.html",
+      "consultado": "2026-11-16T17:36:40Z",
+      "sha256": "ee8912e940d4c3ff52b4664365d5e48995fbca18b3efd0e18aa7769a2425ead9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5011899&Seguimiento=5012325"
+    }
+  ],
+  "tramites": {
+    "5011899": [
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 452
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 452 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 10/03/2026",
+  "votaciones": [
+    "sil-5011899-1"
+  ]
+}

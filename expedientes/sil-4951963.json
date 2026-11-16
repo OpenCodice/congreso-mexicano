@@ -1,0 +1,328 @@
+{
+  "asuntos": [
+    {
+      "clave": "4921329",
+      "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2026.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4921329_20250909_1757425882.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4950164",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4950164_20251015_1760539809.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4950222",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4950222_20251015_1760751671.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4953540",
+      "denominacion": "Con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2026.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4953540_20251021_1761067653.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4960504",
+      "denominacion": "Por la que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4960504_20251028_1761694426.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4963029",
+      "denominacion": "Por la que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4963029_20251029_1761694427.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-21"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-10-28"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-10-28"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-10-28"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-11-07"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+  "id": "sil-4951963",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-11-07",
+  "seguimiento": "4951963",
+  "sources": [
+    {
+      "archivo": "fuentes/85/85f9f07c3f9b237971934c4d78055136c8eab38a295803ff9c74c8113b83ed62.html",
+      "consultado": "2026-11-16T17:01:01Z",
+      "sha256": "85f9f07c3f9b237971934c4d78055136c8eab38a295803ff9c74c8113b83ed62",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4951963&Asunto=4950222"
+    },
+    {
+      "archivo": "fuentes/73/735b7a963d80130052fe99f59a7c1cd2b03dfcbd64105181f33e520ebfb4faf9.html",
+      "consultado": "2026-11-16T17:01:05Z",
+      "sha256": "735b7a963d80130052fe99f59a7c1cd2b03dfcbd64105181f33e520ebfb4faf9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4950222&Seguimiento=4951963"
+    }
+  ],
+  "tramites": {
+    "4950222": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Hacienda y Crédito Público con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2026.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Denominación del capítulo I; los artículos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 y 34 del proyecto de decreto; y los Transitorios Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Segundo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Octavo, Vigésimo Segundo, Vigésimo Tercero, Vigésimo Cuarto, Vigésimo Quinto y Vigésimo Sexto.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 128,
+          "yes": 349
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 349 En contra: 128 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Francisco Pelayo Covarrubias (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Cindy Winkler Trujillo (PVEM) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Zavala Gutiérrez (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Julia Licet Jiménez Angulo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Pablo Vázquez Ahued (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana María Balderas Trejo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Paulo Gonzalo Martínez López (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutidas las propuestas de modificación presentadas por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir las propuestas de modificación presentadas por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Salim Alle Miguel Ángel (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Elías Lixa Abimerhi (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 128,
+          "yes": 352
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 352 En contra: 128 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4963029": [
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó a discusión la moción suspensiva presentada por la Sen. Claudia Edith Anaya Mota (PRI) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 37,
+          "yes": 80
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 80 En contra: 37 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por el Sen. Francisco Daniel Barreda Pavón (MC)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por la Sen. Amalia Dolores García Medina (MC)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por la Sen. María Guadalupe Murguía Gutiérrez (PAN)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por el Sen. Luis Donaldo Colosio Riojas (MC)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por el Sen. Agustín Dorantes Lámbarri (PAN)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por la Sen. Maki Esther Ortiz Domínguez (PVEM)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ricardo Anaya Cortés (PAN)",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 35,
+          "yes": 74
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 74 En contra: 35 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/11/2025",
+  "votaciones": [
+    "sil-4950222-1",
+    "sil-4950222-2",
+    "sil-4963029-1",
+    "sil-4963029-2"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4833619",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-02-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4833619_20250211_1739309352.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016133",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano en materia de vivienda adecuada.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016133_20260217_1771349590.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016198",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano en materia de vivienda adecuada.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016198_20260217_1771350583.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017161",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, en materia de vivienda adecuada.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017161_20260218_1771436003.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano en materia de vivienda adecuada.",
+  "id": "sil-5017041",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017041",
+  "sources": [
+    {
+      "archivo": "fuentes/60/605f1ca48397f801e5efd73420c402320a50d865ae38539f2b781a3694df68d6.html",
+      "consultado": "2026-11-16T17:39:30Z",
+      "sha256": "605f1ca48397f801e5efd73420c402320a50d865ae38539f2b781a3694df68d6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017041&Asunto=5016198"
+    },
+    {
+      "archivo": "fuentes/aa/aa9493d2c7e1dac65fd3db68622e9b3d34afe7108102025f1966b4241a94478e.html",
+      "consultado": "2026-11-16T17:39:33Z",
+      "sha256": "aa9493d2c7e1dac65fd3db68622e9b3d34afe7108102025f1966b4241a94478e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016198&Seguimiento=5017041"
+    }
+  ],
+  "tramites": {
+    "5016198": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano en materia de vivienda adecuada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 425
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 425 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016198-1"
+  ]
+}

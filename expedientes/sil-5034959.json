@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4782019",
+      "denominacion": "Que reforma el artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/03/2026",
+      "fecha": "2024-10-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4782019_20241009_1728490706.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5032317",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción III del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032317_20260310_1773175294.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5040429",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción III del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/03/2026",
+      "fecha": "2026-03-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5040429_20260318_1773175296.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5043090",
+      "denominacion": "Que reforma la fracción III del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/03/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5043090_20260319_1773934434.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-19"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma la fracción III del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+  "id": "sil-5034959",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5034959",
+  "sources": [
+    {
+      "archivo": "fuentes/91/914b62151417195a6271e8a1b62011fcc453fdc980ca4c2bb8cb8e0eb7801316.html",
+      "consultado": "2026-11-16T17:59:21Z",
+      "sha256": "914b62151417195a6271e8a1b62011fcc453fdc980ca4c2bb8cb8e0eb7801316",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5034959&Asunto=5040429"
+    },
+    {
+      "archivo": "fuentes/93/931d950105205765d69b26271f2eef3b3fdd185c94d717bd444754cef54d6511.html",
+      "consultado": "2026-11-16T17:59:25Z",
+      "sha256": "931d950105205765d69b26271f2eef3b3fdd185c94d717bd444754cef54d6511",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5040429&Seguimiento=5034959"
+    }
+  ],
+  "tramites": {
+    "5040429": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 93
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/03/2026",
+  "votaciones": [
+    "sil-5040429-1"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "5032494",
+      "denominacion": "Por el que se propone al pleno de la Cámara de Diputados la terna de las y los candidatos para la designación de la persona titular de la Auditoría Superior de la Federación para el periodo 2026-2034.",
+      "estatus": "Toma de protesta 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032494_20260310_1773173678.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Por el que se propone al pleno de la Cámara de Diputados la terna de las y los candidatos para la designación de la persona titular de la Auditoría Superior de la Federación para el periodo 2026-2034.",
+  "id": "sil-5034957",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5034957",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e99f351a06c058e693581b5936f570276e576fff43a04375fd9e9cf653d3bb7.html",
+      "consultado": "2026-11-16T17:58:15Z",
+      "sha256": "8e99f351a06c058e693581b5936f570276e576fff43a04375fd9e9cf653d3bb7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5034957&Asunto=5032494"
+    },
+    {
+      "archivo": "fuentes/66/66bc5a02629b7fc89c40afdd06ead1a089c51d0bf3f95fafd411f3799846a1a3.html",
+      "consultado": "2026-11-16T17:58:19Z",
+      "sha256": "66bc5a02629b7fc89c40afdd06ead1a089c51d0bf3f95fafd411f3799846a1a3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5032494&Seguimiento=5034957"
+    }
+  ],
+  "tramites": {
+    "5032494": [
+      {
+        "texto": "a los resolutivos del acuerdo de la Comisión de Vigilancia de la Auditoría Superior de la Federación por el que propone la terna de las y los candidatos para la designación del Auditor Superior de la Federación para el periodo 2026-2034.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 472
+        },
+        "texto": "Aprobado se alcanzó mayoría calificada. A Favor: 472 En contra: 0 Abstenciones 0",
+        "tipo": "Votación por cédula"
+      },
+      {
+        "texto": "informa el resultado de la votación con 472 votos a favor de Aureliano Hernández Palacios Cordel; 1 voto a favor de Elizabeth Barba Villafán; 6 votos a favor de Luis Miguel Martínez Anzures; 2 votos nulos y 19 cédulas inutilizadas.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      },
+      {
+        "texto": "de Aureliano Hernández Palacios Cordel como Auditor Superior de la Federación por un período de ocho años, a partir del 15 de marzo de 2026 hasta el 14 de marzo de 2034.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 10/03/2026",
+  "votaciones": [
+    "sil-5032494-1"
+  ]
+}

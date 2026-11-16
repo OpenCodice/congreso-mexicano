@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4966173",
+      "denominacion": "Que adiciona diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de seguridad de la base de datos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-11-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4966173_20251104_1762376954.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4978729",
+      "denominacion": "Que adiciona y deroga diversas disposiciones de la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y vulneraciones de la base de datos del Registro Nacional de Detenciones.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4978729_20251120_1758322553.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086701",
+      "denominacion": "Que adiciona diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086701_20260429_1777484099.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088455",
+      "denominacion": "Que adicionan diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088455_20260429_1777481178.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120810",
+      "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120810_20260902_1790628455.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que adicionan diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos.",
+  "id": "sil-5090385",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090385",
+  "sources": [
+    {
+      "archivo": "fuentes/1c/1ce88c41b079a2509655267bd4783f9bb357c05786a1eff5cfa77b0c155bf54f.html",
+      "consultado": "2026-11-16T18:30:50Z",
+      "sha256": "1ce88c41b079a2509655267bd4783f9bb357c05786a1eff5cfa77b0c155bf54f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090385&Asunto=5088455"
+    },
+    {
+      "archivo": "fuentes/71/716f269431a6ba546051f9436576b6658d96a9e33ee80873399590a209a97543.html",
+      "consultado": "2026-11-16T18:30:54Z",
+      "sha256": "716f269431a6ba546051f9436576b6658d96a9e33ee80873399590a209a97543",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088455&Seguimiento=5090385"
+    }
+  ],
+  "tramites": {
+    "5088455": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Seguridad Ciudadana que adiciona diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que adicionan diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 412
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 412 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088455-1"
+  ]
+}

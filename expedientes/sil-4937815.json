@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4820521",
+      "denominacion": "Que reforma diversas disposiciones de la Ley del Servicio Exterior Mexicano, con el propósito de crear un sistema paritario, equitativo y libre de discriminación en el servicio exterior mexicano, en materia de derechos humanos y no discriminación.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4820521_20241210_1730913736.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4937033",
+      "denominacion": "Que reforma el artículo 21 de la Ley del Servicio Exterior Mexicano.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4937033_20250930_1759254688.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4939304",
+      "denominacion": "Que reforma el artículo 21 de la Ley del Servicio Exterior Mexicano.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4939304_20251001_1759334437.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4942272",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 21 de la Ley del Servicio Exterior Mexicano.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4942272_20251007_1759851968.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-07"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-07"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 21 de la Ley del Servicio Exterior Mexicano.",
+  "id": "sil-4937815",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4937815",
+  "sources": [
+    {
+      "archivo": "fuentes/62/6220f8b15ae8c61b3c333b0fea43589051d4950825609bcb0f9c970dc7baf416.html",
+      "consultado": "2026-11-16T16:53:05Z",
+      "sha256": "6220f8b15ae8c61b3c333b0fea43589051d4950825609bcb0f9c970dc7baf416",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937815&Asunto=4939304"
+    },
+    {
+      "archivo": "fuentes/dd/ddce9473413fb7aa1a4ad70199c96c1fc58df5fc86168766c6da6f6c711bc36f.html",
+      "consultado": "2026-11-16T16:53:09Z",
+      "sha256": "ddce9473413fb7aa1a4ad70199c96c1fc58df5fc86168766c6da6f6c711bc36f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4939304&Seguimiento=4937815"
+    }
+  ],
+  "tramites": {
+    "4939304": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Relaciones Exteriores que reforma el artículo 21 de la Ley del Servicio Exterior Mexicano.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 471
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 471 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 07/10/2025",
+  "votaciones": [
+    "sil-4939304-1"
+  ]
+}

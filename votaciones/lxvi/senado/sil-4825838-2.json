@@ -1,0 +1,41 @@
+{
+  "asunto": "4825838",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 67
+    },
+    {
+      "option": "no",
+      "value": 30
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4825070",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4825838-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 1, 7, 15, 27, 60, 61, 73, 97, 120, 133, 134, 137, 152, 164, 165, 166, 169, 170, 173, 211, 217, 223, 249 y 255, en términos del dictamen. A Favor: 67 En contra: 30 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bf/bfa937247e3696c09446493b911abd175dfe2f2c93d29a3190d9bd25a858dd0c.html",
+      "consultado": "2026-11-16T15:53:19Z",
+      "sha256": "bfa937247e3696c09446493b911abd175dfe2f2c93d29a3190d9bd25a858dd0c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4825838"
+    }
+  ],
+  "start_date": "2024-12-13",
+  "votes": [],
+  "votos_publicados": false
+}

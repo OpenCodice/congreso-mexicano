@@ -1,0 +1,170 @@
+{
+  "asuntos": [
+    {
+      "clave": "5120731",
+      "denominacion": "Con Proyecto de Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera.",
+      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120731_20260902_1788366105.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5149755",
+      "denominacion": "Con proyecto de decreto por el que se reforma, adiciona y deroga diversas disposiciones a la Ley de Inversión Extranjera.",
+      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "fecha": "2026-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5149755_20260930_1791218097.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5151066",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5151066_20261006_1791306722.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5176014",
+      "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5176014_20261027_1793292144.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5177675",
+      "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5177675_20261027_1793128907.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-10-27"
+    }
+  ],
+  "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+  "id": "sil-5150717",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5150717",
+  "sources": [
+    {
+      "archivo": "fuentes/74/74051e70b441ab0e90af5ded5b8d7f0f08e8774c8b4473e699f7091bbcc06bf3.html",
+      "consultado": "2026-11-16T18:40:26Z",
+      "sha256": "74051e70b441ab0e90af5ded5b8d7f0f08e8774c8b4473e699f7091bbcc06bf3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5150717&Asunto=5177675"
+    },
+    {
+      "archivo": "fuentes/80/8001b87cacd71536ee320a1db8ff494c66b7e76e02d62e570b448a9343ee2843.html",
+      "consultado": "2026-11-16T18:40:30Z",
+      "sha256": "8001b87cacd71536ee320a1db8ff494c66b7e76e02d62e570b448a9343ee2843",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5177675&Seguimiento=5150717"
+    }
+  ],
+  "tramites": {
+    "5177675": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Economía, Comercio y Competitividad, que reforma, adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "23, 27, 28, 29, 30 Bis, 30 Ter, 30 Quáter, 30 Quinquies, 30 Sexties y 38; y los artículos transitorios Primero, Segundo, Tercero y Cuarto del proyecto de decreto que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 117,
+          "yes": 314
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 314 En contra: 117 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 106,
+          "yes": 321
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 321 En contra: 106 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 27/10/2026",
+  "votaciones": [
+    "sil-5177675-1",
+    "sil-5177675-2"
+  ]
+}

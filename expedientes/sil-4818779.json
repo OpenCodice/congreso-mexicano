@@ -1,0 +1,130 @@
+{
+  "asuntos": [
+    {
+      "clave": "4814523",
+      "denominacion": "Que reforma y adiciona diversos artículos del Reglamento del Senado de la República, en materia de reuniones de comisiones y votos particulares.",
+      "estatus": "Publicado en DOF 06/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4814523_20241203_1733248376.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4817213",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversos artículos del Reglamento del Senado de la República, en materia de reunión de comisiones y votos particulares.",
+      "estatus": "Publicado en DOF 06/12/2024",
+      "fecha": "2024-12-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4817213_20241204_1733352852.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4818197",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversos artículos del Reglamento del Senado de la República, en materia de reunión de comisiones y votos particulares.",
+      "estatus": "Publicado en DOF 06/12/2024",
+      "fecha": "2024-12-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4818197_20241205_1733352853.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2024-12-05"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-12-05"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2024-12-05"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-12-06"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma y adiciona diversos artículos del Reglamento del Senado de la República, en materia de reunión de comisiones y votos particulares.",
+  "id": "sil-4818779",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-12-06",
+  "seguimiento": "4818779",
+  "sources": [
+    {
+      "archivo": "fuentes/be/be8153f720caa98346f05f0e4c615f15b86cad2a92d7c2320a2d784ea7283668.html",
+      "consultado": "2026-11-16T15:50:06Z",
+      "sha256": "be8153f720caa98346f05f0e4c615f15b86cad2a92d7c2320a2d784ea7283668",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4818779&Asunto=4818197"
+    },
+    {
+      "archivo": "fuentes/02/02fa504bb715c2188ed2d957dab324be05280c9f37383981442d962bb02ccb57.html",
+      "consultado": "2026-11-16T15:50:10Z",
+      "sha256": "02fa504bb715c2188ed2d957dab324be05280c9f37383981442d962bb02ccb57",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4818197&Seguimiento=4818779"
+    }
+  ],
+  "tramites": {
+    "4818197": [
+      {
+        "texto": "unicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 97
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados Senadores en favor solo para registro en el Diario de los Debates: senadores Adán Augusto López Hernández (Morena) y Cuauhtémoc Ochoa Fernández (Morena). A Favor: 97 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado que en consideración de la figura de la técnica legislativa se realicen las adecuaciones al dictamen, relacionadas con el tema del lenguaje inclusivo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva a los artículos 139, 186 y 209 y la adición al artículo 76, formulada por la Sen. Lilia Margarita Valdez Martínez (Morena).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para dar lectura a los artículos reservados 139, 186 y 209 y la adición al artículo 76.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado las modificaciones formuladas a los artículos 139, 186 y 209 y la adición al artículo 76.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados artículos 139, 186 y 209 y la adición al artículo 76, con las modificaciones admitidas por la asamblea y, el acuerdo para modificar el dictamen en términos del lenguaje inclusivo. A Favor: 102 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 06/12/2024",
+  "votaciones": [
+    "sil-4818197-1",
+    "sil-4818197-2"
+  ]
+}

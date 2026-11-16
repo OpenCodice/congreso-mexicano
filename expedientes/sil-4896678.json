@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825761",
+      "denominacion": "Que declara el 19 de marzo de cada año como el -Día Nacional de la Actualización Docente-.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825761_20241213_1733249915.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4895176",
+      "denominacion": "Con proyecto de decreto que declara el 19 de marzo de cada año como el Día de la Actualización Docente.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895176_20250430_1746018569.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4967628",
+      "denominacion": "Con proyecto de decreto por el que se declara el 19 de marzo de cada año como el -Día de la actualización docente-.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-11-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4967628_20251105_1762277033.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4970291",
+      "denominacion": "Que declara el día 19 de marzo de cada año como el -Día de la Actualización Docente-.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4970291_20251111_1762879978.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-05"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-05"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-05"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-11"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se declara el 19 de marzo de cada año como el -Día de la actualización docente-.",
+  "id": "sil-4896678",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4896678",
+  "sources": [
+    {
+      "archivo": "fuentes/06/06db6c98b0e30aa006d1fe7fea27888ddd2310b9144179d1d60a8f9a4616cb94.html",
+      "consultado": "2026-11-16T16:31:47Z",
+      "sha256": "06db6c98b0e30aa006d1fe7fea27888ddd2310b9144179d1d60a8f9a4616cb94",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4896678&Asunto=4967628"
+    },
+    {
+      "archivo": "fuentes/89/898817a1a7628a662bbd479f2e7112bcc1e93c3b73e1238cca8aa6e5f309b888.html",
+      "consultado": "2026-11-16T16:31:51Z",
+      "sha256": "898817a1a7628a662bbd479f2e7112bcc1e93c3b73e1238cca8aa6e5f309b888",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4967628&Seguimiento=4896678"
+    }
+  ],
+  "tramites": {
+    "4967628": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 101
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Martha Lucía Micher Camarena (Morena). A Favor: 101 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 11/11/2025",
+  "votaciones": [
+    "sil-4967628-1"
+  ]
+}

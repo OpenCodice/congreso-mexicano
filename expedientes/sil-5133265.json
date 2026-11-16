@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5119152",
+      "denominacion": "Para inscribir con Letras Doradas en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados del Congreso de la Unión, la leyenda: -475 años de la Universidad de México-.",
+      "estatus": "Publicado en DOF 23/09/2026",
+      "fecha": "2026-08-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/08/asun_5119152_20260824_1787594603.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5130263",
+      "denominacion": "Para inscribir con Letras de Oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados del H. Congreso de la Unión, la leyenda: -475 Años de la Universidad de México (1551-2026)-.",
+      "estatus": "Publicado en DOF 23/09/2026",
+      "fecha": "2026-09-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5130263_20260914_1789400878.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5131367",
+      "denominacion": "Para inscribir con Letras de Oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados del H. Congreso de la Unión, la leyenda: -475 años de la Universidad de México-.",
+      "estatus": "Publicado en DOF 23/09/2026",
+      "fecha": "2026-09-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5131367_20260914_1789400879.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-09-23"
+    }
+  ],
+  "denominacion": "Para inscribir con Letras de Oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados del H. Congreso de la Unión, la leyenda: -475 años de la Universidad de México-.",
+  "id": "sil-5133265",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-09-23",
+  "seguimiento": "5133265",
+  "sources": [
+    {
+      "archivo": "fuentes/cd/cdb6b70e3cfb1b57bc7230d05bab500875910a05b1174fd8996823617704b8f9.html",
+      "consultado": "2026-11-16T18:37:10Z",
+      "sha256": "cdb6b70e3cfb1b57bc7230d05bab500875910a05b1174fd8996823617704b8f9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5133265&Asunto=5131367"
+    },
+    {
+      "archivo": "fuentes/15/15a1e48cfc6356fbe08122710f2750f5bc90a23c32c34575f3e5adbc94e5ae64.html",
+      "consultado": "2026-11-16T18:37:14Z",
+      "sha256": "15a1e48cfc6356fbe08122710f2750f5bc90a23c32c34575f3e5adbc94e5ae64",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5131367&Seguimiento=5133265"
+    }
+  ],
+  "tramites": {
+    "5131367": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, para inscribir con Letras de Oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados del H. Congreso de la Unión, la leyenda: -475 años de la Universidad de México-.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 396
+        },
+        "texto": "Aprobado en lo general y en lo particular es mayoría calificada. A Favor: 396 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 23/09/2026",
+  "votaciones": [
+    "sil-5131367-1"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "asuntos": [
+    {
+      "clave": "5126696",
+      "denominacion": "Que expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5126696_20260909_1788965337.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5032631",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Instituciones de Crédito, para ampliar el derecho de las personas a cuentas de depósito y crédito sin comisiones.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032631_20260310_1770824303.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5113967",
+      "denominacion": "Que adiciona diversas disposiciones a la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-08-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/08/asun_5113967_20260805_1785951443.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5153528",
+      "denominacion": "Que expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5153528_20261006_1791310364.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5153792",
+      "denominacion": "Que expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5153792_20261006_1791325412.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5157722",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5157722_20261007_1791389568.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5164993",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5164993_20261014_1792013444.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5168656",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-10-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5168656_20261020_1792522062.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-04"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+  "id": "sil-5154775",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-04",
+  "seguimiento": "5154775",
+  "sources": [
+    {
+      "archivo": "fuentes/d1/d1753d541d711a2516d32084679da363b7f3053fd44bb210bacbf208f2f09afa.html",
+      "consultado": "2026-11-16T18:41:19Z",
+      "sha256": "d1753d541d711a2516d32084679da363b7f3053fd44bb210bacbf208f2f09afa",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5154775&Asunto=5168656"
+    },
+    {
+      "archivo": "fuentes/cb/cb97b8a2445d13e3ba8d54baecf2f74bbaa0636ae4fd02807dd9274c7fd32497.html",
+      "consultado": "2026-11-16T18:41:22Z",
+      "sha256": "cb97b8a2445d13e3ba8d54baecf2f74bbaa0636ae4fd02807dd9274c7fd32497",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5168656&Seguimiento=5154775"
+    }
+  ],
+  "tramites": {
+    "5153792": [
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Verónica Martínez García (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 y 21; así como los artículos Transitorios Primero, Tercero, Cuarto y Quinto del dictamen.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 122,
+          "yes": 330
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 330 En contra: 122 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Anayeli Muñoz Moreno (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Laura Hernández García (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Juan Armando Ruiz Hernández (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. María Del Rosario Guzmán Avilés (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 122,
+          "yes": 327
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 327 En contra: 122 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5168656": [
+      {
+        "texto": "Aprobado para dispensar la segunda lectura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 34,
+          "yes": 72
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 72 En contra: 34 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Miguel Márquez Márquez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Alma Carolina Viggiano Austria (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Ricardo Sheffield Padilla (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó la discusión de la reserva presentada por el Sen. Francisco Javier Ramírez Acuña (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó la discusión de las reservas presentadas por el Sen. Rolando Rodrigo Zapata Bello (PRI) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó la discusión de la reserva presentada por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 37,
+          "yes": 72
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 72 En contra: 37 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 04/11/2026",
+  "votaciones": [
+    "sil-5153792-1",
+    "sil-5153792-2",
+    "sil-5168656-1",
+    "sil-5168656-2"
+  ]
+}

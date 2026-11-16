@@ -1,0 +1,41 @@
+{
+  "asunto": "4773177",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 86
+    },
+    {
+      "option": "no",
+      "value": 41
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4770610",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4773177-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+    "text": "Aprobado en lo general y en lo particular con los artículos 17, 20, 76, 89, 94, 95, 96, 97, 98, 99, 100, 101, 105, 107, 110, 111, 113, 116, 122, 123 y, los transitorios primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y décimo segundo, reservados en términos del dictamen. A Favor: 86 En contra: 41 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/dd/dde3527bf0d044092782680b38df2ac04e7d1c926ffc5128b78d4fed17332da1.html",
+      "consultado": "2026-11-16T15:29:21Z",
+      "sha256": "dde3527bf0d044092782680b38df2ac04e7d1c926ffc5128b78d4fed17332da1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4773177"
+    }
+  ],
+  "start_date": "2024-09-10",
+  "votes": [],
+  "votos_publicados": false
+}

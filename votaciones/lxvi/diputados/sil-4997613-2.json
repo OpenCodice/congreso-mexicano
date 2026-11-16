@@ -1,0 +1,41 @@
+{
+  "asunto": "4997613",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 292
+    },
+    {
+      "option": "no",
+      "value": 163
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4994876",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4997613-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Salud en materia de prohibición de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos, y otras materias que fortalecen la atención de la salud de la población.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 292 En contra: 163 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/4b/4b6381e9fb7d04a95f570fbc60530e9ab412cd8baa6d496a0542c2a7a7bebb62.html",
+      "consultado": "2026-11-16T17:30:40Z",
+      "sha256": "4b6381e9fb7d04a95f570fbc60530e9ab412cd8baa6d496a0542c2a7a7bebb62",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4997613"
+    }
+  ],
+  "start_date": "2025-12-09",
+  "votes": [],
+  "votos_publicados": false
+}

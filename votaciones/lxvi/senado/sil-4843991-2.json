@@ -1,0 +1,41 @@
+{
+  "asunto": "4843991",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 81
+    },
+    {
+      "option": "no",
+      "value": 39
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4842678",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4843991-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que expide la Ley de la Empresa Pública del Estado, de la Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, de Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; reforma diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; y reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 81 En contra: 39 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/53/534476d29c780f07a9de476cd2bb1aeca554f96f1254532c5726606e666d1615.html",
+      "consultado": "2026-11-16T15:59:34Z",
+      "sha256": "534476d29c780f07a9de476cd2bb1aeca554f96f1254532c5726606e666d1615",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4843991"
+    }
+  ],
+  "start_date": "2025-02-26",
+  "votes": [],
+  "votos_publicados": false
+}

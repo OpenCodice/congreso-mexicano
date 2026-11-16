@@ -1,0 +1,41 @@
+{
+  "asunto": "5053551",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 328
+    },
+    {
+      "option": "no",
+      "value": 119
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5000559",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5053551-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 328 En contra: 119 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/81/8172f4fdb8848d60f5b836df4a03d496e625d5cac399840050cbe4614599381b.html",
+      "consultado": "2026-11-16T17:35:17Z",
+      "sha256": "8172f4fdb8848d60f5b836df4a03d496e625d5cac399840050cbe4614599381b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5053551"
+    }
+  ],
+  "start_date": "2026-03-25",
+  "votes": [],
+  "votos_publicados": false
+}

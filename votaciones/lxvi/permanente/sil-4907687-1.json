@@ -1,0 +1,41 @@
+{
+  "asunto": "4907687",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4908431",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907687-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Marco Antonio Mena Rodríguez, como Cónsul General de México en San Francisco, California, Estados Unidos de América.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 25 En contra: 7 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/1e/1e7f88f4ac42939798d13ea474df7deda0617c95f17b720a8f383df462fb1c32.html",
+      "consultado": "2026-11-16T16:39:52Z",
+      "sha256": "1e7f88f4ac42939798d13ea474df7deda0617c95f17b720a8f383df462fb1c32",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907687"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

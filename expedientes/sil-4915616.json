@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4914722",
+      "denominacion": "Nombramiento favor de José de Jesús Cisneros Chávez como Embajador Extraordinario y Plenipotenciario de México en la República de Haití.",
+      "estatus": "Toma de protesta 30/07/2025",
+      "fecha": "2025-07-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4914722_20250730_1753887578.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4915319",
+      "denominacion": "Por el que ratifica el nombramiento a favor de José de Jesús Cisneros Chávez como Embajador Extraordinario y Plenipotenciario de México en la República de Haití.",
+      "estatus": "Toma de protesta 30/07/2025",
+      "fecha": "2025-07-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4915319_20250730_1753896684.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-07-30"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento a favor de José de Jesús Cisneros Chávez como Embajador Extraordinario y Plenipotenciario de México en la República de Haití.",
+  "id": "sil-4915616",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4915616",
+  "sources": [
+    {
+      "archivo": "fuentes/96/96f038452c8ddd59b1efadfeb2edc6c6b51bfeaaeda762e9a7898f5fe3a1849e.html",
+      "consultado": "2026-11-16T16:41:46Z",
+      "sha256": "96f038452c8ddd59b1efadfeb2edc6c6b51bfeaaeda762e9a7898f5fe3a1849e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4915616&Asunto=4915319"
+    },
+    {
+      "archivo": "fuentes/75/75a30183a98ace0a473a8e03002690e0865eac6f25455f8aed2ae0461cd00049.html",
+      "consultado": "2026-11-16T16:41:50Z",
+      "sha256": "75a30183a98ace0a473a8e03002690e0865eac6f25455f8aed2ae0461cd00049",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4915319&Seguimiento=4915616"
+    }
+  ],
+  "tramites": {
+    "4915319": [
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado incorporar al orden del día el dictamen de la Primera Comisión de Trabajo de la Comisión Permanente.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 29
+        },
+        "texto": "Aprobado A Favor: 29 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "se designa comisión de cortesía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 30/07/2025",
+  "votaciones": [
+    "sil-4915319-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5156307",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 96
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5154789",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5156307-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 18 Bis y 127 de la Ley Federal de Protección al Consumidor.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 96 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/84/849b24ca3e6d0bcef6ef02bd8129b97947e6318646c78dfbb29c55086bf142c5.html",
+      "consultado": "2026-11-16T18:42:36Z",
+      "sha256": "849b24ca3e6d0bcef6ef02bd8129b97947e6318646c78dfbb29c55086bf142c5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5156307"
+    }
+  ],
+  "start_date": "2026-10-07",
+  "votes": [],
+  "votos_publicados": false
+}

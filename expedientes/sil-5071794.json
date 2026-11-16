@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "5005475",
+      "denominacion": "Que adiciona un artículo 29 Bis a la Ley General de Sociedades Cooperativas, en materia de fomento de la cultura organizacional de pueblos indígenas y afromexicanos.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-01-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/01/asun_5005475_20260121_1768423567.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067853",
+      "denominacion": "Que adiciona un artículo 29 Bis a la Ley General de Sociedades Cooperativas, en materia de fomento de la cultura organizacional de los pueblos y comunidades indígenas y afromexicanos.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067853_20260415_1776262563.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070164",
+      "denominacion": "Que adiciona un artículo 29 Bis a la Ley General de Sociedades Cooperativas, en materia de fomento de la cultura organizacional de los pueblos y comunidades indígenas y afromexicanos.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070164_20260415_1776262564.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072242",
+      "denominacion": "Con proyecto de decreto por el que adiciona un artículo 29 Bis a la Ley General de Sociedades Cooperativas, en materia de fomento de la cultura organizacional de los pueblos y comunidades indígenas y afromexicanos.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072242_20260421_1776789732.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 29 Bis a la Ley General de Sociedades Cooperativas, en materia de fomento de la cultura organizacional de los pueblos y comunidades indígenas y afromexicanos.",
+  "id": "sil-5071794",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071794",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a2cab89708f2b72aa7b62ddbd69a40a04fde8eec47828f4e7923a00a58bf2e7.html",
+      "consultado": "2026-11-16T18:17:05Z",
+      "sha256": "6a2cab89708f2b72aa7b62ddbd69a40a04fde8eec47828f4e7923a00a58bf2e7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071794&Asunto=5070164"
+    },
+    {
+      "archivo": "fuentes/bf/bf98f5b85e538f8631a90238f4fa507e4cdfbbb5be0f069a42be7cce8b160a39.html",
+      "consultado": "2026-11-16T18:17:09Z",
+      "sha256": "bf98f5b85e538f8631a90238f4fa507e4cdfbbb5be0f069a42be7cce8b160a39",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070164&Seguimiento=5071794"
+    }
+  ],
+  "tramites": {
+    "5070164": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 442
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 442 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070164-1"
+  ]
+}

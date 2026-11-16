@@ -1,0 +1,88 @@
+{
+  "asuntos": [
+    {
+      "clave": "4972390",
+      "denominacion": "Por el que se remiten 201 expedientes para ratificación de ascensos de Generales, Coroneles y Tenientes Coroneles del Ejército, Fuerza Aérea Mexicanos, y Guardia Nacional.",
+      "estatus": "Turnado al Ejecutivo 12/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": null,
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4974204",
+      "denominacion": "Por el que ratifica 201 ascensos de diversos grados del Ejército, la Fuerza Aérea y la Guardia Nacional.",
+      "estatus": "Turnado al Ejecutivo 12/11/2025",
+      "fecha": "2025-11-12",
+      "pdf": null,
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-11-12"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-11-12"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-11-12"
+    }
+  ],
+  "denominacion": "Por el que ratifica 201 ascensos de diversos grados del Ejército, la Fuerza Aérea y la Guardia Nacional.",
+  "id": "sil-4975305",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4975305",
+  "sources": [
+    {
+      "archivo": "fuentes/7a/7aee1d38b856de079baf2edeb5ed22dd64bde32f6806a7841f146b73379e33c3.html",
+      "consultado": "2026-11-16T17:14:55Z",
+      "sha256": "7aee1d38b856de079baf2edeb5ed22dd64bde32f6806a7841f146b73379e33c3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4975305&Asunto=4974204"
+    },
+    {
+      "archivo": "fuentes/b6/b6b390d97b96ee7d48e36e309ad2c42ae3058ffb36dbf67a6fb8446ae7ceadfc.html",
+      "consultado": "2026-11-16T17:14:59Z",
+      "sha256": "b6b390d97b96ee7d48e36e309ad2c42ae3058ffb36dbf67a6fb8446ae7ceadfc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4974204&Seguimiento=4975305"
+    }
+  ],
+  "tramites": {
+    "4974204": [
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado únicamente a la parte resolutiva.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 4,
+          "no": 0,
+          "yes": 97
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 97 En contra: 0 Abstenciones 4",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 12/11/2025",
+  "votaciones": [
+    "sil-4974204-1"
+  ]
+}

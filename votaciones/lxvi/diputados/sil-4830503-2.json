@@ -1,0 +1,41 @@
+{
+  "asunto": "4830503",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 322
+    },
+    {
+      "option": "no",
+      "value": 107
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4826387",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4830503-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 322 En contra: 107 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c03d45118f5a3ac012271dd57474526d22730af0a6f3c8daf72db1e26827750.html",
+      "consultado": "2026-11-16T15:55:52Z",
+      "sha256": "3c03d45118f5a3ac012271dd57474526d22730af0a6f3c8daf72db1e26827750",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4830503"
+    }
+  ],
+  "start_date": "2025-02-01",
+  "votes": [],
+  "votos_publicados": false
+}

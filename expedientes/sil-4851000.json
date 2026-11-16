@@ -1,0 +1,180 @@
+{
+  "asuntos": [
+    {
+      "clave": "4838733",
+      "denominacion": "Que establece las características de veinte monedas de plata que integrarán la colección prehispánica.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-02-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4838733_20250219_1739899598.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4850737",
+      "denominacion": "Con proyecto de decreto que establece las características de veinte monedas de plata que integrarán la colección Prehispánica.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4850737_20250305_1741221531.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4851564",
+      "denominacion": "Con proyecto de decreto que establece las características de veinte monedas de plata que integrarán la colección Prehispánica.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4851564_20250311_1741221532.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4854700",
+      "denominacion": "Con proyecto de decreto por el que se establecen las características de veinte monedas de plata que integrarán la colección Prehispánica.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4854700_20250312_1741805821.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4886164",
+      "denominacion": "Que establece las características de veinte monedas de plata que integrarán la Colección Prehispánica.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886164_20250424_1745504334.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4887450",
+      "denominacion": "Que establece las características de veinte monedas de plata que integrarán la Colección Prehispánica.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4887450_20250424_1745504335.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-03-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-03-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-03-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-04-22"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-06-06"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que establece las características de veinte monedas de plata que integrarán la colección Prehispánica.",
+  "id": "sil-4851000",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-06-06",
+  "seguimiento": "4851000",
+  "sources": [
+    {
+      "archivo": "fuentes/c2/c214631b8b10c47405e4fbea8cc3e84aef0b4c19a0a12810d0d1fe86729e82eb.html",
+      "consultado": "2026-11-16T16:03:43Z",
+      "sha256": "c214631b8b10c47405e4fbea8cc3e84aef0b4c19a0a12810d0d1fe86729e82eb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4851000&Asunto=4851564"
+    },
+    {
+      "archivo": "fuentes/c0/c0df82bf1fd2f616fe32900765cdc1ccabb603fdf41398a78053bc0ace681ee4.html",
+      "consultado": "2026-11-16T16:03:47Z",
+      "sha256": "c0df82bf1fd2f616fe32900765cdc1ccabb603fdf41398a78053bc0ace681ee4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4851564&Seguimiento=4851000"
+    }
+  ],
+  "tramites": {
+    "4851564": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado tramitar de manera conjunta los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público, y Estudios Legislativos, Primera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la segunda lectura de los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público y, de Estudios Legislativos, Primera, con el objeto de someterlos a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 107
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: senadoras Imelda Castro Castro (Morena) y Ana Karen Hernández Aceves (PT). A Favor: 107 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "4887450": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que establece las características de veinte monedas de plata que integrarán la Colección Prehispánica.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 474
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 474 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 06/06/2025",
+  "votaciones": [
+    "sil-4851564-1",
+    "sil-4887450-1"
+  ]
+}

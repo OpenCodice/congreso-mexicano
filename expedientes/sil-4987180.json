@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4829881",
+      "denominacion": "Que reforma y adiciona diversas disposiciones a la Ley Federal de Protección al Consumidor, en materia de garantías.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-01-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4829881_20250129_1738177939.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4980674",
+      "denominacion": "Con proyecto de decreto por el que adiciona un párrafo tercero al artículo 77, un párrafo tercero al artículo 79, un párrafo segundo al artículo 81 y se reforma el artículo 78 de la Ley Federal de Protección al Consumidor.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4980674_20251125_1764095887.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987855",
+      "denominacion": "Con proyecto de decreto por el que adiciona un párrafo tercero al artículo 77, un párrafo tercero al artículo 79, un párrafo segundo al artículo 81 y se reforma el artículo 78 de la Ley Federal de Protección al Consumidor.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987855_20251201_1764095890.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995078",
+      "denominacion": "Que reforma el artículo 78 y se adiciona un párrafo tercero al artículo 77, un párrafo tercero al artículo 79 y un párrafo segundo al artículo 81 de la Ley Federal de Protección al Consumidor, en materia de cumplimiento a garantías de productos o servicios.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995078_20251203_1765223484.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona un párrafo tercero al artículo 77, un párrafo tercero al artículo 79, un párrafo segundo al artículo 81 y se reforma el artículo 78 de la Ley Federal de Protección al Consumidor.",
+  "id": "sil-4987180",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4987180",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fed6625d0f80b2ef81b28b47b7288185b8f6773a304ce3358e478e3fbc9a109a.html",
+      "consultado": "2026-11-16T17:26:14Z",
+      "sha256": "fed6625d0f80b2ef81b28b47b7288185b8f6773a304ce3358e478e3fbc9a109a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4987180&Asunto=4987855"
+    },
+    {
+      "archivo": "fuentes/64/64c705914633a089959a5db05db7136635bafa036f85d6b239fe94be190a6416.html",
+      "consultado": "2026-11-16T17:26:18Z",
+      "sha256": "64c705914633a089959a5db05db7136635bafa036f85d6b239fe94be190a6416",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987855&Seguimiento=4987180"
+    }
+  ],
+  "tramites": {
+    "4987855": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 78
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 78 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987855-1"
+  ]
+}

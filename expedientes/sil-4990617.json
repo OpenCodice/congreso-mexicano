@@ -1,0 +1,158 @@
+{
+  "asuntos": [
+    {
+      "clave": "4981180",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981180_20251125_1764089435.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4988091",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988091_20251202_1764701002.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4989529",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4989529_20251202_1764701850.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4992589",
+      "denominacion": "Con Proyecto de Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4992589_20251203_1764790686.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4996241",
+      "denominacion": "Con Proyecto de Decreto por el que se reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4996241_20251209_1765309180.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-17"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+  "id": "sil-4990617",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-17",
+  "seguimiento": "4990617",
+  "sources": [
+    {
+      "archivo": "fuentes/3e/3e2ccc4db9d821b0949bc8a78894e3d17deba806ed96a5bd071c17203cfbde6d.html",
+      "consultado": "2026-11-16T17:27:31Z",
+      "sha256": "3e2ccc4db9d821b0949bc8a78894e3d17deba806ed96a5bd071c17203cfbde6d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990617&Asunto=4989529"
+    },
+    {
+      "archivo": "fuentes/2e/2e786958c1db928a25828407f87e23f82dc7747fb40c73a44f63380293b9672a.html",
+      "consultado": "2026-11-16T17:27:34Z",
+      "sha256": "2e786958c1db928a25828407f87e23f82dc7747fb40c73a44f63380293b9672a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989529&Seguimiento=4990617"
+    }
+  ],
+  "tramites": {
+    "4989529": [
+      {
+        "texto": "La presidencia de la Mesa Directiva da cuenta del dictamen de la Comisión de Marina, con Proyecto de Decreto por el que se reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general el dictamen que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 431
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 431 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Fernando Torres Graciano (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 421
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en los términos del dictamen. A Favor: 421 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 17/12/2025",
+  "votaciones": [
+    "sil-4989529-1",
+    "sil-4989529-2"
+  ]
+}

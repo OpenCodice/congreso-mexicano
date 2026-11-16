@@ -1,0 +1,140 @@
+{
+  "asuntos": [
+    {
+      "clave": "4875234",
+      "denominacion": "Que adiciona el artículo 30 de la Ley General de Educación, en materia de planes y programas de estudio.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-04-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4875234_20250409_1741130313.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4886982",
+      "denominacion": "Que reforma y adiciona el artículo 30 de la Ley General de Educación, en materia de bienestar animal.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886982_20250424_1745529015.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4926644",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Educación, en materia de protección y bienestar animal.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-09-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4926644_20250917_1758204511.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4945137",
+      "denominacion": "Que adiciona una fracción XXVI al artículo 30 de la Ley General de Educación, recorriéndose en su orden la actual fracción XXV para quedar como XXVI, en materia de respeto, cuidado y protección de los animales.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-10-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4945137_20251008_1758911754.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4979478",
+      "denominacion": "Que adiciona la fracción XXV recorriéndose los subsecuentes del artículo 30 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4979478_20251120_1763661509.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086698",
+      "denominacion": "Que reforma la fracción XVI del artículo 30 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086698_20260429_1777484962.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088461",
+      "denominacion": "Que reforma la fracción XVI del artículo 30 de la Ley General de Educación para incluir los conceptos y principios del bienestar animal y de protección de los animales.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088461_20260429_1777481194.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120807",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XVI del artículo 30 de la Ley General de Educación, en materia de bienestar animal y de protección de los animales.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120807_20260902_1790628440.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que reforma la fracción XVI del artículo 30 de la Ley General de Educación para incluir los conceptos y principios del bienestar animal y de protección de los animales.",
+  "id": "sil-5090386",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090386",
+  "sources": [
+    {
+      "archivo": "fuentes/77/777299888b658b021921764c52b0e6238124c9b67151f88439316cd6a35ba9a2.html",
+      "consultado": "2026-11-16T18:31:19Z",
+      "sha256": "777299888b658b021921764c52b0e6238124c9b67151f88439316cd6a35ba9a2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090386&Asunto=5088461"
+    },
+    {
+      "archivo": "fuentes/ca/caaf8a5e3be9e4cf4cc3f7745f7e5e499f0b866c7416778f33c0230df4349a06.html",
+      "consultado": "2026-11-16T18:31:23Z",
+      "sha256": "caaf8a5e3be9e4cf4cc3f7745f7e5e499f0b866c7416778f33c0230df4349a06",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088461&Seguimiento=5090386"
+    }
+  ],
+  "tramites": {
+    "5088461": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Educación, que reforma la fracción XVI del artículo 30 de la Ley General de Educación.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que reforma la fracción XVI del artículo 30 de la Ley General de Educación para incluir los conceptos y principios del bienestar animal y de protección de los animales.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 427
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 427 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088461-1"
+  ]
+}

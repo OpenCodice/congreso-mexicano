@@ -1,0 +1,41 @@
+{
+  "asunto": "4907875",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 324
+    },
+    {
+      "option": "no",
+      "value": 117
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4861114",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907875-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 324 En contra: 117 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/98/986b88268df54c10801f73f6b2288a197942eec1e17dee478c43a83e29451a13.html",
+      "consultado": "2026-11-16T16:08:25Z",
+      "sha256": "986b88268df54c10801f73f6b2288a197942eec1e17dee478c43a83e29451a13",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907875"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

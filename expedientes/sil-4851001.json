@@ -1,0 +1,180 @@
+{
+  "asuntos": [
+    {
+      "clave": "4838736",
+      "denominacion": "Que establece las características de una moneda conmemorativa alusiva al Centenario de la Fundación del Banco de México.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-02-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4838736_20250219_1739899611.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4850741",
+      "denominacion": "Con proyecto de decreto que establece las características de una moneda conmemorativa alusiva al Centenario de la Fundación del Banco de México.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4850741_20250305_1741221542.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4851568",
+      "denominacion": "Con proyecto de decreto que establece las características de una moneda conmemorativa alusiva al Centenario de la Fundación del Banco de México.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4851568_20250311_1741221543.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4854706",
+      "denominacion": "Con proyecto de decreto por el que establecen las características de una moneda conmemorativa alusiva al Centenario de la Fundación del Banco de México.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4854706_20250312_1741805875.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4886167",
+      "denominacion": "Que establece las características de una moneda conmemorativa alusiva al Centenario de la fundación del Banco de México.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886167_20250424_1745504358.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4887453",
+      "denominacion": "Que establece las características de una moneda conmemorativa alusiva al Centenario de la fundación del Banco de México.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4887453_20250424_1745504359.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-03-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-03-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-03-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-04-22"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-06-06"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que establece las características de una moneda conmemorativa alusiva al Centenario de la Fundación del Banco de México.",
+  "id": "sil-4851001",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-06-06",
+  "seguimiento": "4851001",
+  "sources": [
+    {
+      "archivo": "fuentes/f8/f8e8d3b678d7e818c847f8f930fac9ea8754c6586ca9ef70d59d367df137950c.html",
+      "consultado": "2026-11-16T16:04:10Z",
+      "sha256": "f8e8d3b678d7e818c847f8f930fac9ea8754c6586ca9ef70d59d367df137950c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4851001&Asunto=4851568"
+    },
+    {
+      "archivo": "fuentes/0d/0d97a779cb1181c024a4436a7a725c3947eb1cfead99159025bf35777e26dac3.html",
+      "consultado": "2026-11-16T16:04:14Z",
+      "sha256": "0d97a779cb1181c024a4436a7a725c3947eb1cfead99159025bf35777e26dac3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4851568&Seguimiento=4851001"
+    }
+  ],
+  "tramites": {
+    "4851568": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado tramitar de manera conjunta los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público, y Estudios Legislativos, Primera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la segunda lectura de los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público y, de Estudios Legislativos, Primera, con el objeto de someterlos a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 107
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: senadoras Imelda Castro Castro (Morena) y Ana Karen Hernández Aceves (PT). A Favor: 107 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "4887453": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que establece las características de una moneda conmemorativa alusiva al Centenario de la fundación del Banco de México.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 467
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 467 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 06/06/2025",
+  "votaciones": [
+    "sil-4851568-1",
+    "sil-4887453-1"
+  ]
+}

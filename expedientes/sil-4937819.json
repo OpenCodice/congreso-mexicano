@@ -1,0 +1,72 @@
+{
+  "asuntos": [
+    {
+      "clave": "4937685",
+      "denominacion": "Estatuto de la Organización Técnica y Administrativa y del Servicio de Carrera de la Cámara de Diputados del Congreso de la Unión.",
+      "estatus": "Publicado en DOF 07/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4937685_20250930_1759246856.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-10-07"
+    }
+  ],
+  "denominacion": "Estatuto de la Organización Técnica y Administrativa y del Servicio de Carrera de la Cámara de Diputados del Congreso de la Unión.",
+  "id": "sil-4937819",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-10-07",
+  "seguimiento": "4937819",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/ab953a0fd3c4ef41a65192409eaf0fea2b70609e068fa7820bfb41c446c396a5.html",
+      "consultado": "2026-11-16T16:54:04Z",
+      "sha256": "ab953a0fd3c4ef41a65192409eaf0fea2b70609e068fa7820bfb41c446c396a5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937819&Asunto=4937685"
+    },
+    {
+      "archivo": "fuentes/57/57c5f0b86b1805ff165a8f0432b07aa9cb2177d7b2749cc31a682431c85f6a2e.html",
+      "consultado": "2026-11-16T16:54:08Z",
+      "sha256": "57c5f0b86b1805ff165a8f0432b07aa9cb2177d7b2749cc31a682431c85f6a2e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4937685&Seguimiento=4937819"
+    }
+  ],
+  "tramites": {
+    "4937685": [
+      {
+        "conteos": {
+          "abstain": 2,
+          "no": 0,
+          "yes": 388
+        },
+        "texto": "Aprobado A Favor: 388 En contra: 0 Abstenciones 2",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/10/2025",
+  "votaciones": [
+    "sil-4937685-1"
+  ]
+}

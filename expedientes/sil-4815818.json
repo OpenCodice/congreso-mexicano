@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4811476",
+      "denominacion": "Con el que remite los nombramientos que la titular del Poder Ejecutivo Federal hizo a favor de: María Teresa Mercado Pérez, como subsecretaria de Relaciones Exteriores; Raquel Serur Smeke, como subsecretaria para América Latina y el Caribe y, Enrique Javier Ochoa Martínez, como subsecretario para Asuntos Multilaterales y Derechos Humanos.",
+      "estatus": "Toma de protesta 03/12/2024",
+      "fecha": "2024-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4811476_20241127_1732747012.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4815775",
+      "denominacion": "Por el que se ratifican los nombramientos que la titular del Poder Ejecutivo Federal hizo a favor de María Teresa Mercado Pérez, como subsecretaria de Relaciones Exteriores; de Raquel Serur Smeke, como subsecretaria para América Latina y el Caribe y, Enrique Javier Ochoa Martínez, como subsecretario para Asuntos Multilaterales y Derechos Humanos.",
+      "estatus": "Toma de protesta 03/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4815775_20241203_1733255368.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2024-12-03"
+    }
+  ],
+  "denominacion": "Por el que se ratifican los nombramientos que la titular del Poder Ejecutivo Federal hizo a favor de María Teresa Mercado Pérez, como subsecretaria de Relaciones Exteriores; de Raquel Serur Smeke, como subsecretaria para América Latina y el Caribe y, Enrique Javier Ochoa Martínez, como subsecretario para Asuntos Multilaterales y Derechos Humanos.",
+  "id": "sil-4815818",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4815818",
+  "sources": [
+    {
+      "archivo": "fuentes/1a/1aa4f498776058858e02229504fa3d93e47167baa5b805b3b8d1293df234e897.html",
+      "consultado": "2026-11-16T15:46:02Z",
+      "sha256": "1aa4f498776058858e02229504fa3d93e47167baa5b805b3b8d1293df234e897",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4815818&Asunto=4815775"
+    },
+    {
+      "archivo": "fuentes/fa/fa7cf0430c77dadb9feffdfe547dbb582feda7fa62b4d3e1041fe00359a28de4.html",
+      "consultado": "2026-11-16T15:46:06Z",
+      "sha256": "fa7cf0430c77dadb9feffdfe547dbb582feda7fa62b4d3e1041fe00359a28de4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4815775&Seguimiento=4815818"
+    }
+  ],
+  "tramites": {
+    "4815775": [
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de publicación de veinticuatro horas previo a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 0,
+          "yes": 108
+        },
+        "texto": "Aprobado en lo general y en lo particular Senadora a favor sólo para el registro para el Diario de los Debates Sen. María Lilly del Carmen Téllez García (PAN) A Favor: 108 En contra: 0 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de María Teresa Mercado Pérez, como subsecretaria de Relaciones Exteriores; de Raquel Serur Smeke, como subsecretaria para América Latina y el Caribe y, Enrique Javier Ochoa Martínez, como subsecretario para Asuntos Multilaterales y Derechos Humanos.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 03/12/2024",
+  "votaciones": [
+    "sil-4815775-1"
+  ]
+}

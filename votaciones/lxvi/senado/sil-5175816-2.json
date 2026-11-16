@@ -1,0 +1,41 @@
+{
+  "asunto": "5175816",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 27
+    },
+    {
+      "option": "no",
+      "value": 49
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5163342",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5175816-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2027.",
+    "text": "Se rechazó admitir a discusión la reserva presentada por la Sen. Alma Carolina Viggiano Austria (PRI). A Favor: 27 En contra: 49 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/56/56d236027031156a4116a5ad91cbc495e5ad393c50f10da18c51a856c7fce17d.html",
+      "consultado": "2026-11-16T18:47:14Z",
+      "sha256": "56d236027031156a4116a5ad91cbc495e5ad393c50f10da18c51a856c7fce17d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5175816"
+    }
+  ],
+  "start_date": "2026-10-27",
+  "votes": [],
+  "votos_publicados": false
+}

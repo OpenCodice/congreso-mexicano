@@ -1,0 +1,41 @@
+{
+  "asunto": "5149648",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 68
+    },
+    {
+      "option": "no",
+      "value": 34
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5143322",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5149648-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma, adiciona y deroga diversas disposiciones del Código Penal Federal y de la Ley Federal de Protección a la Propiedad Industrial.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 68 En contra: 34 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53cfc81910e2d94a3c5ce63360eb5ea710e2a14cb787797686ad83967d7287a0.html",
+      "consultado": "2026-11-16T18:38:29Z",
+      "sha256": "53cfc81910e2d94a3c5ce63360eb5ea710e2a14cb787797686ad83967d7287a0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5149648"
+    }
+  ],
+  "start_date": "2026-09-30",
+  "votes": [],
+  "votos_publicados": false
+}

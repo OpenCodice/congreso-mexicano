@@ -1,0 +1,41 @@
+{
+  "asunto": "5153798",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 299
+    },
+    {
+      "option": "no",
+      "value": 92
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5154792",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5153798-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados con la modificación aceptada por la Asamblea. A Favor: 299 En contra: 92 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c2/c242b36d0363f3c7c404345a593e98e93e317d6a86244849b9c11e40acd65076.html",
+      "consultado": "2026-11-16T18:43:07Z",
+      "sha256": "c242b36d0363f3c7c404345a593e98e93e317d6a86244849b9c11e40acd65076",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5153798"
+    }
+  ],
+  "start_date": "2026-10-06",
+  "votes": [],
+  "votos_publicados": false
+}

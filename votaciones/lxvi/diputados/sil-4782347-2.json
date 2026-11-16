@@ -1,0 +1,41 @@
+{
+  "asunto": "4782347",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 350
+    },
+    {
+      "option": "no",
+      "value": 111
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-4778759",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4782347-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas Es mayoría calificada. A Favor: 350 En contra: 111 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/71/719608867abc61feee5c02e1824a887eb6ed105b0e8562d47dbd358284687d0c.html",
+      "consultado": "2026-11-16T19:34:10Z",
+      "sha256": "719608867abc61feee5c02e1824a887eb6ed105b0e8562d47dbd358284687d0c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4782347"
+    }
+  ],
+  "start_date": "2024-10-09",
+  "votes": [],
+  "votos_publicados": false
+}

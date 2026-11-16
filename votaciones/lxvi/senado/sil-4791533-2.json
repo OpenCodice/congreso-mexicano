@@ -1,0 +1,41 @@
+{
+  "asunto": "4791533",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 126
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4791532",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4791533-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 4, 21, 41, 116 y segundo transitorio, en términos del dictamen. A Favor: 126 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/b4/b468d9a501fbe6d53add76d95a332ab9a4731a3440a09822dad3f4a0394343cc.html",
+      "consultado": "2026-11-16T15:38:02Z",
+      "sha256": "b468d9a501fbe6d53add76d95a332ab9a4731a3440a09822dad3f4a0394343cc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4791533"
+    }
+  ],
+  "start_date": "2024-10-24",
+  "votes": [],
+  "votos_publicados": false
+}

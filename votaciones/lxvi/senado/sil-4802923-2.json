@@ -1,0 +1,41 @@
+{
+  "asunto": "4802923",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 122
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4801606",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4802923-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad pública.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados al décimo tercer párrafo del artículo 21, con las modificaciones admitidas por la asamblea y, los artículos tercero y cuarto transitorios en términos del dictamen. A Favor: 122 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/dc/dc40a2f1246756f5a7aa2893f6eb89d7f517e4ef8de5465c7dbeca0d06f94bb1.html",
+      "consultado": "2026-11-16T15:41:09Z",
+      "sha256": "dc40a2f1246756f5a7aa2893f6eb89d7f517e4ef8de5465c7dbeca0d06f94bb1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4802923"
+    }
+  ],
+  "start_date": "2024-11-13",
+  "votes": [],
+  "votos_publicados": false
+}

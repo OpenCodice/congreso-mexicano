@@ -1,0 +1,41 @@
+{
+  "asunto": "4950214",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 337
+    },
+    {
+      "option": "no",
+      "value": 126
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4951959",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4950214-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Impuesto Especial Sobre Producción y Servicios.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 337 En contra: 126 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c3/c3d8b40fd5924d1c8affbe2f2364f4b41528bd3a069ae4132c9cc806eb368f18.html",
+      "consultado": "2026-11-16T16:59:52Z",
+      "sha256": "c3d8b40fd5924d1c8affbe2f2364f4b41528bd3a069ae4132c9cc806eb368f18",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4950214"
+    }
+  ],
+  "start_date": "2025-10-15",
+  "votes": [],
+  "votos_publicados": false
+}

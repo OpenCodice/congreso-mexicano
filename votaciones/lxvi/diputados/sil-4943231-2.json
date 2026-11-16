@@ -1,0 +1,41 @@
+{
+  "asunto": "4943231",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 324
+    },
+    {
+      "option": "no",
+      "value": 113
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4944008",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4943231-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Aduanera.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 324 En contra: 113 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f3/f3b85c401a91ac73fc8fcab1f578f00a1faea81b6b5e23a4bfd4a705412d7d87.html",
+      "consultado": "2026-11-16T16:57:07Z",
+      "sha256": "f3b85c401a91ac73fc8fcab1f578f00a1faea81b6b5e23a4bfd4a705412d7d87",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4943231"
+    }
+  ],
+  "start_date": "2025-10-07",
+  "votes": [],
+  "votos_publicados": false
+}

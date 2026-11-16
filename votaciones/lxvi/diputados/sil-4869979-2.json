@@ -1,0 +1,41 @@
+{
+  "asunto": "4869979",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 329
+    },
+    {
+      "option": "no",
+      "value": 118
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4870976",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4869979-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 329 En contra: 118 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/06/068faac47e51337e2a2f5060b3d48bccbaf46f44668624334c4919c0aa103f4f.html",
+      "consultado": "2026-11-16T16:13:56Z",
+      "sha256": "068faac47e51337e2a2f5060b3d48bccbaf46f44668624334c4919c0aa103f4f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4869979"
+    }
+  ],
+  "start_date": "2025-04-02",
+  "votes": [],
+  "votos_publicados": false
+}

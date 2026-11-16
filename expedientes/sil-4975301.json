@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4925630",
+      "denominacion": "Que declara el mes de octubre de cada año como el -Mes Nacional de la Ciberseguridad-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-09-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4925630_20250917_1757528916.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4974002",
+      "denominacion": "Con proyecto de decreto por el que declara el mes de octubre de cada año como el -Mes nacional de la Ciberseguridad-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4974002_20251112_1762897630.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987818",
+      "denominacion": "Con proyecto de decreto por el que declara el mes de octubre de cada año como el -Mes nacional de la Ciberseguridad-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987818_20251201_1762897635.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995057",
+      "denominacion": "Que declara el mes de octubre de cada año, como el -Mes Nacional de la Ciberseguridad-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995057_20251203_1765231782.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el mes de octubre de cada año como el -Mes nacional de la Ciberseguridad-.",
+  "id": "sil-4975301",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4975301",
+  "sources": [
+    {
+      "archivo": "fuentes/79/794b3f141d77014da0e680d51f96330064bf6d32b25b3e8e1000864d7ad657bf.html",
+      "consultado": "2026-11-16T17:13:40Z",
+      "sha256": "794b3f141d77014da0e680d51f96330064bf6d32b25b3e8e1000864d7ad657bf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4975301&Asunto=4987818"
+    },
+    {
+      "archivo": "fuentes/a9/a9e53c3d3a8cf71fdb7eb56a2922a5bcff5c272896579bd744674e8c7ed8dcb4.html",
+      "consultado": "2026-11-16T17:13:44Z",
+      "sha256": "a9e53c3d3a8cf71fdb7eb56a2922a5bcff5c272896579bd744674e8c7ed8dcb4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987818&Seguimiento=4975301"
+    }
+  ],
+  "tramites": {
+    "4987818": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 100
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 100 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987818-1"
+  ]
+}

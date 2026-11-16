@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4962952",
+      "denominacion": "De decreto por el que se declara el 27 de octubre de cada año como el -Día Nacional del Xoloitzcuintle-.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4962952_20251029_1761769781.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4997475",
+      "denominacion": "De decreto por el que se declara el 27 de octubre de cada año como -Día Nacional del Xoloitzcuintle-.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4997475_20251209_1765325017.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067865",
+      "denominacion": "Que declara el 27 de octubre de cada año como el -Día Nacional del Xoloitzcuintle-.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067865_20260415_1776262615.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070177",
+      "denominacion": "Que declara el 27 de octubre de cada año como el -Día Nacional del Xoloitzcuintle-.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070177_20260415_1776262616.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072263",
+      "denominacion": "Con proyecto de decreto por el que declara el 27 de octubre de cada año, como el -Día Nacional del Xoloitzcuitle-.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072263_20260421_1776791567.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que declara el 27 de octubre de cada año como el -Día Nacional del Xoloitzcuintle-.",
+  "id": "sil-5071807",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071807",
+  "sources": [
+    {
+      "archivo": "fuentes/92/927cfc32b5baeba610483830bd7cfcdc0dd21a93e621323b232cea0d05990eab.html",
+      "consultado": "2026-11-16T18:19:00Z",
+      "sha256": "927cfc32b5baeba610483830bd7cfcdc0dd21a93e621323b232cea0d05990eab",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071807&Asunto=5070177"
+    },
+    {
+      "archivo": "fuentes/d2/d2156d1411d5298bba862006e1e832f4ee5a3eee094a315e8d0e2b2421168d09.html",
+      "consultado": "2026-11-16T18:19:04Z",
+      "sha256": "d2156d1411d5298bba862006e1e832f4ee5a3eee094a315e8d0e2b2421168d09",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070177&Seguimiento=5071807"
+    }
+  ],
+  "tramites": {
+    "5070177": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 4,
+          "no": 0,
+          "yes": 432
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 432 En contra: 0 Abstenciones 4",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070177-1"
+  ]
+}

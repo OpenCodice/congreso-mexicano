@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4858116",
+      "denominacion": "Que adiciona el artículo 24 de la Ley General de Pesca y Acuacultura Sustentables.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4858116_20250319_1742582865.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4937122",
+      "denominacion": "Que adiciona el inciso m) a la fracción III del artículo 24 de la Ley General de Pesca y Acuacultura Sustentables.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4937122_20250930_1759254712.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4937319",
+      "denominacion": "Que adiciona el inciso m) a la fracción III del artículo 24 de la Ley General de Pesca y Acuacultura Sustentables.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4937319_20250930_1759275914.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4940838",
+      "denominacion": "Proyecto de decreto por el que se adiciona un inciso m) a la fracción III del artículo 24 de la Ley General de Pesca y Acuacultura Sustentables.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4940838_20251001_1759357137.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-01"
+    }
+  ],
+  "denominacion": "Que adiciona el inciso m) a la fracción III del artículo 24 de la Ley General de Pesca y Acuacultura Sustentables.",
+  "id": "sil-4937818",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4937818",
+  "sources": [
+    {
+      "archivo": "fuentes/50/50331248a1aa7248640c7a84f44c7f0b631fc223194fe71a5e295cc5046ab33c.html",
+      "consultado": "2026-11-16T16:53:34Z",
+      "sha256": "50331248a1aa7248640c7a84f44c7f0b631fc223194fe71a5e295cc5046ab33c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937818&Asunto=4937319"
+    },
+    {
+      "archivo": "fuentes/90/909991124f161d3a8ab38962d013047ab52bb76b20a3ca091677e8a3f182b137.html",
+      "consultado": "2026-11-16T16:53:38Z",
+      "sha256": "909991124f161d3a8ab38962d013047ab52bb76b20a3ca091677e8a3f182b137",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4937319&Seguimiento=4937818"
+    }
+  ],
+  "tramites": {
+    "4937319": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Pesca que adiciona el inciso m) a la fracción III del artículo 24 de la Ley General de Pesca y Acuacultura Sustentables.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 420
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 420 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 01/10/2025",
+  "votaciones": [
+    "sil-4937319-1"
+  ]
+}

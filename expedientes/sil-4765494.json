@@ -1,0 +1,102 @@
+{
+  "asuntos": [
+    {
+      "clave": "4765119",
+      "denominacion": "Protocolo de Adhesión del Reino Unido de Gran Bretaña e Irlanda del Norte al Tratado Integral y Progresista de Asociación Transpacífico, hecho en Auckland y Bandar Seri Begawan, el dieciséis de julio de dos mil veintitrés.",
+      "estatus": "Publicado en DOF 20/01/2026",
+      "fecha": "2024-07-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/07/asun_4765119_20240717_1721229004.pdf",
+      "tipo": "Instrumento internacional"
+    },
+    {
+      "clave": "4999992",
+      "denominacion": "Protocolo de Adhesión del Reino Unido de Gran Bretaña e Irlanda del Norte al Tratado Integral y Progresista de Asociación Transpacífico, hecho en Auckland y Bandar Seri Begawan, el dieciséis de julio de dos mil veintitrés.",
+      "estatus": "Publicado en DOF 20/01/2026",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999992_20251210_1765991418.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-01-20"
+    }
+  ],
+  "denominacion": "Protocolo de Adhesión del Reino Unido de Gran Bretaña e Irlanda del Norte al Tratado Integral y Progresista de Asociación Transpacífico, hecho en Auckland y Bandar Seri Begawan, el dieciséis de julio de dos mil veintitrés.",
+  "id": "sil-4765494",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-01-20",
+  "seguimiento": "4765494",
+  "sources": [
+    {
+      "archivo": "fuentes/57/574718e40b776f6f80399c2049f5f593ba2f51469918ebb1a74be15f0336805a.html",
+      "consultado": "2026-11-16T15:28:53Z",
+      "sha256": "574718e40b776f6f80399c2049f5f593ba2f51469918ebb1a74be15f0336805a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4765494&Asunto=4999992"
+    },
+    {
+      "archivo": "fuentes/43/43c1721c144261cef31edbe240ec486181caa726e26bf39470ac4888a1ced606.html",
+      "consultado": "2026-11-16T15:28:56Z",
+      "sha256": "43c1721c144261cef31edbe240ec486181caa726e26bf39470ac4888a1ced606",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4999992&Seguimiento=4765494"
+    }
+  ],
+  "tramites": {
+    "4999992": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 29,
+          "yes": 72
+        },
+        "texto": "Aprobado considerarse de urgente resolución. A Favor: 72 En contra: 29 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 105
+        },
+        "texto": "Aprobado en lo general y en lo particular La votación se registró con datos publicados en la Gaceta parlamentaria. A Favor: 105 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 20/01/2026",
+  "votaciones": [
+    "sil-4999992-1",
+    "sil-4999992-2"
+  ]
+}

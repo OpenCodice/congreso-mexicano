@@ -1,0 +1,41 @@
+{
+  "asunto": "5161814",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 340
+    },
+    {
+      "option": "no",
+      "value": 109
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5163342",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5161814-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados con la modificación aceptada por la Asamblea. A Favor: 340 En contra: 109 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/52/5219e8454bc386f29530bdd638bbb95db3c0d9c96973fd62920de9efbca5be1f.html",
+      "consultado": "2026-11-16T18:47:32Z",
+      "sha256": "5219e8454bc386f29530bdd638bbb95db3c0d9c96973fd62920de9efbca5be1f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5161814"
+    }
+  ],
+  "start_date": "2026-10-13",
+  "votes": [],
+  "votos_publicados": false
+}

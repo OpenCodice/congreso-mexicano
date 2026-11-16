@@ -1,0 +1,152 @@
+{
+  "asuntos": [
+    {
+      "clave": "4981184",
+      "denominacion": "Que declara al año 2026 como -2026, Año de Margarita Maza Parada-.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981184_20251125_1764089531.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4988093",
+      "denominacion": "Que declara al año 2026, como: -2026, Año de Margarita Eustaquia Maza Parada-.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988093_20251202_1764701013.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4989532",
+      "denominacion": "Que declara al año 2026, como: -2026, Año de Margarita Maza Parada-.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4989532_20251202_1764701861.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4991471",
+      "denominacion": "Con Proyecto de Decreto por el que se decreta como: -2026, Año de Margarita Maza Parada-.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4991471_20251203_1764790676.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4998409",
+      "denominacion": "Con Proyecto de Decreto por el que se decreta como: -2026, Año de Margarita Maza Parada-.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4998409_20251209_1765325748.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-29"
+    }
+  ],
+  "denominacion": "Que declara al año 2026, como: -2026, Año de Margarita Maza Parada-.",
+  "id": "sil-4990625",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-29",
+  "seguimiento": "4990625",
+  "sources": [
+    {
+      "archivo": "fuentes/cd/cd24b508ff62c460e9b311d05936c7edc31931439ba6260c8697dc14efd8e467.html",
+      "consultado": "2026-11-16T17:28:18Z",
+      "sha256": "cd24b508ff62c460e9b311d05936c7edc31931439ba6260c8697dc14efd8e467",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990625&Asunto=4989532"
+    },
+    {
+      "archivo": "fuentes/73/731ab5c701f9d436e9cc35cf73adf57f68f44b6e2b7b2934b05137c4440a8b76.html",
+      "consultado": "2026-11-16T17:28:21Z",
+      "sha256": "731ab5c701f9d436e9cc35cf73adf57f68f44b6e2b7b2934b05137c4440a8b76",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989532&Seguimiento=4990625"
+    }
+  ],
+  "tramites": {
+    "4989532": [
+      {
+        "texto": "a la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena).",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que declara al año 2026, como: -2026, Año de Margarita Eustaquia Maza Parada-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutida la propuesta de modificación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que declara al año 2026, como: -2026, Año de Margarita Eustaquia Maza Parada-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 2,
+          "yes": 433
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 433 En contra: 2 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/12/2025",
+  "votaciones": [
+    "sil-4989532-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5037704",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 109
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 6
+    }
+  ],
+  "expediente_id": "sil-5034967",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5037704-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto por el que se reforma el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en materia de límite a las jubilaciones y pensiones de las entidades públicas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 109 En contra: 0 Abstenciones 6"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed0d34f3bb525f8516fb979721a6e2c516e7c293fa40a13b7bff570b5beb744a.html",
+      "consultado": "2026-11-16T18:01:40Z",
+      "sha256": "ed0d34f3bb525f8516fb979721a6e2c516e7c293fa40a13b7bff570b5beb744a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5037704"
+    }
+  ],
+  "start_date": "2026-03-11",
+  "votes": [],
+  "votos_publicados": false
+}

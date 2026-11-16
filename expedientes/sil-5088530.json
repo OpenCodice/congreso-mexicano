@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4995944",
+      "denominacion": "Que declara el 18 de octubre de cada año como -Día Nacional de la Salud en la menopausia-.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995944_20251209_1765299766.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5083089",
+      "denominacion": "Con proyecto de decreto por el que declara el 18 de octubre de cada año como el -Día Nacional de la Salud en la Menopausia-.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5083089_20260428_1777394108.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5130140",
+      "denominacion": "Por el que se declara el 18 de octubre de cada año como el -Día Nacional de la Salud en la Menopausia-.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-09-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5130140_20260914_1789399523.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5135357",
+      "denominacion": "Que declara el 18 de octubre de cada año como el -Día Nacional de la Salud en la Menopausia-.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-09-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5135357_20260915_1790029999.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-15"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-15"
+    }
+  ],
+  "denominacion": "Por el que se declara el 18 de octubre de cada año como el -Día Nacional de la Salud en la Menopausia-.",
+  "id": "sil-5088530",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5088530",
+  "sources": [
+    {
+      "archivo": "fuentes/d0/d0a5a3d6855ba3ce3d1e65eda76c682b6974fc11fdbac772920d5f6736713850.html",
+      "consultado": "2026-11-16T18:25:12Z",
+      "sha256": "d0a5a3d6855ba3ce3d1e65eda76c682b6974fc11fdbac772920d5f6736713850",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5088530&Asunto=5130140"
+    },
+    {
+      "archivo": "fuentes/56/564e79157bc50ef181ef9992fbc14d68add7b1c6e57cca4d2c4fed214e42f918.html",
+      "consultado": "2026-11-16T18:25:16Z",
+      "sha256": "564e79157bc50ef181ef9992fbc14d68add7b1c6e57cca4d2c4fed214e42f918",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5130140&Seguimiento=5088530"
+    }
+  ],
+  "tramites": {
+    "5130140": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen y someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 105
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 105 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 15/09/2026",
+  "votaciones": [
+    "sil-5130140-1"
+  ]
+}

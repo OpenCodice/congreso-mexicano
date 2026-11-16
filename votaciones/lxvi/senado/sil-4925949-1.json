@@ -1,0 +1,41 @@
+{
+  "asunto": "4925949",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 101
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4923106",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4925949-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto por el que establece las características de una moneda conmemorativa de los Doscientos Años de Relaciones Diplomáticas entre los Estados Unidos Mexicanos y la República Francesa.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 101 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/e5/e54c87b63627baf7372973194bbb343d243db86df6019e914f0d0fc4dd9b1c52.html",
+      "consultado": "2026-11-16T16:45:45Z",
+      "sha256": "e54c87b63627baf7372973194bbb343d243db86df6019e914f0d0fc4dd9b1c52",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4925949"
+    }
+  ],
+  "start_date": "2025-09-17",
+  "votes": [],
+  "votos_publicados": false
+}

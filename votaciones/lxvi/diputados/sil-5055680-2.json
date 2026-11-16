@@ -1,0 +1,41 @@
+{
+  "asunto": "5055680",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 368
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 104
+    }
+  ],
+  "expediente_id": "sil-5051107",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5055680-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 368 En contra: 0 Abstenciones 104"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/93/9396f9f31990b97fe82d70494c5ea178d1c401bf7f1ab438a222bc8e611bf150.html",
+      "consultado": "2026-11-16T18:06:44Z",
+      "sha256": "9396f9f31990b97fe82d70494c5ea178d1c401bf7f1ab438a222bc8e611bf150",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5055680"
+    }
+  ],
+  "start_date": "2026-04-07",
+  "votes": [],
+  "votos_publicados": false
+}

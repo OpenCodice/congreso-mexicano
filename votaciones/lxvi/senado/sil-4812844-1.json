@@ -1,0 +1,41 @@
+{
+  "asunto": "4812844",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 35
+    },
+    {
+      "option": "no",
+      "value": 72
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4798659",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4812844-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica.",
+    "text": "Se rechazó admitir a discusión la propuesta de moción suspensiva presentada por la Sen. María Guadalupe Murguía Gutiérrez (PAN). A Favor: 35 En contra: 72 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/0e/0ebede95f5aeb5ad71d0f5d13e8dc42a192389024e9086addfa27300e67a488c.html",
+      "consultado": "2026-11-16T15:40:23Z",
+      "sha256": "0ebede95f5aeb5ad71d0f5d13e8dc42a192389024e9086addfa27300e67a488c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4812844"
+    }
+  ],
+  "start_date": "2024-11-28",
+  "votes": [],
+  "votos_publicados": false
+}

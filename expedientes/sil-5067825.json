@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5064781",
+      "denominacion": "Para que se permita la salida de los elementos que integran la delegación de tropas nacionales, fuera de los límites del país, a efecto de que participen en el Evento No. SOF28 -Capacitación de las Fuerzas de Operaciones Especiales Mexicanas en los Estados Unidos Continentales CONUS- a realizarse en Camp Shelby, Mississippi, Estados Unidos de América, del 3 de agosto al 25 de septiembre de 2026.",
+      "estatus": "Publicado en DOF 30/04/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5064781_20260414_1776180383.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "5066640",
+      "denominacion": "Con proyecto de decreto por el que concede autorización a la Titular del Poder Ejecutivo Federal para que permita salida de tropas nacionales fuera de los límites del país, a efecto de que participen en el Evento No. SOF28 -Capacitación de las Fuerzas de Operaciones Especiales Mexicanas en los Estados Unidos Continentales CONUS-.",
+      "estatus": "Publicado en DOF 30/04/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5066640_20260414_1776198273.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070384",
+      "denominacion": "Con proyecto de decreto por el que concede autorización a la titular del Poder Ejecutivo Federal para que permita salida de tropas nacionales fuera de los límites del país, a efecto de que participen en el Evento No. SOF28 -Capacitación de las Fuerzas de Operaciones Especiales Mexicanas en los Estados Unidos Continentales CONUS-.",
+      "estatus": "Publicado en DOF 30/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070384_20260415_1776198274.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-04-30"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que concede autorización a la titular del Poder Ejecutivo Federal para que permita salida de tropas nacionales fuera de los límites del país, a efecto de que participen en el Evento No. SOF28 -Capacitación de las Fuerzas de Operaciones Especiales Mexicanas en los Estados Unidos Continentales CONUS-.",
+  "id": "sil-5067825",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-04-30",
+  "seguimiento": "5067825",
+  "sources": [
+    {
+      "archivo": "fuentes/61/6142c803b5ec898307dcb4fd66c5aecb95a55560ed412c0030cc0a6464b21654.html",
+      "consultado": "2026-11-16T18:16:40Z",
+      "sha256": "6142c803b5ec898307dcb4fd66c5aecb95a55560ed412c0030cc0a6464b21654",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5067825&Asunto=5070384"
+    },
+    {
+      "archivo": "fuentes/49/49dadcd142bf94da18e473b6604d0ef3062dfcca3f998514bff4d466ddcdce86.html",
+      "consultado": "2026-11-16T18:16:44Z",
+      "sha256": "49dadcd142bf94da18e473b6604d0ef3062dfcca3f998514bff4d466ddcdce86",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070384&Seguimiento=5067825"
+    }
+  ],
+  "tramites": {
+    "5070384": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 3,
+          "no": 0,
+          "yes": 92
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 92 En contra: 0 Abstenciones 3",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 30/04/2026",
+  "votaciones": [
+    "sil-5070384-1"
+  ]
+}

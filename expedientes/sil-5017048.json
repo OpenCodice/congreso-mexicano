@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4873305",
+      "denominacion": "Que adiciona los artículos 3° y un 64 Quáter a la Ley General de Responsabilidades Administrativas, en materia de acoso sexual laboral y hostigamiento laboral.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4873305_20250408_1744242231.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016127",
+      "denominacion": "Que adiciona los artículos 64 Quáter y 64 Quintus de la Ley General de Responsabilidades Administrativas, en materia de acoso sexual, laboral y hostigamiento laboral.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016127_20260217_1771349650.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016216",
+      "denominacion": "Que adiciona los artículos 64 Quáter y 64 Quintus de la Ley General de Responsabilidades Administrativas, en materia de acoso sexual, laboral y hostigamiento laboral.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016216_20260217_1771350979.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017179",
+      "denominacion": "Con proyecto de decreto por el que adiciona el artículo 64 Quinquies y 64 Sexies de la Ley General de Responsabilidades Administrativas, en materia de acoso sexual laboral y hostigamiento laboral.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017179_20260218_1771436208.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que adiciona los artículos 64 Quáter y 64 Quintus de la Ley General de Responsabilidades Administrativas, en materia de acoso sexual, laboral y hostigamiento laboral.",
+  "id": "sil-5017048",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017048",
+  "sources": [
+    {
+      "archivo": "fuentes/c5/c538c10b2924549e6d2e7aff9b75ba1dc92e19fed4ee7d2f6be922b55ede92cc.html",
+      "consultado": "2026-11-16T17:43:18Z",
+      "sha256": "c538c10b2924549e6d2e7aff9b75ba1dc92e19fed4ee7d2f6be922b55ede92cc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017048&Asunto=5016216"
+    },
+    {
+      "archivo": "fuentes/39/391c1dde5ce0c088ecf1081b063a09428838e63de1df04460283ef2adbe5b1a9.html",
+      "consultado": "2026-11-16T17:43:22Z",
+      "sha256": "391c1dde5ce0c088ecf1081b063a09428838e63de1df04460283ef2adbe5b1a9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016216&Seguimiento=5017048"
+    }
+  ],
+  "tramites": {
+    "5016216": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona los artículos 64 Quáter y 64 Quintus de la Ley General de Responsabilidades Administrativas, en materia de acoso sexual, laboral y hostigamiento laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 448
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 448 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016216-1"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "asuntos": [
+    {
+      "clave": "4899141",
+      "denominacion": "Que reforma el artículo 58 de la Ley General de Turismo.",
+      "estatus": "Pendiente en comisión(es) de revisora 28/04/2026",
+      "fecha": "2025-05-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/05/asun_4899141_20250514_1747244084.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5004213",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+      "estatus": "Pendiente en comisión(es) de revisora 28/04/2026",
+      "fecha": "2026-01-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/01/asun_5004213_20260113_1767896619.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5072310",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+      "estatus": "Pendiente en comisión(es) de revisora 28/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072310_20260421_1776788194.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5074747",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+      "estatus": "Pendiente en comisión(es) de revisora 28/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5074747_20260421_1776817878.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5080706",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+      "estatus": "Pendiente en comisión(es) de revisora 28/04/2026",
+      "fecha": "2026-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5080706_20260428_1777389792.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-28"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-28"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+  "id": "sil-5076013",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5076013",
+  "sources": [
+    {
+      "archivo": "fuentes/fd/fd752fccfc844f90389a8dee5a869c86387a469eac6d10f9997133c0cc450647.html",
+      "consultado": "2026-11-16T18:23:47Z",
+      "sha256": "fd752fccfc844f90389a8dee5a869c86387a469eac6d10f9997133c0cc450647",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5076013&Asunto=5074747"
+    },
+    {
+      "archivo": "fuentes/e1/e108b6dac1a395793a5c59583e90bcc92a14c0a59794a9ac53533914b2c64b0f.html",
+      "consultado": "2026-11-16T18:23:51Z",
+      "sha256": "e108b6dac1a395793a5c59583e90bcc92a14c0a59794a9ac53533914b2c64b0f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5074747&Seguimiento=5076013"
+    }
+  ],
+  "tramites": {
+    "5074747": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Turismo que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa a la Asamblea que se han presentado propuestas de modificación al dictamen, las cuales serán insertadas en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 457
+        },
+        "texto": "Aprobado en lo general y en lo particular en un solo acto. A Favor: 457 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 28/04/2026",
+  "votaciones": [
+    "sil-5074747-1"
+  ]
+}

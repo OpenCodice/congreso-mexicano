@@ -1,0 +1,41 @@
+{
+  "asunto": "4998746",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 66
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "abstain",
+      "value": 15
+    }
+  ],
+  "expediente_id": "sil-5000559",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4998746-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 66 En contra: 12 Abstenciones 15"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99b3ad1df9c53677ca0afe6ffb8228b6334f6aeebc06860f2ee58fc64cf28ba0.html",
+      "consultado": "2026-11-16T17:35:06Z",
+      "sha256": "99b3ad1df9c53677ca0afe6ffb8228b6334f6aeebc06860f2ee58fc64cf28ba0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4998746"
+    }
+  ],
+  "start_date": "2025-12-09",
+  "votes": [],
+  "votos_publicados": false
+}

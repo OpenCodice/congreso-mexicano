@@ -1,0 +1,41 @@
+{
+  "asunto": "4917292",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 31
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4917555",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4917292-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento en favor de Omar Reyes Colmenares como titular de la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público.",
+    "text": "Aprobado por unanimidad. A Favor: 31 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6f08f7ca790c07458db52f3bcbfd3cc41f867cc16585aa6d16ba899cc51b6f19.html",
+      "consultado": "2026-11-16T16:43:28Z",
+      "sha256": "6f08f7ca790c07458db52f3bcbfd3cc41f867cc16585aa6d16ba899cc51b6f19",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4917292"
+    }
+  ],
+  "start_date": "2025-08-13",
+  "votes": [],
+  "votos_publicados": false
+}

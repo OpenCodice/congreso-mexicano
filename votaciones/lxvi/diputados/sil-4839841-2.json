@@ -1,0 +1,41 @@
+{
+  "asunto": "4839841",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 323
+    },
+    {
+      "option": "no",
+      "value": 123
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4825070",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4839841-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 323 En contra: 123 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/24/24ffc01a78a8eb0b12f045e0ad7af5c4c792c2e1db75d06f3c387e8977ba6c88.html",
+      "consultado": "2026-11-16T15:53:32Z",
+      "sha256": "24ffc01a78a8eb0b12f045e0ad7af5c4c792c2e1db75d06f3c387e8977ba6c88",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4839841"
+    }
+  ],
+  "start_date": "2025-02-19",
+  "votes": [],
+  "votos_publicados": false
+}

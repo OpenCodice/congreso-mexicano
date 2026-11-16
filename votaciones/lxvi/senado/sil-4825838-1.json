@@ -1,0 +1,41 @@
+{
+  "asunto": "4825838",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 67
+    },
+    {
+      "option": "no",
+      "value": 30
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4825070",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4825838-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos no reservados Solo para registro en el Diario de los Debates a favor: senadoras Cynthia Iliana López Castro (Morena), Edith López Hernández (Morena) y senador Sen. Cuauhtémoc Ochoa Fernández (Morena). En contra: senador Francisco Javier Ramírez Acuña (PAN). A Favor: 67 En contra: 30 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bf/bfa937247e3696c09446493b911abd175dfe2f2c93d29a3190d9bd25a858dd0c.html",
+      "consultado": "2026-11-16T15:53:19Z",
+      "sha256": "bfa937247e3696c09446493b911abd175dfe2f2c93d29a3190d9bd25a858dd0c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4825838"
+    }
+  ],
+  "start_date": "2024-12-13",
+  "votes": [],
+  "votos_publicados": false
+}

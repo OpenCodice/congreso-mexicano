@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5098820",
+      "denominacion": "Nombramiento de Roberto Lazzeri Montaño como Embajador Extraordinario y Plenipotenciario de México en los Estados Unidos de América.",
+      "estatus": "Toma de protesta 10/06/2026",
+      "fecha": "2026-06-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/06/asun_5098820_20260601_1780328474.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5102543",
+      "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Roberto Lazzeri Montaño como Embajador Extraordinario y Plenipotenciario de México en los Estados Unidos de América.",
+      "estatus": "Toma de protesta 10/06/2026",
+      "fecha": "2026-06-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/06/asun_5102543_20260610_1781113827.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2026-06-10"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2026-06-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-06-10"
+    },
+    {
+      "estatus": "Resuelto / Aprobado",
+      "fecha": "2026-06-10"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2026-06-10"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Roberto Lazzeri Montaño como Embajador Extraordinario y Plenipotenciario de México en los Estados Unidos de América.",
+  "id": "sil-5102730",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5102730",
+  "sources": [
+    {
+      "archivo": "fuentes/3a/3abfee7fc51c0bb7d09c0d6fc8a4c7140be1e4102c9defd6dc28122d372c2199.html",
+      "consultado": "2026-11-16T18:35:18Z",
+      "sha256": "3abfee7fc51c0bb7d09c0d6fc8a4c7140be1e4102c9defd6dc28122d372c2199",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5102730&Asunto=5102543"
+    },
+    {
+      "archivo": "fuentes/b5/b5eb3275dcb12f21302b51a2380d98bc5550a6fe437bbd917ba68177380e1980.html",
+      "consultado": "2026-11-16T18:35:22Z",
+      "sha256": "b5eb3275dcb12f21302b51a2380d98bc5550a6fe437bbd917ba68177380e1980",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5102543&Seguimiento=5102730"
+    }
+  ],
+  "tramites": {
+    "5102543": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 8,
+          "yes": 27
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 27 En contra: 8 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 10/06/2026",
+  "votaciones": [
+    "sil-5102543-1"
+  ]
+}

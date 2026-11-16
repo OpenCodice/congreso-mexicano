@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "5064769",
+      "denominacion": "Para que se permita la salida tropas del país, con efecto de que participen en el Ejercicio Multinacional -TRADEWINDS 2026-, que se llevará a cabo del 3 al 17 de junio de 2026, en Antigua y Barbuda.",
+      "estatus": "Publicado en DOF 30/04/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5064769_20260414_1776179427.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "5066618",
+      "denominacion": "Relativo a la solicitud de autorización para que se permita la salida de una delegación de la Armada de México, conformada por 120 (ciento veinte) elementos fuera de los límites del país del 25 de mayo al 26 de junio de 2026, con el fin de que participen en el Ejercicio Multinacional -TRADEWINDS 2026- en Antigua y Barbuda.",
+      "estatus": "Publicado en DOF 30/04/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5066618_20260414_1776198126.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070378",
+      "denominacion": "Relativo a la solicitud de autorización para que se permita la salida de una delegación de la Armada de México, conformada por 120 (ciento veinte) elementos fuera de los límites del país del 25 de mayo al 26 de junio de 2026, con el fin de que participen en el Ejercicio Multinacional -TRADEWINDS 2026- en Antigua y Barbuda.",
+      "estatus": "Publicado en DOF 30/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070378_20260415_1776198127.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-04-30"
+    }
+  ],
+  "denominacion": "Relativo a la solicitud de autorización para que se permita la salida de una delegación de la Armada de México, conformada por 120 (ciento veinte) elementos fuera de los límites del país del 25 de mayo al 26 de junio de 2026, con el fin de que participen en el Ejercicio Multinacional -TRADEWINDS 2026- en Antigua y Barbuda.",
+  "id": "sil-5067823",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-04-30",
+  "seguimiento": "5067823",
+  "sources": [
+    {
+      "archivo": "fuentes/52/528d9ea74d159062afa06f0de7b893233061a815e3c0b6f10ccf7da59015fce9.html",
+      "consultado": "2026-11-16T18:15:49Z",
+      "sha256": "528d9ea74d159062afa06f0de7b893233061a815e3c0b6f10ccf7da59015fce9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5067823&Asunto=5070378"
+    },
+    {
+      "archivo": "fuentes/93/9302f7b82a73ac676ba5fb66ce93c1a143ec3c285376ee10c85e5a3888ccfa23.html",
+      "consultado": "2026-11-16T18:15:52Z",
+      "sha256": "9302f7b82a73ac676ba5fb66ce93c1a143ec3c285376ee10c85e5a3888ccfa23",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070378&Seguimiento=5067823"
+    }
+  ],
+  "tramites": {
+    "5070378": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 3,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 3",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 30/04/2026",
+  "votaciones": [
+    "sil-5070378-1"
+  ]
+}

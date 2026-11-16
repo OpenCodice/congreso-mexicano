@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4899424",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Cambio Climático.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-05-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/05/asun_4899424_20250514_1747244776.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086683",
+      "denominacion": "Que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086683_20260429_1777482860.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088446",
+      "denominacion": "Que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088446_20260429_1777481118.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120795",
+      "denominacion": "Con proyecto de decreto por el que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120795_20260902_1788361389.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable.",
+  "id": "sil-5090377",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090377",
+  "sources": [
+    {
+      "archivo": "fuentes/48/487bfefcdc7e86f45507507cbf7c7257ad1b07e19b27627b2f908e75979ab99d.html",
+      "consultado": "2026-11-16T18:28:18Z",
+      "sha256": "487bfefcdc7e86f45507507cbf7c7257ad1b07e19b27627b2f908e75979ab99d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090377&Asunto=5088446"
+    },
+    {
+      "archivo": "fuentes/b1/b198cf4df500a3beeec84bf19ebad2cdae54d82dc291f51a6b06e53b888b613b.html",
+      "consultado": "2026-11-16T18:28:22Z",
+      "sha256": "b198cf4df500a3beeec84bf19ebad2cdae54d82dc291f51a6b06e53b888b613b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088446&Seguimiento=5090377"
+    }
+  ],
+  "tramites": {
+    "5088446": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Cambio Climático y Sostenibilidad, que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 450
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 450 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088446-1"
+  ]
+}

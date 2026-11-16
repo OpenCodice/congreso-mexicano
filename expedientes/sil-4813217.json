@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "4800080",
+      "denominacion": "Con el que remite el nombramiento de Raquel Buenrostro Sánchez, como Secretaria de la Función Pública.",
+      "estatus": "Toma de protesta 28/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800080_20241112_1731423652.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4812085",
+      "denominacion": "Por el que se propone la ratificación del nombramiento que el Poder Ejecutivo Federal extendió a favor de Raquel Buenrostro Sánchez, como titular de la Secretaría de la Función Pública.",
+      "estatus": "Toma de protesta 28/11/2024",
+      "fecha": "2024-11-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4812085_20241128_1732810230.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-11-27"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-11-28"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-11-28"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2024-11-28"
+    }
+  ],
+  "denominacion": "Por el que se propone la ratificación del nombramiento que el Poder Ejecutivo Federal extendió a favor de Raquel Buenrostro Sánchez, como titular de la Secretaría de la Función Pública.",
+  "id": "sil-4813217",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4813217",
+  "sources": [
+    {
+      "archivo": "fuentes/68/688ea31b6ba266f8367d89a9dbc8e379f6f30e06790b87687261368242bf407a.html",
+      "consultado": "2026-11-16T15:45:36Z",
+      "sha256": "688ea31b6ba266f8367d89a9dbc8e379f6f30e06790b87687261368242bf407a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4813217&Asunto=4812085"
+    },
+    {
+      "archivo": "fuentes/fe/fed48f50f0266a535a4569304a98ed8cef462923acacf13b4d5e8fc15c892b3d.html",
+      "consultado": "2026-11-16T15:45:40Z",
+      "sha256": "fed48f50f0266a535a4569304a98ed8cef462923acacf13b4d5e8fc15c892b3d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4812085&Seguimiento=4813217"
+    }
+  ],
+  "tramites": {
+    "4812085": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de publicación de veinticuatro horas previo a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 17,
+          "no": 1,
+          "yes": 95
+        },
+        "texto": "Aprobado en lo general y en lo particular Senadoras y senadores a favor sólo para registro en el Diario de los Debates: Sen. Mariela Gutiérrez Escalante (Morena), Sen. Saúl Monreal Ávila (Morena) y Sen. Manuel Velasco Coello (PVEM) A Favor: 95 En contra: 1 Abstenciones 17",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 28/11/2024",
+  "votaciones": [
+    "sil-4812085-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "4917471",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 9
+    }
+  ],
+  "expediente_id": "sil-4917594",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4917471-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento en favor de María del Carmen Bonilla Rodríguez como Subsecretaria de Hacienda y Crédito Público de la Secretaría de Hacienda y Crédito Público.",
+    "text": "Aprobado A Favor: 22 En contra: 0 Abstenciones 9"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/67/672b25ae0d42614e6d98fa7205552e841c7679f2b31316bd20d12bbeb3965c18.html",
+      "consultado": "2026-11-16T16:44:48Z",
+      "sha256": "672b25ae0d42614e6d98fa7205552e841c7679f2b31316bd20d12bbeb3965c18",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4917471"
+    }
+  ],
+  "start_date": "2025-08-13",
+  "votes": [],
+  "votos_publicados": false
+}

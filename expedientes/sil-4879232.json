@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4846581",
+      "denominacion": "Con el que remite el Plan Nacional de Desarrollo 2025-2030.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4846581_20250304_1741106396.pdf",
+      "tipo": "Informe"
+    },
+    {
+      "clave": "4877318",
+      "denominacion": "Relativo al Plan Nacional de Desarrollo 2025-2030.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-04-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4877318_20250410_1744309864.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-04-09"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-15"
+    }
+  ],
+  "denominacion": "Relativo al Plan Nacional de Desarrollo 2025-2030.",
+  "id": "sil-4879232",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-15",
+  "seguimiento": "4879232",
+  "sources": [
+    {
+      "archivo": "fuentes/18/188aeccbae037a4cc018697171f6779d134c89fe40dce05b2a2a514194dff6ec.html",
+      "consultado": "2026-11-16T16:18:15Z",
+      "sha256": "188aeccbae037a4cc018697171f6779d134c89fe40dce05b2a2a514194dff6ec",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4879232&Asunto=4877318"
+    },
+    {
+      "archivo": "fuentes/95/9541c8736a23fc5dbb15c042f048a0ba20a0883e68a9dfc34cd75d7024471d60.html",
+      "consultado": "2026-11-16T16:18:19Z",
+      "sha256": "9541c8736a23fc5dbb15c042f048a0ba20a0883e68a9dfc34cd75d7024471d60",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4877318&Seguimiento=4879232"
+    }
+  ],
+  "tramites": {
+    "4877318": [
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Se rechazó considerar suficientemente discutido el acuerdo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el acuerdo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 122,
+          "yes": 343
+        },
+        "texto": "Aprobado A Favor: 343 En contra: 122 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "el acuerdo relativo al Plan Nacional de Desarrollo 2025-2030.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      },
+      {
+        "texto": "el Plan Nacional de Desarrollo 2025-2030.",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 15/04/2025",
+  "votaciones": [
+    "sil-4877318-1"
+  ]
+}

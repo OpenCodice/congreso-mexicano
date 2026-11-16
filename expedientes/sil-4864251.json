@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4850863",
+      "denominacion": "Con el que remite del Ejecutivo Federal, la solicitud de autorización para que se permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del País, a efecto de que participen en la 58/a. edición de la competencia Internacional de habilidades militares denominada -Sandhurst 2025-, que se llevará a cabo el 2 y 3 de mayo de 2025 en la Academia Militar de West Point, Nueva York, Estados Unidos de América.",
+      "estatus": "Publicado en DOF 07/04/2025",
+      "fecha": "2025-03-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4850863_20250305_1741289798.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4863393",
+      "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en la 58/a. edición de la competencia Internacional de habilidades -Sandhurst 2025-, que se llevará a cabo el 2 y 3 de mayo de 2025 en la Academia Militar de West Point, Nueva York, Estados Unidos de América.",
+      "estatus": "Publicado en DOF 07/04/2025",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4863393_20250325_1742953787.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4865627",
+      "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en la 58/a. edición de la competencia Internacional de habilidades -Sandhurst 2025-, que se llevará a cabo el 2 y 3 de mayo de 2025 en la Academia Militar de West Point, Nueva York, Estados Unidos de América.",
+      "estatus": "Publicado en DOF 07/04/2025",
+      "fecha": "2025-03-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4865627_20250326_1742953788.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-03-27"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-03-27"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-03-27"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-07"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en la 58/a. edición de la competencia Internacional de habilidades -Sandhurst 2025-, que se llevará a cabo el 2 y 3 de mayo de 2025 en la Academia Militar de West Point, Nueva York, Estados Unidos de América.",
+  "id": "sil-4864251",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-07",
+  "seguimiento": "4864251",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4afea60b6cbb8404f323417157eeb6d75ff0a207cf66e5f1e9c7a6e6747b9dc1.html",
+      "consultado": "2026-11-16T16:11:14Z",
+      "sha256": "4afea60b6cbb8404f323417157eeb6d75ff0a207cf66e5f1e9c7a6e6747b9dc1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4864251&Asunto=4865627"
+    },
+    {
+      "archivo": "fuentes/91/91d2bc6cbc0d94a08bb54a27a1f6820ed1efb67fda8b2fd3ceac4c05df429c02.html",
+      "consultado": "2026-11-16T16:11:18Z",
+      "sha256": "91d2bc6cbc0d94a08bb54a27a1f6820ed1efb67fda8b2fd3ceac4c05df429c02",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4865627&Seguimiento=4864251"
+    }
+  ],
+  "tramites": {
+    "4865627": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar la lectura del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 78
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Geovanna del Carmen Bañuelos de la Torre (PT), Sen. Alejandro González Yáñez (PT), Sen. Ana Karen Hernández Aceves (PT), Sen. Yeidckol Polevnsky Gurwitz (PT) y Sen. Emmanuel Reyes Carmona (Morena). A Favor: 78 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/04/2025",
+  "votaciones": [
+    "sil-4865627-1"
+  ]
+}

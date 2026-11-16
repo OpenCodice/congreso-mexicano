@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4841447",
+      "denominacion": "Que declara el 21 de febrero de cada año como Día Nacional del Guía de Turismo en México.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4841447_20250225_1740503242.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4894246",
+      "denominacion": "Con proyecto de decreto por el que establece el 21 de febrero de cada año como -Día Nacional del Guía de Turismo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894246_20250429_1745957719.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4998358",
+      "denominacion": "Que contiene proyecto de decreto por el que se declara el 21 de febrero de cada año como -Día Nacional del Guía de Turismo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4998358_20251209_1765327274.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4999134",
+      "denominacion": "Que declara el 21 de febrero de cada año como el -Día Nacional del Guía de Turismo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999134_20251210_1765390239.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-10"
+    }
+  ],
+  "denominacion": "Que contiene proyecto de decreto por el que se declara el 21 de febrero de cada año como -Día Nacional del Guía de Turismo-.",
+  "id": "sil-4894336",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4894336",
+  "sources": [
+    {
+      "archivo": "fuentes/06/066d049d22a5b41dd08b2b4965b7833b6cebdbf9b1ee33cbc27a3790352fe25c.html",
+      "consultado": "2026-11-16T16:30:53Z",
+      "sha256": "066d049d22a5b41dd08b2b4965b7833b6cebdbf9b1ee33cbc27a3790352fe25c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894336&Asunto=4998358"
+    },
+    {
+      "archivo": "fuentes/cc/cc031dd3added61aad2342cb626363225bd036faedf8c001d4b2ef473dcb8ffc.html",
+      "consultado": "2026-11-16T16:30:57Z",
+      "sha256": "cc031dd3added61aad2342cb626363225bd036faedf8c001d4b2ef473dcb8ffc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4998358&Seguimiento=4894336"
+    }
+  ],
+  "tramites": {
+    "4998358": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 81
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 81 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/12/2025",
+  "votaciones": [
+    "sil-4998358-1"
+  ]
+}

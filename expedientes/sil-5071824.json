@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4967368",
+      "denominacion": "Que declara el 16 de diciembre de cada año como el -Día Nacional de las Islas Marías-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2025-11-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4967368_20251105_1760457504.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5070387",
+      "denominacion": "Con proyecto de decreto por el que se declara al 16 de diciembre de cada año como -Día Nacional de las Islas Marías-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070387_20260415_1776198356.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5190029",
+      "denominacion": "Con proyecto de decreto por el que declara al 16 de diciembre de cada año como -Día Nacional de las Islas Marías-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2026-11-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5190029_20261104_1793808250.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5190750",
+      "denominacion": "Con proyecto de decreto por el que declara al 16 de diciembre de cada año como -Día Nacional de las Islas Marías-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2026-11-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5190750_20261109_1794256316.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-04"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-04"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-04"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-09"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-09"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara al 16 de diciembre de cada año como -Día Nacional de las Islas Marías-.",
+  "id": "sil-5071824",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071824",
+  "sources": [
+    {
+      "archivo": "fuentes/50/508cd5861007702f07a3f83efc3eda50d3d4a971a814163085f618d5cfa6fec8.html",
+      "consultado": "2026-11-16T18:23:21Z",
+      "sha256": "508cd5861007702f07a3f83efc3eda50d3d4a971a814163085f618d5cfa6fec8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071824&Asunto=5190029"
+    },
+    {
+      "archivo": "fuentes/ad/ad611f87a0a473ec2f0ea366b57282f63f28fe3b7e93579e5c64cd68a22dd4eb.html",
+      "consultado": "2026-11-16T18:23:25Z",
+      "sha256": "ad611f87a0a473ec2f0ea366b57282f63f28fe3b7e93579e5c64cd68a22dd4eb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5190029&Seguimiento=5071824"
+    }
+  ],
+  "tramites": {
+    "5190029": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 09/11/2026",
+  "votaciones": [
+    "sil-5190029-1"
+  ]
+}

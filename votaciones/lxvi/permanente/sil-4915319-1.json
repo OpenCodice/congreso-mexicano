@@ -1,0 +1,41 @@
+{
+  "asunto": "4915319",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 29
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4915616",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4915319-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento a favor de José de Jesús Cisneros Chávez como Embajador Extraordinario y Plenipotenciario de México en la República de Haití.",
+    "text": "Aprobado A Favor: 29 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dde0c6f25d87ec127aecec45f1f21bfdac85d2e2bbeb03284c8fc4cb58a5e08.html",
+      "consultado": "2026-11-16T16:41:54Z",
+      "sha256": "5dde0c6f25d87ec127aecec45f1f21bfdac85d2e2bbeb03284c8fc4cb58a5e08",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4915319"
+    }
+  ],
+  "start_date": "2025-07-30",
+  "votes": [],
+  "votos_publicados": false
+}

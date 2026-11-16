@@ -1,0 +1,41 @@
+{
+  "asunto": "4907678",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 30
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "abstain",
+      "value": 5
+    }
+  ],
+  "expediente_id": "sil-4908426",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907678-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Luis Rodríguez Bucio, como Cónsul General de México en Dallas, Texas, Estados Unidos de América.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 30 En contra: 3 Abstenciones 5"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c8/c81d9914cc9012ba3629c15285a2e73fa4612e43ea7f88fd25699743c8b049e8.html",
+      "consultado": "2026-11-16T16:38:56Z",
+      "sha256": "c81d9914cc9012ba3629c15285a2e73fa4612e43ea7f88fd25699743c8b049e8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907678"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

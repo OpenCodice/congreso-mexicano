@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4796968",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2024-11-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4796968_20241105_1727985186.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4935658",
+      "denominacion": "Que reforma los artículos 111 y 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4935658_20250930_1759247509.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4939307",
+      "denominacion": "Que reforma los artículos 111 y 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4939307_20251001_1759334464.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4942269",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 111 y 111 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4942269_20251007_1759851926.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-07"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-07"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 111 y 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+  "id": "sil-4937807",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4937807",
+  "sources": [
+    {
+      "archivo": "fuentes/b1/b19e15921c464fcc456192239eb4be0c7089e485869ba321007db0888496eaf5.html",
+      "consultado": "2026-11-16T16:51:47Z",
+      "sha256": "b19e15921c464fcc456192239eb4be0c7089e485869ba321007db0888496eaf5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937807&Asunto=4939307"
+    },
+    {
+      "archivo": "fuentes/c1/c19099885e1eb2e460364e9f3d86807b8198c9fa7bdb2b247e33a1e237f26eb6.html",
+      "consultado": "2026-11-16T16:51:50Z",
+      "sha256": "c19099885e1eb2e460364e9f3d86807b8198c9fa7bdb2b247e33a1e237f26eb6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4939307&Seguimiento=4937807"
+    }
+  ],
+  "tramites": {
+    "4939307": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Medio Ambiente y Recursos Naturales que reforma los artículos 111 y 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 469
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 469 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 07/10/2025",
+  "votaciones": [
+    "sil-4939307-1"
+  ]
+}

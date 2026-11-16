@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4816362",
+      "denominacion": "Solicitud de autorización para que permita la salida de los elementos que integran la delegación de tropas nacionales, a efecto de que participen en la Competencia Internacional Reto Swat, que se realizará en la Ciudad de Dubai, Emiratos Árabes Unidos, del 1 al 5 de febrero de 2025.",
+      "estatus": "Publicado en DOF 20/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4816362_20241203_1733330044.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4818781",
+      "denominacion": "Con proyecto de decreto por el que se autoriza la salida de los elementos que integran la delegación de tropas nacionales, a efecto de que participen en la Competencia Internacional Reto Swat, que se realizará en la Ciudad de Dubái, Emiratos Árabes Unidos, del 1 al 5 de febrero de 2025.",
+      "estatus": "Publicado en DOF 20/12/2024",
+      "fecha": "2024-12-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4818781_20241205_1733441387.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4820213",
+      "denominacion": "Con proyecto de decreto por el que se autoriza la salida de los elementos que integran la delegación de tropas nacionales, a efecto de que participen en la Competencia Internacional Reto Swat, que se realizará en la Ciudad de Dubái, Emiratos Árabes Unidos, del 1 al 5 de febrero de 2025.",
+      "estatus": "Publicado en DOF 20/12/2024",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4820213_20241209_1733441388.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-12-20"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se autoriza la salida de los elementos que integran la delegación de tropas nacionales, a efecto de que participen en la Competencia Internacional Reto Swat, que se realizará en la Ciudad de Dubái, Emiratos Árabes Unidos, del 1 al 5 de febrero de 2025.",
+  "id": "sil-4819446",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-12-20",
+  "seguimiento": "4819446",
+  "sources": [
+    {
+      "archivo": "fuentes/9e/9e1e9ff59807f6fc47bb6dd94e9b1b22e4caf807cf2a3b95840de1593aa18829.html",
+      "consultado": "2026-11-16T15:50:58Z",
+      "sha256": "9e1e9ff59807f6fc47bb6dd94e9b1b22e4caf807cf2a3b95840de1593aa18829",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4819446&Asunto=4820213"
+    },
+    {
+      "archivo": "fuentes/19/19d0e4c9c110be11e86305a84e576d6df9b37614bcf8059c860c75e5587e495b.html",
+      "consultado": "2026-11-16T15:51:02Z",
+      "sha256": "19d0e4c9c110be11e86305a84e576d6df9b37614bcf8059c860c75e5587e495b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4820213&Seguimiento=4819446"
+    }
+  ],
+  "tramites": {
+    "4820213": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 103
+        },
+        "texto": "Aprobado en lo general y en lo particular voto de los senadores Alberto Anaya Gutiérrez (PT) y José Sabino Herrera Dagdug (Morena), solo para el registro en el Diario de los Debates. A Favor: 103 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Para sus efectos constitucionales",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 20/12/2024",
+  "votaciones": [
+    "sil-4820213-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5042792",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 68
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034961",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5042792-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que adiciona un inciso i) al párrafo tercero del artículo 132 de la Ley General de Educación.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 68 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4adffbf0f31a18ad772d54d42adcb7915f7b626aac7d5b04aa6820fbf1c92968.html",
+      "consultado": "2026-11-16T17:59:47Z",
+      "sha256": "4adffbf0f31a18ad772d54d42adcb7915f7b626aac7d5b04aa6820fbf1c92968",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5042792"
+    }
+  ],
+  "start_date": "2026-03-19",
+  "votes": [],
+  "votos_publicados": false
+}

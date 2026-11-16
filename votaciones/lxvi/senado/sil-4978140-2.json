@@ -1,0 +1,41 @@
+{
+  "asunto": "4978140",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 95
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4961172",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4978140-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y reforma, adiciona y deroga diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y, de la Ley Orgánica del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 95 En contra: 12 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d664b0e9396aca509a11043ef46f5eaa132a7f28253b05b39814914e4dcd94f1.html",
+      "consultado": "2026-11-16T17:03:34Z",
+      "sha256": "d664b0e9396aca509a11043ef46f5eaa132a7f28253b05b39814914e4dcd94f1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4978140"
+    }
+  ],
+  "start_date": "2025-11-19",
+  "votes": [],
+  "votos_publicados": false
+}

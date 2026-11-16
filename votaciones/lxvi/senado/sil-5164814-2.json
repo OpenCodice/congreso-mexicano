@@ -1,0 +1,41 @@
+{
+  "asunto": "5164814",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 69
+    },
+    {
+      "option": "no",
+      "value": 32
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5154792",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5164814-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+    "text": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 69 En contra: 32 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/a8/a83d5bb34a82948c912917103573a239231dd10d198a8c99ecdd4eb24434c88e.html",
+      "consultado": "2026-11-16T18:42:55Z",
+      "sha256": "a83d5bb34a82948c912917103573a239231dd10d198a8c99ecdd4eb24434c88e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5164814"
+    }
+  ],
+  "start_date": "2026-10-14",
+  "votes": [],
+  "votos_publicados": false
+}

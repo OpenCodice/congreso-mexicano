@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4925486",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones a la Ley Federal de Protección a la Propiedad Industrial, en Materia de Transferencia de Tecnología y para Simplificar el Proceso de Protección de Patentes y Registros.",
+      "estatus": "Publicado en DOF 03/04/2026",
+      "fecha": "2025-09-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4925486_20250917_1758121566.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5032313",
+      "denominacion": "Con proyecto de decreto por el que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial.",
+      "estatus": "Publicado en DOF 03/04/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032313_20260310_1773168637.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5034929",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial.",
+      "estatus": "Publicado en DOF 03/04/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5034929_20260310_1773183633.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5040656",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial.",
+      "estatus": "Publicado en DOF 03/04/2026",
+      "fecha": "2026-03-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5040656_20260318_1773859862.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5040925",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial en Materia de Transferencia de Tecnología y para Simplificar el Proceso de Protección de Patentes y Registros.",
+      "estatus": "Publicado en DOF 03/04/2026",
+      "fecha": "2026-03-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5040925_20260318_1773867071.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-04-03"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial en Materia de Transferencia de Tecnología y para Simplificar el Proceso de Protección de Patentes y Registros.",
+  "id": "sil-5034958",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-04-03",
+  "seguimiento": "5034958",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61d40e970cc0cbee9f4687fb4d61ff827493d0dd8847cc102b42a58979654c73.html",
+      "consultado": "2026-11-16T17:58:34Z",
+      "sha256": "61d40e970cc0cbee9f4687fb4d61ff827493d0dd8847cc102b42a58979654c73",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5034958&Asunto=5040925"
+    },
+    {
+      "archivo": "fuentes/66/664480eb69b6e4d8af47f5b5e2c8b7ebcf4ed0f51a004d44f285373fe89447cc.html",
+      "consultado": "2026-11-16T17:58:38Z",
+      "sha256": "664480eb69b6e4d8af47f5b5e2c8b7ebcf4ed0f51a004d44f285373fe89447cc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5040925&Seguimiento=5034958"
+    }
+  ],
+  "tramites": {
+    "5040925": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa a la Asamblea que se han presentado propuestas de modificación a los artículos 136 Bis y 173 del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial. Añade que los textos de las propuestas de modificación serán insertados, de manera íntegra, en el Diario de los Debates.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 447
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 447 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 03/04/2026",
+  "votaciones": [
+    "sil-5040925-1"
+  ]
+}

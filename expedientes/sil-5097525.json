@@ -1,0 +1,636 @@
+{
+  "asuntos": [
+    {
+      "clave": "5094119",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5094119_20260521_1779379635.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5097236",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5097236_20260526_1779838056.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5097257",
+      "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5097257_20260526_1779908293.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5098183",
+      "denominacion": "Con proyecto de decreto por el que se reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma del Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5098183_20260528_1779983354.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5098467",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma del Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5098467_20260528_1780530408.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5098480",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma del Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5098480_20260528_1780018611.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5098847",
+      "denominacion": "Declaratoria de reforma constitucional de la minuta con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-06-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/06/asun_5098847_20260601_1780345343.pdf",
+      "tipo": "Declaratoria de reforma constitucional"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-05-26"
+    },
+    {
+      "estatus": "Aprobado en lo general en origen",
+      "fecha": "2026-05-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-05-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-05-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Turnado a Congresos Locales",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Aprobado por Congresos Locales",
+      "fecha": "2026-06-01"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-06-01"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-06-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+  "id": "sil-5097525",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-06-02",
+  "seguimiento": "5097525",
+  "sources": [
+    {
+      "archivo": "fuentes/1e/1e62d1717e9b8b33d7a0bd7eed5701d2c958a7d81f0c9a2ceb314517a3ab77a6.html",
+      "consultado": "2026-11-16T18:32:37Z",
+      "sha256": "1e62d1717e9b8b33d7a0bd7eed5701d2c958a7d81f0c9a2ceb314517a3ab77a6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5097525&Asunto=5097257"
+    },
+    {
+      "archivo": "fuentes/57/573a9d04266723de4c5753dacf4a53ac6e01990919c43e787492762fc399e927.html",
+      "consultado": "2026-11-16T18:32:41Z",
+      "sha256": "573a9d04266723de4c5753dacf4a53ac6e01990919c43e787492762fc399e927",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5097257&Seguimiento=5097525"
+    }
+  ],
+  "tramites": {
+    "5097257": [
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Margarita Ester Zavala Gómez del Campo (PAN)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Rubén Ignacio Moreira Valdez (PRI)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar si el dictamen se encuentra suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "a la totalidad del proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 124,
+          "yes": 341
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados es mayoría calificada. A Favor: 341 En contra: 124 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "A las 22:24 horas del martes 26 de mayo de 2026 la presidencia de la Mesa Directiva decreta un receso y cita a las 09:00 horas del miércoles 27 de mayo de 2026 para reanudar la sesión con la discusión en lo particular.",
+        "tipo": "Receso"
+      },
+      {
+        "texto": "A las 09:31 horas del miércoles 27 de mayo de 2026 la presidenta de la Mesa Directiva reanuda la sesión con la discusión en lo particular del dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Reinicio de Sesión"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. David Azuara Zúñiga (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Luvianka Guadalupe Partida Chávez (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de Fátima García León (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. José Guillermo Anaya Llamas (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Emilio Lara Calderón (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Olga María del Carmen Sánchez Cordero Dávila (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Blanca Leticia Gutiérrez Garza (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Francisco Javier Farias Bailón (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Liliana Ortiz Pérez (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Roberto Sosa Pichardo (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Ignacio Zavala Gutiérrez (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paola Michell Longoria López (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Eduardo Gaona Domínguez (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Christian Mishel Castro Bello (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Fuensanta Guadalupe Guerrero Esquivel (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Paulo Gonzalo Martínez López (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana María Balderas Trejo (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Diego Ángel Rodríguez Barroso (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mariana Guadalupe Jiménez Zamora (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Francisco Javier Farias Bailón (MC) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Graciela Ortiz González (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Miguel Alejandro Alonso Reyes (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Theodoros Kalionchiz De la Fuente (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Nancy Aracely Olguín Díaz (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Víctor Adrián Martínez Terrazas (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paola Milagros Espinosa Sánchez (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. José Manuel Hinojosa Pérez (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. José Mario Íñiguez Franco (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por Dip. Arturo Roberto Hernández Tapia (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Moreno De Haro (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Israel Betanzos Cortés (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Arturo Yáñez Cuéllar (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Emilio Suárez Licona (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Asael Hernández Cerón (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Elisa Paola Zamora Ramírez (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. David Alejandro Cortés Mendoza (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Luisa Kato Meza (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Isabel Rodríguez Heredia (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Isabel Rodríguez Heredia (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva formulada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado aceptar la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la propuesta de modificación presentada por el Dip. Sergio Carlos Gutiérrez Luna (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Sergio Carlos Gutiérrez Luna (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado aceptar la propuesta de modificación presentada por el Dip. Sergio Carlos Gutiérrez Luna (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado aceptar la propuesta de modificación para su votación nominal en conjunto presentada por el Dip. Sergio Carlos Gutiérrez Luna (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva formulada por el Dip. Leonel Godoy Rangel (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Leonel Godoy Rangel al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado aceptar la reserva formulada por el Dip. Leonel Godoy Rangel (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó votar por separado la reserva que modifica el articulo cuarto transitorio presentada por el Dip. Sergio Carlos Gutiérrez Luna (Morena) del dictamen que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma al Poder Judicial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 22,
+          "no": 132,
+          "yes": 322
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas es mayoría calificada A Favor: 322 En contra: 132 Abstenciones 22",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5098480": [
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la moción suspensiva presentada por la Sen. Alma Carolina Viggiano Austria (PRI) al dictamen. Se desecha la moción.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 40,
+          "yes": 87
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 87 En contra: 40 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Agustín Dorantes Lámbarri (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. José Máximo García López (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Alma Carolina Viggiano Austria (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. María Guadalupe Murguía Gutiérrez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Yesenia Ramírez Saldaña (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Ivideliza Reyes Hernández (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Javier Corral Jurado (Morena).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Laura Esquivel Torres (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Erik Iván Jaimes Archundia (Sin Partido).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Néstor Camarillo Medina (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Mario Humberto Vázquez Robles (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Karen Michel González Márquez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Sandra Simey Olvera Bautista (Morena).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Gina Gerardina Campuzano González (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Miguel Márquez Márquez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. María Alejandra Barrales Magdaleno (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Amalia Dolores García Medina (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 40,
+          "yes": 86
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 86 En contra: 40 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para los efectos del artículo 135 de la Constitución Política de los Estados Unidos Mexicanos.",
+        "tipo": "Túrnese a los congresos locales para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 02/06/2026",
+  "votaciones": [
+    "sil-5097257-1",
+    "sil-5097257-2",
+    "sil-5098480-1",
+    "sil-5098480-2"
+  ]
+}

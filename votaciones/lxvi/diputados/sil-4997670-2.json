@@ -1,0 +1,41 @@
+{
+  "asunto": "4997670",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 278
+    },
+    {
+      "option": "no",
+      "value": 25
+    },
+    {
+      "option": "abstain",
+      "value": 136
+    }
+  ],
+  "expediente_id": "sil-4998955",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4997670-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las propuestas de modificación aprobadas por la Asamblea. A Favor: 278 En contra: 25 Abstenciones 136"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/cc/cc07b9c1c42a826bd08d6bf3352436d3cef837b6d0e2fee6661ed5e57df13197.html",
+      "consultado": "2026-11-16T17:33:31Z",
+      "sha256": "cc07b9c1c42a826bd08d6bf3352436d3cef837b6d0e2fee6661ed5e57df13197",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4997670"
+    }
+  ],
+  "start_date": "2025-12-09",
+  "votes": [],
+  "votos_publicados": false
+}

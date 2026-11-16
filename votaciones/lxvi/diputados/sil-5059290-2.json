@@ -1,0 +1,41 @@
+{
+  "asunto": "5059290",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 343
+    },
+    {
+      "option": "no",
+      "value": 124
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-5054726",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5059290-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. Es mayoría calificada. A Favor: 343 En contra: 124 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/5e/5e87bfa4d263583731943430fae82b44eea16c3bead2f67066110a4194e9c950.html",
+      "consultado": "2026-11-16T18:09:45Z",
+      "sha256": "5e87bfa4d263583731943430fae82b44eea16c3bead2f67066110a4194e9c950",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5059290"
+    }
+  ],
+  "start_date": "2026-04-08",
+  "votes": [],
+  "votos_publicados": false
+}

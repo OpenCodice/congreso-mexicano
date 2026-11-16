@@ -1,0 +1,41 @@
+{
+  "asunto": "5025166",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 84
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5022792",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5025166-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto por el que declara el 22 de julio de cada año, como el -Día Nacional del Cerebro-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 84 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/af/af5958bd4593d94c0864e5c9d8dfc78e0f8b5f02ca43ddb21288a77120f8cca0.html",
+      "consultado": "2026-11-16T17:47:40Z",
+      "sha256": "af5958bd4593d94c0864e5c9d8dfc78e0f8b5f02ca43ddb21288a77120f8cca0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5025166"
+    }
+  ],
+  "start_date": "2026-03-03",
+  "votes": [],
+  "votos_publicados": false
+}

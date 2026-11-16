@@ -1,0 +1,41 @@
+{
+  "asunto": "4816467",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 114
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4816257",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4816467-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia, cuidados y erradicación de la brecha salarial por razones de género.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 17 de la Ley General para la Igualdad entre Mujeres y Hombres, 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en términos del dictamen. A Favor: 114 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/75/75656e21ebb627daa7e5e5a0891b509f8f602d0d913fdab73922e0e6128e1027.html",
+      "consultado": "2026-11-16T15:47:29Z",
+      "sha256": "75656e21ebb627daa7e5e5a0891b509f8f602d0d913fdab73922e0e6128e1027",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4816467"
+    }
+  ],
+  "start_date": "2024-12-04",
+  "votes": [],
+  "votos_publicados": false
+}

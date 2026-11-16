@@ -1,0 +1,41 @@
+{
+  "asunto": "5168635",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 100
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5163402",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5168635-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 8, 12 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 100 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61432d702d3150606debe65872a24da1b1af078d07eaf5e645278fbda831bd4e.html",
+      "consultado": "2026-11-16T18:48:01Z",
+      "sha256": "61432d702d3150606debe65872a24da1b1af078d07eaf5e645278fbda831bd4e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5168635"
+    }
+  ],
+  "start_date": "2026-10-20",
+  "votes": [],
+  "votos_publicados": false
+}

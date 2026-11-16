@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4779691",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2024-10-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4779691_20241003_1727978161.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4919201",
+      "denominacion": "Que reforma las fracciones XIII y XIV y adiciona una fracción XV al artículo 17 de Ley General para la Igualdad entre Mujeres y Hombres.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2025-08-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4919201_20250827_1756307386.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086631",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 14, 15, 16 y 17 de la Ley General Para la Igualdad Sustantiva entre Mujeres y Hombres.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086631_20260429_1777485036.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5138227",
+      "denominacion": "Con proyecto de decreto que reforma los artículos 14, 15, 16 y 17 de la Ley General Para la Igualdad Sustantiva entre Mujeres y Hombres.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5138227_20260922_1790098217.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5143816",
+      "denominacion": "Minuta que reforma los artículos 14, 15, 16 y 17 de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5143816_20260929_1790708193.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma los artículos 14, 15, 16 y 17 de la Ley General Para la Igualdad Sustantiva entre Mujeres y Hombres.",
+  "id": "sil-5090241",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090241",
+  "sources": [
+    {
+      "archivo": "fuentes/86/86a65cae1705e2c295f1c9232baf80a9cdfa78ce4ab66f566af3ed9ce4d9190d.html",
+      "consultado": "2026-11-16T18:26:04Z",
+      "sha256": "86a65cae1705e2c295f1c9232baf80a9cdfa78ce4ab66f566af3ed9ce4d9190d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090241&Asunto=5138227"
+    },
+    {
+      "archivo": "fuentes/b5/b59027fc565ff04774436ce58931262a637b26ba631095f771d11a96680bea07.html",
+      "consultado": "2026-11-16T18:26:07Z",
+      "sha256": "b59027fc565ff04774436ce58931262a637b26ba631095f771d11a96680bea07",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5138227&Seguimiento=5090241"
+    }
+  ],
+  "tramites": {
+    "5138227": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 99
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 29/09/2026",
+  "votaciones": [
+    "sil-5138227-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5012854",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 41
+    },
+    {
+      "option": "no",
+      "value": 52
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-5012470",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5012854-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones del artículo 123, Apartado A de la Constitución Política de los Estados Unidos Mexicanos, en materia de reducción de la jornada laboral.",
+    "text": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Luis Donaldo Colosio Riojas (MC). A Favor: 41 En contra: 52 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/cc/cc183c725b6ea8a8822cb65166c71106807b811100e19dd370bff63a6755d90e.html",
+      "consultado": "2026-11-16T17:37:31Z",
+      "sha256": "cc183c725b6ea8a8822cb65166c71106807b811100e19dd370bff63a6755d90e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5012854"
+    }
+  ],
+  "start_date": "2026-02-11",
+  "votes": [],
+  "votos_publicados": false
+}

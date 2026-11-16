@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5059221",
+      "denominacion": "Por el que somete a la aprobación de este Órgano Legislativo la designación del C. Alfredo Federico Navarrete Martínez, como Vocal de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario.",
+      "estatus": "Toma de protesta 14/04/2026",
+      "fecha": "2026-04-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5059221_20260407_1775606419.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5066666",
+      "denominacion": "Correspondiente a la Designación del C. Alfredo Federico Navarrete Martínez como Vocal de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario (IPAB) por el período del 23 de marzo de 2026 al 31 de diciembre de 2029.",
+      "estatus": "Toma de protesta 14/04/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5066666_20260414_1776199087.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2026-04-14"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2026-04-14"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-04-14"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-14"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2026-04-14"
+    }
+  ],
+  "denominacion": "Correspondiente a la Designación del C. Alfredo Federico Navarrete Martínez como Vocal de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario (IPAB) por el período del 23 de marzo de 2026 al 31 de diciembre de 2029.",
+  "id": "sil-5067822",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5067822",
+  "sources": [
+    {
+      "archivo": "fuentes/b0/b016f8bc230beeafa65d11d47f11f07e23e90bfa8f0724b93a5f8af4461fb277.html",
+      "consultado": "2026-11-16T18:15:23Z",
+      "sha256": "b016f8bc230beeafa65d11d47f11f07e23e90bfa8f0724b93a5f8af4461fb277",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5067822&Asunto=5066666"
+    },
+    {
+      "archivo": "fuentes/b9/b9d8c846bb19b2f2f9c135d1dc9ab53c6ff5418a71dedd42253a8974adb0efe7.html",
+      "consultado": "2026-11-16T18:15:27Z",
+      "sha256": "b9d8c846bb19b2f2f9c135d1dc9ab53c6ff5418a71dedd42253a8974adb0efe7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5066666&Seguimiento=5067822"
+    }
+  ],
+  "tramites": {
+    "5066666": [
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 9,
+          "no": 12,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular por mayoría de dos terceras partes de los legisladores presentes. A Favor: 90 En contra: 12 Abstenciones 9",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "De Alfredo Federico Navarrete Martínez como Vocal de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario (IPAB)",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 14/04/2026",
+  "votaciones": [
+    "sil-5066666-1"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4948187",
+      "denominacion": "Con el que remite la ratificación de las designaciones de las personas que ocuparán las magistraturas vacantes de la Sala Superior del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Toma de protesta 15/10/2025",
+      "fecha": "2025-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4948187_20251014_1760461454.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4951713",
+      "denominacion": "Por el que se ratifica las designaciones de las personas que ocuparán las magistraturas vacantes de la Sala Superior del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Toma de protesta 15/10/2025",
+      "fecha": "2025-10-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4951713_20251015_1760568982.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-10-15"
+    }
+  ],
+  "denominacion": "Por el que se ratifica las designaciones de las personas que ocuparán las magistraturas vacantes de la Sala Superior del Tribunal Federal de Justicia Administrativa.",
+  "id": "sil-4951943",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4951943",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c9450b9f3abb76ad089f508f6a468a4da3f125395b4761f73ed3aff57dc1761.html",
+      "consultado": "2026-11-16T16:58:49Z",
+      "sha256": "3c9450b9f3abb76ad089f508f6a468a4da3f125395b4761f73ed3aff57dc1761",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4951943&Asunto=4951713"
+    },
+    {
+      "archivo": "fuentes/87/87d81971c67677282a5c18d8e2f55a8c4a5343ceaaa29366daf2d174201c315d.html",
+      "consultado": "2026-11-16T16:58:53Z",
+      "sha256": "87d81971c67677282a5c18d8e2f55a8c4a5343ceaaa29366daf2d174201c315d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4951713&Seguimiento=4951943"
+    }
+  ],
+  "tramites": {
+    "4951713": [
+      {
+        "texto": "Aprobado para incorporarlo al orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la moción suspensiva de la Sen. Claudia Edith Anaya Mota (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 34,
+          "yes": 82
+        },
+        "texto": "Aprobado en lo general y en lo particular Las Senadoras Juanita Guerra Mena (PVEM) y Yeidckol Polevnsky Gurwitz (PT) solicitaron el registro de su votación a favor, en el diario de los debates. A Favor: 82 En contra: 34 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "a Ariadna Camacho Contreras, Selene Cruz Alcalá, Ludmila Valentina Albarrán Acuña, Eduardo Santillán Pérez y José Ramón Amieva Gálvez como personas magistradas de la Sala Superior del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 15/10/2025",
+  "votaciones": [
+    "sil-4951713-1"
+  ]
+}

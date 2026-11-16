@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4792512",
+      "denominacion": "Que adiciona una fracción XI al artículo 4°, y reforma el artículo 11, ambos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/03/2026",
+      "fecha": "2024-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4792512_20241029_1728492131.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5025143",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 11 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025143_20260303_1772563686.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5032353",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 11 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032353_20260310_1773174386.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5034997",
+      "denominacion": "Que reforma el artículo 11 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/03/2026",
+      "fecha": "2026-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5034997_20260311_1773247486.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-11"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-11"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma el artículo 11 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+  "id": "sil-5028051",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028051",
+  "sources": [
+    {
+      "archivo": "fuentes/bb/bbd43be5e63de344d9a32c6a9b9b70ad4fa88028011909ed228235b5cf84610d.html",
+      "consultado": "2026-11-16T17:52:34Z",
+      "sha256": "bbd43be5e63de344d9a32c6a9b9b70ad4fa88028011909ed228235b5cf84610d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028051&Asunto=5032353"
+    },
+    {
+      "archivo": "fuentes/e7/e71a46366864b09876cd2bf2c35d07201ba2c279aad331d4c2313c243e49813e.html",
+      "consultado": "2026-11-16T17:52:38Z",
+      "sha256": "e71a46366864b09876cd2bf2c35d07201ba2c279aad331d4c2313c243e49813e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5032353&Seguimiento=5028051"
+    }
+  ],
+  "tramites": {
+    "5032353": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 109
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 109 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 11/03/2026",
+  "votaciones": [
+    "sil-5032353-1"
+  ]
+}

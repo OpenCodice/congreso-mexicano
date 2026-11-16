@@ -1,0 +1,41 @@
+{
+  "asunto": "4818182",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 77
+    },
+    {
+      "option": "no",
+      "value": 32
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4817558",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4818182-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que expide la Ley Orgánica del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 134, en términos del dictamen y el 273, con las modificaciones admitidas por la asamblea. A Favor: 77 En contra: 32 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/71/71bf56242dce59341e5846840503484f3e525bcbc11a8f84cc60cd4188a2ccf3.html",
+      "consultado": "2026-11-16T15:48:56Z",
+      "sha256": "71bf56242dce59341e5846840503484f3e525bcbc11a8f84cc60cd4188a2ccf3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4818182"
+    }
+  ],
+  "start_date": "2024-12-05",
+  "votes": [],
+  "votos_publicados": false
+}

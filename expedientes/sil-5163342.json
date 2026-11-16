@@ -1,0 +1,458 @@
+{
+  "asuntos": [
+    {
+      "clave": "5126672",
+      "denominacion": "Ley de Ingresos de la Federación para el Ejercicio Fiscal 2027.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5126672_20260909_1788964981.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5159227",
+      "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5159227_20261013_1791909823.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5161814",
+      "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161814_20261013_1792009833.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5168837",
+      "denominacion": "Por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5168837_20261020_1792509648.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5173843",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2027.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5173843_20261021_1792618439.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5175816",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2027.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5175816_20261027_1792618440.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-13"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2027.",
+  "id": "sil-5163342",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-13",
+  "seguimiento": "5163342",
+  "sources": [
+    {
+      "archivo": "fuentes/8d/8d3e3945bed44df8b2b32e6088920583aa86aa23e1e4e32083f1c7b69259a199.html",
+      "consultado": "2026-11-16T18:47:06Z",
+      "sha256": "8d3e3945bed44df8b2b32e6088920583aa86aa23e1e4e32083f1c7b69259a199",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163342&Asunto=5175816"
+    },
+    {
+      "archivo": "fuentes/96/96bce8c7264f1cc73d9dbba8c363e8fb7984a7d59f63caf27d0ce9e5b40b6557.html",
+      "consultado": "2026-11-16T18:47:10Z",
+      "sha256": "96bce8c7264f1cc73d9dbba8c363e8fb7984a7d59f63caf27d0ce9e5b40b6557",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5175816&Seguimiento=5163342"
+    }
+  ],
+  "tramites": {
+    "5161814": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Hacienda y Crédito Público, que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "1 al 20, del 22 al 34; y, los artículos transitorios del Primero al Trigésimo del dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 118,
+          "yes": 331
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 331 En contra: 118 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Ernesto Sánchez Rodríguez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Mariana Guadalupe Jiménez Zamora (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Francisco Espinoza Eguia (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Leticia Barrera Maldonado (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Verónica Martínez García (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Andrés Mauricio Cantú Ramírez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Theodoros Kalionchiz De la Fuente (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Francisco Pelayo Covarrubias (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Liliana Ortiz Pérez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alan Sahir Márquez Becerra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para admitir a discusión la reserva presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida la reserva presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado aceptar la reserva presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027 para para -otorgar un estímulo fiscal a las personas físicas y morales que tengan a su cargo créditos fiscales firmes o consentidos, cuya administración y recaudación corresponda al Servicio de Administración Tributaria o a la Agencia Nacional de Aduanas de México-, eliminado el texto -cuyos ingresos totales en el ejercicio fiscal 2025, para los efectos de la Ley del Impuesto sobre la Renta, no hayan excedido de 300 millones de pesos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Hernández García (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Tecutli José Guadalupe Gómez Villalobos (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Diego Ángel Rodríguez Barroso (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Diana Estefanía Gutiérrez Valtierra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Elizabeth Martínez Álvarez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Claudia Quiñones Garrido (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Moreno De Haro (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Noemi Berenice Luna Ayala (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. César Israel Damián Retes (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Ignacio Zavala Gutiérrez (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 109,
+          "yes": 340
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados con la modificación aceptada por la Asamblea. A Favor: 340 En contra: 109 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5175816": [
+      {
+        "texto": "Aprobado para omitir la segunda lectura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 34,
+          "yes": 75
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 75 En contra: 34 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 49,
+          "yes": 27
+        },
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Alma Carolina Viggiano Austria (PRI). A Favor: 27 En contra: 49 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por Sen. Gina Gerardina Campuzano González (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 44,
+          "yes": 24
+        },
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Anabell Ávalos Zempoalteca (PRI) A Favor: 24 En contra: 44 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 61,
+          "yes": 19
+        },
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Ángel García Yáñez (PRI). A Favor: 19 En contra: 61 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Javier Ramírez Acuña (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Gabriel Elizondo Pérez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Daniel Barreda Pavón (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Miguel Márquez Márquez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Amalia Dolores García Medina (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Agustín Dorantes Lámbarri (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Laura Esquivel Torres (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Maki Esther Ortiz Domínguez (PVEM).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Carlos Humberto Suárez Flores (PVEM).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Mario Humberto Vázquez Robles (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 33,
+          "yes": 73
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 73 En contra: 33 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 13/11/2026",
+  "votaciones": [
+    "sil-5161814-1",
+    "sil-5161814-2",
+    "sil-5175816-1",
+    "sil-5175816-2",
+    "sil-5175816-3",
+    "sil-5175816-4",
+    "sil-5175816-5"
+  ]
+}

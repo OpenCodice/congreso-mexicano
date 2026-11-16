@@ -1,0 +1,41 @@
+{
+  "asunto": "5053547",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 363
+    },
+    {
+      "option": "no",
+      "value": 64
+    },
+    {
+      "option": "abstain",
+      "value": 25
+    }
+  ],
+  "expediente_id": "sil-5034967",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5053547-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en materia de límite a las jubilaciones y pensiones de las entidades públicas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 363 En contra: 64 Abstenciones 25"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/98/9833cbb21fbb524ee2ded7d7d6e0ded2ef317b817082ef81387923fc751b41dc.html",
+      "consultado": "2026-11-16T18:01:59Z",
+      "sha256": "9833cbb21fbb524ee2ded7d7d6e0ded2ef317b817082ef81387923fc751b41dc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5053547"
+    }
+  ],
+  "start_date": "2026-03-25",
+  "votes": [],
+  "votos_publicados": false
+}

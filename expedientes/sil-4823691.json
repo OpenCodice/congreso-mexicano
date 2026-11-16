@@ -1,0 +1,80 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822854",
+      "denominacion": "Por el que se otorga la -Medalla de Honor Belisario Domínguez- correspondiente al año 2023.",
+      "estatus": "Resuelto / Aprobado 11/12/2024",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822854_20241211_1733932178.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-12-11"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-12-11"
+    },
+    {
+      "estatus": "Resuelto / Aprobado",
+      "fecha": "2024-12-11"
+    }
+  ],
+  "denominacion": "Por el que se otorga la -Medalla de Honor Belisario Domínguez- correspondiente al año 2023.",
+  "id": "sil-4823691",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4823691",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61ebecc84b2abef18a74a244672c9605d060ba4c675419c15ab01312b9ac1a61.html",
+      "consultado": "2026-11-16T15:52:47Z",
+      "sha256": "61ebecc84b2abef18a74a244672c9605d060ba4c675419c15ab01312b9ac1a61",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4823691&Asunto=4822854"
+    },
+    {
+      "archivo": "fuentes/03/03b27245fd798df9f891634ac1f69b4df615af95137678e9752ed3f2846682a4.html",
+      "consultado": "2026-11-16T15:52:50Z",
+      "sha256": "03b27245fd798df9f891634ac1f69b4df615af95137678e9752ed3f2846682a4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4822854&Seguimiento=4823691"
+    }
+  ],
+  "tramites": {
+    "4822854": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 21,
+          "no": 0,
+          "yes": 86
+        },
+        "texto": "Aprobado en lo general y en lo particular Voto a favor de los senadores José Sabino Herrera Dagdug (Morena) y Luis Armando Melgar Bravo (PVEM) y, voto en abstención de la Sen. María Alejandra Barrales Magdaleno (MC), sólo para registro en el Diario de los Debates. A Favor: 86 En contra: 0 Abstenciones 21",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Resuelto / Aprobado Aprobado 11/12/2024",
+  "votaciones": [
+    "sil-4822854-1"
+  ]
+}

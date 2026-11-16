@@ -1,0 +1,41 @@
+{
+  "asunto": "5175811",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 77
+    },
+    {
+      "option": "no",
+      "value": 34
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5163341",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5175811-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto Sobre la Renta y se expiden disposiciones de vigencia transitoria.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 77 En contra: 34 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/29/29c923ad6380c9992daf443235d5321c61449a8d487086881c2c933f669762b8.html",
+      "consultado": "2026-11-16T18:45:29Z",
+      "sha256": "29c923ad6380c9992daf443235d5321c61449a8d487086881c2c933f669762b8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5175811"
+    }
+  ],
+  "start_date": "2026-10-27",
+  "votes": [],
+  "votos_publicados": false
+}

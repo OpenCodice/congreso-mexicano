@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4905759",
+      "denominacion": "Con el que remite de la titular del Ejecutivo Federal, Claudia Sheinbaum Pardo, los siguientes nombramientos en favor de personal diplomático.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905759_20250620_1750434943.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4907687",
+      "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Marco Antonio Mena Rodríguez, como Cónsul General de México en San Francisco, California, Estados Unidos de América.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907687_20250625_1750867397.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-06-24"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-06-25"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Marco Antonio Mena Rodríguez, como Cónsul General de México en San Francisco, California, Estados Unidos de América.",
+  "id": "sil-4908431",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4908431",
+  "sources": [
+    {
+      "archivo": "fuentes/4c/4ca35580b4e4a35d1e29a7ad1b28b68e32750cd35851d7b7fa680c95c41778a3.html",
+      "consultado": "2026-11-16T16:39:45Z",
+      "sha256": "4ca35580b4e4a35d1e29a7ad1b28b68e32750cd35851d7b7fa680c95c41778a3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908431&Asunto=4907687"
+    },
+    {
+      "archivo": "fuentes/9c/9c0a0b23aa32f3be2b05cdd796254b548668840be2e2de733f8befa95b80988e.html",
+      "consultado": "2026-11-16T16:39:49Z",
+      "sha256": "9c0a0b23aa32f3be2b05cdd796254b548668840be2e2de733f8befa95b80988e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907687&Seguimiento=4908431"
+    }
+  ],
+  "tramites": {
+    "4907687": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 7,
+          "yes": 25
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 25 En contra: 7 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Marco Antonio Mena Rodríguez, como Cónsul General de México en San Francisco, California, Estados Unidos de América.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
+  "votaciones": [
+    "sil-4907687-1"
+  ]
+}

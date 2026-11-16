@@ -1,0 +1,41 @@
+{
+  "asunto": "4776855",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 74
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4774908",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4776855-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona los artículos 13, 16, 21, 32, 55, 73, 76, 78, 82, 89, 123 y 129 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.",
+    "text": "Se rechazó admitir a discusión la propuesta de moción suspensiva, formulada por el PAN y el PRI, al dictamen de reforma constitucional, en materia de Guardia Nacional. A Favor: 40 En contra: 74 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf0085568f7fda02618551cb93f6c66e840f8bf8b33b5273ccdcb749f4b93352.html",
+      "consultado": "2026-11-16T15:31:06Z",
+      "sha256": "cf0085568f7fda02618551cb93f6c66e840f8bf8b33b5273ccdcb749f4b93352",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4776855"
+    }
+  ],
+  "start_date": "2024-09-24",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,128 @@
+{
+  "asuntos": [
+    {
+      "clave": "4509442",
+      "denominacion": "Que adiciona diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes para prevenir y sancionar el acoso cibernético.",
+      "estatus": "Publicado en DOF 24/12/2024",
+      "fecha": "2023-03-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/03/asun_4509442_20230309_1676575330.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4572220",
+      "denominacion": "Que adiciona el artículo 101 Bis 3 a la Ley General de Derechos de Niñas, Niños y Adolescentes.",
+      "estatus": "Publicado en DOF 24/12/2024",
+      "fecha": "2023-05-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/05/asun_4572220_20230524_1684942070.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4639439",
+      "denominacion": "Que adiciona un artículo 101 Bis 3 a la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de acceso a internet libre de violencia contra niñas, niños y adolescentes.",
+      "estatus": "Publicado en DOF 24/12/2024",
+      "fecha": "2023-10-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/10/asun_4639439_20231025_1698260382.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4648456",
+      "denominacion": "Con proyecto de decreto que adiciona un artículo 101 Bis 3 a la Ley General de los Derechos de Niñas, Niños y Adolescentes en materia de acceso a internet libre de violencia contra niñas, niños y adolescentes.",
+      "estatus": "Publicado en DOF 24/12/2024",
+      "fecha": "2023-11-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/11/asun_4648456_20231107_1699367915.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4823205",
+      "denominacion": "Con proyecto de decreto que adiciona el artículo 101 Bis 3 a Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de acceso a internet libre de violencia.",
+      "estatus": "Publicado en DOF 24/12/2024",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4823205_20241211_1733936795.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4824925",
+      "denominacion": "Con proyecto de decreto que adiciona el artículo 101 Bis 3 a Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de acceso a internet libre de violencia.",
+      "estatus": "Publicado en DOF 24/12/2024",
+      "fecha": "2024-12-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4824925_20241212_1733936796.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2024-12-12"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2024-12-12"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-12-12"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-12-24"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que adiciona el artículo 101 Bis 3 a Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de acceso a internet libre de violencia.",
+  "id": "sil-4640716",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-12-24",
+  "seguimiento": "4640716",
+  "sources": [
+    {
+      "archivo": "fuentes/34/347c764a7cb08e4a01d80d24f62b60a0612d5215480e1f37900c35b36df9a66c.html",
+      "consultado": "2026-11-16T15:26:25Z",
+      "sha256": "347c764a7cb08e4a01d80d24f62b60a0612d5215480e1f37900c35b36df9a66c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4640716&Asunto=4824925"
+    },
+    {
+      "archivo": "fuentes/9f/9fc1f40b4e439b0d50cda641c6e2c4f294c618e6ad281785bfdc33875a7da3d2.html",
+      "consultado": "2026-11-16T15:26:29Z",
+      "sha256": "9fc1f40b4e439b0d50cda641c6e2c4f294c618e6ad281785bfdc33875a7da3d2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4824925&Seguimiento=4640716"
+    }
+  ],
+  "tramites": {
+    "4824925": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar el dictamen suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para dar cuenta que los senadores Waldo Fernández González (PVEM) y Edgar Noé Larios Carrasco (PVEM) entregan su participación por escrito, por lo cual se instruye se inserten en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 119
+        },
+        "texto": "Aprobado en lo general y en lo particular la presidencia de la Mesa Directiva da cuenta que se registran en el tablero electrónico 101 votos a favor, mientras que se contabilizan diecisiete votos a favor fuera de éste. Senadoras y senadores a favor del dictamen sólo para registro en el Diario de los Debates: Sen. Manlio Fabio Beltrones Rivera (Sin Partido) y Sen. Francisco Javier Ramírez Acuña (PAN) A Favor: 119 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 24/12/2024",
+  "votaciones": [
+    "sil-4824925-1"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4897460",
+      "denominacion": "De la Cuenta de la Hacienda Pública Federal correspondiente al Ejercicio Fiscal 2024.",
+      "estatus": "Publicado en DOF 03/11/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4897460_20250430_1746050074.pdf",
+      "tipo": "Informe"
+    },
+    {
+      "clave": "5176012",
+      "denominacion": "Relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2024.",
+      "estatus": "Publicado en DOF 03/11/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5176012_20261027_1793120565.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5177672",
+      "denominacion": "Relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2024.",
+      "estatus": "Publicado en DOF 03/11/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5177672_20261027_1793120566.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-03"
+    }
+  ],
+  "denominacion": "Relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2024.",
+  "id": "sil-5178167",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-03",
+  "seguimiento": "5178167",
+  "sources": [
+    {
+      "archivo": "fuentes/71/71e1382f7d632182f1778dc0d8d30d2275d147ad9c6b62bbaa6416e8ef0106e4.html",
+      "consultado": "2026-11-16T18:51:29Z",
+      "sha256": "71e1382f7d632182f1778dc0d8d30d2275d147ad9c6b62bbaa6416e8ef0106e4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5178167&Asunto=5177672"
+    },
+    {
+      "archivo": "fuentes/c8/c8410b91e092aebcab8cadaa6cd51450a007bfbb51ef8cce92945a52407c1ea5.html",
+      "consultado": "2026-11-16T18:51:32Z",
+      "sha256": "c8410b91e092aebcab8cadaa6cd51450a007bfbb51ef8cce92945a52407c1ea5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5177672&Seguimiento=5178167"
+    }
+  ],
+  "tramites": {
+    "5177672": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Presupuesto y Cuenta Pública relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2024.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido, en lo general y en lo particular el dictamen relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2024.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 117,
+          "yes": 321
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 321 En contra: 117 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      },
+      {
+        "texto": "a la Auditoría Superior de la Federación.",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 03/11/2026",
+  "votaciones": [
+    "sil-5177672-1"
+  ]
+}

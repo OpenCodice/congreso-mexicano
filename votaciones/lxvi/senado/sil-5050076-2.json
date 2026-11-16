@@ -1,0 +1,41 @@
+{
+  "asunto": "5050076",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 98
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034966",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5050076-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que adiciona un párrafo al artículo 14 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y adiciona el artículo 7 Bis a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 98 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/03/03430b8b9d7a1bfed3898b68019f7ae3298a070ae18747b5d90650d8e7242c9d.html",
+      "consultado": "2026-11-16T18:01:21Z",
+      "sha256": "03430b8b9d7a1bfed3898b68019f7ae3298a070ae18747b5d90650d8e7242c9d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5050076"
+    }
+  ],
+  "start_date": "2026-03-24",
+  "votes": [],
+  "votos_publicados": false
+}

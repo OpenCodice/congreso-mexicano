@@ -1,0 +1,41 @@
+{
+  "asunto": "5107628",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 28
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5107880",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5107628-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "De Esteban Moctezuma Barragán como Embajador Extraordinario y Plenipotenciario de México en el Reino de Bélgica y la Unión Europea y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante el Gran Ducado de Luxemburgo.",
+    "text": "Aprobado A Favor: 28 En contra: 8 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/72/722717f01abfa3c207d33db97c82819e1811afc4faf4ef72065d6c5720f161ee.html",
+      "consultado": "2026-11-16T18:36:21Z",
+      "sha256": "722717f01abfa3c207d33db97c82819e1811afc4faf4ef72065d6c5720f161ee",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5107628"
+    }
+  ],
+  "start_date": "2026-07-01",
+  "votes": [],
+  "votos_publicados": false
+}

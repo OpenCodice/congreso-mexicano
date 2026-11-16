@@ -1,0 +1,41 @@
+{
+  "asunto": "5138235",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 102
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5051283",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5138235-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma el artículo 178 de la Ley de Desarrollo Rural Sustentable.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bf/bf97cd4ed66a61f6d7898ace3e866ce7e4c9cce6814e35867b76f95c8a725a88.html",
+      "consultado": "2026-11-16T18:08:02Z",
+      "sha256": "bf97cd4ed66a61f6d7898ace3e866ce7e4c9cce6814e35867b76f95c8a725a88",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5138235"
+    }
+  ],
+  "start_date": "2026-09-22",
+  "votes": [],
+  "votos_publicados": false
+}

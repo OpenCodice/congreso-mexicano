@@ -1,0 +1,41 @@
+{
+  "asunto": "4820840",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 389
+    },
+    {
+      "option": "no",
+      "value": 65
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4821547",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4820840-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que adiciona los artículos 49; 50; 127; un Capítulo IX Bis y un artículo 997-B a la Ley Federal del Trabajo, en materia de plataformas digitales.",
+    "text": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 389 En contra: 65 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bc/bc8ab23e92d258fecb0fe63d9b5cdaa40337bd4aa408c4b49ea0a027367251f0.html",
+      "consultado": "2026-11-16T15:51:59Z",
+      "sha256": "bc8ab23e92d258fecb0fe63d9b5cdaa40337bd4aa408c4b49ea0a027367251f0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4820840"
+    }
+  ],
+  "start_date": "2024-12-10",
+  "votes": [],
+  "votos_publicados": false
+}

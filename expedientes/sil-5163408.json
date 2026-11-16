@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "5018207",
+      "denominacion": "Que reforma las fracciones XI, XIII y XIV del artículo 4 y se adiciona un párrafo segundo al artículo 15 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5018207_20260218_1771441982.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5161617",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XI del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161617_20261013_1791907982.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5181600",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XI del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5181600_20261028_1791907987.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5183202",
+      "denominacion": "Que reforma la fracción XI del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5183202_20261103_1793727734.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma la fracción XI del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+  "id": "sil-5163408",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5163408",
+  "sources": [
+    {
+      "archivo": "fuentes/88/887086ee461de3d2586f8124ecc2011af3ff19f06cb9946c7053ca8c5a0f4f3c.html",
+      "consultado": "2026-11-16T18:49:04Z",
+      "sha256": "887086ee461de3d2586f8124ecc2011af3ff19f06cb9946c7053ca8c5a0f4f3c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163408&Asunto=5181600"
+    },
+    {
+      "archivo": "fuentes/3f/3f02dabfecd58932a86cab40faee6d0469336355544aa516ec509998829311e7.html",
+      "consultado": "2026-11-16T18:49:07Z",
+      "sha256": "3f02dabfecd58932a86cab40faee6d0469336355544aa516ec509998829311e7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5181600&Seguimiento=5163408"
+    }
+  ],
+  "tramites": {
+    "5181600": [
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 88
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 88 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/11/2026",
+  "votaciones": [
+    "sil-5181600-1"
+  ]
+}

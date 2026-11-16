@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4774683",
+      "denominacion": "Que reforma y adiciona la fracción II del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2024-09-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4774683_20240918_1726246604.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4855048",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona la fracción II del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4855048_20250312_1741808263.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4981135",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona la fracción II del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981135_20251125_1764096009.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4988365",
+      "denominacion": "Que adiciona el numeral 19, recorriéndose los subsecuentes, de la fracción II del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988365_20251202_1764710778.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona la fracción II del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+  "id": "sil-4855079",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4855079",
+  "sources": [
+    {
+      "archivo": "fuentes/c3/c34d8d4ca83b9f7a820a17f6967342a3b35f89efc469b2d305f99c0633dbe079.html",
+      "consultado": "2026-11-16T16:06:15Z",
+      "sha256": "c34d8d4ca83b9f7a820a17f6967342a3b35f89efc469b2d305f99c0633dbe079",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4855079&Asunto=4981135"
+    },
+    {
+      "archivo": "fuentes/3a/3a82ac96d1d60f124516ec595defa728c4e19fdd7e2b3409ca245c7b82a08812.html",
+      "consultado": "2026-11-16T16:06:19Z",
+      "sha256": "3a82ac96d1d60f124516ec595defa728c4e19fdd7e2b3409ca245c7b82a08812",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4981135&Seguimiento=4855079"
+    }
+  ],
+  "tramites": {
+    "4981135": [
+      {
+        "texto": "Aprobado se autoriza omitir su lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado se considera suficientemente discutido el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 4,
+          "no": 8,
+          "yes": 75
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 75 En contra: 8 Abstenciones 4",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4981135-1"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825647",
+      "denominacion": "Que declara el 6 de octubre de cada año, como el -Día Nacional de los propóleos mexicanos-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825647_20241213_1732127670.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020232",
+      "denominacion": "Con proyecto de decreto por el que declara el 6 de octubre de cada año como el -Día Nacional de los Propóleos Mexicanos-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020232_20260224_1771953968.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5027298",
+      "denominacion": "Con proyecto de decreto por el que declara el 6 de octubre de cada año como el -Día Nacional de los Propóleos Mexicanos-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5027298_20260303_1771953970.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5032374",
+      "denominacion": "Que declara el 6 de octubre de cada año como el -Día de los Propóleos Mexicanos-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032374_20260310_1773171006.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el 6 de octubre de cada año como el -Día Nacional de los Propóleos Mexicanos-.",
+  "id": "sil-5022773",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022773",
+  "sources": [
+    {
+      "archivo": "fuentes/32/321295594911590af4848643716ecab29b69e3ef5e7afba9f362928842303c0c.html",
+      "consultado": "2026-11-16T17:45:52Z",
+      "sha256": "321295594911590af4848643716ecab29b69e3ef5e7afba9f362928842303c0c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022773&Asunto=5027298"
+    },
+    {
+      "archivo": "fuentes/b3/b37eadb255550efabe60bdf7211c32b17f4e4c46982d5cbe00c4eda067d44c5a.html",
+      "consultado": "2026-11-16T17:45:55Z",
+      "sha256": "b37eadb255550efabe60bdf7211c32b17f4e4c46982d5cbe00c4eda067d44c5a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5027298&Seguimiento=5022773"
+    }
+  ],
+  "tramites": {
+    "5027298": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 96
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 96 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5027298-1"
+  ]
+}

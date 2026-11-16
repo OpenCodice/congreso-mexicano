@@ -1,0 +1,41 @@
+{
+  "asunto": "4939310",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 470
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4937808",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4939310-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que adiciona diversas disposiciones de la Ley General de Bienes Nacionales, y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 470 En contra: 1 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/ab6cd1980eb2a533e828d52808a4c231c438060e93a7e9642e86ab2d2ebfef84.html",
+      "consultado": "2026-11-16T16:52:24Z",
+      "sha256": "ab6cd1980eb2a533e828d52808a4c231c438060e93a7e9642e86ab2d2ebfef84",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4939310"
+    }
+  ],
+  "start_date": "2025-10-01",
+  "votes": [],
+  "votos_publicados": false
+}

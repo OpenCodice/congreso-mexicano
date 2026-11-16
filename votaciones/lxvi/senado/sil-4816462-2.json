@@ -1,0 +1,41 @@
+{
+  "asunto": "4816462",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 113
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4816256",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4816462-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones del Código Nacional de Procedimientos Penales y de la Ley General del Sistema Nacional de Seguridad Pública, en materia de medidas de protección y derecho de las mujeres a una vida libre de violencia.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 127 Ter de la Ley General del Sistema Nacional de Seguridad Pública y, tercero y cuarto transitorios con las modificaciones admitidas por la asamblea y, el artículo segundo transitorio en términos del dictamen. A Favor: 113 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/4b/4baf5bc693314372698d7b61e676278ae5f79134757cd25aad73affcc37f6837.html",
+      "consultado": "2026-11-16T15:47:01Z",
+      "sha256": "4baf5bc693314372698d7b61e676278ae5f79134757cd25aad73affcc37f6837",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4816462"
+    }
+  ],
+  "start_date": "2024-12-04",
+  "votes": [],
+  "votos_publicados": false
+}

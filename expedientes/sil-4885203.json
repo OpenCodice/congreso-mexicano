@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "4762754",
+      "denominacion": "Remite Actas Finales de la Conferencia de Plenipotenciarios (Guadalajara 2010) de la Unión Internacional de Telecomunicaciones, firmadas en Guadalajara, el veintidós de octubre de dos mil diez.",
+      "estatus": "Turnado al Ejecutivo 24/04/2025",
+      "fecha": "2024-06-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/06/asun_4762754_20240626_1719413212.pdf",
+      "tipo": "Instrumento internacional"
+    },
+    {
+      "clave": "4882535",
+      "denominacion": "Con proyecto de decreto que aprueba las Actas Finales de la Conferencia de Plenipotenciarios (Guadalajara 2010), de la Unión Internacional de Telecomunicaciones, firmadas en Guadalajara, el veintidós de octubre de dos mil diez, y sus reservas.",
+      "estatus": "Turnado al Ejecutivo 24/04/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4882535_20250423_1745414434.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4886173",
+      "denominacion": "Con proyecto de decreto que aprueba las Actas Finales de la Conferencia de Plenipotenciarios (Guadalajara 2010), de la Unión Internacional de Telecomunicaciones, firmadas en Guadalajara, el veintidós de octubre de dos mil diez, y sus reservas.",
+      "estatus": "Turnado al Ejecutivo 24/04/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886173_20250424_1745414435.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-24"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que aprueba las Actas Finales de la Conferencia de Plenipotenciarios (Guadalajara 2010), de la Unión Internacional de Telecomunicaciones, firmadas en Guadalajara, el veintidós de octubre de dos mil diez, y sus reservas.",
+  "id": "sil-4885203",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4885203",
+  "sources": [
+    {
+      "archivo": "fuentes/d7/d746d0fe364a8819cd1b321cd2a3285ba5efe4d9ca6ca085407f43be3cde148b.html",
+      "consultado": "2026-11-16T16:21:34Z",
+      "sha256": "d746d0fe364a8819cd1b321cd2a3285ba5efe4d9ca6ca085407f43be3cde148b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4885203&Asunto=4886173"
+    },
+    {
+      "archivo": "fuentes/ca/ca45d4ec6372d883908a988b56f7daec4c36712ecbc7c46090b1cad606ca17d8.html",
+      "consultado": "2026-11-16T16:21:37Z",
+      "sha256": "ca45d4ec6372d883908a988b56f7daec4c36712ecbc7c46090b1cad606ca17d8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4886173&Seguimiento=4885203"
+    }
+  ],
+  "tramites": {
+    "4886173": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 78
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Alberto Anaya Gutiérrez (PT), Sen. Geovanna del Carmen Bañuelos de la Torre (PT), Sen. Moisés Ignacio Mier Velazco (Morena), Sen. Sandra Simey Olvera Bautista (Morena), Sen. Luis Fernando Salazar Fernández (Morena), Sen. María Lilly del Carmen Téllez García (PAN) y Sen. Lorenia Iveth Valles Sampedro (Morena). A Favor: 78 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 24/04/2025",
+  "votaciones": [
+    "sil-4886173-1"
+  ]
+}

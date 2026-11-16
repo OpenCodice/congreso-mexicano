@@ -1,0 +1,88 @@
+{
+  "asuntos": [
+    {
+      "clave": "5030397",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral.",
+      "estatus": "Desechado en pleno origen 11/03/2026",
+      "fecha": "2026-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5030397_20260304_1772659070.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5035007",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral.",
+      "estatus": "Desechado en pleno origen 11/03/2026",
+      "fecha": "2026-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5035007_20260311_1773242611.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5036103",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral.",
+      "estatus": "Desechado en pleno origen 11/03/2026",
+      "fecha": "2026-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5036103_20260311_1773262328.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-11"
+    },
+    {
+      "estatus": "Desechado en pleno origen",
+      "fecha": "2026-03-11"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral.",
+  "id": "sil-5037474",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5037474",
+  "sources": [
+    {
+      "archivo": "fuentes/40/409d7eaabfa0e185e0f73afeafe611e9dfb598a0dc56ca0992d810324d43fc3f.html",
+      "consultado": "2026-11-16T18:03:04Z",
+      "sha256": "409d7eaabfa0e185e0f73afeafe611e9dfb598a0dc56ca0992d810324d43fc3f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5037474&Asunto=5036103"
+    },
+    {
+      "archivo": "fuentes/32/3279e711786520145067e4e18c0b97d09e295d05e010097fec90a127e37671e1.html",
+      "consultado": "2026-11-16T18:03:07Z",
+      "sha256": "3279e711786520145067e4e18c0b97d09e295d05e010097fec90a127e37671e1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5036103&Seguimiento=5037474"
+    }
+  ],
+  "tramites": {
+    "5036103": [
+      {
+        "texto": "Aprobado Para considerar el dictamen suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa a la Asamblea que se han presentado propuestas de modificación a los artículos 35, 41, 52, 53, 54, 55, 56, 63, 115, 116 y 134; y, los Transitorios Primero, Segundo, Tercero, Cuarto, Quinto y Sexto del dictamen que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 234,
+          "yes": 259
+        },
+        "texto": "Se rechazó En consecuencia, no se alcanza la mayoría calificada; y, con fundamento en la fracción G del artículo 72 constitucional y del artículo 232 del Reglamento de la Cámara de Diputados, se desecha el proyecto de decreto. A Favor: 259 En contra: 234 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Las reservas se integrarán en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      }
+    ]
+  },
+  "ultimo_estatus": "Desechado en pleno origen Desechado 11/03/2026",
+  "votaciones": [
+    "sil-5036103-1"
+  ]
+}

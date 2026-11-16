@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4928981",
+      "denominacion": "Que reforma los artículos 83 Bis y 84 de la Ley Federal para Prevenir y Eliminar la Discriminación, en materia de medidas de reparación por discriminación.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-09-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4928981_20250918_1758225318.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5024536",
+      "denominacion": "Que reforma la fracción II del artículo 83 Bis y se adiciona una fracción V al artículo 84 de la Ley Federal para Prevenir y Eliminar la Discriminación.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5024536_20260303_1772560193.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5026697",
+      "denominacion": "Que reforma la fracción II del artículo 83 Bis y se adiciona una fracción V al artículo 84 de la Ley Federal para Prevenir y Eliminar la Discriminación.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026697_20260303_1772564657.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5031498",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 83 Bis y 84 de la Ley Federal para Prevenir y Eliminar la Discriminación.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031498_20260310_1773164133.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Que reforma la fracción II del artículo 83 Bis y se adiciona una fracción V al artículo 84 de la Ley Federal para Prevenir y Eliminar la Discriminación.",
+  "id": "sil-5028050",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028050",
+  "sources": [
+    {
+      "archivo": "fuentes/56/56e742ef6e9d40ced2b0edf875c879440096cacb17bf7e2e5570918cd06538d0.html",
+      "consultado": "2026-11-16T17:52:05Z",
+      "sha256": "56e742ef6e9d40ced2b0edf875c879440096cacb17bf7e2e5570918cd06538d0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028050&Asunto=5026697"
+    },
+    {
+      "archivo": "fuentes/18/18c298421234c4a64e50c79e8572766615ee03474acad944235a07fa35980336.html",
+      "consultado": "2026-11-16T17:52:09Z",
+      "sha256": "18c298421234c4a64e50c79e8572766615ee03474acad944235a07fa35980336",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026697&Seguimiento=5028050"
+    }
+  ],
+  "tramites": {
+    "5026697": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma la fracción II del artículo 83 Bis y se adiciona una fracción V al artículo 84 de la Ley Federal para Prevenir y Eliminar la Discriminación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 442
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 442 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5026697-1"
+  ]
+}

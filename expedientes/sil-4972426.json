@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4912545",
+      "denominacion": "Que adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-07-16",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4912545_20250716_1752678782.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971200",
+      "denominacion": "Que adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971200_20251111_1762880833.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971437",
+      "denominacion": "Que adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971437_20251111_1762888181.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975633",
+      "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones a la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975633_20251119_1763572774.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+  "id": "sil-4972426",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972426",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a47d34675855cabc5f49d6353d7cedac74ea9ee8d24f2d55b208864f11636180.html",
+      "consultado": "2026-11-16T17:09:13Z",
+      "sha256": "a47d34675855cabc5f49d6353d7cedac74ea9ee8d24f2d55b208864f11636180",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972426&Asunto=4971437"
+    },
+    {
+      "archivo": "fuentes/77/77cc5c07549b2afccbd277f456fddd2ef1b4d9b546bf0385c8817d372de4d1e7.html",
+      "consultado": "2026-11-16T17:09:17Z",
+      "sha256": "77cc5c07549b2afccbd277f456fddd2ef1b4d9b546bf0385c8817d372de4d1e7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971437&Seguimiento=4972426"
+    }
+  ],
+  "tramites": {
+    "4971437": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Medio Ambiente y Recursos Naturales que adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 447
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 447 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971437-1"
+  ]
+}

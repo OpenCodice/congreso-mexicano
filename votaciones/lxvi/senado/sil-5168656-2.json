@@ -1,0 +1,41 @@
+{
+  "asunto": "5168656",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 72
+    },
+    {
+      "option": "no",
+      "value": 37
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5154775",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5168656-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 72 En contra: 37 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/d0/d09a7c7f3fbb33cc9b3f64b9472498d0ec82388251eba5005149e2167c4025eb.html",
+      "consultado": "2026-11-16T18:41:26Z",
+      "sha256": "d09a7c7f3fbb33cc9b3f64b9472498d0ec82388251eba5005149e2167c4025eb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5168656"
+    }
+  ],
+  "start_date": "2026-10-20",
+  "votes": [],
+  "votos_publicados": false
+}

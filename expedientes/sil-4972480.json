@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4895754",
+      "denominacion": "Que reforma y adiciona los artículos 33 y 93 de la Ley General de Cambio Climático.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895754_20250430_1740702387.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971210",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971210_20251111_1762881213.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971452",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971452_20251111_1762893189.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975648",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975648_20251119_1763572959.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono.",
+  "id": "sil-4972480",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972480",
+  "sources": [
+    {
+      "archivo": "fuentes/a6/a6acbc120bd59bd98bc72db5357ed876988eb605ade47e734d6f715fd9100b15.html",
+      "consultado": "2026-11-16T17:12:00Z",
+      "sha256": "a6acbc120bd59bd98bc72db5357ed876988eb605ade47e734d6f715fd9100b15",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972480&Asunto=4971452"
+    },
+    {
+      "archivo": "fuentes/b5/b5dd38be672de5b48f2bf1260d82fbd95cf38ffcba1d6b995695fb99eef5ffa5.html",
+      "consultado": "2026-11-16T17:12:04Z",
+      "sha256": "b5dd38be672de5b48f2bf1260d82fbd95cf38ffcba1d6b995695fb99eef5ffa5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971452&Seguimiento=4972480"
+    }
+  ],
+  "tramites": {
+    "4971452": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Cambio Climático y Sostenibilidad, que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 448
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 448 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971452-1"
+  ]
+}

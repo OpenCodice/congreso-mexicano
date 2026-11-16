@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4838634",
+      "denominacion": "Que reforma y adiciona los artículos 178 y 183 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2025-02-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4838634_20250219_1739899060.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5049865",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 178 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5049865_20260324_1774398918.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5138235",
+      "denominacion": "Con proyecto de decreto que reforma el artículo 178 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5138235_20260922_1790097243.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5143920",
+      "denominacion": "Minuta que reforma el artículo 178 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5143920_20260929_1790708785.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma el artículo 178 de la Ley de Desarrollo Rural Sustentable.",
+  "id": "sil-5051283",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5051283",
+  "sources": [
+    {
+      "archivo": "fuentes/76/76e68a7f661ff39b1bb4db369273c6c64a806ad3478080017ba39b6355e88394.html",
+      "consultado": "2026-11-16T18:07:54Z",
+      "sha256": "76e68a7f661ff39b1bb4db369273c6c64a806ad3478080017ba39b6355e88394",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5051283&Asunto=5138235"
+    },
+    {
+      "archivo": "fuentes/8d/8d62dad44c58a590f4aef7f4a65345c7528a50a69138efe817210d2ee809acf0.html",
+      "consultado": "2026-11-16T18:07:58Z",
+      "sha256": "8d62dad44c58a590f4aef7f4a65345c7528a50a69138efe817210d2ee809acf0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5138235&Seguimiento=5051283"
+    }
+  ],
+  "tramites": {
+    "5138235": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 29/09/2026",
+  "votaciones": [
+    "sil-5138235-1"
+  ]
+}

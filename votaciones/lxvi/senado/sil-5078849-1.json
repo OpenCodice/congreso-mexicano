@@ -1,0 +1,41 @@
+{
+  "asunto": "5078849",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 91
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4702208",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5078849-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto por el que declara el 24 de julio de cada año, como el -Día Nacional del Tequila-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 91 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/d2/d2e817f21f7f27a22a7646a0c0f130985d9a1a76ce4a844f9eac7001f494f099.html",
+      "consultado": "2026-11-16T15:27:02Z",
+      "sha256": "d2e817f21f7f27a22a7646a0c0f130985d9a1a76ce4a844f9eac7001f494f099",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5078849"
+    }
+  ],
+  "start_date": "2026-04-22",
+  "votes": [],
+  "votos_publicados": false
+}

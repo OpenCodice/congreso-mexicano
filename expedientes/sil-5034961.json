@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4804204",
+      "denominacion": "Que adiciona un inciso i) al artículo 132 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 24/03/2026",
+      "fecha": "2024-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4804204_20241119_1731433210.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5032321",
+      "denominacion": "Con proyecto de decreto por el que adiciona un inciso i) al párrafo tercero del artículo 132 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 24/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032321_20260310_1773176032.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5042792",
+      "denominacion": "Con proyecto de decreto por el que adiciona un inciso i) al párrafo tercero del artículo 132 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 24/03/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042792_20260318_1773176035.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5047922",
+      "denominacion": "Minuta que adiciona un inciso I) al párrafo tercero del artículo 132 de la Ley General de Educación, en materia de corresponsabilidad educativa.",
+      "estatus": "Pendiente en comisión(es) de revisora 24/03/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5047922_20260324_1774369343.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-19"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-19"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-19"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-24"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-24"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona un inciso i) al párrafo tercero del artículo 132 de la Ley General de Educación.",
+  "id": "sil-5034961",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5034961",
+  "sources": [
+    {
+      "archivo": "fuentes/06/06d9c2d7f4cb3af7a03e40fdb9bfd848a477fd4cf3e738a64794c3a01f6519d8.html",
+      "consultado": "2026-11-16T17:59:40Z",
+      "sha256": "06d9c2d7f4cb3af7a03e40fdb9bfd848a477fd4cf3e738a64794c3a01f6519d8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5034961&Asunto=5042792"
+    },
+    {
+      "archivo": "fuentes/ef/ef2796169af9fca65dbc3b7c560f800ef1ac95ecc23bddbd7c1a1b35247bc10e.html",
+      "consultado": "2026-11-16T17:59:43Z",
+      "sha256": "ef2796169af9fca65dbc3b7c560f800ef1ac95ecc23bddbd7c1a1b35247bc10e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5042792&Seguimiento=5034961"
+    }
+  ],
+  "tramites": {
+    "5042792": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 68
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 68 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 24/03/2026",
+  "votaciones": [
+    "sil-5042792-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5098480",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 87
+    },
+    {
+      "option": "no",
+      "value": 40
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5097525",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5098480-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma del Poder Judicial.",
+    "text": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 87 En contra: 40 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/17/17ad64d6e7b6dbf3920edc4d8305d8177da9273414c2c54877c7e0a6c6f9f96d.html",
+      "consultado": "2026-11-16T18:33:07Z",
+      "sha256": "17ad64d6e7b6dbf3920edc4d8305d8177da9273414c2c54877c7e0a6c6f9f96d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5098480"
+    }
+  ],
+  "start_date": "2026-05-28",
+  "votes": [],
+  "votos_publicados": false
+}

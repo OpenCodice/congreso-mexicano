@@ -1,0 +1,41 @@
+{
+  "asunto": "4963033",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 72
+    },
+    {
+      "option": "no",
+      "value": 31
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4955430",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4963033-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que expide la Ley Orgánica de la Armada de México.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 72 En contra: 31 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ac/ac4d3b6e94fddf5412019a9665297d9b696cb0bf97aa62ade86e871fa33a1ced.html",
+      "consultado": "2026-11-16T17:02:16Z",
+      "sha256": "ac4d3b6e94fddf5412019a9665297d9b696cb0bf97aa62ade86e871fa33a1ced",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4963033"
+    }
+  ],
+  "start_date": "2025-10-29",
+  "votes": [],
+  "votos_publicados": false
+}

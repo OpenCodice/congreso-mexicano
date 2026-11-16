@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4945541",
+      "denominacion": "Que reforma y adiciona los artículos 79 y 80 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-10-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4945541_20251008_1759948336.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4983379",
+      "denominacion": "Que adiciona los artículos 79 y 80 de la Ley de Desarrollo Rural Sustentable, en materia de armonización con la reforma constitucional para el apoyo a campesinos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983379_20251126_1764185265.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985209",
+      "denominacion": "Que adicionan los artículos 79 y 80 de la Ley de Desarrollo Rural Sustentable, en materia de armonización con la reforma constitucional para el apoyo a campesinos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985209_20251126_1764183686.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4988100",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 79 y 80 de la Ley de Desarrollo Rural Sustentable, en materia de armonización con la reforma constitucional para el apoyo a campesinos.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988100_20251202_1764721790.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Que adicionan los artículos 79 y 80 de la Ley de Desarrollo Rural Sustentable, en materia de armonización con la reforma constitucional para el apoyo a campesinos.",
+  "id": "sil-4986126",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986126",
+  "sources": [
+    {
+      "archivo": "fuentes/27/276b484d18b4a8ba9c0f7de5c7ddc982f2049c6abe68ecbf99fa2297e4d64a71.html",
+      "consultado": "2026-11-16T17:24:03Z",
+      "sha256": "276b484d18b4a8ba9c0f7de5c7ddc982f2049c6abe68ecbf99fa2297e4d64a71",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986126&Asunto=4985209"
+    },
+    {
+      "archivo": "fuentes/b0/b051e13c5616a2cb8e5c6b14a95a08c7f09739b7ee979bd854bd4e554c27eae2.html",
+      "consultado": "2026-11-16T17:24:07Z",
+      "sha256": "b051e13c5616a2cb8e5c6b14a95a08c7f09739b7ee979bd854bd4e554c27eae2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985209&Seguimiento=4986126"
+    }
+  ],
+  "tramites": {
+    "4985209": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que adicionan los artículos 79 y 80 de la Ley de Desarrollo Rural Sustentable, en materia de armonización con la reforma constitucional para el apoyo a campesinos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 410
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 410 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4985209-1"
+  ]
+}

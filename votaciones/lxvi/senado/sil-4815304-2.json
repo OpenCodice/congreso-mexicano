@@ -1,0 +1,41 @@
+{
+  "asunto": "4815304",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 83
+    },
+    {
+      "option": "no",
+      "value": 36
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4809132",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4815304-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 1, 2, 5, 11, 12, 16, 22, décimo cuarto, décimo quinto, décimo octavo y trigésimo quinto transitorios, en términos del dictamen. A Favor: 83 En contra: 36 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09a24a66fa57b186726750e4f1cfdfaeea0d0ab367aa0d3a0228ba9a7734a811.html",
+      "consultado": "2026-11-16T15:44:52Z",
+      "sha256": "09a24a66fa57b186726750e4f1cfdfaeea0d0ab367aa0d3a0228ba9a7734a811",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4815304"
+    }
+  ],
+  "start_date": "2024-12-03",
+  "votes": [],
+  "votos_publicados": false
+}

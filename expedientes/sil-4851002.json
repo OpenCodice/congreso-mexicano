@@ -1,0 +1,152 @@
+{
+  "asuntos": [
+    {
+      "clave": "4838739",
+      "denominacion": "Que establece las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-02-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4838739_20250219_1739899623.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4850745",
+      "denominacion": "Con proyecto de decreto que establece las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México- Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4850745_20250305_1741221555.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4851572",
+      "denominacion": "Con proyecto de decreto que establece las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México- Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4851572_20250311_1741221556.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4854703",
+      "denominacion": "Con proyecto de decreto por el que establecen las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4854703_20250312_1741805855.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4890453",
+      "denominacion": "Con proyecto de decreto por el que establecen las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890453_20250428_1745878459.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4890537",
+      "denominacion": "Con proyecto de decreto por el que establecen las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890537_20250428_1745878633.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-04-28"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-04-28"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-28"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-06-06"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que establecen las características de nueve diferentes monedas conmemorativas de la Copa Mundial de la FIFA 2026, organizada por México-Estados Unidos-Canadá.",
+  "id": "sil-4851002",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-06-06",
+  "seguimiento": "4851002",
+  "sources": [
+    {
+      "archivo": "fuentes/01/01f393193cb0ca0413d0d730c5d86ce6a11ae90d4b2de40f3779fe8e6bdc1513.html",
+      "consultado": "2026-11-16T16:04:36Z",
+      "sha256": "01f393193cb0ca0413d0d730c5d86ce6a11ae90d4b2de40f3779fe8e6bdc1513",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4851002&Asunto=4890537"
+    },
+    {
+      "archivo": "fuentes/bb/bb751429e9d0ec48a636ac0e79d34f61d8d9c14cfddaa144bce870645ab83824.html",
+      "consultado": "2026-11-16T16:04:40Z",
+      "sha256": "bb751429e9d0ec48a636ac0e79d34f61d8d9c14cfddaa144bce870645ab83824",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4890537&Seguimiento=4851002"
+    }
+  ],
+  "tramites": {
+    "4851572": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado tramitar de manera conjunta los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público, y Estudios Legislativos, Primera.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la segunda lectura de los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público y, de Estudios Legislativos, Primera, con el objeto de someterlos a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 107
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: senadoras Imelda Castro Castro (Morena) y Ana Karen Hernández Aceves (PT). A Favor: 107 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "4890537": [
+      {
+        "texto": "Aprobado se considera suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para su discusión en lo particular.",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 438
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 438 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 06/06/2025",
+  "votaciones": [
+    "sil-4851572-1",
+    "sil-4890537-1"
+  ]
+}

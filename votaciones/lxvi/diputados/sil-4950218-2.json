@@ -1,0 +1,41 @@
+{
+  "asunto": "4950218",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 335
+    },
+    {
+      "option": "no",
+      "value": 122
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4951962",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4950218-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados con las modificaciones aceptadas por la Asamblea. A Favor: 335 En contra: 122 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/50/508cce3b971c9e26eabbda9b94bf442f1007a3b8a13448653805590836e040cc.html",
+      "consultado": "2026-11-16T17:00:40Z",
+      "sha256": "508cce3b971c9e26eabbda9b94bf442f1007a3b8a13448653805590836e040cc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4950218"
+    }
+  ],
+  "start_date": "2025-10-15",
+  "votes": [],
+  "votos_publicados": false
+}

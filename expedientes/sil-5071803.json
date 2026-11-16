@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4978843",
+      "denominacion": "Que reforma los artículos 94 de la Ley del Seguro Social y 39 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en materia de lactancia materna exclusiva.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4978843_20251120_1759431275.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067859",
+      "denominacion": "Que reforma los artículos 94 de la Ley del Seguro Social y 39 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en materia de lactancia materna exclusiva.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067859_20260415_1776262588.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070171",
+      "denominacion": "Que reforma los artículos 94 de la Ley del Seguro Social y 39 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en materia de lactancia materna exclusiva.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070171_20260415_1776262589.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072260",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 94 de la Ley del Seguro Social y 39 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072260_20260421_1776791378.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 94 de la Ley del Seguro Social y 39 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en materia de lactancia materna exclusiva.",
+  "id": "sil-5071803",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071803",
+  "sources": [
+    {
+      "archivo": "fuentes/3d/3db5df033e2ce8ae69026c7ff456c63dce2845e1575e88b189f7bb068dfa53a3.html",
+      "consultado": "2026-11-16T18:17:44Z",
+      "sha256": "3db5df033e2ce8ae69026c7ff456c63dce2845e1575e88b189f7bb068dfa53a3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071803&Asunto=5070171"
+    },
+    {
+      "archivo": "fuentes/3d/3df37cb1846c042487e7ede928c7d751901b64967919e70f43b9ab9c57da996b.html",
+      "consultado": "2026-11-16T18:17:48Z",
+      "sha256": "3df37cb1846c042487e7ede928c7d751901b64967919e70f43b9ab9c57da996b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070171&Seguimiento=5071803"
+    }
+  ],
+  "tramites": {
+    "5070171": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 437
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 437 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070171-1"
+  ]
+}

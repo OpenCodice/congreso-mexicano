@@ -1,0 +1,41 @@
+{
+  "asunto": "5169009",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 367
+    },
+    {
+      "option": "no",
+      "value": 60
+    },
+    {
+      "option": "abstain",
+      "value": 2
+    }
+  ],
+  "expediente_id": "sil-5170394",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5169009-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el 7 de junio de 2023.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas En la sesión del 13 de octubre de 2026 el Dip. Mario Calzada Mercado informa de su separación del Grupo Parlamentario del PRI y de su incorporación al Grupo Parlamentario de MC. A Favor: 367 En contra: 60 Abstenciones 2"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3cecca475c38ec7dfb0daa8af2115ecc2f93ef6dff38cd160b2fd3958e618766.html",
+      "consultado": "2026-11-16T18:50:02Z",
+      "sha256": "3cecca475c38ec7dfb0daa8af2115ecc2f93ef6dff38cd160b2fd3958e618766",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5169009"
+    }
+  ],
+  "start_date": "2026-10-20",
+  "votes": [],
+  "votos_publicados": false
+}

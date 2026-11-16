@@ -1,0 +1,84 @@
+{
+  "asuntos": [
+    {
+      "clave": "4830827",
+      "denominacion": "Con el que remite el nombramiento de José Gabriel Cuadra García, como miembro de la Junta de Gobierno del Banco de México.",
+      "estatus": "Toma de protesta 05/02/2025",
+      "fecha": "2025-02-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4830827_20250205_1738771517.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4831193",
+      "denominacion": "Por el que aprueba la designación de José Gabriel Cuadra García como miembro de la Junta de Gobierno del Banco de México.",
+      "estatus": "Toma de protesta 05/02/2025",
+      "fecha": "2025-02-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4831193_20250205_1738777886.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-02-04"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-02-05"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-02-05"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-02-05"
+    }
+  ],
+  "denominacion": "Por el que aprueba la designación de José Gabriel Cuadra García como miembro de la Junta de Gobierno del Banco de México.",
+  "id": "sil-4832240",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4832240",
+  "sources": [
+    {
+      "archivo": "fuentes/9a/9af4bab9861b720a6ccc2b3a64e2c136ea7fb4cdd2f2bf3375f3a79b6ffc1b46.html",
+      "consultado": "2026-11-16T15:57:03Z",
+      "sha256": "9af4bab9861b720a6ccc2b3a64e2c136ea7fb4cdd2f2bf3375f3a79b6ffc1b46",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4832240&Asunto=4831193"
+    },
+    {
+      "archivo": "fuentes/12/12053c207b7bcd079b7a20b024e3b79b220391b2e71b99f2fe3dc2ca23abd9fc.html",
+      "consultado": "2026-11-16T15:57:07Z",
+      "sha256": "12053c207b7bcd079b7a20b024e3b79b220391b2e71b99f2fe3dc2ca23abd9fc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4831193&Seguimiento=4832240"
+    }
+  ],
+  "tramites": {
+    "4831193": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 114
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 114 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de José Gabriel Cuadra García como miembro de la Junta de Gobierno del Banco de México, a partir de su fecha de aprobación y hasta el 31 de diciembre de 2032.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 05/02/2025",
+  "votaciones": [
+    "sil-4831193-1"
+  ]
+}

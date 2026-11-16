@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825650",
+      "denominacion": "Que reforma el párrafo noveno del artículo 42 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825650_20241213_1734027549.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020224",
+      "denominacion": "Con proyecto de decreto por el que reforma el párrafo noveno del artículo 42 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020224_20260224_1771952897.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5023244",
+      "denominacion": "Con proyecto de decreto por el que reforma el párrafo noveno del artículo 42 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5023244_20260225_1771952898.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5026224",
+      "denominacion": "Que reforma la fracción IX del segundo párrafo del artículo 42 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026224_20260303_1772570439.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma el párrafo noveno del artículo 42 de la Ley de Desarrollo Rural Sustentable.",
+  "id": "sil-5022769",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022769",
+  "sources": [
+    {
+      "archivo": "fuentes/68/68fb2f42cc520bcbda36e57eff79e56c71a311a5ffbede42e46c12de71ca181b.html",
+      "consultado": "2026-11-16T17:45:26Z",
+      "sha256": "68fb2f42cc520bcbda36e57eff79e56c71a311a5ffbede42e46c12de71ca181b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022769&Asunto=5023244"
+    },
+    {
+      "archivo": "fuentes/44/44f82df7c732b91a26c59763d6a63d856a941f043ad7a1c63ea5a9835c9f2da1.html",
+      "consultado": "2026-11-16T17:45:30Z",
+      "sha256": "44f82df7c732b91a26c59763d6a63d856a941f043ad7a1c63ea5a9835c9f2da1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5023244&Seguimiento=5022769"
+    }
+  ],
+  "tramites": {
+    "5023244": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 88
+        },
+        "texto": "Aprobado en lo general y en lo particular En la votación publicada de registran 2 votos a favor fuera del sistema del Sen. Higinio Martínez Miranda (Morena) y del Sen. Víctor Aureliano Mercado Salgado (Morena). A Favor: 88 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/03/2026",
+  "votaciones": [
+    "sil-5023244-1"
+  ]
+}

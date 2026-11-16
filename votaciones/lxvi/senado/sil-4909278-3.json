@@ -1,0 +1,41 @@
+{
+  "asunto": "4909278",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 68
+    },
+    {
+      "option": "no",
+      "value": 27
+    },
+    {
+      "option": "abstain",
+      "value": 6
+    }
+  ],
+  "expediente_id": "sil-4909273",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4909278-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Por el que reforma, adiciona y deroga diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas los artículos 4, 5, 12 Bis, 12 Ter, 12 Quater, 12 Quinquies, 12 Sexies, 12 Septies, 33, 45, 65, 66 Bis, 74 Bis, 120, 127 Ter de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y 91, 91 Bis, 91 Ter, 91 Quater, 91 Quinquies, 91 Sexies, 114 Bis, Quinto Transitorio de la Ley General de Población, y el Artículo Segundo Transitorio del proyecto de decreto, en términos del dictamen; y los artículos Sexto y Octavo Transitorios con las modificaciones aprobadas de la Ley General en materia de desaparición forzada de personas, desaparición cometida por particulares y del Sistema Nacional de Búsqueda de Personas. A Favor: 68 En contra: 27 Abstenciones 6"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bc/bc2d5bec120b5e16a60668d176f3c2b5a9b1217f138c2a44fbfb410ef48eb6bf.html",
+      "consultado": "2026-11-16T16:41:28Z",
+      "sha256": "bc2d5bec120b5e16a60668d176f3c2b5a9b1217f138c2a44fbfb410ef48eb6bf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4909278"
+    }
+  ],
+  "start_date": "2025-06-27",
+  "votes": [],
+  "votos_publicados": false
+}

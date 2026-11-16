@@ -1,0 +1,41 @@
+{
+  "asunto": "4909289",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 71
+    },
+    {
+      "option": "no",
+      "value": 29
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4888343",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4909289-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas Los artículos 5, 7, 14, 15, 16, 32, 37, 38, 46, 52, 55, 62, 64, 66, 67, 68, 69, 79, 83, 86, 87, 95, 102, 105, 109, 110, 112, 122, 123, 124, 125, 126, 130, 131, 147, 157, 182, 183, 192, 208, 245, 252, 256 y 296 y de los Transitorios Segundo, Tercero, Cuarto, Octavo y Trigésimo, en los términos del dictamen. Asimismo, de los artículos 10, 185 y 273 y el Transitorio Noveno, con las modificaciones aceptadas. A Favor: 71 En contra: 29 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c4/c42a75e4d5f4d79469914202b8577675c281dfcc039cf2e6a64a560ca9205952.html",
+      "consultado": "2026-11-16T16:22:58Z",
+      "sha256": "c42a75e4d5f4d79469914202b8577675c281dfcc039cf2e6a64a560ca9205952",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4909289"
+    }
+  ],
+  "start_date": "2025-06-28",
+  "votes": [],
+  "votos_publicados": false
+}

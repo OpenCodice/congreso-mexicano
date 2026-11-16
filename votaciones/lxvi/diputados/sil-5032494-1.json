@@ -1,0 +1,41 @@
+{
+  "asunto": "5032494",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 472
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034957",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5032494-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Designación de servidores públicos",
+    "denominacion": "Por el que se propone al pleno de la Cámara de Diputados la terna de las y los candidatos para la designación de la persona titular de la Auditoría Superior de la Federación para el periodo 2026-2034.",
+    "text": null
+  },
+  "orden": 1,
+  "organization_id": "camara-de-diputados",
+  "result": null,
+  "sources": [
+    {
+      "archivo": "fuentes/cc/ccf3103c714716d2ed011467bc95735bfefcf8032a466017779700dad2310407.html",
+      "consultado": "2026-11-16T17:58:22Z",
+      "sha256": "ccf3103c714716d2ed011467bc95735bfefcf8032a466017779700dad2310407",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5032494"
+    }
+  ],
+  "start_date": "2026-03-10",
+  "votes": [],
+  "votos_publicados": false
+}

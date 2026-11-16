@@ -1,0 +1,41 @@
+{
+  "asunto": "4989529",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 421
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4990617",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4989529-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos de la Armada de México.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en los términos del dictamen. A Favor: 421 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/29/2971f1a45999a563517f4adef4b6b0a0e7c29d7318f03d55b7d491fd8040cc3a.html",
+      "consultado": "2026-11-16T17:27:38Z",
+      "sha256": "2971f1a45999a563517f4adef4b6b0a0e7c29d7318f03d55b7d491fd8040cc3a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4989529"
+    }
+  ],
+  "start_date": "2025-12-02",
+  "votes": [],
+  "votos_publicados": false
+}

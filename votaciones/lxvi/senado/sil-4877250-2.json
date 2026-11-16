@@ -1,0 +1,41 @@
+{
+  "asunto": "4877250",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 68
+    },
+    {
+      "option": "no",
+      "value": 23
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4870976",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4877250-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y, de la Ley General de Sociedades Cooperativas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 1, 32, 38, 53, 55, 60 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y tercero transitorio en términos del dictamen. A Favor: 68 En contra: 23 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/90/90e6bf9112f044b625126b29b07398e7ca06350ce3d410dc13ead4a6e05e4096.html",
+      "consultado": "2026-11-16T16:13:44Z",
+      "sha256": "90e6bf9112f044b625126b29b07398e7ca06350ce3d410dc13ead4a6e05e4096",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4877250"
+    }
+  ],
+  "start_date": "2025-04-10",
+  "votes": [],
+  "votos_publicados": false
+}

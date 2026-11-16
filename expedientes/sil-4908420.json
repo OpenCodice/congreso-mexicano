@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4866253",
+      "denominacion": "Nombramiento en favor de Juan Antonio Ferrer Aguilar, como Embajador Extraordinario y Plenipotenciario para que funja como Representante Permanente de México ante la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, con sede en París, Francia.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-03-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4866253_20250327_1743093121.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4905762",
+      "denominacion": "Con el que remite el nombramiento expedido por la titular del Ejecutivo Federal, Claudia Sheinbaum Pardo, en favor de Juan Antonio Ferrer Aguilar, como Embajador Extraordinario y Plenipotenciario para que funja como Representante Permanente de México ante la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, con sede en París, Francia, mismo que fue remitido por la Secretaría de Gobernación el 27 de marzo de 2025.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905762_20250620_1750435353.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4907666",
+      "denominacion": "Por el que ratifica el nombramiento expedido a favor del ciudadano Juan Antonio Ferrer Aguilar, como Embajador Extraordinario y Plenipotenciario, para que funja como Representante Permanente de México ante la Organización de las Naciones Unidas para la educación, la ciencia y la cultura, con sede en París, Francia.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907666_20250625_1750866573.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-06-20"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-06-25"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento expedido a favor del ciudadano Juan Antonio Ferrer Aguilar, como Embajador Extraordinario y Plenipotenciario, para que funja como Representante Permanente de México ante la Organización de las Naciones Unidas para la educación, la ciencia y la cultura, con sede en París, Francia.",
+  "id": "sil-4908420",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4908420",
+  "sources": [
+    {
+      "archivo": "fuentes/e1/e169bdcf377a89ac913238491a6df725e21b8476c36e15ad2a764e26964671f5.html",
+      "consultado": "2026-11-16T16:36:32Z",
+      "sha256": "e169bdcf377a89ac913238491a6df725e21b8476c36e15ad2a764e26964671f5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908420&Asunto=4907666"
+    },
+    {
+      "archivo": "fuentes/d8/d8b422dc7bebb5278f734fe95a03b0e6d08a35bc17d78521d425bf3e530f3599.html",
+      "consultado": "2026-11-16T16:36:35Z",
+      "sha256": "d8b422dc7bebb5278f734fe95a03b0e6d08a35bc17d78521d425bf3e530f3599",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907666&Seguimiento=4908420"
+    }
+  ],
+  "tramites": {
+    "4907666": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 8,
+          "yes": 24
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 24 En contra: 8 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Juan Antonio Ferrer Aguilar, como Embajador Extraordinario y Plenipotenciario, para que funja como Representante Permanente de México ante la Organización de las Naciones Unidas para la educación, la ciencia y la cultura, con sede en París, Francia.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
+  "votaciones": [
+    "sil-4907666-1"
+  ]
+}

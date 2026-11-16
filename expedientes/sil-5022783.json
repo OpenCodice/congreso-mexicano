@@ -1,0 +1,124 @@
+{
+  "asuntos": [
+    {
+      "clave": "4836661",
+      "denominacion": "Que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 y, adiciona una fracción XIII del artículo 6 de la Ley de Vivienda.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4836661_20250217_1738864041.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4853598",
+      "denominacion": "Que reforma diversas disposiciones de la Ley de Vivienda.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4853598_20250312_1739467931.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4865024",
+      "denominacion": "Que reforma diversas disposiciones de la Ley de Vivienda.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4865024_20250325_1743012760.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020248",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 de la Ley de Vivienda.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020248_20260224_1771956988.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5025162",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 de la Ley de Vivienda.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025162_20260303_1771956990.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5032371",
+      "denominacion": "Que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 de la Ley de Vivienda.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032371_20260310_1773170995.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 de la Ley de Vivienda.",
+  "id": "sil-5022783",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022783",
+  "sources": [
+    {
+      "archivo": "fuentes/48/4859ce0975c0b261ff696fbe4cbb32129f7129c47478e5135b57974bb780ea23.html",
+      "consultado": "2026-11-16T17:47:14Z",
+      "sha256": "4859ce0975c0b261ff696fbe4cbb32129f7129c47478e5135b57974bb780ea23",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022783&Asunto=5025162"
+    },
+    {
+      "archivo": "fuentes/1b/1b99ddcc6ffbb7a07abba55b4f64a128cb303b613e8164d999a62e4fa29d75ac.html",
+      "consultado": "2026-11-16T17:47:17Z",
+      "sha256": "1b99ddcc6ffbb7a07abba55b4f64a128cb303b613e8164d999a62e4fa29d75ac",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5025162&Seguimiento=5022783"
+    }
+  ],
+  "tramites": {
+    "5025162": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 93
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5025162-1"
+  ]
+}

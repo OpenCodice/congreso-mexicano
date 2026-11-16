@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4890025",
+      "denominacion": "De Decreto por el que se declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890025_20250428_1744305011.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971196",
+      "denominacion": "Que declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971196_20251111_1762880805.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971431",
+      "denominacion": "Que declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971431_20251111_1762886014.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975627",
+      "denominacion": "Con proyecto de decreto por el que declara el 11 de diciembre de cada año, como el -Día Nacional de la Talavera-",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975627_20251119_1763572758.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-.",
+  "id": "sil-4972420",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972420",
+  "sources": [
+    {
+      "archivo": "fuentes/50/50f9bee29768757678461dd52f00b15c72a453bf3381d3b2c34873e6be5b4b13.html",
+      "consultado": "2026-11-16T17:07:38Z",
+      "sha256": "50f9bee29768757678461dd52f00b15c72a453bf3381d3b2c34873e6be5b4b13",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972420&Asunto=4971431"
+    },
+    {
+      "archivo": "fuentes/6d/6d05ac5265e58e484e9c667cba1b712e0cedc7398c7a12182b8f715b66ff4dec.html",
+      "consultado": "2026-11-16T17:07:42Z",
+      "sha256": "6d05ac5265e58e484e9c667cba1b712e0cedc7398c7a12182b8f715b66ff4dec",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971431&Seguimiento=4972420"
+    }
+  ],
+  "tramites": {
+    "4971431": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Gobernación y Población que declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 438
+        },
+        "texto": "Aprobado en lo general y en lo particular Los datos de la votación corresponden a lo publicado en la Gaceta Parlamentaria. A Favor: 438 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971431-1"
+  ]
+}

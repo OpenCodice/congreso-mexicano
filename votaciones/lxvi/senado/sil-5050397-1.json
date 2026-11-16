@@ -1,0 +1,41 @@
+{
+  "asunto": "5050397",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 86
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034962",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5050397-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversos artículos de la Ley Federal del Trabajo, en materia de uso indebido de datos personales en procesos de contratación.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 86 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/31/318420c0f97f8a89af4e0c131ad07c249fe920fd5d554ba352d2da00563e201b.html",
+      "consultado": "2026-11-16T18:00:06Z",
+      "sha256": "318420c0f97f8a89af4e0c131ad07c249fe920fd5d554ba352d2da00563e201b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5050397"
+    }
+  ],
+  "start_date": "2026-03-24",
+  "votes": [],
+  "votos_publicados": false
+}

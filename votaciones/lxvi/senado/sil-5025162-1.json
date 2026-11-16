@@ -1,0 +1,41 @@
+{
+  "asunto": "5025162",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 93
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5022783",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5025162-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 de la Ley de Vivienda.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/97/97438736d6ee404716f199f26af66de926f73c1349769b18f10795cf47ce7faa.html",
+      "consultado": "2026-11-16T17:47:21Z",
+      "sha256": "97438736d6ee404716f199f26af66de926f73c1349769b18f10795cf47ce7faa",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5025162"
+    }
+  ],
+  "start_date": "2026-03-03",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5175806",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 24
+    },
+    {
+      "option": "no",
+      "value": 48
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5163337",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5175806-4",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+    "text": "Se rechazó admitir a discusión la reserva presentada por la Sen. Geovanna del Carmen Bañuelos de la Torre (PT) A Favor: 24 En contra: 48 Abstenciones 0"
+  },
+  "orden": 4,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/33/33ac16864b3d3c31000e7612f702124f972d7822cc4501e47147875890605f36.html",
+      "consultado": "2026-11-16T18:44:42Z",
+      "sha256": "33ac16864b3d3c31000e7612f702124f972d7822cc4501e47147875890605f36",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5175806"
+    }
+  ],
+  "start_date": "2026-10-27",
+  "votes": [],
+  "votos_publicados": false
+}

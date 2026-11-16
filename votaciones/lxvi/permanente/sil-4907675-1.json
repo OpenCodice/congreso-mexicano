@@ -1,0 +1,41 @@
+{
+  "asunto": "4907675",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "abstain",
+      "value": 5
+    }
+  ],
+  "expediente_id": "sil-4908425",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907675-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Carlos Iriarte Mercado, como Cónsul General de México en Boston, Massachusetts, Estados Unidos de América.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 25 En contra: 3 Abstenciones 5"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/e6/e69fad0898d7c32a45a8c6d61e3ed9017a39c8942391ff4ed0232479a2f829ef.html",
+      "consultado": "2026-11-16T16:37:37Z",
+      "sha256": "e69fad0898d7c32a45a8c6d61e3ed9017a39c8942391ff4ed0232479a2f829ef",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907675"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

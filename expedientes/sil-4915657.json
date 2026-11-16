@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4914728",
+      "denominacion": "Nombramiento a favor de Francisco Ernesto Romero Bock como Embajador Extraordinario y Plenipotenciario de México en la República Libanesa y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante la República Árabe Siria.",
+      "estatus": "Toma de protesta 30/07/2025",
+      "fecha": "2025-07-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4914728_20250730_1753887926.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4915624",
+      "denominacion": "Por el que ratifica el nombramiento a favor de Francisco Ernesto Romero Bock como Embajador Extraordinario y Plenipotenciario de México en la República Libanesa y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante la República Árabe Siria.",
+      "estatus": "Toma de protesta 30/07/2025",
+      "fecha": "2025-07-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4915624_20250730_1753915154.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-07-30"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento a favor de Francisco Ernesto Romero Bock como Embajador Extraordinario y Plenipotenciario de México en la República Libanesa y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante la República Árabe Siria.",
+  "id": "sil-4915657",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4915657",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c8896465401bd21b40d374aff7f569687da7b252f4e015c8d6fcfa210b49dda.html",
+      "consultado": "2026-11-16T16:42:25Z",
+      "sha256": "3c8896465401bd21b40d374aff7f569687da7b252f4e015c8d6fcfa210b49dda",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4915657&Asunto=4915624"
+    },
+    {
+      "archivo": "fuentes/01/01f6e715ef40d3a5022a2ec83d6284f3868f6f06e7b43192e4ab344196ef77bf.html",
+      "consultado": "2026-11-16T16:42:28Z",
+      "sha256": "01f6e715ef40d3a5022a2ec83d6284f3868f6f06e7b43192e4ab344196ef77bf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4915624&Seguimiento=4915657"
+    }
+  ],
+  "tramites": {
+    "4915624": [
+      {
+        "texto": "Aprobado incorporar al orden del día el dictamen de la Primera Comisión de Trabajo de la Comisión Permanente.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 28
+        },
+        "texto": "Aprobado A Favor: 28 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "se designa comisión de cortesía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 30/07/2025",
+  "votaciones": [
+    "sil-4915624-1"
+  ]
+}

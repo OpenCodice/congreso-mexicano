@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4921468",
+      "denominacion": "Que reforma el artículo 11 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2025-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4921468_20250909_1757445770.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086628",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 11 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086628_20260429_1777484957.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5130144",
+      "denominacion": "Por el que se reforma el artículo 11 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-09-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5130144_20260914_1789399510.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5135354",
+      "denominacion": "Que reforma el artículo 11 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-09-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5135354_20260915_1790029664.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-15"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-15"
+    }
+  ],
+  "denominacion": "Por el que se reforma el artículo 11 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+  "id": "sil-5090235",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090235",
+  "sources": [
+    {
+      "archivo": "fuentes/cd/cdeaedc11b01e06b6152468c6abfca2fb887ba413f97ade29f0b42b5757a7ee5.html",
+      "consultado": "2026-11-16T18:25:38Z",
+      "sha256": "cdeaedc11b01e06b6152468c6abfca2fb887ba413f97ade29f0b42b5757a7ee5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090235&Asunto=5130144"
+    },
+    {
+      "archivo": "fuentes/2d/2d1ed614879c518fb48d7860171a27d2fe35ef4d563555a36f8da97fee2980d2.html",
+      "consultado": "2026-11-16T18:25:42Z",
+      "sha256": "2d1ed614879c518fb48d7860171a27d2fe35ef4d563555a36f8da97fee2980d2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5130144&Seguimiento=5090235"
+    }
+  ],
+  "tramites": {
+    "5130144": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen y someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 105
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 105 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 15/09/2026",
+  "votaciones": [
+    "sil-5130144-1"
+  ]
+}

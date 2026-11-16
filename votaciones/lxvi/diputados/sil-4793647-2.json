@@ -1,0 +1,41 @@
+{
+  "asunto": "4793647",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 343
+    },
+    {
+      "option": "no",
+      "value": 129
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4791544",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4793647-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma el artículo 107 y se adiciona un quinto párrafo al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de inimpugnabilidad de las adiciones o reformas a la Constitución Federal.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 343 En contra: 129 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/57/57d00128b81588b8b17d46fb8a2fbd256f0578dd1f0ca101a06ac37845fc2370.html",
+      "consultado": "2026-11-16T15:38:40Z",
+      "sha256": "57d00128b81588b8b17d46fb8a2fbd256f0578dd1f0ca101a06ac37845fc2370",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4793647"
+    }
+  ],
+  "start_date": "2024-10-30",
+  "votes": [],
+  "votos_publicados": false
+}

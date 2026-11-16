@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4918143",
+      "denominacion": "Que reforma la fracción I del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-08-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4918143_20250820_1755700470.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067868",
+      "denominacion": "Que adiciona un numeral 24 a la fracción I del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067868_20260415_1776262630.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070180",
+      "denominacion": "Que adiciona un numeral 24 a la fracción I del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070180_20260415_1776262631.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072251",
+      "denominacion": "Con proyecto de decreto por el que adiciona un numeral 24 a la fracción I del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072251_20260421_1776790825.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que adiciona un numeral 24 a la fracción I del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+  "id": "sil-5071810",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071810",
+  "sources": [
+    {
+      "archivo": "fuentes/7e/7e657140dac3335554363e5fabcd5ec8c6d3063316d9adb75d1a60f2d3c4899f.html",
+      "consultado": "2026-11-16T18:19:47Z",
+      "sha256": "7e657140dac3335554363e5fabcd5ec8c6d3063316d9adb75d1a60f2d3c4899f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071810&Asunto=5070180"
+    },
+    {
+      "archivo": "fuentes/9c/9c19a9f1f1a44e21bbccb22f0185daa8c1f4849022f3998ec9f1652a279b4c5d.html",
+      "consultado": "2026-11-16T18:19:51Z",
+      "sha256": "9c19a9f1f1a44e21bbccb22f0185daa8c1f4849022f3998ec9f1652a279b4c5d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070180&Seguimiento=5071810"
+    }
+  ],
+  "tramites": {
+    "5070180": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 435
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 435 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070180-1"
+  ]
+}

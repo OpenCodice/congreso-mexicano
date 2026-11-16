@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4981187",
+      "denominacion": "Que establecen las características de una Moneda Conmemorativa alusiva al 200 Aniversario de la Consolidación de la Independencia de México en la Mar.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981187_20251125_1764089514.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4988095",
+      "denominacion": "Que establecen las características de una Moneda Conmemorativa alusiva al 200 Aniversario de la Consolidación de la Independencia de México en la Mar.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988095_20251202_1764701955.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4989535",
+      "denominacion": "Que establecen las características de una Moneda Conmemorativa alusiva al 200 Aniversario de la Consolidación de la Independencia de México en la Mar.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4989535_20251202_1764701970.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4992592",
+      "denominacion": "Con Proyecto de Decreto por el que se establecen las características de una Moneda Conmemorativa alusiva al -200 Aniversario de la Consolidación de la Independencia de México en la Mar-.",
+      "estatus": "Publicado en DOF 17/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4992592_20251203_1764790701.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Sin turno a comisión(es) - Aprobado en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-17"
+    }
+  ],
+  "denominacion": "Que establecen las características de una Moneda Conmemorativa alusiva al 200 Aniversario de la Consolidación de la Independencia de México en la Mar.",
+  "id": "sil-4990626",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-17",
+  "seguimiento": "4990626",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea15deeb20f1a9598d694dcbac601169a6970d316f3f28538fdf4807437b87f2.html",
+      "consultado": "2026-11-16T17:28:46Z",
+      "sha256": "ea15deeb20f1a9598d694dcbac601169a6970d316f3f28538fdf4807437b87f2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990626&Asunto=4989535"
+    },
+    {
+      "archivo": "fuentes/75/7583ecd92d1fcd67ca55a5de600c615bac0748098b405b4ec189f5171ed3f9d6.html",
+      "consultado": "2026-11-16T17:28:50Z",
+      "sha256": "7583ecd92d1fcd67ca55a5de600c615bac0748098b405b4ec189f5171ed3f9d6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989535&Seguimiento=4990626"
+    }
+  ],
+  "tramites": {
+    "4989535": [
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado suficientemente discutido en lo general y en lo particular, el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 413
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 413 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 17/12/2025",
+  "votaciones": [
+    "sil-4989535-1"
+  ]
+}

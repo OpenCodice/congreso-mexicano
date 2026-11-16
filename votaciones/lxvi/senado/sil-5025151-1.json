@@ -1,0 +1,41 @@
+{
+  "asunto": "5025151",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 99
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5028047",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5025151-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Proposición con punto de acuerdo",
+    "denominacion": "Relativo a la designación de la persona galardonada con el Reconocimiento -Elvia Carrillo Puerto- 2025.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/edc3af0c30ff8622eece8791ccefce335504f0a0d3dcb71e33f447a5a4053ad2.html",
+      "consultado": "2026-11-16T17:50:41Z",
+      "sha256": "edc3af0c30ff8622eece8791ccefce335504f0a0d3dcb71e33f447a5a4053ad2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5025151"
+    }
+  ],
+  "start_date": "2026-03-03",
+  "votes": [],
+  "votos_publicados": false
+}

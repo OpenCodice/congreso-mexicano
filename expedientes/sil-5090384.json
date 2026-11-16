@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4854684",
+      "denominacion": "Que reforma el artículo 50 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de lactancia materna.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4854684_20250312_1741806666.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086692",
+      "denominacion": "Que reforma la fracción VII del artículo 50 de la Ley General de los Derechos de Niñas, Niños Adolescentes, en materia de lactancia materna.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086692_20260429_1777484848.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088464",
+      "denominacion": "Que reforma la fracción VII del artículo 50 de la Ley General de los Derechos de Niñas, Niños Adolescentes, en materia de lactancia materna.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088464_20260429_1777493870.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120804",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción VII del artículo 50 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de lactancia materna.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120804_20260902_1790628427.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que reforma la fracción VII del artículo 50 de la Ley General de los Derechos de Niñas, Niños Adolescentes, en materia de lactancia materna.",
+  "id": "sil-5090384",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090384",
+  "sources": [
+    {
+      "archivo": "fuentes/0f/0f18a6e1bc7361034d164df8225e90532409858d9183abf6e3828a4f437e2a6c.html",
+      "consultado": "2026-11-16T18:30:21Z",
+      "sha256": "0f18a6e1bc7361034d164df8225e90532409858d9183abf6e3828a4f437e2a6c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090384&Asunto=5088464"
+    },
+    {
+      "archivo": "fuentes/ee/ee521806b6463354f22201105f66acddea437a8bcbb4845f74eef62c53d2c8c1.html",
+      "consultado": "2026-11-16T18:30:25Z",
+      "sha256": "ee521806b6463354f22201105f66acddea437a8bcbb4845f74eef62c53d2c8c1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088464&Seguimiento=5090384"
+    }
+  ],
+  "tramites": {
+    "5088464": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Derechos de la Niñez y Adolescencia, que reforma la fracción VII del artículo 50 de la Ley General de los Derechos de Niñas, Niños Adolescentes, en materia de lactancia materna.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que reforma la fracción VII del artículo 50 de la Ley General de los Derechos de Niñas, Niños Adolescentes, en materia de lactancia materna.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 427
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 427 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088464-1"
+  ]
+}

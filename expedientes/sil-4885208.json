@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4760828",
+      "denominacion": "Actas Finales de la Conferencia Mundial de Telecomunicaciones Internacionales (Dubái 2012), firmadas en Dubái, el catorce de diciembre de dos mil doce.",
+      "estatus": "Turnado al Ejecutivo 24/04/2025",
+      "fecha": "2024-06-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/06/asun_4760828_20240612_1718203657.pdf",
+      "tipo": "Instrumento internacional"
+    },
+    {
+      "clave": "4882540",
+      "denominacion": "Con proyecto de decreto que aprueba las Actas Finales de la Conferencia de Mundial de Telecomunicaciones Internacionales (Dubái 2012), firmadas en Dubái, el catorce de diciembre de dos mil doce, y sus reservas.",
+      "estatus": "Turnado al Ejecutivo 24/04/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4882540_20250423_1745414454.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4886178",
+      "denominacion": "Con proyecto de decreto que aprueba las Actas Finales de la Conferencia de Mundial de Telecomunicaciones Internacionales (Dubái 2012), firmadas en Dubái, el catorce de diciembre de dos mil doce, y sus reservas.",
+      "estatus": "Turnado al Ejecutivo 24/04/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886178_20250424_1745414455.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-24"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que aprueba las Actas Finales de la Conferencia de Mundial de Telecomunicaciones Internacionales (Dubái 2012), firmadas en Dubái, el catorce de diciembre de dos mil doce, y sus reservas.",
+  "id": "sil-4885208",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4885208",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6f31af0268aeab77558c02a01126ddb4a744772551ab490601abf4ba97d504fe.html",
+      "consultado": "2026-11-16T16:22:00Z",
+      "sha256": "6f31af0268aeab77558c02a01126ddb4a744772551ab490601abf4ba97d504fe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4885208&Asunto=4886178"
+    },
+    {
+      "archivo": "fuentes/0b/0b182fe3cb07660050a77ae1e1a704a02587b92f098749094975862f02dd8852.html",
+      "consultado": "2026-11-16T16:22:03Z",
+      "sha256": "0b182fe3cb07660050a77ae1e1a704a02587b92f098749094975862f02dd8852",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4886178&Seguimiento=4885208"
+    }
+  ],
+  "tramites": {
+    "4886178": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 81
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Alberto Anaya Gutiérrez (PT), Sen. Geovanna del Carmen Bañuelos de la Torre (PT), Sen. Moisés Ignacio Mier Velazco (Morena), Sen. Sandra Simey Olvera Bautista (Morena) y Sen. María Lilly del Carmen Téllez García (PAN). A Favor: 81 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 24/04/2025",
+  "votaciones": [
+    "sil-4886178-1"
+  ]
+}

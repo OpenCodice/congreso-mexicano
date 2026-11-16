@@ -1,0 +1,41 @@
+{
+  "asunto": "4931422",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 349
+    },
+    {
+      "option": "no",
+      "value": 95
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4925062",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4931422-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma los artículos 76 y 78 de la Constitución Política de los Estados Unidos Mexicanos, en materia de ratificación de grados superiores de la Guardia Nacional.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. Es mayoría calificada. A Favor: 349 En contra: 95 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/8b/8bdf92c60a03ee599dfd4bb701aa0ec813479a8d5beefc656b57e9bc29ec02a9.html",
+      "consultado": "2026-11-16T16:46:22Z",
+      "sha256": "8bdf92c60a03ee599dfd4bb701aa0ec813479a8d5beefc656b57e9bc29ec02a9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4931422"
+    }
+  ],
+  "start_date": "2025-09-23",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4894755",
+      "denominacion": "Que adiciona un título sexto -De las declaratorias de patrimonio cultural de la Nación mexicana- de la Ley Federal de Cultura y Derechos Culturales.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894755_20250430_1741797122.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5042784",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un Título Sexto -Del Patrimonio Cultural Inmaterial de la Nación Mexicana- a la Ley General de Cultura y Derechos Culturales.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042784_20260319_1773943229.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5053264",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un Título Sexto -Del Patrimonio Cultural Inmaterial de la Nación Mexicana- a la Ley General de Cultura y Derechos Culturales.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5053264_20260325_1773943231.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5055060",
+      "denominacion": "Que adiciona un Título Sexto -Del Patrimonio Cultural Inmaterial de la Nación Mexicana- a la Ley General de Cultura y Derechos Culturales.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5055060_20260325_1774509422.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se adiciona un Título Sexto -Del Patrimonio Cultural Inmaterial de la Nación Mexicana- a la Ley General de Cultura y Derechos Culturales.",
+  "id": "sil-5047902",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5047902",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4dc7bd11d2591d940d0a1351dd2d00154fe50cc93b686d95c22a32a5a1a20403.html",
+      "consultado": "2026-11-16T18:04:47Z",
+      "sha256": "4dc7bd11d2591d940d0a1351dd2d00154fe50cc93b686d95c22a32a5a1a20403",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5047902&Asunto=5053264"
+    },
+    {
+      "archivo": "fuentes/5f/5fedb7869fcc79430d5121d9103db57141e6b602ddef178757a6abe3e0247eec.html",
+      "consultado": "2026-11-16T18:04:51Z",
+      "sha256": "5fedb7869fcc79430d5121d9103db57141e6b602ddef178757a6abe3e0247eec",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5053264&Seguimiento=5047902"
+    }
+  ],
+  "tramites": {
+    "5053264": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 106
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 106 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/03/2026",
+  "votaciones": [
+    "sil-5053264-1"
+  ]
+}

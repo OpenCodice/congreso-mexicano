@@ -1,0 +1,41 @@
+{
+  "asunto": "4810782",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 93
+    },
+    {
+      "option": "no",
+      "value": 35
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4798658",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4810782-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que adiciona el párrafo 2° del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 19 y tercero transitorio, en términos del dictamen. A Favor: 93 En contra: 35 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/e5/e580858685efde8e27ecdefaaeffcac75dc829fcf7a73cccf01e2ba674e2b7ba.html",
+      "consultado": "2026-11-16T15:39:56Z",
+      "sha256": "e580858685efde8e27ecdefaaeffcac75dc829fcf7a73cccf01e2ba674e2b7ba",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4810782"
+    }
+  ],
+  "start_date": "2024-11-27",
+  "votes": [],
+  "votos_publicados": false
+}

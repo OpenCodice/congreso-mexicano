@@ -1,0 +1,144 @@
+{
+  "asuntos": [
+    {
+      "clave": "5043096",
+      "denominacion": "Que reforma el artículo 141 del Código Fiscal de la Federación.",
+      "estatus": "Publicado en DOF 09/04/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5043096_20260319_1773934580.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5051378",
+      "denominacion": "Que reforma el artículo 141 del Código Fiscal de la Federación.",
+      "estatus": "Publicado en DOF 09/04/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5051378_20260325_1774461591.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5053554",
+      "denominacion": "Que reforma el artículo 141 del Código Fiscal de la Federación.",
+      "estatus": "Publicado en DOF 09/04/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5053554_20260325_1775496934.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5055614",
+      "denominacion": "Que reforma el artículo 141 de Código Fiscal de la Federación.",
+      "estatus": "Publicado en DOF 09/04/2026",
+      "fecha": "2026-04-07",
+      "pdf": null,
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5057604",
+      "denominacion": "Con proyecto de decreto por el que se reforma el artículo 141 de Código Fiscal de la Federación.",
+      "estatus": "Publicado en DOF 09/04/2026",
+      "fecha": "2026-04-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5057604_20260407_1775589274.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-27"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-27"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-04-06"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-04-07"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-04-07"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-04-07"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-04-07"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-07"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-04-09"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 141 del Código Fiscal de la Federación.",
+  "id": "sil-5054077",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-04-09",
+  "seguimiento": "5054077",
+  "sources": [
+    {
+      "archivo": "fuentes/d0/d078c7119e5c6f26e0a04fec63f74d7cb0cd30cd36f6b5aca4dbbfaf8b6ed8ae.html",
+      "consultado": "2026-11-16T18:08:39Z",
+      "sha256": "d078c7119e5c6f26e0a04fec63f74d7cb0cd30cd36f6b5aca4dbbfaf8b6ed8ae",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5054077&Asunto=5053554"
+    },
+    {
+      "archivo": "fuentes/f9/f97994d01e103f3b69c05d7a7f894ec8adcd5d168dee18e520792d2d0a1e5adc.html",
+      "consultado": "2026-11-16T18:08:42Z",
+      "sha256": "f97994d01e103f3b69c05d7a7f894ec8adcd5d168dee18e520792d2d0a1e5adc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5053554&Seguimiento=5054077"
+    }
+  ],
+  "tramites": {
+    "5053554": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Hacienda y Crédito Público que reforma el artículo 141 del Código Fiscal de la Federación.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado Para considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 35,
+          "no": 0,
+          "yes": 418
+        },
+        "texto": "Aprobado en lo general y en lo particular en un solo acto. A Favor: 418 En contra: 0 Abstenciones 35",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 09/04/2026",
+  "votaciones": [
+    "sil-5053554-1"
+  ]
+}

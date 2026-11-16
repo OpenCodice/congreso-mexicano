@@ -1,0 +1,41 @@
+{
+  "asunto": "4857363",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 425
+    },
+    {
+      "option": "no",
+      "value": 19
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4853258",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4857363-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados Es mayoría calificada. A Favor: 425 En contra: 19 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/fb/fb7bb8a45c4aec28e3fbacae1cf3eca076f8114f9e65f5ccbc72c1872f05ea3a.html",
+      "consultado": "2026-11-16T19:47:35Z",
+      "sha256": "fb7bb8a45c4aec28e3fbacae1cf3eca076f8114f9e65f5ccbc72c1872f05ea3a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4857363"
+    }
+  ],
+  "start_date": "2025-03-19",
+  "votes": [],
+  "votos_publicados": false
+}

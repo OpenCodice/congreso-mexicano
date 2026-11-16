@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "5005527",
+      "denominacion": "Que adiciona la fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en materia de fomento al consumo de productos de origen nacional y uso de la marca de certificación -Hecho en México-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-01-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/01/asun_5005527_20260121_1772843715.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5024534",
+      "denominacion": "Que adiciona una fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5024534_20260303_1772560154.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5026694",
+      "denominacion": "Que adiciona una fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026694_20260303_1772576477.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5031519",
+      "denominacion": "Con proyecto de decreto por el que adiciona una fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031519_20260310_1773164347.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Que adiciona una fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+  "id": "sil-5028048",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028048",
+  "sources": [
+    {
+      "archivo": "fuentes/53/5362830065e5037ab88aabfba2058a6ea9f378402602b36ee8e798d38111953a.html",
+      "consultado": "2026-11-16T17:50:52Z",
+      "sha256": "5362830065e5037ab88aabfba2058a6ea9f378402602b36ee8e798d38111953a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028048&Asunto=5026694"
+    },
+    {
+      "archivo": "fuentes/a5/a5a99cfc792a761eebd6c24c5b47693c5110035b96788f063a78244b3373f547.html",
+      "consultado": "2026-11-16T17:50:56Z",
+      "sha256": "a5a99cfc792a761eebd6c24c5b47693c5110035b96788f063a78244b3373f547",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026694&Seguimiento=5028048"
+    }
+  ],
+  "tramites": {
+    "5026694": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que adiciona una fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 439
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 439 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5026694-1"
+  ]
+}

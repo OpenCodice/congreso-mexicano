@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4818252",
+      "denominacion": "Que declara el 1 de diciembre de cada año, como el -Día Nacional de las y los Alfareros-.",
+      "estatus": "Publicado en DOF 31/12/2025",
+      "fecha": "2024-12-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4818252_20241205_1732127535.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4961121",
+      "denominacion": "Con proyecto de decreto por el que declara el 1° de diciembre de cada año, como el -Día Nacional de las y los Alfareros-.",
+      "estatus": "Publicado en DOF 31/12/2025",
+      "fecha": "2025-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4961121_20251028_1761681589.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4963394",
+      "denominacion": "Que declara el 1º de diciembre de cada año como el -Día Nacional de las y los Alfareros-.",
+      "estatus": "Publicado en DOF 31/12/2025",
+      "fecha": "2025-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4963394_20251029_1762186839.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4983364",
+      "denominacion": "Que declara el 1° de diciembre de cada año, como el -Día Nacional de las y los Alfareros-.",
+      "estatus": "Publicado en DOF 31/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983364_20251126_1764183557.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985194",
+      "denominacion": "Que declara el 1° de diciembre de cada año, como el -Día Nacional de las y los Alfareros-.",
+      "estatus": "Publicado en DOF 31/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985194_20251126_1764183533.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-31"
+    }
+  ],
+  "denominacion": "Que declara el 1° de diciembre de cada año, como el -Día Nacional de las y los Alfareros-.",
+  "id": "sil-4961174",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-31",
+  "seguimiento": "4961174",
+  "sources": [
+    {
+      "archivo": "fuentes/af/af104a83404da0fa7f197556490f6b6f2243180b3c663d1823a69a1cbd65a634.html",
+      "consultado": "2026-11-16T17:04:33Z",
+      "sha256": "af104a83404da0fa7f197556490f6b6f2243180b3c663d1823a69a1cbd65a634",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4961174&Asunto=4985194"
+    },
+    {
+      "archivo": "fuentes/b0/b0a60d728a8b26f39d673f483c53ad16440b45fcd93e3a517edfec5daebccb80.html",
+      "consultado": "2026-11-16T17:04:37Z",
+      "sha256": "b0a60d728a8b26f39d673f483c53ad16440b45fcd93e3a517edfec5daebccb80",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985194&Seguimiento=4961174"
+    }
+  ],
+  "tramites": {
+    "4985194": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que declara el 1° de diciembre de cada año, como el -Día Nacional de las y los Alfareros-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 413
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 413 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 31/12/2025",
+  "votaciones": [
+    "sil-4985194-1"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4798312",
+      "denominacion": "Que adiciona el artículo 68 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 26/02/2025",
+      "fecha": "2024-11-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4798312_20241106_1730232677.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4841597",
+      "denominacion": "Que adiciona un párrafo segundo a la fracción XVII del artículo 68 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 26/02/2025",
+      "fecha": "2025-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4841597_20250225_1740511392.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4842496",
+      "denominacion": "Que adiciona un párrafo segundo a la fracción XVII del artículo 68 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 26/02/2025",
+      "fecha": "2025-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4842496_20250225_1740536833.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4845348",
+      "denominacion": "Con proyecto de decreto que adiciona un segundo párrafo a la fracción XVII del artículo 68 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 26/02/2025",
+      "fecha": "2025-02-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4845348_20250226_1740694146.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-02-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-02-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-02-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-02-26"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-02-26"
+    }
+  ],
+  "denominacion": "Que adiciona un párrafo segundo a la fracción XVII del artículo 68 de la Ley General de Movilidad y Seguridad Vial.",
+  "id": "sil-4843231",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4843231",
+  "sources": [
+    {
+      "archivo": "fuentes/65/657e53161eacb3958b897be15528db6b2b6481480cf918e4d83f33e901f2aa90.html",
+      "consultado": "2026-11-16T16:02:16Z",
+      "sha256": "657e53161eacb3958b897be15528db6b2b6481480cf918e4d83f33e901f2aa90",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4843231&Asunto=4842496"
+    },
+    {
+      "archivo": "fuentes/4e/4ed3ab1bf30a2c7307c2869d451fad8f613ea737342b5b61ab6515ef1345f67e.html",
+      "consultado": "2026-11-16T16:02:20Z",
+      "sha256": "4ed3ab1bf30a2c7307c2869d451fad8f613ea737342b5b61ab6515ef1345f67e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4842496&Seguimiento=4843231"
+    }
+  ],
+  "tramites": {
+    "4842496": [
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Arturo Roberto Hernández Tapia (Morena)",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona un párrafo segundo a la fracción XVII del artículo 68 de la Ley General de Movilidad y Seguridad Vial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 430
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 430 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 26/02/2025",
+  "votaciones": [
+    "sil-4842496-1"
+  ]
+}

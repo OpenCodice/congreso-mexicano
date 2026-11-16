@@ -1,0 +1,41 @@
+{
+  "asunto": "5025158",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 95
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5023990",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5025158-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de veintisiete ordenamientos legales, en materia de orientación sexual e identidad y expresión de género.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 95 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/97/97aaf89d476f92f8909ee8241bbec4f7c7d710fb1f8dcb2f88d095ffb8d34e37.html",
+      "consultado": "2026-11-16T17:48:49Z",
+      "sha256": "97aaf89d476f92f8909ee8241bbec4f7c7d710fb1f8dcb2f88d095ffb8d34e37",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5025158"
+    }
+  ],
+  "start_date": "2026-03-03",
+  "votes": [],
+  "votos_publicados": false
+}

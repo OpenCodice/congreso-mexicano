@@ -1,0 +1,41 @@
+{
+  "asunto": "4949143",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 77
+    },
+    {
+      "option": "no",
+      "value": 38
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-4944008",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4949143-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Aduanera.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 77 En contra: 38 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/25/25562a477765d24d0213371918180d2e87aaf09a0a6401b449bc7894930a680a.html",
+      "consultado": "2026-11-16T16:56:49Z",
+      "sha256": "25562a477765d24d0213371918180d2e87aaf09a0a6401b449bc7894930a680a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4949143"
+    }
+  ],
+  "start_date": "2025-10-14",
+  "votes": [],
+  "votos_publicados": false
+}

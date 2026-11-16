@@ -1,0 +1,300 @@
+{
+  "asuntos": [
+    {
+      "clave": "4696943",
+      "denominacion": "Que reforma el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-02-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4696943_20240205_1707785242.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4701267",
+      "denominacion": "Que reforma el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-02-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4701267_20240213_1707941828.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4798053",
+      "denominacion": "Que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-11-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4798053_20241106_1730907175.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4802167",
+      "denominacion": "Que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-11-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4802167_20241113_1731514510.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4804182",
+      "denominacion": "Con proyecto de decreto que adiciona el párrafo 2° del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4804182_20241120_1732123720.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4809137",
+      "denominacion": "Con proyecto de decreto que adiciona el párrafo 2° del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4809137_20241126_1732742240.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4810782",
+      "denominacion": "Con proyecto de decreto que adiciona el párrafo 2° del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4810782_20241127_1732741863.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4815529",
+      "denominacion": "Del proyecto de decreto que adiciona el párrafo 2° del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": null,
+      "tipo": "Declaratoria de reforma constitucional"
+    },
+    {
+      "clave": "4814669",
+      "denominacion": "Con proyecto de decreto que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+      "estatus": "Publicado en DOF 31/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4814669_20241203_1736203393.pdf",
+      "tipo": "Declaratoria de reforma constitucional"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2024-11-27"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2024-11-27"
+    },
+    {
+      "estatus": "Turnado a Congresos Locales",
+      "fecha": "2024-11-27"
+    },
+    {
+      "estatus": "Aprobado por Congresos Locales",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-12-31"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que adiciona el párrafo 2° del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+  "id": "sil-4798658",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-12-31",
+  "seguimiento": "4798658",
+  "sources": [
+    {
+      "archivo": "fuentes/23/23963cb15fb1a66e52807a16ff45357cde572b2c7e00ab4f35bc7ab18e0e35ed.html",
+      "consultado": "2026-11-16T15:39:48Z",
+      "sha256": "23963cb15fb1a66e52807a16ff45357cde572b2c7e00ab4f35bc7ab18e0e35ed",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4798658&Asunto=4810782"
+    },
+    {
+      "archivo": "fuentes/c7/c77973a707993a7a074eeec03cb053bcf3b5fdecaa5e09659dde83d67d22ce6c.html",
+      "consultado": "2026-11-16T15:39:52Z",
+      "sha256": "c77973a707993a7a074eeec03cb053bcf3b5fdecaa5e09659dde83d67d22ce6c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4810782&Seguimiento=4798658"
+    }
+  ],
+  "tramites": {
+    "4802167": [
+      {
+        "texto": "a la síntesis del dictamen.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Se rechazó considerar a discusión la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen de la Comisión de Puntos Constitucionales por el que se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva formulada por el Dip. Ricardo Monreal Ávila (MORENA) al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir la reserva formulada por el Dip. Ricardo Monreal Ávila (MORENA) al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se reserva para su votación nominal la modificación aceptada por la Asamblea.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia Ruiz Massieu Salinas (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Gloria Elizabeth Núñez Sánchez (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Lorena Piñón Rivera (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Moreno De Haro (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Ignacio Zavala Gutiérrez (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Irais Virginia Reyes De la Torre (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de los Dolores Padierna Luna (Morena), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 108,
+          "yes": 335
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas Es mayoría calificada. A Favor: 335 En contra: 108 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4810782": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado omitir la lectura del dictamen y ponerlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 61,
+          "yes": 35
+        },
+        "texto": "Se rechazó admitir a discusión la propuesta de moción suspensiva, presentada por la Sen. Claudia Edith Anaya Mota (PRI). A Favor: 35 En contra: 61 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para dar lectura a los artículos 207, numeral 1 y, 188 numeral 3 del Reglamento del Senado de la República.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar el dictamen suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 34,
+          "yes": 94
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 94 En contra: 34 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Laura Esquivel Torres (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. María Alejandra Barrales Magdaleno (MC). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos 19 y tercero transitorio, formulada por el Sen. Manuel Rafael Huerta Ladrón de Guevara (Morena). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 35,
+          "yes": 93
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados 19 y tercero transitorio, en términos del dictamen. A Favor: 93 En contra: 35 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a los congresos locales para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 31/12/2024",
+  "votaciones": [
+    "sil-4802167-1",
+    "sil-4810782-1",
+    "sil-4810782-2",
+    "sil-4810782-3"
+  ]
+}

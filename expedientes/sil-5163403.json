@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "5031815",
+      "denominacion": "Que reforma el artículo 46 de la Ley General de Cambio Climático.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031815_20260310_1772656202.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5161609",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 46 de la Ley General de Cambio Climático, respecto a la participación de los trabajos de la Comisión intersecretarial de Cambio Climático.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161609_20261013_1791905295.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5181592",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 46 de la Ley General de Cambio Climático, respecto a la participación de los trabajos de la Comisión intersecretarial de Cambio Climático.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5181592_20261028_1791905300.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5183198",
+      "denominacion": "Que reforma el artículo 46 de la Ley General de Cambio Climático, respecto a la participación de los trabajos de la Comisión Intersecretarial de Cambio Climático.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5183198_20261103_1793727550.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma el artículo 46 de la Ley General de Cambio Climático, respecto a la participación de los trabajos de la Comisión intersecretarial de Cambio Climático.",
+  "id": "sil-5163403",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5163403",
+  "sources": [
+    {
+      "archivo": "fuentes/fa/fa52a80b205eb56da8f44576d9c2baf243def573c544c18e139a41d0d0120c5c.html",
+      "consultado": "2026-11-16T18:48:13Z",
+      "sha256": "fa52a80b205eb56da8f44576d9c2baf243def573c544c18e139a41d0d0120c5c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163403&Asunto=5181592"
+    },
+    {
+      "archivo": "fuentes/95/95d556e1cd1ffa3d141162876cb6a1f2bef7f58e993b497d4ae3eef48d197255.html",
+      "consultado": "2026-11-16T18:48:16Z",
+      "sha256": "95d556e1cd1ffa3d141162876cb6a1f2bef7f58e993b497d4ae3eef48d197255",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5181592&Seguimiento=5163403"
+    }
+  ],
+  "tramites": {
+    "5181592": [
+      {
+        "texto": "únicamente a sus resolutivos.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 78
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 78 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/11/2026",
+  "votaciones": [
+    "sil-5181592-1"
+  ]
+}

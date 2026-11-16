@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4848249",
+      "denominacion": "Con el que remite el oficio por el que la Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, somete a la ratificación de la Cámara de Diputados, el nombramiento de Carlos Gabriel Lerma Cotera como Subsecretario de Ingresos; y de Roberto Carlos Fernández González como Tesorero de la Federación de la Secretaría de Hacienda y Crédito Público, en su carácter de empleados superiores de Hacienda.",
+      "estatus": "Toma de protesta 12/03/2025",
+      "fecha": "2025-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4848249_20250304_1741122793.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4851524",
+      "denominacion": "Con el que remite oficio por el que la Presidenta de la República, Claudia Sheinbaum Pardo, somete a la ratificación de la Cámara de Diputados el nombramiento de Édgar Abraham Amador Zamora como Secretario de Hacienda y Crédito Público.",
+      "estatus": "Toma de protesta 12/03/2025",
+      "fecha": "2025-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4851524_20250311_1741716698.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4855595",
+      "denominacion": "Por el que la Cámara de Diputados ratifica los nombramientos que la Titular del Poder Ejecutivo Federal expidió a favor de Édgar Abraham Amador Zamora como Secretario de Hacienda y Crédito Público; de Carlos Gabriel Lerma Cotera como Subsecretario de Ingresos; y de Roberto Carlos Fernández González como Tesorero de la Federación, todos en su carácter de empleados superiores de hacienda.",
+      "estatus": "Toma de protesta 12/03/2025",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4855595_20250312_1741891449.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-03-12"
+    }
+  ],
+  "denominacion": "Por el que la Cámara de Diputados ratifica los nombramientos que la Titular del Poder Ejecutivo Federal expidió a favor de Édgar Abraham Amador Zamora como Secretario de Hacienda y Crédito Público; de Carlos Gabriel Lerma Cotera como Subsecretario de Ingresos; y de Roberto Carlos Fernández González como Tesorero de la Federación, todos en su carácter de empleados superiores de hacienda.",
+  "id": "sil-4855621",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4855621",
+  "sources": [
+    {
+      "archivo": "fuentes/c1/c1d51bb793393b3b48a622580249b3ff0532a191e8e5fcc4cc1bab5441d450f9.html",
+      "consultado": "2026-11-16T16:06:41Z",
+      "sha256": "c1d51bb793393b3b48a622580249b3ff0532a191e8e5fcc4cc1bab5441d450f9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4855621&Asunto=4855595"
+    },
+    {
+      "archivo": "fuentes/ca/cab55de16f969c0ce1a926737e1209f005504769964dd9701c78f05990b7bc1d.html",
+      "consultado": "2026-11-16T16:06:45Z",
+      "sha256": "cab55de16f969c0ce1a926737e1209f005504769964dd9701c78f05990b7bc1d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4855595&Seguimiento=4855621"
+    }
+  ],
+  "tramites": {
+    "4855595": [
+      {
+        "texto": "Aprobado considerar el dictamen de obvia y urgente resolución para su discusión y votación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen que ratifica los nombramientos que la Titular del Poder Ejecutivo Federal expidió a favor de Édgar Abraham Amador Zamora como Secretario de Hacienda y Crédito Público; de Carlos Gabriel Lerma Cotera como Subsecretario de Ingresos; y de Roberto Carlos Fernández González como Tesorero de la Federación, todos en su carácter de empleados superiores de hacienda.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 419
+        },
+        "texto": "Aprobado A Favor: 419 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      },
+      {
+        "texto": "se designa comisión de cortesía para acompañar a los empleados superiores de Hacienda ratificados a entrar al salón del pleno a efecto de rendir protesta de ley.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "de Édgar Abraham Amador Zamora como Secretario de Hacienda y Crédito Público; de Carlos Gabriel Lerma Cotera como Subsecretario de Ingresos; y de Roberto Carlos Fernández González como Tesorero de la Federación, todos en su carácter de empleados superiores de hacienda.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 12/03/2025",
+  "votaciones": [
+    "sil-4855595-1"
+  ]
+}

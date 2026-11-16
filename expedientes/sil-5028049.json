@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4846370",
+      "denominacion": "Que modifica la denominación y reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4846370_20250304_1741106693.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4972998",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4972998_20251112_1762972667.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5025139",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025139_20260303_1772563598.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5029764",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5029764_20260304_1772563599.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5032386",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032386_20260310_1773171055.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+  "id": "sil-5028049",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028049",
+  "sources": [
+    {
+      "archivo": "fuentes/1e/1e2b5c5c337829efda702f7fdc09b0371745b6d4914cec38b6eb2e2f15fb3e77.html",
+      "consultado": "2026-11-16T17:51:39Z",
+      "sha256": "1e2b5c5c337829efda702f7fdc09b0371745b6d4914cec38b6eb2e2f15fb3e77",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028049&Asunto=5029764"
+    },
+    {
+      "archivo": "fuentes/d7/d7703d73bd8054f358222c960ba90c2d869293620f61bb4739724e80ef9056ae.html",
+      "consultado": "2026-11-16T17:51:43Z",
+      "sha256": "d7703d73bd8054f358222c960ba90c2d869293620f61bb4739724e80ef9056ae",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5029764&Seguimiento=5028049"
+    }
+  ],
+  "tramites": {
+    "5029764": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 89 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5029764-1"
+  ]
+}

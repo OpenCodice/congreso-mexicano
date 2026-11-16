@@ -1,0 +1,41 @@
+{
+  "asunto": "4791655",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 85
+    },
+    {
+      "option": "no",
+      "value": 41
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4791544",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4791655-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma el artículo 107 y adiciona un quinto párrafo al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de inimpugnabilidad de las adiciones o reformas a la Constitución Federal.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 105, 107, primero y segundo transitorios, en términos del dictamen. A Favor: 85 En contra: 41 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/d2/d2095aa1d5434378960e08c0fb30f37b6b3b91dbbdc3082c5d62ac254c190f9a.html",
+      "consultado": "2026-11-16T15:38:28Z",
+      "sha256": "d2095aa1d5434378960e08c0fb30f37b6b3b91dbbdc3082c5d62ac254c190f9a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4791655"
+    }
+  ],
+  "start_date": "2024-10-24",
+  "votes": [],
+  "votos_publicados": false
+}

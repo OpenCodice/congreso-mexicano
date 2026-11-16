@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4892906",
+      "denominacion": "Que adiciona el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4892906_20250429_1745960799.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4873245",
+      "denominacion": "Que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de armonización legislativa del derecho a la educación accesible e inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4873245_20250408_1744157462.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016112",
+      "denominacion": "Que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes en materia de derecho a la educación de calidad y gratuita.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016112_20260217_1771349601.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016201",
+      "denominacion": "Que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes en materia de derecho a la educación de calidad y gratuita.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016201_20260217_1771350928.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017164",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de derecho a la educación de calidad y gratuita.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017164_20260218_1771436012.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes en materia de derecho a la educación de calidad y gratuita.",
+  "id": "sil-5017042",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017042",
+  "sources": [
+    {
+      "archivo": "fuentes/11/115f7b230fec7c3054b946eff00ecd60227e52e33e63842e109e1865b70ff0f4.html",
+      "consultado": "2026-11-16T17:39:58Z",
+      "sha256": "115f7b230fec7c3054b946eff00ecd60227e52e33e63842e109e1865b70ff0f4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017042&Asunto=5016201"
+    },
+    {
+      "archivo": "fuentes/23/239f968d7035f2ec797aa1816b9c9cb7d27d295f7111c8e9f6358dd637f02c25.html",
+      "consultado": "2026-11-16T17:40:02Z",
+      "sha256": "239f968d7035f2ec797aa1816b9c9cb7d27d295f7111c8e9f6358dd637f02c25",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016201&Seguimiento=5017042"
+    }
+  ],
+  "tramites": {
+    "5016201": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 431
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 431 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016201-1"
+  ]
+}

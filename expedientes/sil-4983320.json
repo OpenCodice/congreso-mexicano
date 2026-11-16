@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4862225",
+      "denominacion": "Que reforma diversos artículos de la Ley General de Salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4862225_20250325_1742921967.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4981101",
+      "denominacion": "Con proyecto de decreto por el que reforma el primer párrafo y la fracción III del artículo 6; las fracciones II y V del artículo 168; el primer y segundo párrafos del artículo 171; y el segundo párrafo del artículo 465 de la Ley General de Salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981101_20251125_1764094634.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987834",
+      "denominacion": "Con proyecto de decreto por el que reforma el primer párrafo y la fracción III del artículo 6; las fracciones II y V del artículo 168; el primer y segundo párrafos del artículo 171; y el segundo párrafo del artículo 465 de la Ley General de Salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987834_20251201_1764094637.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995069",
+      "denominacion": "Que reforma la fracción III del artículo 6; las fracciones II y V del artículo 168; el artículo 171 y el segundo párrafo del artículo 465 de la Ley General de Salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995069_20251203_1765223355.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma el primer párrafo y la fracción III del artículo 6; las fracciones II y V del artículo 168; el primer y segundo párrafos del artículo 171; y el segundo párrafo del artículo 465 de la Ley General de Salud.",
+  "id": "sil-4983320",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4983320",
+  "sources": [
+    {
+      "archivo": "fuentes/ac/ace3a46560396ce8c08f3b2456800601dce466013c5e32e188af4b292a535ff9.html",
+      "consultado": "2026-11-16T17:18:19Z",
+      "sha256": "ace3a46560396ce8c08f3b2456800601dce466013c5e32e188af4b292a535ff9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983320&Asunto=4987834"
+    },
+    {
+      "archivo": "fuentes/31/312f344ab5d93fd0bf4420fab98e022261b0fc5f96b20e81c234ee50e44684c9.html",
+      "consultado": "2026-11-16T17:18:23Z",
+      "sha256": "312f344ab5d93fd0bf4420fab98e022261b0fc5f96b20e81c234ee50e44684c9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987834&Seguimiento=4983320"
+    }
+  ],
+  "tramites": {
+    "4987834": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 91
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 91 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987834-1"
+  ]
+}

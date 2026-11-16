@@ -1,0 +1,152 @@
+{
+  "asuntos": [
+    {
+      "clave": "4888415",
+      "denominacion": "Que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos relativa a la Contraloría Interna.",
+      "estatus": "Publicado en DOF 07/07/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888415_20250424_1745617772.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4891451",
+      "denominacion": "Que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos relativa a la organización de la Contraloría Interna.",
+      "estatus": "Publicado en DOF 07/07/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4891451_20250429_1745955553.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4893371",
+      "denominacion": "Que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos relativa a la organización de la Contraloría Interna.",
+      "estatus": "Publicado en DOF 07/07/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4893371_20250429_1745955699.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4894454",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, relativa a la organización de la Contraloría Interna.",
+      "estatus": "Publicado en DOF 07/07/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894454_20250430_1746017985.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4908716",
+      "denominacion": "Con proyecto decreto por el que se reforman los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 07/07/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4908716_20250625_1750903184.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4909055",
+      "denominacion": "Por el que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 07/07/2025",
+      "fecha": "2025-06-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4909055_20250626_1750956670.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-06-26"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-06-26"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-26"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-07-07"
+    }
+  ],
+  "denominacion": "Por el que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+  "id": "sil-4894174",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-07-07",
+  "seguimiento": "4894174",
+  "sources": [
+    {
+      "archivo": "fuentes/09/094b404d20b7041b5a26aff81ddd8df316504c217cb440b911653605e61bb776.html",
+      "consultado": "2026-11-16T16:27:35Z",
+      "sha256": "094b404d20b7041b5a26aff81ddd8df316504c217cb440b911653605e61bb776",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894174&Asunto=4909055"
+    },
+    {
+      "archivo": "fuentes/58/58b8387587b0f83fdd0d08d2b71e2d83e613d1705f7cad4f9befff0613d7dcc3.html",
+      "consultado": "2026-11-16T16:27:39Z",
+      "sha256": "58b8387587b0f83fdd0d08d2b71e2d83e613d1705f7cad4f9befff0613d7dcc3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909055&Seguimiento=4894174"
+    }
+  ],
+  "tramites": {
+    "4893371": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, y en lo particular el dictamen que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos relativa a la organización de la Contraloría Interna.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 444
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 444 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4909055": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/07/2025",
+  "votaciones": [
+    "sil-4893371-1",
+    "sil-4909055-1"
+  ]
+}

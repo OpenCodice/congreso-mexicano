@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4871751",
+      "denominacion": "Con el que remite la designación de Cecilia Martín del Campo Márquez y Héctor Sánchez López como personas consejeras independientes del Consejo de Administración de la Comisión Federal de Electricidad.",
+      "estatus": "Toma de protesta 10/04/2025",
+      "fecha": "2025-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4871751_20250408_1744118719.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4878754",
+      "denominacion": "Por el que se acuerda la idoneidad de Cecilia Martín del Campo Márquez, para ocupar el cargo de consejera Independiente del Consejo de Administración de la empresa pública del estado, Comisión Federal de Electricidad.",
+      "estatus": "Toma de protesta 10/04/2025",
+      "fecha": "2025-04-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4878754_20250410_1744322923.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-04-10"
+    }
+  ],
+  "denominacion": "Por el que se acuerda la idoneidad de Cecilia Martín del Campo Márquez, para ocupar el cargo de consejera Independiente del Consejo de Administración de la empresa pública del estado, Comisión Federal de Electricidad.",
+  "id": "sil-4878829",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4878829",
+  "sources": [
+    {
+      "archivo": "fuentes/a7/a7bd16bbea235eca31859dac57375f310c69b0ecb84c49faaee01508dbc4515c.html",
+      "consultado": "2026-11-16T16:16:32Z",
+      "sha256": "a7bd16bbea235eca31859dac57375f310c69b0ecb84c49faaee01508dbc4515c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4878829&Asunto=4878754"
+    },
+    {
+      "archivo": "fuentes/96/96b043df59be5783eaf59a1bf9a0b891d6939fd1112723c6b076ea1d70571763.html",
+      "consultado": "2026-11-16T16:16:36Z",
+      "sha256": "96b043df59be5783eaf59a1bf9a0b891d6939fd1112723c6b076ea1d70571763",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4878754&Seguimiento=4878829"
+    }
+  ],
+  "tramites": {
+    "4878754": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de veinticuatro horas de publicación anticipada del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 65
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates Sen. Araceli Saucedo Reyes (Morena). A Favor: 65 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Cecilia Martín del Campo Márquez, para ocupar el cargo de consejera Independiente del Consejo de Administración de la empresa pública del estado, Comisión Federal de Electricidad",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 10/04/2025",
+  "votaciones": [
+    "sil-4878754-1"
+  ]
+}

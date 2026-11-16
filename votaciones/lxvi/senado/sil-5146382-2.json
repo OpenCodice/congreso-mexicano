@@ -1,0 +1,41 @@
+{
+  "asunto": "5146382",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 113
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5147520",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5146382-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que expide la Ley General en materia de Bienestar, Cuidado y Protección de los Animales y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Sanidad Animal; de la Ley General de Vida Silvestre; de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Protección Civil; y de la Ley Federal de Cine y el Audiovisual.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 113 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/75/7541e7de8fab7d9bf9799e41c5505291ac2c4048054c14fcb256eec9cf81116a.html",
+      "consultado": "2026-11-16T18:39:43Z",
+      "sha256": "7541e7de8fab7d9bf9799e41c5505291ac2c4048054c14fcb256eec9cf81116a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5146382"
+    }
+  ],
+  "start_date": "2026-09-29",
+  "votes": [],
+  "votos_publicados": false
+}

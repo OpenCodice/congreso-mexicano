@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4784813",
+      "denominacion": "Que reforma el artículo 8 de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2024-10-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4784813_20241014_1727657430.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4846415",
+      "denominacion": "Que reforma y adiciona el artículo 8 de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4846415_20250304_1741107159.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4981113",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 8 de la Ley para Impulsar el incremento sostenido de la Competitividad de la Economía Nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981113_20251125_1764095711.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4995985",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 8 de la Ley para Impulsar el incremento sostenido de la Competitividad de la Economía Nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995985_20251208_1764095717.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4999137",
+      "denominacion": "Que reforma el artículo 8 de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999137_20251210_1765390252.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma el artículo 8 de la Ley para Impulsar el incremento sostenido de la Competitividad de la Economía Nacional.",
+  "id": "sil-4986130",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986130",
+  "sources": [
+    {
+      "archivo": "fuentes/b2/b26f93f76f377c8b740d00a878fd38621462f47113d5510a219d4be67f93ac55.html",
+      "consultado": "2026-11-16T17:25:23Z",
+      "sha256": "b26f93f76f377c8b740d00a878fd38621462f47113d5510a219d4be67f93ac55",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986130&Asunto=4995985"
+    },
+    {
+      "archivo": "fuentes/e3/e397efb1ce5a7079ea94feae58887f7ecce58a4f290196a3c986d01c29d19501.html",
+      "consultado": "2026-11-16T17:25:27Z",
+      "sha256": "e397efb1ce5a7079ea94feae58887f7ecce58a4f290196a3c986d01c29d19501",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4995985&Seguimiento=4986130"
+    }
+  ],
+  "tramites": {
+    "4995985": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 99
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/12/2025",
+  "votaciones": [
+    "sil-4995985-1"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4832334",
+      "denominacion": "Que reforma el artículo 3 de la Ley del Instituto Nacional de Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-02-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4832334_20250206_1738776644.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4981095",
+      "denominacion": "Con proyecto de decreto por el que adiciona el artículo 3 de la Ley del Instituto Nacional de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981095_20251125_1764090511.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987826",
+      "denominacion": "Con proyecto de decreto por el que adiciona el artículo 3 de la Ley del Instituto Nacional de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987826_20251201_1764090514.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995061",
+      "denominacion": "Por el que reforma el artículo 3 de la Ley del Instituto Nacional de los Pueblos Indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995061_20251203_1765223281.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona el artículo 3 de la Ley del Instituto Nacional de los Pueblos Indígenas.",
+  "id": "sil-4983303",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4983303",
+  "sources": [
+    {
+      "archivo": "fuentes/7f/7fc34c1d72a124ffcea113fadb7fdac4169e85e973862a4c8a9a983f3985f1a4.html",
+      "consultado": "2026-11-16T17:16:36Z",
+      "sha256": "7fc34c1d72a124ffcea113fadb7fdac4169e85e973862a4c8a9a983f3985f1a4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983303&Asunto=4987826"
+    },
+    {
+      "archivo": "fuentes/43/43dcc5387174f0359aa19d1c946e3263e22fdc6991e55b26c6fc2591776dd507.html",
+      "consultado": "2026-11-16T17:16:40Z",
+      "sha256": "43dcc5387174f0359aa19d1c946e3263e22fdc6991e55b26c6fc2591776dd507",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987826&Seguimiento=4983303"
+    }
+  ],
+  "tramites": {
+    "4987826": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987826-1"
+  ]
+}

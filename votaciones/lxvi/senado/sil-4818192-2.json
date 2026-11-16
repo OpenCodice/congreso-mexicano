@@ -1,0 +1,41 @@
+{
+  "asunto": "4818192",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 74
+    },
+    {
+      "option": "no",
+      "value": 28
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4817560",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4818192-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 9 y 148 en términos del dictamen. A Favor: 74 En contra: 28 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5fd0dc9fa94d0cde0760fa80bdc8b62035dff44c0af30783010821e63ec131e3.html",
+      "consultado": "2026-11-16T15:49:48Z",
+      "sha256": "5fd0dc9fa94d0cde0760fa80bdc8b62035dff44c0af30783010821e63ec131e3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4818192"
+    }
+  ],
+  "start_date": "2024-12-05",
+  "votes": [],
+  "votos_publicados": false
+}

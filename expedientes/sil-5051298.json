@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4917009",
+      "denominacion": "Que adiciona un párrafo segundo al artículo 3 de la Ley del Servicio Militar.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2025-08-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4917009_20250813_1755100486.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5050016",
+      "denominacion": "Con proyecto de decreto por el que adiciona un párrafo segundo al artículo 3° de la Ley del Servicio Militar.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5050016_20260324_1774372164.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5130148",
+      "denominacion": "Por el que se adiciona un párrafo segundo al artículo 3° de la Ley del Servicio Militar.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-09-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5130148_20260914_1789399557.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5135363",
+      "denominacion": "Que adiciona un párrafo segundo al artículo 3° de la Ley del Servicio Militar.",
+      "estatus": "Pendiente en comisión(es) de revisora 15/09/2026",
+      "fecha": "2026-09-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5135363_20260915_1790030117.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-14"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-15"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-15"
+    }
+  ],
+  "denominacion": "Por el que se adiciona un párrafo segundo al artículo 3° de la Ley del Servicio Militar.",
+  "id": "sil-5051298",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5051298",
+  "sources": [
+    {
+      "archivo": "fuentes/99/998be43251ae1638447b04c74c08286e5555475df8520fdacbe87195b24a6522.html",
+      "consultado": "2026-11-16T18:08:13Z",
+      "sha256": "998be43251ae1638447b04c74c08286e5555475df8520fdacbe87195b24a6522",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5051298&Asunto=5130148"
+    },
+    {
+      "archivo": "fuentes/5f/5f6627f01014456972a0f95fe14dfb193202c61196ca38640ce4484966a71e2e.html",
+      "consultado": "2026-11-16T18:08:17Z",
+      "sha256": "5f6627f01014456972a0f95fe14dfb193202c61196ca38640ce4484966a71e2e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5130148&Seguimiento=5051298"
+    }
+  ],
+  "tramites": {
+    "5130148": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen y someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 15/09/2026",
+  "votaciones": [
+    "sil-5130148-1"
+  ]
+}

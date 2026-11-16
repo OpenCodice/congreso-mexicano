@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4869183",
+      "denominacion": "Que declara el 18 de mayo de cada año como el -Día Nacional del Gobierno Digital-.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-04-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4869183_20250401_1742489326.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4895170",
+      "denominacion": "Con proyecto de decreto que declara el 18 de mayo de cada año como el Día Nacional de Gobierno Digital.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895170_20250430_1746018544.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4967632",
+      "denominacion": "Con proyecto de decreto por el que se declara el 18 de mayo de cada año como el -Día Nacional del Gobierno Digital-.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-11-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4967632_20251105_1762277236.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4970294",
+      "denominacion": "Que declara el día 18 de mayo de cada año como el -Día Nacional del Gobierno Digital-.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4970294_20251111_1762880078.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-05"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-05"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-05"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-11"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se declara el 18 de mayo de cada año como el -Día Nacional del Gobierno Digital-.",
+  "id": "sil-4896680",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4896680",
+  "sources": [
+    {
+      "archivo": "fuentes/53/538318053af4bfe784b094a9ad98aff3919e039261897f8d904da61d5c1591f6.html",
+      "consultado": "2026-11-16T16:32:40Z",
+      "sha256": "538318053af4bfe784b094a9ad98aff3919e039261897f8d904da61d5c1591f6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4896680&Asunto=4967632"
+    },
+    {
+      "archivo": "fuentes/da/daba3f401a058c9f6ed0820bb85433a131df664f34e9d79daed1bf732ae25509.html",
+      "consultado": "2026-11-16T16:32:44Z",
+      "sha256": "daba3f401a058c9f6ed0820bb85433a131df664f34e9d79daed1bf732ae25509",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4967632&Seguimiento=4896680"
+    }
+  ],
+  "tramites": {
+    "4967632": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 96
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Cecilia Guadalupe Guadiana Mandujano (Morena), Sen. Martha Lucía Micher Camarena (Morena) y Sen. María Guadalupe Murguía Gutiérrez (PAN). A Favor: 96 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 11/11/2025",
+  "votaciones": [
+    "sil-4967632-1"
+  ]
+}

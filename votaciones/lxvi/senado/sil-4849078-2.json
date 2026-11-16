@@ -1,0 +1,41 @@
+{
+  "asunto": "4849078",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 80
+    },
+    {
+      "option": "no",
+      "value": 35
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4843216",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4849078-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos sobre Hidrocarburos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 2, 28, 39 y 40, y la denominación del Capítulo I, del Título III, en los términos del dictamen. A Favor: 80 En contra: 35 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/7d/7d9b7065383358f2c0fb98ccb9c68d150b65a688c7b28c35d2d92c2d7624a8d8.html",
+      "consultado": "2026-11-16T16:01:27Z",
+      "sha256": "7d9b7065383358f2c0fb98ccb9c68d150b65a688c7b28c35d2d92c2d7624a8d8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4849078"
+    }
+  ],
+  "start_date": "2025-03-05",
+  "votes": [],
+  "votos_publicados": false
+}

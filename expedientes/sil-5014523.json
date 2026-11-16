@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5010311",
+      "denominacion": "Con el que remite el nombramiento de la ciudadana Luz Elena Baños Rivas como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Guatemala.",
+      "estatus": "Toma de protesta 11/02/2026",
+      "fecha": "2026-02-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5010311_20260210_1770747270.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5012846",
+      "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Luz Elena Baños Rivas, como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Guatemala.",
+      "estatus": "Toma de protesta 11/02/2026",
+      "fecha": "2026-02-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5012846_20260211_1770831024.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2026-02-10"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2026-02-11"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-02-11"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-02-11"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2026-02-11"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Luz Elena Baños Rivas, como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Guatemala.",
+  "id": "sil-5014523",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5014523",
+  "sources": [
+    {
+      "archivo": "fuentes/f5/f50978e96fe6f836ebb7636c1c90ab2074aeed5fb8c3edc22b99342654f9589e.html",
+      "consultado": "2026-11-16T17:38:41Z",
+      "sha256": "f50978e96fe6f836ebb7636c1c90ab2074aeed5fb8c3edc22b99342654f9589e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5014523&Asunto=5012846"
+    },
+    {
+      "archivo": "fuentes/df/df53d403a08c3e6ca390aaa1f015f6e7d9762c6d3e45de556503b10ffbc81b7a.html",
+      "consultado": "2026-11-16T17:38:45Z",
+      "sha256": "df53d403a08c3e6ca390aaa1f015f6e7d9762c6d3e45de556503b10ffbc81b7a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5012846&Seguimiento=5014523"
+    }
+  ],
+  "tramites": {
+    "5012846": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 11/02/2026",
+  "votaciones": [
+    "sil-5012846-1"
+  ]
+}

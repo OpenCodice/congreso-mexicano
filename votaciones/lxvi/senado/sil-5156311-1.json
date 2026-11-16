@@ -1,0 +1,41 @@
+{
+  "asunto": "5156311",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 104
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4894201",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5156311-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/32/32423f021f1817375476e900b875be26ea0227549b046fc808983e835d49869a.html",
+      "consultado": "2026-11-16T16:29:50Z",
+      "sha256": "32423f021f1817375476e900b875be26ea0227549b046fc808983e835d49869a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5156311"
+    }
+  ],
+  "start_date": "2026-10-07",
+  "votes": [],
+  "votos_publicados": false
+}

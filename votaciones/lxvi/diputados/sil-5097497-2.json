@@ -1,0 +1,41 @@
+{
+  "asunto": "5097497",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 271
+    },
+    {
+      "option": "no",
+      "value": 92
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5098173",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5097497-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 271 En contra: 92 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/b8/b81e12db949f10d26b0d3bff49f3fc4ec185803171a0faa0fe93eb1362bbf29e.html",
+      "consultado": "2026-11-16T18:34:21Z",
+      "sha256": "b81e12db949f10d26b0d3bff49f3fc4ec185803171a0faa0fe93eb1362bbf29e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5097497"
+    }
+  ],
+  "start_date": "2026-05-28",
+  "votes": [],
+  "votos_publicados": false
+}

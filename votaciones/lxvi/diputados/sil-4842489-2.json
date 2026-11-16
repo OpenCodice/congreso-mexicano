@@ -1,0 +1,41 @@
+{
+  "asunto": "4842489",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 382
+    },
+    {
+      "option": "no",
+      "value": 88
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4843211",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4842489-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados Es mayoría calificada. A Favor: 382 En contra: 88 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/0b/0b56e2cf7d819320d3ff178e0a4cc7c6c75d69c855549aff073358f40e90f866.html",
+      "consultado": "2026-11-16T19:44:04Z",
+      "sha256": "0b56e2cf7d819320d3ff178e0a4cc7c6c75d69c855549aff073358f40e90f866",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4842489"
+    }
+  ],
+  "start_date": "2025-02-25",
+  "votes": [],
+  "votos_publicados": false
+}

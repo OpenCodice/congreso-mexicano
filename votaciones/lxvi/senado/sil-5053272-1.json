@@ -1,0 +1,41 @@
+{
+  "asunto": "5053272",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 107
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5047904",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5053272-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se adiciona un último párrafo al artículo 25 de la Ley General de Responsabilidades Administrativas.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 107 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c7a12aab5b35dffa606564ad2a0c918b0e66f258e2a069feb5d55901d9615758.html",
+      "consultado": "2026-11-16T18:05:38Z",
+      "sha256": "c7a12aab5b35dffa606564ad2a0c918b0e66f258e2a069feb5d55901d9615758",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5053272"
+    }
+  ],
+  "start_date": "2026-03-25",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4810688",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2024-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4810688_20241127_1732127291.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5161613",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161613_20261013_1791907497.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5181596",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5181596_20261028_1791907502.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5183200",
+      "denominacion": "Que reforma y adiciona la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5183200_20261103_1793727652.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley de Desarrollo Rural Sustentable.",
+  "id": "sil-5163405",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5163405",
+  "sources": [
+    {
+      "archivo": "fuentes/8f/8f891b373c4e70e2a7230b77c8465511a3a9d731b1fd97a06541ced07a072f62.html",
+      "consultado": "2026-11-16T18:48:38Z",
+      "sha256": "8f891b373c4e70e2a7230b77c8465511a3a9d731b1fd97a06541ced07a072f62",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163405&Asunto=5181596"
+    },
+    {
+      "archivo": "fuentes/d6/d6bda764c0afa33561a154edea9754ae0092761afe07104d8b8609195528545e.html",
+      "consultado": "2026-11-16T18:48:42Z",
+      "sha256": "d6bda764c0afa33561a154edea9754ae0092761afe07104d8b8609195528545e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5181596&Seguimiento=5163405"
+    }
+  ],
+  "tramites": {
+    "5181596": [
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 89 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/11/2026",
+  "votaciones": [
+    "sil-5181596-1"
+  ]
+}

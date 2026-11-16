@@ -1,0 +1,41 @@
+{
+  "asunto": "4835812",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 63
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4826387",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4835812-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.",
+    "text": "Se rechazó ponerse a discusión la propuesta de moción suspensiva, suscrita por la Sen. Karen Michel González Márquez (PAN). A Favor: 33 En contra: 63 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/e6/e62193dc7cd558d0aad34e530fe2d5b43578b8270e4bf68967d89f9ccbeaffd9.html",
+      "consultado": "2026-11-16T15:55:40Z",
+      "sha256": "e62193dc7cd558d0aad34e530fe2d5b43578b8270e4bf68967d89f9ccbeaffd9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4835812"
+    }
+  ],
+  "start_date": "2025-02-13",
+  "votes": [],
+  "votos_publicados": false
+}

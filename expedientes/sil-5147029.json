@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "5094122",
+      "denominacion": "Que se reforma el artículo 32 Bis, fracciones XXXIX y XLIII de la Ley Orgánica de la Administración Pública Federal y se adicionan a los artículos 7, la fracción XVII Bis; al 10, la fracción XXXIX Bis; al artículo 14, la fracción XIII Bis; y al 68, la fracción VI Bis de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 06/10/2026",
+      "fecha": "2026-05-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5094122_20260521_1779380197.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5145787",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones a la Ley Orgánica de la Administración Pública Federal y a la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 06/10/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5145787_20260929_1790696609.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5149750",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones a la Ley Orgánica de la Administración Pública Federal y a la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 06/10/2026",
+      "fecha": "2026-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5149750_20260930_1790696612.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5151064",
+      "denominacion": "Por el que reforma diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y se adicionan diversas disposiciones a la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 06/10/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5151064_20261006_1791302695.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-30"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-30"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-30"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-10-06"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-10-06"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones a la Ley Orgánica de la Administración Pública Federal y a la Ley General de Desarrollo Forestal Sustentable.",
+  "id": "sil-5147029",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5147029",
+  "sources": [
+    {
+      "archivo": "fuentes/ba/ba4a3c769a99168ff20ffb94d19f06e9fa22b006d5cbf8751fd784e3112bb835.html",
+      "consultado": "2026-11-16T18:39:09Z",
+      "sha256": "ba4a3c769a99168ff20ffb94d19f06e9fa22b006d5cbf8751fd784e3112bb835",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5147029&Asunto=5149750"
+    },
+    {
+      "archivo": "fuentes/00/00287a89bdc9981f018e2814eb6fe722374f87e788e4b5034b7fd24041a13da1.html",
+      "consultado": "2026-11-16T18:39:13Z",
+      "sha256": "00287a89bdc9981f018e2814eb6fe722374f87e788e4b5034b7fd24041a13da1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5149750&Seguimiento=5147029"
+    }
+  ],
+  "tramites": {
+    "5149750": [
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 92
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 92 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 06/10/2026",
+  "votaciones": [
+    "sil-5149750-1"
+  ]
+}

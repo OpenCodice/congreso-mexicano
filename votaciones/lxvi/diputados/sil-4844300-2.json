@@ -1,0 +1,41 @@
+{
+  "asunto": "4844300",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 338
+    },
+    {
+      "option": "no",
+      "value": 127
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4843216",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4844300-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 338 En contra: 127 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/cc/ccb1d0bbca17952a29e8e1f5247b8323995e9e2980c29522d6beed6581df0e35.html",
+      "consultado": "2026-11-16T19:44:44Z",
+      "sha256": "ccb1d0bbca17952a29e8e1f5247b8323995e9e2980c29522d6beed6581df0e35",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4844300"
+    }
+  ],
+  "start_date": "2025-02-26",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4921507",
+      "denominacion": "Que declara el segundo viernes de septiembre de cada año, como el -Día Nacional de lo Hecho en México-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4921507_20250909_1757457480.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4974006",
+      "denominacion": "Con proyecto de decreto por el que declara el segundo viernes de septiembre de cada año como el -Día de lo Hecho en México-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4974006_20251112_1762897687.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4984945",
+      "denominacion": "Con proyecto de decreto por el que declara el segundo viernes de septiembre de cada año como el -Día de lo Hecho en México-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4984945_20251126_1762897690.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4988089",
+      "denominacion": "Que declara el segundo viernes de septiembre de cada año, como el -Día de lo Hecho en México-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988089_20251202_1764711215.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el segundo viernes de septiembre de cada año como el -Día de lo Hecho en México-.",
+  "id": "sil-4975302",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4975302",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42805561c6be08c81320db153099c4c07241664f849bfc6727fda98d551e0a3e.html",
+      "consultado": "2026-11-16T17:14:05Z",
+      "sha256": "42805561c6be08c81320db153099c4c07241664f849bfc6727fda98d551e0a3e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4975302&Asunto=4984945"
+    },
+    {
+      "archivo": "fuentes/a2/a2a1caf5a6d712f117ef3f9b79d43421fdb9ef316cf6dd7f5d82d61ea23e3c63.html",
+      "consultado": "2026-11-16T17:14:09Z",
+      "sha256": "a2a1caf5a6d712f117ef3f9b79d43421fdb9ef316cf6dd7f5d82d61ea23e3c63",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4984945&Seguimiento=4975302"
+    }
+  ],
+  "tramites": {
+    "4984945": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 81
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 81 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4984945-1"
+  ]
+}

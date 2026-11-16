@@ -1,0 +1,41 @@
+{
+  "asunto": "5135887",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 334
+    },
+    {
+      "option": "no",
+      "value": 109
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-5128211",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5135887-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma y adiciona los artículos 82, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Nacionalidad Única para el Ejercicio de la Titularidad de los Poderes Ejecutivos Federal y Locales.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. es mayoría calificada. A Favor: 334 En contra: 109 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/4e/4e6ba06e8c0a91cbc989313f5a713bbf2c79f106798bf4c7819e7d792962b38e.html",
+      "consultado": "2026-11-16T15:25:12Z",
+      "sha256": "4e6ba06e8c0a91cbc989313f5a713bbf2c79f106798bf4c7819e7d792962b38e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5135887"
+    }
+  ],
+  "start_date": "2026-09-22",
+  "votes": [],
+  "votos_publicados": false
+}

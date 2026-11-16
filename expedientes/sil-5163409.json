@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4930072",
+      "denominacion": "Que adiciona diversas disposiciones a la Ley General en Materia de Humanidades, Ciencias, Tecnología e Innovación.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2025-09-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4930072_20250923_1758644960.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4930346",
+      "denominacion": "Que adiciona una fracción XII al artículo 33 y un párrafo cuarto, recorriéndose los subsecuentes, del artículo 39 de la Ley General en Materia de Humanidades, Ciencias, Tecnología e Innovación.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2025-09-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4930346_20250923_1758645222.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5161621",
+      "denominacion": "Con proyecto de decreto por el que adiciona un tercer párrafo al artículo 44 de la Ley General en materia de Humanidades, Ciencias, Tecnología e Innovación.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161621_20261013_1791910617.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5181604",
+      "denominacion": "Con proyecto de decreto por el que adiciona un tercer párrafo al artículo 44 de la Ley General en materia de Humanidades, Ciencias, Tecnología e Innovación.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5181604_20261028_1791910622.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5183204",
+      "denominacion": "Que adiciona un tercer párrafo al artículo 44 de la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5183204_20261103_1793728635.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-28"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona un tercer párrafo al artículo 44 de la Ley General en materia de Humanidades, Ciencias, Tecnología e Innovación.",
+  "id": "sil-5163409",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5163409",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af210c908d328581debf95f666dc6ba27ac253ea370153fee6fc3999b9b8244.html",
+      "consultado": "2026-11-16T18:49:29Z",
+      "sha256": "5af210c908d328581debf95f666dc6ba27ac253ea370153fee6fc3999b9b8244",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163409&Asunto=5181604"
+    },
+    {
+      "archivo": "fuentes/a8/a8154ef77dc6f15a54830162b464d05781b64b233c53c7cf039c61b583d33660.html",
+      "consultado": "2026-11-16T18:49:33Z",
+      "sha256": "a8154ef77dc6f15a54830162b464d05781b64b233c53c7cf039c61b583d33660",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5181604&Seguimiento=5163409"
+    }
+  ],
+  "tramites": {
+    "5181604": [
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 85
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 85 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/11/2026",
+  "votaciones": [
+    "sil-5181604-1"
+  ]
+}

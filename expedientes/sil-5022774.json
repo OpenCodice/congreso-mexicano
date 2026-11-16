@@ -1,0 +1,122 @@
+{
+  "asuntos": [
+    {
+      "clave": "4848993",
+      "denominacion": "Que declara el 27 de septiembre como el Día que se conmemora la Nacionalización de la Industria Eléctrica.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2025-03-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4848993_20250305_1741194308.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020228",
+      "denominacion": "Con proyecto de decreto por el que declara el 27 de septiembre de cada año como el -Día Nacional de la Industria Eléctrica-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020228_20260224_1771953767.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5023249",
+      "denominacion": "Con proyecto de decreto por el que declara el 27 de septiembre de cada año como el -Día Nacional de la Industria Eléctrica-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5023249_20260225_1771953768.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5026227",
+      "denominacion": "Que declara el 27 de septiembre de cada año como el -Día de la Nacionalización de la Industria Eléctrica-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026227_20260303_1772570461.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el 27 de septiembre de cada año como el -Día Nacional de la Industria Eléctrica-.",
+  "id": "sil-5022774",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022774",
+  "sources": [
+    {
+      "archivo": "fuentes/c2/c2bad0fc0d9799d42f1b80ea8074369e8e1154fcbf50cc1fd24374840b9bbe36.html",
+      "consultado": "2026-11-16T17:46:10Z",
+      "sha256": "c2bad0fc0d9799d42f1b80ea8074369e8e1154fcbf50cc1fd24374840b9bbe36",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022774&Asunto=5023249"
+    },
+    {
+      "archivo": "fuentes/be/bee23b1a1c498e81350df47a4d7a44ebc2f8a438a487c62c7c67aea9907546ca.html",
+      "consultado": "2026-11-16T17:46:14Z",
+      "sha256": "bee23b1a1c498e81350df47a4d7a44ebc2f8a438a487c62c7c67aea9907546ca",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5023249&Seguimiento=5022774"
+    }
+  ],
+  "tramites": {
+    "5023249": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 101
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 101 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 101
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 101 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/03/2026",
+  "votaciones": [
+    "sil-5023249-1",
+    "sil-5023249-2"
+  ]
+}

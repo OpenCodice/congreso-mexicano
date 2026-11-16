@@ -1,0 +1,41 @@
+{
+  "asunto": "5097257",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 322
+    },
+    {
+      "option": "no",
+      "value": 132
+    },
+    {
+      "option": "abstain",
+      "value": 22
+    }
+  ],
+  "expediente_id": "sil-5097525",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5097257-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas es mayoría calificada A Favor: 322 En contra: 132 Abstenciones 22"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/87/872cec85ac41092dab46c1b10bc456fb2b048a9c6d32aada920e840807edaeec.html",
+      "consultado": "2026-11-16T18:32:45Z",
+      "sha256": "872cec85ac41092dab46c1b10bc456fb2b048a9c6d32aada920e840807edaeec",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5097257"
+    }
+  ],
+  "start_date": "2026-05-26",
+  "votes": [],
+  "votos_publicados": false
+}

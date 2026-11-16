@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4792402",
+      "denominacion": "Que reforma el artículo 15 de la Ley de Desarrollo Rural Sustentable, con el objeto de tomar en consideración a las personas con discapacidad.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2024-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4792402_20241029_1730232473.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4983382",
+      "denominacion": "Que reforma los artículos 15, 154 y 162 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983382_20251126_1764175959.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985212",
+      "denominacion": "Que reforma los artículos 15, 154 y 162 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985212_20251126_1764177846.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4987319",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 15, 154 y 162 de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987319_20251202_1764696634.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 15, 154 y 162 de la Ley de Desarrollo Rural Sustentable.",
+  "id": "sil-4986124",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986124",
+  "sources": [
+    {
+      "archivo": "fuentes/f3/f33ca8aac5912c591356024506e41f39b9986c8286c1412e5b06258038a725bb.html",
+      "consultado": "2026-11-16T17:23:05Z",
+      "sha256": "f33ca8aac5912c591356024506e41f39b9986c8286c1412e5b06258038a725bb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986124&Asunto=4985212"
+    },
+    {
+      "archivo": "fuentes/f3/f39d48a8845f88891adc970d947205f5870b04688b1cfdcde08c309c92056a94.html",
+      "consultado": "2026-11-16T17:23:09Z",
+      "sha256": "f39d48a8845f88891adc970d947205f5870b04688b1cfdcde08c309c92056a94",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985212&Seguimiento=4986124"
+    }
+  ],
+  "tramites": {
+    "4985212": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que reforma los artículos 15, 154 y 162 de la Ley de Desarrollo Rural Sustentable.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 418
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 418 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4985212-1"
+  ]
+}

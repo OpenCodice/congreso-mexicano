@@ -1,0 +1,41 @@
+{
+  "asunto": "5138227",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 99
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5090241",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5138227-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma los artículos 14, 15, 16 y 17 de la Ley General Para la Igualdad Sustantiva entre Mujeres y Hombres.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/52/52725bb2d7f9709cb7b4a2b84188e06a382f2f70befe23bd4c62ec283191f885.html",
+      "consultado": "2026-11-16T18:26:11Z",
+      "sha256": "52725bb2d7f9709cb7b4a2b84188e06a382f2f70befe23bd4c62ec283191f885",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5138227"
+    }
+  ],
+  "start_date": "2026-09-22",
+  "votes": [],
+  "votos_publicados": false
+}

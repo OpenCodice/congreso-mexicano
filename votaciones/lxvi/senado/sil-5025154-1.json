@@ -1,0 +1,41 @@
+{
+  "asunto": "5025154",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 94
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5022779",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5025154-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma la fracción XII del artículo 3 y se adiciona una fracción IX al artículo 21 de la Ley General de Desarrollo Forestal Sustentable.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6ab5e80f1fd992e3d41c51e9de0be847f8068401cc5724acfeae34249885c251.html",
+      "consultado": "2026-11-16T17:47:02Z",
+      "sha256": "6ab5e80f1fd992e3d41c51e9de0be847f8068401cc5724acfeae34249885c251",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5025154"
+    }
+  ],
+  "start_date": "2026-03-03",
+  "votes": [],
+  "votos_publicados": false
+}

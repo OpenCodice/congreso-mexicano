@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4894716",
+      "denominacion": "Que declara el tercer sábado de agosto de cada año, como -Día Nacional de la adopción responsable de animales de compañía-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894716_20250430_1744298488.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020236",
+      "denominacion": "Con proyecto de decreto por el que declara el tercer sábado de agosto de cada año como el -Día Nacional de la Adopción Responsable de Animales de Compañía-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020236_20260224_1771954161.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5023257",
+      "denominacion": "Con proyecto de decreto por el que declara el tercer sábado de agosto de cada año como el -Día Nacional de la Adopción Responsable de Animales de Compañía-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5023257_20260225_1771954162.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5026230",
+      "denominacion": "Que declara el tercer sábado de agosto de cada año como el -Día Nacional de la Adopción Responsable de Animales de Compañía-.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026230_20260303_1772570483.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el tercer sábado de agosto de cada año como el -Día Nacional de la Adopción Responsable de Animales de Compañía-.",
+  "id": "sil-5022778",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022778",
+  "sources": [
+    {
+      "archivo": "fuentes/2f/2f89702535d2fdd55f4f7629cb55b7d6624a9d7710818fffefcfa84b2c5c6ab5.html",
+      "consultado": "2026-11-16T17:46:29Z",
+      "sha256": "2f89702535d2fdd55f4f7629cb55b7d6624a9d7710818fffefcfa84b2c5c6ab5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022778&Asunto=5023257"
+    },
+    {
+      "archivo": "fuentes/d1/d166857b752a9e235c32e7b45ffe23a6509a9c4282ed6fa10c197040798b97ff.html",
+      "consultado": "2026-11-16T17:46:33Z",
+      "sha256": "d166857b752a9e235c32e7b45ffe23a6509a9c4282ed6fa10c197040798b97ff",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5023257&Seguimiento=5022778"
+    }
+  ],
+  "tramites": {
+    "5023257": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 95
+        },
+        "texto": "Aprobado en lo general y en lo particular En la votación publicada de registran 2 votos a favor fuera del sistema de la Sen. Martha Lucía Micher Camarena (Morena) y del Sen. Adán Augusto López Hernández (Morena). A Favor: 95 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/03/2026",
+  "votaciones": [
+    "sil-5023257-1"
+  ]
+}

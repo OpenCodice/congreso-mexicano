@@ -1,0 +1,41 @@
+{
+  "asunto": "4794284",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 117
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4785120",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4794284-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de bienestar.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados de los artículos 4 y 27 en los términos del dictamen. Senadoras y senadores en pro solo para registro en el Diario de los Debates: Sen. Martha Lucía Micher Camarena (Morena) A Favor: 117 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/e8/e8a0570bcfc5401a670a41197443615784a35465114c143bbb1473afb4246abc.html",
+      "consultado": "2026-11-16T15:37:35Z",
+      "sha256": "e8a0570bcfc5401a670a41197443615784a35465114c143bbb1473afb4246abc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4794284"
+    }
+  ],
+  "start_date": "2024-10-30",
+  "votes": [],
+  "votos_publicados": false
+}

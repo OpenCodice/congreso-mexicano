@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822114",
+      "denominacion": "De decreto por el que se declara el 10 de noviembre de cada año como el -Día Nacional de la Mariposa Monarca-.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822114_20241211_1729639165.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4935655",
+      "denominacion": "Que declara el 10 de noviembre de cada año -Día Nacional de la Mariposa Monarca-.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4935655_20250930_1759247500.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4936327",
+      "denominacion": "Que declara el 10 de noviembre de cada año -Día Nacional de la Mariposa Monarca-.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4936327_20250930_1759260832.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4940850",
+      "denominacion": "Proyecto de decreto por el que se declara el 10 de noviembre de cada año, como el -Día Nacional de la Mariposa Monarca-.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4940850_20251001_1759358031.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-01"
+    }
+  ],
+  "denominacion": "Que declara el 10 de noviembre de cada año -Día Nacional de la Mariposa Monarca-.",
+  "id": "sil-4937802",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4937802",
+  "sources": [
+    {
+      "archivo": "fuentes/e0/e0129fd5395c22cce0f268e13d2a19fe5c23d0a48cefeaf2c453780364381bac.html",
+      "consultado": "2026-11-16T16:51:00Z",
+      "sha256": "e0129fd5395c22cce0f268e13d2a19fe5c23d0a48cefeaf2c453780364381bac",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937802&Asunto=4936327"
+    },
+    {
+      "archivo": "fuentes/d2/d2598855194a1824e114e1f08745c7911286cf89a6e0c1b3404d7b03ae29dc63.html",
+      "consultado": "2026-11-16T16:51:03Z",
+      "sha256": "d2598855194a1824e114e1f08745c7911286cf89a6e0c1b3404d7b03ae29dc63",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4936327&Seguimiento=4937802"
+    }
+  ],
+  "tramites": {
+    "4936327": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Gobernación y Población, que declara el 10 de noviembre de cada año -Día Nacional de la Mariposa Monarca-.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 398
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 398 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 01/10/2025",
+  "votaciones": [
+    "sil-4936327-1"
+  ]
+}

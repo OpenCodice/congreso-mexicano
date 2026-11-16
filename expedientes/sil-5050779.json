@@ -1,0 +1,180 @@
+{
+  "asuntos": [
+    {
+      "clave": "5020568",
+      "denominacion": "Que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+      "estatus": "Publicado en DOF 22/05/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020568_20260224_1771953219.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5047946",
+      "denominacion": "Que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+      "estatus": "Publicado en DOF 22/05/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5047946_20260324_1774375470.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5050110",
+      "denominacion": "Que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+      "estatus": "Publicado en DOF 22/05/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5050110_20260324_1774387632.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5051389",
+      "denominacion": "Con proyecto de decreto por el que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+      "estatus": "Publicado en DOF 22/05/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5051389_20260325_1774459549.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5062812",
+      "denominacion": "Dictamen a la minuta con proyecto de decreto por el que se expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+      "estatus": "Publicado en DOF 22/05/2026",
+      "fecha": "2026-04-08",
+      "pdf": null,
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070233",
+      "denominacion": "Con proyecto de decreto por el que expide la Ley Federal de Cine y el Audiovisual y se abroga la Ley Federal de Cinematografía.",
+      "estatus": "Publicado en DOF 22/05/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070233_20260415_1776190387.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-05-22"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que expide la Ley Federal de Cine y el Audiovisual y se abroga la Ley Federal de Cinematografía.",
+  "id": "sil-5050779",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-05-22",
+  "seguimiento": "5050779",
+  "sources": [
+    {
+      "archivo": "fuentes/cd/cd7f65c1277131e1f5fc149c053b104577155f84f365ab25a471a71dd26bbb35.html",
+      "consultado": "2026-11-16T18:05:50Z",
+      "sha256": "cd7f65c1277131e1f5fc149c053b104577155f84f365ab25a471a71dd26bbb35",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5050779&Asunto=5070233"
+    },
+    {
+      "archivo": "fuentes/58/584cf7768738173decc32c04f17867823126beffbc8e9daec8567ffe578f2650.html",
+      "consultado": "2026-11-16T18:05:54Z",
+      "sha256": "584cf7768738173decc32c04f17867823126beffbc8e9daec8567ffe578f2650",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070233&Seguimiento=5050779"
+    }
+  ],
+  "tramites": {
+    "5050110": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Cultura y Cinematografía, que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "1, 2, 14, 35 y 38 del dictamen que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 466
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 466 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa que las propuestas de modificación serán insertadas en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 462
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados En los términos del dictamen. A Favor: 462 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5070233": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 18,
+          "no": 1,
+          "yes": 88
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 88 En contra: 1 Abstenciones 18",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó aceptar a discusión la reserva del Sen. Luis Donaldo Colosio Riojas (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 17,
+          "no": 1,
+          "yes": 82
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 82 En contra: 1 Abstenciones 17",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 22/05/2026",
+  "votaciones": [
+    "sil-5050110-1",
+    "sil-5050110-2",
+    "sil-5070233-1",
+    "sil-5070233-2"
+  ]
+}

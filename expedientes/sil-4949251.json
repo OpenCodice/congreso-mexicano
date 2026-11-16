@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4944014",
+      "denominacion": "Con el que remite nombramientos de Personas Comisionadas de la Comisión Reguladora de Telecomunicaciones.",
+      "estatus": "Toma de protesta 14/10/2025",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4944014_20251007_1759964302.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4948447",
+      "denominacion": "Por el que se ratifica el nombramiento de las personas Comisionadas de la Comisión Reguladora de Telecomunicaciones.",
+      "estatus": "Toma de protesta 14/10/2025",
+      "fecha": "2025-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4948447_20251014_1760470819.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-10-14"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento de las personas Comisionadas de la Comisión Reguladora de Telecomunicaciones.",
+  "id": "sil-4949251",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4949251",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18193a93a15b29d39e5201ba6e3c30a703aac72ddc05c0472bb6f44f34964be8.html",
+      "consultado": "2026-11-16T16:57:56Z",
+      "sha256": "18193a93a15b29d39e5201ba6e3c30a703aac72ddc05c0472bb6f44f34964be8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4949251&Asunto=4948447"
+    },
+    {
+      "archivo": "fuentes/de/de5f6b116c4cb230ef7b169e6788db92e7f07e657d79e705c63eb6d1b966c97a.html",
+      "consultado": "2026-11-16T16:58:00Z",
+      "sha256": "de5f6b116c4cb230ef7b169e6788db92e7f07e657d79e705c63eb6d1b966c97a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4948447&Seguimiento=4949251"
+    }
+  ],
+  "tramites": {
+    "4948447": [
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado los resolutivos Primero, Tercero y Cuarto del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 33,
+          "yes": 74
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 74 En contra: 33 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de Ledénika Mackensie Méndez González, María de las Mercedes Olivares Tresgallo, Adán Salazar Garibay, Tania Villa Trápala y Norma Solano Rodríguez como personas Comisionadas de la Comisión Reguladora de Telecomunicaciones.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 14/10/2025",
+  "votaciones": [
+    "sil-4948447-1"
+  ]
+}

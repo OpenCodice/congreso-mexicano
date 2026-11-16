@@ -1,0 +1,41 @@
+{
+  "asunto": "4784617",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 342
+    },
+    {
+      "option": "no",
+      "value": 125
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4782820",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4784617-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, relativo a la actualización de los medios de impugnación en el proceso de elección de los integrantes del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 342 En contra: 125 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/fb/fb7e02008249de268dc010802d9042947d82421ecd69af9f9e3e777d08010a7d.html",
+      "consultado": "2026-11-16T19:34:48Z",
+      "sha256": "fb7e02008249de268dc010802d9042947d82421ecd69af9f9e3e777d08010a7d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4784617"
+    }
+  ],
+  "start_date": "2024-10-14",
+  "votes": [],
+  "votos_publicados": false
+}

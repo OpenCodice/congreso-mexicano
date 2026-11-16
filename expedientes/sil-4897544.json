@@ -1,0 +1,88 @@
+{
+  "asuntos": [
+    {
+      "clave": "4895317",
+      "denominacion": "Por el que propone al Pleno la designación del Titular del Órgano Interno de Control del Instituto Nacional de Estadística y Geografía.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895317_20250430_1746036761.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-30"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-30"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-04-30"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-05-07"
+    }
+  ],
+  "denominacion": "Por el que propone al Pleno la designación del Titular del Órgano Interno de Control del Instituto Nacional de Estadística y Geografía.",
+  "id": "sil-4897544",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-05-07",
+  "seguimiento": "4897544",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2fda51d374cf6d81f3237eeb1ca0a916849843840ad2f7a99476fc8d1278d4a.html",
+      "consultado": "2026-11-16T16:33:06Z",
+      "sha256": "f2fda51d374cf6d81f3237eeb1ca0a916849843840ad2f7a99476fc8d1278d4a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4897544&Asunto=4895317"
+    },
+    {
+      "archivo": "fuentes/07/07de9356ba9fe5591c73148145cff1e303cac1f9de48c00650efd8fe46b4c2ee.html",
+      "consultado": "2026-11-16T16:33:10Z",
+      "sha256": "07de9356ba9fe5591c73148145cff1e303cac1f9de48c00650efd8fe46b4c2ee",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4895317&Seguimiento=4897544"
+    }
+  ],
+  "tramites": {
+    "4895317": [
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el acuerdo por el que propone al Pleno la designación del Titular del Órgano Interno de Control del Instituto Nacional de Estadística y Geografía.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 416
+        },
+        "texto": "Aprobado es mayoría calificada. A Favor: 416 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "se designa comisión de cortesía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "de Ángel José Trinidad Zaldívar como titular del órgano Interno de Control del Instituto Nacional de Estadística y Geografía.",
+        "tipo": "Toma de protesta"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/05/2025",
+  "votaciones": [
+    "sil-4895317-1"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4821577",
+      "denominacion": "Que reforma la fracción V del artículo 38 Bis y la fracción VII el artículo 42 Ter de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/04/2025",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4821577_20241210_1733860259.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4862633",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona el artículo 38 Bis y reforma el artículo 42 Ter de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/04/2025",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4862633_20250325_1742912404.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4870968",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona el artículo 38 Bis y reforma el artículo 42 Ter de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/04/2025",
+      "fecha": "2025-04-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4870968_20250402_1742912405.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4871519",
+      "denominacion": "Que reforma y adiciona el artículo 38 Bis y se reforma el artículo 42 Ter de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/04/2025",
+      "fecha": "2025-04-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4871519_20250402_1743639880.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-04-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-04-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-04-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-04-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma y adiciona el artículo 38 Bis y reforma el artículo 42 Ter de la Ley Orgánica de la Administración Pública Federal.",
+  "id": "sil-4864236",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4864236",
+  "sources": [
+    {
+      "archivo": "fuentes/d3/d348271f425bf197a647206a5f048c85908ff52dfe2a79e842f21960aacf5090.html",
+      "consultado": "2026-11-16T16:09:31Z",
+      "sha256": "d348271f425bf197a647206a5f048c85908ff52dfe2a79e842f21960aacf5090",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4864236&Asunto=4870968"
+    },
+    {
+      "archivo": "fuentes/84/841fe2d4a138724272923db0c8a252fd38ba72c61da86590b4ea3fc4a4b767fe.html",
+      "consultado": "2026-11-16T16:09:35Z",
+      "sha256": "841fe2d4a138724272923db0c8a252fd38ba72c61da86590b4ea3fc4a4b767fe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4870968&Seguimiento=4864236"
+    }
+  ],
+  "tramites": {
+    "4870968": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/04/2025",
+  "votaciones": [
+    "sil-4870968-1"
+  ]
+}

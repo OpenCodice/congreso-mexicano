@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4980188",
+      "denominacion": "Con el que remite, de la Presidenta de la República, la solicitud de autorización para que se permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el Evento No. SOF28 -Capacitación de las Fuerzas de Operaciones Mexicanas en los estados Unidos Continentales (CONUS por sus siglas en inglés)-, a realizarse en Camp Shelby, Mississippi, Estados Unidos de América, del 18 de enero al 13 de marzo de 2026, en su primera fase.",
+      "estatus": "Publicado en DOF 05/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4980188_20251125_1764089611.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4986819",
+      "denominacion": "Por el que se concede autorización a la Titular del Poder Ejecutivo Federal para que permita la salida de tropas nacionales fuera de los límites del país, a efecto de que participen en el evento no. SOF28 -Capacitación de las fuerzas de operaciones mexicanas en los Estados Unidos Continentales (CONUS, por sus siglas en inglés)-.",
+      "estatus": "Publicado en DOF 05/12/2025",
+      "fecha": "2025-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4986819_20251127_1764264863.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987814",
+      "denominacion": "Por el que se concede autorización a la Titular del Poder Ejecutivo Federal para que permita la salida de tropas nacionales fuera de los límites del país, a efecto de que participen en el evento no. SOF28 -Capacitación de las fuerzas de operaciones mexicanas en los Estados Unidos Continentales (CONUS, por sus siglas en inglés)-.",
+      "estatus": "Publicado en DOF 05/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987814_20251201_1764264864.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-05"
+    }
+  ],
+  "denominacion": "Por el que se concede autorización a la Titular del Poder Ejecutivo Federal para que permita la salida de tropas nacionales fuera de los límites del país, a efecto de que participen en el evento no. SOF28 -Capacitación de las fuerzas de operaciones mexicanas en los Estados Unidos Continentales (CONUS, por sus siglas en inglés)-.",
+  "id": "sil-4987264",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-05",
+  "seguimiento": "4987264",
+  "sources": [
+    {
+      "archivo": "fuentes/af/affe45a3170e52e1bcad987a667d6520c1fbfac937068889e6e89196e54a415c.html",
+      "consultado": "2026-11-16T17:27:05Z",
+      "sha256": "affe45a3170e52e1bcad987a667d6520c1fbfac937068889e6e89196e54a415c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4987264&Asunto=4987814"
+    },
+    {
+      "archivo": "fuentes/5a/5a5bfac3a6b4e367227a6131135ec2e311dcd60a57d62879323147103574063d.html",
+      "consultado": "2026-11-16T17:27:09Z",
+      "sha256": "5a5bfac3a6b4e367227a6131135ec2e311dcd60a57d62879323147103574063d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987814&Seguimiento=4987264"
+    }
+  ],
+  "tramites": {
+    "4987814": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 05/12/2025",
+  "votaciones": [
+    "sil-4987814-1"
+  ]
+}

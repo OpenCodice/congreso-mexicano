@@ -1,0 +1,140 @@
+{
+  "asuntos": [
+    {
+      "clave": "4824858",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4824858_20241211_1733996495.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4837209",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4837209_20250218_1739897095.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4837661",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4837661_20250218_1739901393.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4838342",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4838342_20250218_1740006362.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4865921",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-03-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4865921_20250327_1743084024.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4867148",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-04-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4867148_20250331_1743084025.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-04-01"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-04-01"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-01"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-15"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+  "id": "sil-4838028",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-15",
+  "seguimiento": "4838028",
+  "sources": [
+    {
+      "archivo": "fuentes/ba/ba3428946088085555974b45f2fc26e35d561c6a6868322b5e0eee6090adbdfb.html",
+      "consultado": "2026-11-16T15:57:54Z",
+      "sha256": "ba3428946088085555974b45f2fc26e35d561c6a6868322b5e0eee6090adbdfb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4838028&Asunto=4867148"
+    },
+    {
+      "archivo": "fuentes/30/3024eea909b9b53e819e7d4426951e97c10fb4c070ca885aafd290dbc8317336.html",
+      "consultado": "2026-11-16T15:57:58Z",
+      "sha256": "3024eea909b9b53e819e7d4426951e97c10fb4c070ca885aafd290dbc8317336",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4867148&Seguimiento=4838028"
+    }
+  ],
+  "tramites": {
+    "4837661": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 456
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 456 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4867148": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 93
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 15/04/2025",
+  "votaciones": [
+    "sil-4837661-1",
+    "sil-4867148-1"
+  ]
+}

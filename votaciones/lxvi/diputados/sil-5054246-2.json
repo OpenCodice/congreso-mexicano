@@ -1,0 +1,41 @@
+{
+  "asunto": "5054246",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 315
+    },
+    {
+      "option": "no",
+      "value": 89
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5055003",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5054246-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley para el Fomento de la inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, y se reforman y adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 315 En contra: 89 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/7c/7c530cced3a30c90f52d00932ac21c569fffbae90bfde0fca6ae2c47643e0143.html",
+      "consultado": "2026-11-16T18:11:05Z",
+      "sha256": "7c530cced3a30c90f52d00932ac21c569fffbae90bfde0fca6ae2c47643e0143",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5054246"
+    }
+  ],
+  "start_date": "2026-03-25",
+  "votes": [],
+  "votos_publicados": false
+}

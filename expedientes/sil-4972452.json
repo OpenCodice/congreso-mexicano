@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4883363",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Salud, en materia de fortalecimiento de los servicios de atención a la salud mental.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4883363_20250423_1739925063.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971202",
+      "denominacion": "Que reforma los artículos 72 y 73 de la Ley General de Salud, en materia de fortalecimiento de la salud mental.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971202_20251111_1762880855.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971440",
+      "denominacion": "Que reforman los artículos 72 y 73 de la Ley General de Salud, en materia de fortalecimiento de la salud mental.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971440_20251111_1762889098.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975636",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 72 y 73 de la Ley General de Salud, en materia de fortalecimiento de los servicios de atención a la salud mental.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975636_20251119_1763572781.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que reforman los artículos 72 y 73 de la Ley General de Salud, en materia de fortalecimiento de la salud mental.",
+  "id": "sil-4972452",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972452",
+  "sources": [
+    {
+      "archivo": "fuentes/b3/b3629cbfc9613559ff2d8995a5de87319726b4126eaf03f24715ef539a0685b9.html",
+      "consultado": "2026-11-16T17:10:01Z",
+      "sha256": "b3629cbfc9613559ff2d8995a5de87319726b4126eaf03f24715ef539a0685b9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972452&Asunto=4971440"
+    },
+    {
+      "archivo": "fuentes/2d/2dc6ce03b01ce6d953d0ad05ac81313bb92f50cb5d49cc1d7d61f3e854e08738.html",
+      "consultado": "2026-11-16T17:10:05Z",
+      "sha256": "2dc6ce03b01ce6d953d0ad05ac81313bb92f50cb5d49cc1d7d61f3e854e08738",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971440&Seguimiento=4972452"
+    }
+  ],
+  "tramites": {
+    "4971440": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Salud, que reforma los artículos 72 Y 73 de la Ley General de Salud, en materia de fortalecimiento de la salud mental.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforman los artículos 72 y 73 de la Ley General de Salud, en materia de fortalecimiento de la salud mental.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 454
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 454 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971440-1"
+  ]
+}

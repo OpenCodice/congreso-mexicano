@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "5143739",
+      "denominacion": "con el que remite, de la Presidenta de la República, Dra. Claudia Sheinbaum Pardo, solicitud de autorización para que se permita la salida de la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio -Cambrian Patrol 2026-, que se realizará del 2 al 14 de octubre de 2026, en Brecon, Gales, Reino Unido.",
+      "estatus": "Publicado en DOF 09/11/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5143739_20260929_1790692788.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "5146345",
+      "denominacion": "Por el que se concede autorización a la titular del Poder Ejecutivo Federal para que permita la salida de elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio -Cambrian Patrol 2026-.",
+      "estatus": "Publicado en DOF 09/11/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5146345_20260929_1790697442.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5146393",
+      "denominacion": "Por el que se concede autorización a la titular del Poder Ejecutivo Federal para que permita la salida de elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio -Cambrian Patrol 2026-.",
+      "estatus": "Publicado en DOF 09/11/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5146393_20260929_1790697538.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-09"
+    }
+  ],
+  "denominacion": "Por el que se concede autorización a la titular del Poder Ejecutivo Federal para que permita la salida de elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio -Cambrian Patrol 2026-.",
+  "id": "sil-5147534",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-09",
+  "seguimiento": "5147534",
+  "sources": [
+    {
+      "archivo": "fuentes/f7/f7dd17671d97a1c8cb4f69dd4f2cb3aaff7257fa5bd7f9271cc034c3434731fe.html",
+      "consultado": "2026-11-16T18:40:00Z",
+      "sha256": "f7dd17671d97a1c8cb4f69dd4f2cb3aaff7257fa5bd7f9271cc034c3434731fe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5147534&Asunto=5146393"
+    },
+    {
+      "archivo": "fuentes/2d/2d20e64b6efad190b87a3d788eff80c81cc9ec279d63f1725a6c1f6eda0d5783.html",
+      "consultado": "2026-11-16T18:40:04Z",
+      "sha256": "2d20e64b6efad190b87a3d788eff80c81cc9ec279d63f1725a6c1f6eda0d5783",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5146393&Seguimiento=5147534"
+    }
+  ],
+  "tramites": {
+    "5146393": [
+      {
+        "texto": "Aprobado para omitir su lectura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 118
+        },
+        "texto": "Aprobado en lo general y en lo particular Votación publicada en la gaceta del Senado de la República. A Favor: 118 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 09/11/2026",
+  "votaciones": [
+    "sil-5146393-1"
+  ]
+}

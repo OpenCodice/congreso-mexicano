@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4957160",
+      "denominacion": "De decreto por el que se declara el 21 de junio como el -Día Nacional del Apicultor-.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-10-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4957160_20251022_1761140440.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016136",
+      "denominacion": "Que declara el 21 de junio de cada año como el -Día Nacional de la Apicultura-.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016136_20260217_1771349581.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016195",
+      "denominacion": "Que declara el 21 de junio de cada año, como el -Día Nacional de la Apicultura-.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016195_20260217_1771349805.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017188",
+      "denominacion": "Por el que declara el 21 de junio de cada año, como el -Día Nacional de la Apicultura-.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017188_20260218_1771436244.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que declara el 21 de junio de cada año, como el -Día Nacional de la Apicultura-.",
+  "id": "sil-5017040",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017040",
+  "sources": [
+    {
+      "archivo": "fuentes/03/03117cbe67d9fba5ce4c55dd49cd11c28be4742eca7600d3aa99e70cf76fa4f5.html",
+      "consultado": "2026-11-16T17:39:00Z",
+      "sha256": "03117cbe67d9fba5ce4c55dd49cd11c28be4742eca7600d3aa99e70cf76fa4f5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017040&Asunto=5016195"
+    },
+    {
+      "archivo": "fuentes/d5/d59949705a0eb8ef176ab032fa2791f8e21e6b6fc821d5d772ad239af804c3a0.html",
+      "consultado": "2026-11-16T17:39:04Z",
+      "sha256": "d59949705a0eb8ef176ab032fa2791f8e21e6b6fc821d5d772ad239af804c3a0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016195&Seguimiento=5017040"
+    }
+  ],
+  "tramites": {
+    "5016195": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que declara el 21 de junio de cada año, como el -Día Nacional de la Apicultura-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 402
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 402 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016195-1"
+  ]
+}

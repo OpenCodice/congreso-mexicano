@@ -1,0 +1,41 @@
+{
+  "asunto": "4852412",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 327
+    },
+    {
+      "option": "no",
+      "value": 116
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4843362",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4852412-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados Es mayoría calificada. A Favor: 327 En contra: 116 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/7b/7bfc18f0b3560daf2c3c6d4dd57750a30fb60bbd85ce0857f5a69c59c46e7872.html",
+      "consultado": "2026-11-16T19:45:25Z",
+      "sha256": "7bfc18f0b3560daf2c3c6d4dd57750a30fb60bbd85ce0857f5a69c59c46e7872",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4852412"
+    }
+  ],
+  "start_date": "2025-03-11",
+  "votes": [],
+  "votos_publicados": false
+}

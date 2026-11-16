@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4980179",
+      "denominacion": "Con el que la Presidenta de la República, somete a ratificación de las designaciones de 21 personas que ocuparán las magistraturas vacantes de las Salas Regionales del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Toma de protesta 26/11/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4980179_20251125_1764088036.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4984968",
+      "denominacion": "En relación con la idoneidad de 20 personas designadas para ocupar magistraturas vacantes de las Salas Regionales del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Toma de protesta 26/11/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4984968_20251126_1764176682.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-11-25"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-11-26"
+    }
+  ],
+  "denominacion": "En relación con la idoneidad de 20 personas designadas para ocupar magistraturas vacantes de las Salas Regionales del Tribunal Federal de Justicia Administrativa.",
+  "id": "sil-4986128",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986128",
+  "sources": [
+    {
+      "archivo": "fuentes/96/96dd93da10500db59c51638f29124aae7441ae797130270349233bea2b9a0a15.html",
+      "consultado": "2026-11-16T17:24:33Z",
+      "sha256": "96dd93da10500db59c51638f29124aae7441ae797130270349233bea2b9a0a15",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986128&Asunto=4984968"
+    },
+    {
+      "archivo": "fuentes/a7/a72cf83252535fe8e2765bd93a53c0658c8d2bf37cb02ecf2f8fc53167642d63.html",
+      "consultado": "2026-11-16T17:24:36Z",
+      "sha256": "a72cf83252535fe8e2765bd93a53c0658c8d2bf37cb02ecf2f8fc53167642d63",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4984968&Seguimiento=4986128"
+    }
+  ],
+  "tramites": {
+    "4984968": [
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado una propuesta de modificación al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado la propuesta de modificación al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 32,
+          "yes": 66
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 66 En contra: 32 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "Como magistradas y magistrados de las Salas Regionales del Tribunal Federal de Justicia Administrativa, por un periodo de diez años, a partir del primero de enero de 2026, de Jorge Muñoz Barrett; Miguel Ernesto Pompa Corella; Jorge Enrique Mata Gómez; Mayra Alicia Alvarado Cruz; Fernando Cruz Ventura; Sandra Paola González Castañeda; María Elena Montero García; Rodrigo Eduardo Escalante Ramírez; Yamil Villalba Villarreal; Olimpia Tamara Girón Hernández; Jesús Ornar Sánchez Sánchez; Ricardo Carlos Molina Arias; Edgar Daniel Guerrero Flores; Idubina Nañez Bugarin; Miguel Alejandro Guizado Jaimes; Elizabeth Bautista Velasco; Luis Fernando González Macías; Marco Polo Carballo Calva; María del Carmen Quiroz Rodríguez; Anabel Dávila Salas.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 26/11/2025",
+  "votaciones": [
+    "sil-4984968-1"
+  ]
+}

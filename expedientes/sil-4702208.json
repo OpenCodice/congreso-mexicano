@@ -1,0 +1,128 @@
+{
+  "asuntos": [
+    {
+      "clave": "4609657",
+      "denominacion": "De decreto por el que se modifica la fecha de efeméride del día Nacional del Tequila, del tercer sábado de marzo al 24 de julio de cada año.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2023-09-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/09/asun_4609657_20230926_1697480792.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4653925",
+      "denominacion": "De decreto por el que se declara el 24 de julio de cada año -Día Nacional del Tequila-.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2023-11-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/11/asun_4653925_20231114_1700092451.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4701958",
+      "denominacion": "Que declara el 24 de julio de cada año como el -Día Nacional del Tequila-.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2024-02-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4701958_20240213_1707869241.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4702702",
+      "denominacion": "Que declara el 24 de julio de cada año como el -Día Nacional del Tequila-.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2024-02-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4702702_20240214_1707869242.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4703872",
+      "denominacion": "Con proyecto de decreto que declara el 24 de julio de cada año, como el -Día Nacional del Tequila-.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2024-02-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4703872_20240220_1708441880.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4894179",
+      "denominacion": "Con proyecto de decreto por el que declara el 24 de julio de cada año, como el -Día Nacional del Tequila-.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894179_20250429_1745952895.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5078849",
+      "denominacion": "Con proyecto de decreto por el que declara el 24 de julio de cada año, como el -Día Nacional del Tequila-.",
+      "estatus": "Publicado en DOF 28/05/2026",
+      "fecha": "2026-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5078849_20260422_1776190581.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-05-28"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el 24 de julio de cada año, como el -Día Nacional del Tequila-.",
+  "id": "sil-4702208",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-05-28",
+  "seguimiento": "4702208",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7fa3273d33069205c2b100519bdaedfb4f0774660645a7ce7d839e8ffde475d.html",
+      "consultado": "2026-11-16T15:26:54Z",
+      "sha256": "b7fa3273d33069205c2b100519bdaedfb4f0774660645a7ce7d839e8ffde475d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4702208&Asunto=5078849"
+    },
+    {
+      "archivo": "fuentes/14/14c670dd8653b21f0831ee523ea07f715f34cdccef6a3c2a310c0dd34eecdef4.html",
+      "consultado": "2026-11-16T15:26:58Z",
+      "sha256": "14c670dd8653b21f0831ee523ea07f715f34cdccef6a3c2a310c0dd34eecdef4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5078849&Seguimiento=4702208"
+    }
+  ],
+  "tramites": {
+    "5078849": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 91
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 91 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 28/05/2026",
+  "votaciones": [
+    "sil-5078849-1"
+  ]
+}

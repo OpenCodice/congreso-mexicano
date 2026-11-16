@@ -1,0 +1,41 @@
+{
+  "asunto": "4801214",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 87
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4800027",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4801214-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Designación de servidores públicos",
+    "denominacion": "Por el que se propone la terna de candidatas a ocupar la presidencia de la Comisión Nacional de los Derechos Humanos para el periodo 2024-2029.",
+    "text": null
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": null,
+  "sources": [
+    {
+      "archivo": "fuentes/ed/edbdf1221d8b4a2f004bb31b0c62b5b7b8103d1bcc20b66619d603554fd3685c.html",
+      "consultado": "2026-11-16T15:40:49Z",
+      "sha256": "edbdf1221d8b4a2f004bb31b0c62b5b7b8103d1bcc20b66619d603554fd3685c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4801214"
+    }
+  ],
+  "start_date": "2024-11-12",
+  "votes": [],
+  "votos_publicados": false
+}

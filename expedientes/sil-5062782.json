@@ -1,0 +1,238 @@
+{
+  "asuntos": [
+    {
+      "clave": "4993126",
+      "denominacion": "Por el que se reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "estatus": "Publicado en DOF 01/05/2026",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4993126_20251203_1764814172.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5061843",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "estatus": "Publicado en DOF 01/05/2026",
+      "fecha": "2026-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5061843_20260408_1775673368.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5062610",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "estatus": "Publicado en DOF 01/05/2026",
+      "fecha": "2026-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5062610_20260408_1775673369.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5063096",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "estatus": "Publicado en DOF 01/05/2026",
+      "fecha": "2026-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5063096_20260408_1775769174.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5076414",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "estatus": "Publicado en DOF 01/05/2026",
+      "fecha": "2026-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5076414_20260422_1776877533.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5079160",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+      "estatus": "Publicado en DOF 01/05/2026",
+      "fecha": "2026-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5079160_20260422_1776893586.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-22"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-05-01"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+  "id": "sil-5062782",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-05-01",
+  "seguimiento": "5062782",
+  "sources": [
+    {
+      "archivo": "fuentes/fa/fac14ac13b17268cd78f34853b6b56ec642efaf69b0ec3d6aa91169f4e7dc7fb.html",
+      "consultado": "2026-11-16T18:12:04Z",
+      "sha256": "fac14ac13b17268cd78f34853b6b56ec642efaf69b0ec3d6aa91169f4e7dc7fb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5062782&Asunto=5062610"
+    },
+    {
+      "archivo": "fuentes/91/91813c2107358b5d0d57efd46a5baf92b8292a21b9799841fa5451fa6e4d612b.html",
+      "consultado": "2026-11-16T18:12:07Z",
+      "sha256": "91813c2107358b5d0d57efd46a5baf92b8292a21b9799841fa5451fa6e4d612b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5062610&Seguimiento=5062782"
+    }
+  ],
+  "tramites": {
+    "5062610": [
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas del Sen. José Clemente Castañeda Hoeflich (MC) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas de la Sen. Anabell Ávalos Zempoalteca (PRI) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas del Sen. Miguel Márquez Márquez (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas de la Sen. Gina Gerardina Campuzano González (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 18,
+          "yes": 87
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 87 En contra: 18 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "5079160": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Trabajo y Previsión Social, que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa a la Asamblea que se han presentado propuestas de modificación a los artículos 58, 59, 61, 66, 68, 69, 71, 132 y 994; y, los artículos transitorios Primero, Segundo, Quinto y Sexto del dictamen.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana María Baladeras Trejo (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de Fátima García León (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paola Michell Longoria López (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 441
+        },
+        "texto": "Aprobado en lo general y en lo particular en un solo acto. A Favor: 441 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 01/05/2026",
+  "votaciones": [
+    "sil-5062610-1",
+    "sil-5062610-2",
+    "sil-5079160-1"
+  ]
+}

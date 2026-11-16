@@ -1,0 +1,41 @@
+{
+  "asunto": "5070233",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 82
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 17
+    }
+  ],
+  "expediente_id": "sil-5050779",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5070233-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que expide la Ley Federal de Cine y el Audiovisual y se abroga la Ley Federal de Cinematografía.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 82 En contra: 1 Abstenciones 17"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bf/bf3f8c3c5851f137fc27cc75e98e5b8472c745a5cedd417eec90bcac72f36968.html",
+      "consultado": "2026-11-16T18:05:57Z",
+      "sha256": "bf3f8c3c5851f137fc27cc75e98e5b8472c745a5cedd417eec90bcac72f36968",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5070233"
+    }
+  ],
+  "start_date": "2026-04-15",
+  "votes": [],
+  "votos_publicados": false
+}

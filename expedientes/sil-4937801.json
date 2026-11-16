@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4834753",
+      "denominacion": "Que reforma y adiciona los artículos 103 y 104 de la Ley de Fiscalización y Rendición de Cuentas de la Federación.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-02-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4834753_20250212_1739385391.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4935652",
+      "denominacion": "Que adiciona diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4935652_20250930_1759247491.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4936324",
+      "denominacion": "Que adiciona diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4936324_20250930_1759259947.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4940844",
+      "denominacion": "Proyecto de decreto por el que se adicionan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación.",
+      "estatus": "Pendiente en comisión(es) de revisora 01/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4940844_20251001_1759357616.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-09-30"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-01"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación.",
+  "id": "sil-4937801",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4937801",
+  "sources": [
+    {
+      "archivo": "fuentes/9f/9f244291b02e2951619ef4ae43d9310de266dfa0382353b333747df4df908acc.html",
+      "consultado": "2026-11-16T16:50:13Z",
+      "sha256": "9f244291b02e2951619ef4ae43d9310de266dfa0382353b333747df4df908acc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937801&Asunto=4936324"
+    },
+    {
+      "archivo": "fuentes/52/52e5b95dada653bcff2293f9eee55568ba7f2183e41151e3c5ae0fa788119b98.html",
+      "consultado": "2026-11-16T16:50:17Z",
+      "sha256": "52e5b95dada653bcff2293f9eee55568ba7f2183e41151e3c5ae0fa788119b98",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4936324&Seguimiento=4937801"
+    }
+  ],
+  "tramites": {
+    "4936324": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Transparencia y Anticorrupción que adiciona diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 423
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 423 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 01/10/2025",
+  "votaciones": [
+    "sil-4936324-1"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4861692",
+      "denominacion": "Con el que remite solicitud de autorización para que permita la salida de los elementos que integran la delegación de tropas nacionales, fuera de los límites del país, a efecto de que participen en el -Intercambio de Adiestramiento de Operaciones en Selva-, a realizarse en el Centro de Entrenamiento en la Selva Ecuatorial, de la Guyana Francesa.",
+      "estatus": "Publicado en DOF 07/04/2025",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4861692_20250325_1742911039.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4863397",
+      "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el -Intercambio de Adiestramiento de Operaciones en Selva- a realizarse en el Centro de Entrenamiento en la Selva Ecuatorial, de la Guayana Francesa, del 10 de abril al 6 de mayo de 2025.",
+      "estatus": "Publicado en DOF 07/04/2025",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4863397_20250325_1742953769.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4865631",
+      "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el -Intercambio de Adiestramiento de Operaciones en Selva- a realizarse en el Centro de Entrenamiento en la Selva Ecuatorial, de la Guayana Francesa, del 10 de abril al 6 de mayo de 2025.",
+      "estatus": "Publicado en DOF 07/04/2025",
+      "fecha": "2025-03-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4865631_20250326_1742953770.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-03-27"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-03-27"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-03-27"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-07"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita la salida de los elementos que integran la delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el -Intercambio de Adiestramiento de Operaciones en Selva- a realizarse en el Centro de Entrenamiento en la Selva Ecuatorial, de la Guayana Francesa, del 10 de abril al 6 de mayo de 2025.",
+  "id": "sil-4864252",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-07",
+  "seguimiento": "4864252",
+  "sources": [
+    {
+      "archivo": "fuentes/aa/aa0f9bfafc0077c9d57b6fa29f3beb062601446a9b62afa05fe5db142609b057.html",
+      "consultado": "2026-11-16T16:12:41Z",
+      "sha256": "aa0f9bfafc0077c9d57b6fa29f3beb062601446a9b62afa05fe5db142609b057",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4864252&Asunto=4865631"
+    },
+    {
+      "archivo": "fuentes/e9/e978252311970038ec4aeeaf18102744650f6f9bc948f955ba159bd6a9770c0a.html",
+      "consultado": "2026-11-16T16:12:45Z",
+      "sha256": "e978252311970038ec4aeeaf18102744650f6f9bc948f955ba159bd6a9770c0a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4865631&Seguimiento=4864252"
+    }
+  ],
+  "tramites": {
+    "4865631": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar la lectura del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 73
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Geovanna del Carmen Bañuelos de la Torre (PT), Sen. Alejandro González Yáñez (PT), Sen. Ana Karen Hernández Aceves (PT), Sen. Yeidckol Polevnsky Gurwitz (PT) y Sen. Emmanuel Reyes Carmona (Morena). A Favor: 73 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/04/2025",
+  "votaciones": [
+    "sil-4865631-1"
+  ]
+}

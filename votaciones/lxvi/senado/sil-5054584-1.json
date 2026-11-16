@@ -1,0 +1,41 @@
+{
+  "asunto": "5054584",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 39
+    },
+    {
+      "option": "no",
+      "value": 77
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5054726",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5054584-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos con el objeto de reducir privilegios y fortalecer la revocación de mandato.",
+    "text": "Se rechazó admitir la moción suspensiva presentada por el Sen. Agustín Dorantes Lámbarri (PAN). A Favor: 39 En contra: 77 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/95/950ff64b1b2692b686eed4b9ff558bfa64816f78c38bd356d45b11454ac0be63.html",
+      "consultado": "2026-11-16T18:09:33Z",
+      "sha256": "950ff64b1b2692b686eed4b9ff558bfa64816f78c38bd356d45b11454ac0be63",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5054584"
+    }
+  ],
+  "start_date": "2026-03-25",
+  "votes": [],
+  "votos_publicados": false
+}

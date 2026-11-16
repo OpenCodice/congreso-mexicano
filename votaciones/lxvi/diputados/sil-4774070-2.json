@@ -1,0 +1,41 @@
+{
+  "asunto": "4774070",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 483
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4771539",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4774070-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma, adiciona y deroga el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de pueblos y comunidades indígenas y afromexicanos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados Es mayoría calificada. A Favor: 483 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/54/5485612510cc2444f82c8f614a6b9286eacfba99757bead2ac772dfa0876c408.html",
+      "consultado": "2026-11-16T15:30:36Z",
+      "sha256": "5485612510cc2444f82c8f614a6b9286eacfba99757bead2ac772dfa0876c408",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4774070"
+    }
+  ],
+  "start_date": "2024-09-18",
+  "votes": [],
+  "votos_publicados": false
+}

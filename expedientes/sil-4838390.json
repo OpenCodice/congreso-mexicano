@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4835758",
+      "denominacion": "Con el que solicita autorización para que permita la salida de los límites del país a los elementos que integran la delegación de tropas nacionales, a efecto de participen en la conmemoración del -181 Aniversario de la Independencia de la República Dominicana-, que se llevará a cabo el 27 de febrero de 2025 en la ciudad de Santo Domingo, República Dominicana.",
+      "estatus": "Publicado en DOF 25/02/2025",
+      "fecha": "2025-02-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4835758_20250213_1739465894.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4838276",
+      "denominacion": "Con proyecto de decreto que concede autorización a la persona titular del Poder Ejecutivo Federal para que permita la salida de los elementos del Ejército y la Fuerza Aérea Mexicanos fuera de los límites del país, a efecto de que participen en la Conmemoración del -181 Aniversario de la Independencia de la República Dominicana-, que se llevará a cabo el 27 de febrero de 2025 en la ciudad de Santo Domingo, República Dominicana.",
+      "estatus": "Publicado en DOF 25/02/2025",
+      "fecha": "2025-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4838276_20250218_1739912884.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4839032",
+      "denominacion": "Con proyecto de decreto que concede autorización a la persona titular del Poder Ejecutivo Federal para que permita la salida de los elementos del Ejército y la Fuerza Aérea Mexicanos fuera de los límites del país, a efecto de que participen en la Conmemoración del -181 Aniversario de la Independencia de la República Dominicana-",
+      "estatus": "Publicado en DOF 25/02/2025",
+      "fecha": "2025-02-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4839032_20250219_1739912885.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-02-19"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-02-19"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-02-19"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-02-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que concede autorización a la persona titular del Poder Ejecutivo Federal para que permita la salida de los elementos del Ejército y la Fuerza Aérea Mexicanos fuera de los límites del país, a efecto de que participen en la Conmemoración del -181 Aniversario de la Independencia de la República Dominicana-",
+  "id": "sil-4838390",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-02-25",
+  "seguimiento": "4838390",
+  "sources": [
+    {
+      "archivo": "fuentes/4e/4e04e92b5fc3d29e4eb039d9f928ed068a39f1d96861e80d2a57584eeef6af5e.html",
+      "consultado": "2026-11-16T15:58:35Z",
+      "sha256": "4e04e92b5fc3d29e4eb039d9f928ed068a39f1d96861e80d2a57584eeef6af5e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4838390&Asunto=4839032"
+    },
+    {
+      "archivo": "fuentes/8d/8d06c5266a87da9aba44b18924565a75ece708fdd59ca832d984f98b11220e07.html",
+      "consultado": "2026-11-16T15:58:39Z",
+      "sha256": "8d06c5266a87da9aba44b18924565a75ece708fdd59ca832d984f98b11220e07",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4839032&Seguimiento=4838390"
+    }
+  ],
+  "tramites": {
+    "4839032": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de veinticuatro horas de publicación anticipada del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular Se suma el voto a favor fuera del sistema electrónico del Sen. Adán Augusto López Hernández (Morena) y, el voto a favor, sólo para registro en el Diario de los Debates del Sen. Pablo Guillermo Angulo Briceño (PRI). A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 25/02/2025",
+  "votaciones": [
+    "sil-4839032-1"
+  ]
+}

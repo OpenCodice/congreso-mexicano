@@ -1,0 +1,246 @@
+{
+  "asuntos": [
+    {
+      "clave": "5095926",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en materia de integridad en candidaturas.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5095926_20260525_1779720462.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5097263",
+      "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5097263_20260526_1779842516.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5097497",
+      "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5097497_20260528_1779981542.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5098554",
+      "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5098554_20260528_1780015119.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5098682",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+      "estatus": "Publicado en DOF 02/06/2026",
+      "fecha": "2026-05-28",
+      "pdf": null,
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-05-28"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-06-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+  "id": "sil-5098173",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-06-02",
+  "seguimiento": "5098173",
+  "sources": [
+    {
+      "archivo": "fuentes/10/10abc0cd74260230adec46760fd87879d187ccfa5ed9bc4825f0b041091d808f.html",
+      "consultado": "2026-11-16T18:34:13Z",
+      "sha256": "10abc0cd74260230adec46760fd87879d187ccfa5ed9bc4825f0b041091d808f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5098173&Asunto=5097497"
+    },
+    {
+      "archivo": "fuentes/5d/5d9e99d525dd8a8e983b01a007055983100b4d5750d78c3003a0e84bbc85c064.html",
+      "consultado": "2026-11-16T18:34:17Z",
+      "sha256": "5d9e99d525dd8a8e983b01a007055983100b4d5750d78c3003a0e84bbc85c064",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5097497&Seguimiento=5098173"
+    }
+  ],
+  "tramites": {
+    "5097497": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Reforma Política-Electoral, que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado Para considerarlo suficiente mente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa que se han presentado propuestas de modificación a los artículos 42, 200 Bis, 200 Ter y 200 Quáter; y los Transitorios Primero, Tercero y Cuarto del dictamen.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 123,
+          "yes": 316
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 316 En contra: 123 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Sergio Gil Rullán (MC) al dictamen que reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Ernesto Sánchez Rodríguez (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Nadia Navarro Acevedo (PRI) al dictamen que reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Andrés Mauricio Cantú Ramírez (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Guillermo Rafael Santiago Rodríguez (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gibrán Ramírez Reyes (MC) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la el Dip. Andrés Mauricio Cantú Ramírez (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva formulada por el Dip. Ernesto Alejandro Prieto Gallardo (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en Materia de Integridad en Candidaturas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 92,
+          "yes": 271
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 271 En contra: 92 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 02/06/2026",
+  "votaciones": [
+    "sil-5097497-1",
+    "sil-5097497-2"
+  ]
+}

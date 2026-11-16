@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4883012",
+      "denominacion": "Que declara el 10 de abril de cada año como el -Día Nacional del Huapango-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4883012_20250423_1744148282.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4960385",
+      "denominacion": "Con proyecto de decreto por el que declara el 10 de abril de cada año como -Día Nacional del Huapango-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4960385_20251028_1761672703.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4996238",
+      "denominacion": "Con proyecto de decreto por el que declara el 10 de abril de cada año como -Día Nacional del Huapango-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4996238_20251209_1765327208.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4999095",
+      "denominacion": "Que declara el 10 de abril de cada año como el -Día Nacional del Huapango-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/12/2025",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999095_20251210_1765390224.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el 10 de abril de cada año como -Día Nacional del Huapango-.",
+  "id": "sil-4961522",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4961522",
+  "sources": [
+    {
+      "archivo": "fuentes/5e/5edd63782b6eeaba15a471660b49d32a7ee809b035095786a3e6abb2c6ec9556.html",
+      "consultado": "2026-11-16T17:05:20Z",
+      "sha256": "5edd63782b6eeaba15a471660b49d32a7ee809b035095786a3e6abb2c6ec9556",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4961522&Asunto=4996238"
+    },
+    {
+      "archivo": "fuentes/ca/ca67f0c8f6985fb7599ba8a7f3dc736b1abb989e8c9e9cfbe39073dd12df48d0.html",
+      "consultado": "2026-11-16T17:05:24Z",
+      "sha256": "ca67f0c8f6985fb7599ba8a7f3dc736b1abb989e8c9e9cfbe39073dd12df48d0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4996238&Seguimiento=4961522"
+    }
+  ],
+  "tramites": {
+    "4996238": [
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "dispensar su segunda lectura y ponerse a discusión",
+        "tipo": "Se dispensa la segunda lectura"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/12/2025",
+  "votaciones": [
+    "sil-4996238-1"
+  ]
+}

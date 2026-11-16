@@ -1,0 +1,41 @@
+{
+  "asunto": "4909299",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 75
+    },
+    {
+      "option": "no",
+      "value": 32
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4907135",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4909299-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Por el que se expide la Ley de la Guardia Nacional y reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; Código de Justicia Militar y Código Militar de Procedimientos Penales.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en los términos del dictamen. A Favor: 75 En contra: 32 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/a1/a18bdb48168c298c900c86e71e176aa59707b046b484a4df5e55dc81e2851070.html",
+      "consultado": "2026-11-16T16:35:50Z",
+      "sha256": "a18bdb48168c298c900c86e71e176aa59707b046b484a4df5e55dc81e2851070",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4909299"
+    }
+  ],
+  "start_date": "2025-06-30",
+  "votes": [],
+  "votos_publicados": false
+}

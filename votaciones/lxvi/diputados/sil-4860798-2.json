@@ -1,0 +1,41 @@
+{
+  "asunto": "4860798",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 331
+    },
+    {
+      "option": "no",
+      "value": 126
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4848186",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4860798-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; y se reforman diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 331 En contra: 126 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/9b/9b81dd1e19bd07335bef0a734b2fa9c898b9b6b909cda50a8d39993846869dbe.html",
+      "consultado": "2026-11-16T16:03:21Z",
+      "sha256": "9b81dd1e19bd07335bef0a734b2fa9c898b9b6b909cda50a8d39993846869dbe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4860798"
+    }
+  ],
+  "start_date": "2025-03-20",
+  "votes": [],
+  "votos_publicados": false
+}

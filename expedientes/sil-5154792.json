@@ -1,0 +1,274 @@
+{
+  "asuntos": [
+    {
+      "clave": "5126699",
+      "denominacion": "Que expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+      "estatus": "Publicado en DOF 23/10/2026",
+      "fecha": "2026-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5126699_20260909_1788965424.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5153534",
+      "denominacion": "Que expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+      "estatus": "Publicado en DOF 23/10/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5153534_20261006_1791310479.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5153798",
+      "denominacion": "Que expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+      "estatus": "Publicado en DOF 23/10/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5153798_20261006_1791356229.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5157729",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+      "estatus": "Publicado en DOF 23/10/2026",
+      "fecha": "2026-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5157729_20261007_1791389595.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5162236",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+      "estatus": "Publicado en DOF 23/10/2026",
+      "fecha": "2026-10-13",
+      "pdf": null,
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5164814",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+      "estatus": "Publicado en DOF 23/10/2026",
+      "fecha": "2026-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5164814_20261014_1791992978.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-10-14"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-10-14"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-10-14"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-10-23"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se expide la Ley General para el Fortalecimiento y Armonización Catastral y Registral.",
+  "id": "sil-5154792",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-10-23",
+  "seguimiento": "5154792",
+  "sources": [
+    {
+      "archivo": "fuentes/df/df69ef77f3fc64e89e31b0836c364cd95535b4b06a77dfb255870a633911852e.html",
+      "consultado": "2026-11-16T18:42:48Z",
+      "sha256": "df69ef77f3fc64e89e31b0836c364cd95535b4b06a77dfb255870a633911852e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5154792&Asunto=5164814"
+    },
+    {
+      "archivo": "fuentes/7c/7cd1cba650d885cc077e271b1a1272e426f14a7ab4e63794d08077c19463b415.html",
+      "consultado": "2026-11-16T18:42:51Z",
+      "sha256": "7cd1cba650d885cc077e271b1a1272e426f14a7ab4e63794d08077c19463b415",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5164814&Seguimiento=5154792"
+    }
+  ],
+  "tramites": {
+    "5153798": [
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Nancy Aracely Olguín Díaz (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Luis Gerardo Sánchez Sánchez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 107,
+          "yes": 324
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 324 En contra: 107 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Gildardo Pérez Gabino (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Israel Betanzos Cortés (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Laura Cristina Márquez Alcalá (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. José Guillermo Anaya Llamas (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por Dip. Elena Edith Segura Trejo (Morena).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado se considera suficientemente discutida la propuesta de modificación presentada por la Dip. Elena Edith Segura Trejo (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado la propuesta de modificación presentada por la Dip. Elena Edith Segura Trejo (Morena) para que las autoridades responsables podrán colaborar y coordinarse con el Instituto Nacional de Estadística y Geografía, como organismo público autónomo de carácter técnico, para el cumplimiento del objeto de la presente ley, dentro del ámbito de sus respectivas competencias.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 92,
+          "yes": 299
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados con la modificación aceptada por la Asamblea. A Favor: 299 En contra: 92 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5164814": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 56,
+          "yes": 31
+        },
+        "texto": "Se rechazó la moción suspensiva presentada por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen. A Favor: 31 En contra: 56 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 32,
+          "yes": 69
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 69 En contra: 32 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Miguel Márquez Márquez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Alma Carolina Viggiano Austria (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Gabriel Elizondo Pérez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Ángel García Yáñez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Ivideliza Reyes Hernández (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva del Sen. Francisco Javier Ramírez Acuña (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Claudia Edith Anaya Mota (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Laura Esquivel Torres (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva de la Sen. Anabell Ávalos Zempoalteca (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 28,
+          "yes": 66
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 66 En contra: 28 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 23/10/2026",
+  "votaciones": [
+    "sil-5153798-1",
+    "sil-5153798-2",
+    "sil-5164814-1",
+    "sil-5164814-2",
+    "sil-5164814-3"
+  ]
+}

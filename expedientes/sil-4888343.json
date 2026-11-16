@@ -1,0 +1,230 @@
+{
+  "asuntos": [
+    {
+      "clave": "4885297",
+      "denominacion": "Que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4885297_20250423_1745446900.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4888331",
+      "denominacion": "Con proyecto de decreto que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888331_20250424_1745621504.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4909461",
+      "denominacion": "Con proyecto de decreto que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-06-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4909461_20250627_1751076044.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4909289",
+      "denominacion": "Con proyecto de decreto que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-06-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4909289_20250628_1751154356.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4910338",
+      "denominacion": "Que expide la Ley en materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión.",
+      "estatus": "Publicado en DOF 16/07/2025",
+      "fecha": "2025-07-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4910338_20250701_1751396592.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-06-28"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-06-28"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-06-28"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-07-01"
+    },
+    {
+      "estatus": "Sin turno a comisión(es) - Aprobado en revisora",
+      "fecha": "2025-07-01"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-07-01"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-07-16"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+  "id": "sil-4888343",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-07-16",
+  "seguimiento": "4888343",
+  "sources": [
+    {
+      "archivo": "fuentes/de/de3c1488656e7822acafa23a6056230c89dc958cd123c0ce5ac6540e5d1f1833.html",
+      "consultado": "2026-11-16T16:22:50Z",
+      "sha256": "de3c1488656e7822acafa23a6056230c89dc958cd123c0ce5ac6540e5d1f1833",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4888343&Asunto=4909289"
+    },
+    {
+      "archivo": "fuentes/97/9719e94571069e29a20d6f61a52b7ea847c6ca56a608b7ac4e235409d55c738f.html",
+      "consultado": "2026-11-16T16:22:54Z",
+      "sha256": "9719e94571069e29a20d6f61a52b7ea847c6ca56a608b7ac4e235409d55c738f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909289&Seguimiento=4888343"
+    }
+  ],
+  "tramites": {
+    "4909289": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 30,
+          "yes": 77
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 77 En contra: 30 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ángel García Yáñez (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Waldo Fernández González (PVEM) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Claudia Edith Anaya Mota (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Tabita Ortiz Hernández (MC) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Erik Iván Jaimes Archundia (Sin Partido) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ricardo Anaya Cortés (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Agustín Dorantes Lámbarri (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Gustavo Sánchez Vásquez (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Mely Romero Celis (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Cristina Ruíz Sandoval (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Sandra Simey Olvera Bautista (Morena) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. María Guadalupe Murguía Gutiérrez (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión las reservas presentadas por el Sen. Francisco Ricardo Sheffield Padilla (Morena) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado las reservas presentadas por el Sen. Francisco Ricardo Sheffield Padilla (Morena) a los artículos 185 fracción XII y 273 de la Ley en Materia de Telecomunicaciones y Radiodifusión. La votación de los artículos reservados se realizará con las modificaciones admitidas por la asamblea.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Lizeth Sánchez García (PT) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Enrique Vargas del Villar (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir a discusión las reservas presentadas por el Sen. Javier Corral Jurado (Morena) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado las reservas presentadas por el Sen. Javier Corral Jurado (Morena) a los artículos 10 fracción 53 y Noveno transitorio del dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 29,
+          "yes": 71
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas Los artículos 5, 7, 14, 15, 16, 32, 37, 38, 46, 52, 55, 62, 64, 66, 67, 68, 69, 79, 83, 86, 87, 95, 102, 105, 109, 110, 112, 122, 123, 124, 125, 126, 130, 131, 147, 157, 182, 183, 192, 208, 245, 252, 256 y 296 y de los Transitorios Segundo, Tercero, Cuarto, Octavo y Trigésimo, en los términos del dictamen. Asimismo, de los artículos 10, 185 y 273 y el Transitorio Noveno, con las modificaciones aceptadas. A Favor: 71 En contra: 29 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 16/07/2025",
+  "votaciones": [
+    "sil-4909289-1",
+    "sil-4909289-2"
+  ]
+}

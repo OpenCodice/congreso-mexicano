@@ -1,0 +1,41 @@
+{
+  "asunto": "4999992",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 105
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4765494",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4999992-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Instrumento internacional",
+    "denominacion": "Protocolo de Adhesión del Reino Unido de Gran Bretaña e Irlanda del Norte al Tratado Integral y Progresista de Asociación Transpacífico, hecho en Auckland y Bandar Seri Begawan, el dieciséis de julio de dos mil veintitrés.",
+    "text": "Aprobado en lo general y en lo particular La votación se registró con datos publicados en la Gaceta parlamentaria. A Favor: 105 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f21bfb4dcb44258f56f2bebb96b48f51e1aabb33c805680b9813c510bdc1c088.html",
+      "consultado": "2026-11-16T15:29:00Z",
+      "sha256": "f21bfb4dcb44258f56f2bebb96b48f51e1aabb33c805680b9813c510bdc1c088",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4999992"
+    }
+  ],
+  "start_date": "2025-12-10",
+  "votes": [],
+  "votos_publicados": false
+}

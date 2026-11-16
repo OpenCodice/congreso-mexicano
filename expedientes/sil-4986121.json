@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4982815",
+      "denominacion": "De decreto por el que se declara el 30 de octubre de cada año como el -Día Nacional del Tianguis y el tianguista-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4982815_20251125_1764276948.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4983367",
+      "denominacion": "Que declara el 30 de octubre de cada año, como el -Día Nacional del Tianguis y el Tianguista-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983367_20251126_1764183656.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985197",
+      "denominacion": "Que declara el 30 de octubre de cada año, como el -Día Nacional del Tianguis y el Tianguista-.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985197_20251126_1764183668.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4987322",
+      "denominacion": "Con proyecto de decreto por el que declara el 30 de octubre de cada año, como el Día Nacional del Tianguis y el Tianguista.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987322_20251202_1764696992.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Que declara el 30 de octubre de cada año, como el -Día Nacional del Tianguis y el Tianguista-.",
+  "id": "sil-4986121",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986121",
+  "sources": [
+    {
+      "archivo": "fuentes/3f/3f7f7e13b7f9c7c8bb11bf5310ff986dfa2e6f3e7ff87253f508a3dc26191123.html",
+      "consultado": "2026-11-16T17:21:04Z",
+      "sha256": "3f7f7e13b7f9c7c8bb11bf5310ff986dfa2e6f3e7ff87253f508a3dc26191123",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986121&Asunto=4985197"
+    },
+    {
+      "archivo": "fuentes/12/122cce955b85d5b2917f3d8cf6466303b9dca1c5e329a78e4d506e3cae8b1fff.html",
+      "consultado": "2026-11-16T17:21:08Z",
+      "sha256": "122cce955b85d5b2917f3d8cf6466303b9dca1c5e329a78e4d506e3cae8b1fff",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985197&Seguimiento=4986121"
+    }
+  ],
+  "tramites": {
+    "4985197": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que declara el 30 de octubre de cada año, como el -Día Nacional del Tianguis y el Tianguista-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 418
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 418 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4985197-1"
+  ]
+}

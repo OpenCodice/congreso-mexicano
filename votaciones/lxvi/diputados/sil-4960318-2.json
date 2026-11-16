@@ -1,0 +1,41 @@
+{
+  "asunto": "4960318",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 339
+    },
+    {
+      "option": "no",
+      "value": 100
+    },
+    {
+      "option": "abstain",
+      "value": 4
+    }
+  ],
+  "expediente_id": "sil-4961172",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4960318-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y de las modificaciones aceptadas por la Asamblea. A Favor: 339 En contra: 100 Abstenciones 4"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/2a/2adff702105b1c2d0ab8036ca4a3cc9a4df3fb603797f669a3b7f755849adf6d.html",
+      "consultado": "2026-11-16T17:03:53Z",
+      "sha256": "2adff702105b1c2d0ab8036ca4a3cc9a4df3fb603797f669a3b7f755849adf6d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4960318"
+    }
+  ],
+  "start_date": "2025-10-28",
+  "votes": [],
+  "votos_publicados": false
+}

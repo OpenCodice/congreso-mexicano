@@ -1,0 +1,41 @@
+{
+  "asunto": "5054584",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 43
+    },
+    {
+      "option": "no",
+      "value": 83
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-5054726",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5054584-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos con el objeto de reducir privilegios y fortalecer la revocación de mandato.",
+    "text": "Se rechazó admitir a discusión de las reservas presentadas por el Sen. Raymundo Bolaños Azocar (PAN) al dictamen. A Favor: 43 En contra: 83 Abstenciones 1"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/95/950ff64b1b2692b686eed4b9ff558bfa64816f78c38bd356d45b11454ac0be63.html",
+      "consultado": "2026-11-16T18:09:33Z",
+      "sha256": "950ff64b1b2692b686eed4b9ff558bfa64816f78c38bd356d45b11454ac0be63",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5054584"
+    }
+  ],
+  "start_date": "2026-03-25",
+  "votes": [],
+  "votos_publicados": false
+}

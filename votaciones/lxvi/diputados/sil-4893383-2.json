@@ -1,0 +1,41 @@
+{
+  "asunto": "4893383",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 449
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4894185",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4893383-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; Ley Orgánica de la Administración Pública Federal; Ley de Caminos, Puentes y Autotransporte Federal; Ley de Vías Generales de Comunicación, y Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 449 En contra: 1 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ff/ff4b37cbbcc4bf9bb8ecc34db117db9365a143fce6c122d618c7f1cd1fbf35a8.html",
+      "consultado": "2026-11-16T16:28:50Z",
+      "sha256": "ff4b37cbbcc4bf9bb8ecc34db117db9365a143fce6c122d618c7f1cd1fbf35a8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4893383"
+    }
+  ],
+  "start_date": "2025-04-29",
+  "votes": [],
+  "votos_publicados": false
+}

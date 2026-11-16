@@ -1,0 +1,41 @@
+{
+  "asunto": "5062610",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 87
+    },
+    {
+      "option": "no",
+      "value": 18
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5062782",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5062610-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 87 En contra: 18 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/42/4293d0a6d60f2696e4ade29817da3ef411d0ebbbebe3196373776c0d73a8ef3e.html",
+      "consultado": "2026-11-16T18:12:11Z",
+      "sha256": "4293d0a6d60f2696e4ade29817da3ef411d0ebbbebe3196373776c0d73a8ef3e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5062610"
+    }
+  ],
+  "start_date": "2026-04-08",
+  "votes": [],
+  "votos_publicados": false
+}

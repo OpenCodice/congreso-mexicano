@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4914725",
+      "denominacion": "Nombramiento a favor de Gisele Fernández Ludlow como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Kenya y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante República Unida de Tanzania, República de Uganda, República Democrática del Congo, Unión de Comoras, República de Rwanda, República de Burundi y República de Seychelles, así como Representante Permanente de México ante el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) y el Programa de las Naciones Unidas para los Asentamientos Humanos (ONU-Hábitat).",
+      "estatus": "Toma de protesta 30/07/2025",
+      "fecha": "2025-07-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4914725_20250730_1753887767.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4915322",
+      "denominacion": "Por el que ratifica el nombramiento a favor de Gisele Fernández Ludlow como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Kenya y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante República Unida de Tanzania, República de Uganda, República Democrática del Congo, Unión de Comoras, República de Rwanda, República de Burundi y República de Seychelles, así como Representante Permanente de México ante el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) y el Programa de las Naciones Unidas para los Asentamientos Humanos (ONU-Hábitat).",
+      "estatus": "Toma de protesta 30/07/2025",
+      "fecha": "2025-07-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4915322_20250730_1753897006.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-07-30"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-07-30"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento a favor de Gisele Fernández Ludlow como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Kenya y, en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante República Unida de Tanzania, República de Uganda, República Democrática del Congo, Unión de Comoras, República de Rwanda, República de Burundi y República de Seychelles, así como Representante Permanente de México ante el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) y el Programa de las Naciones Unidas para los Asentamientos Humanos (ONU-Hábitat).",
+  "id": "sil-4915617",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4915617",
+  "sources": [
+    {
+      "archivo": "fuentes/52/5292889b8846c19fa33a528855382b695bf22572a113cbd741cb866a376112bd.html",
+      "consultado": "2026-11-16T16:42:05Z",
+      "sha256": "5292889b8846c19fa33a528855382b695bf22572a113cbd741cb866a376112bd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4915617&Asunto=4915322"
+    },
+    {
+      "archivo": "fuentes/59/590204a2aad24ee9304f9eba3f5ff577aab50615fbdb91c776e5df8df9c4b490.html",
+      "consultado": "2026-11-16T16:42:09Z",
+      "sha256": "590204a2aad24ee9304f9eba3f5ff577aab50615fbdb91c776e5df8df9c4b490",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4915322&Seguimiento=4915617"
+    }
+  ],
+  "tramites": {
+    "4915322": [
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado incorporar al orden del día el dictamen de la Primera Comisión de Trabajo de la Comisión Permanente.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 30
+        },
+        "texto": "Aprobado A Favor: 30 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "se designa comisión de cortesía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 30/07/2025",
+  "votaciones": [
+    "sil-4915322-1"
+  ]
+}

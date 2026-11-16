@@ -1,0 +1,41 @@
+{
+  "asunto": "5050072",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 99
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034965",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5050072-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma los artículos 83 y 84 de la Ley General de Población.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/fa/fa7b382d1ae6dd4dcd5305380f8488e0030b0ceb73e8cb11da352b4f0800d1e0.html",
+      "consultado": "2026-11-16T18:01:02Z",
+      "sha256": "fa7b382d1ae6dd4dcd5305380f8488e0030b0ceb73e8cb11da352b4f0800d1e0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5050072"
+    }
+  ],
+  "start_date": "2026-03-24",
+  "votes": [],
+  "votos_publicados": false
+}

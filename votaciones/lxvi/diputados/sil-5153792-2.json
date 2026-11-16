@@ -1,0 +1,41 @@
+{
+  "asunto": "5153792",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 327
+    },
+    {
+      "option": "no",
+      "value": 122
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5154775",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5153792-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 327 En contra: 122 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/4e/4e9b3cc3ae1ce48ab634e4a8b185407672217e73b93623f76bb7886ef3362cbf.html",
+      "consultado": "2026-11-16T18:41:38Z",
+      "sha256": "4e9b3cc3ae1ce48ab634e4a8b185407672217e73b93623f76bb7886ef3362cbf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5153792"
+    }
+  ],
+  "start_date": "2026-10-06",
+  "votes": [],
+  "votos_publicados": false
+}

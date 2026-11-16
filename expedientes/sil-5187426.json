@@ -1,0 +1,88 @@
+{
+  "asuntos": [
+    {
+      "clave": "4776185",
+      "denominacion": "Que modifica diversas disposiciones de la Ley General de Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
+      "estatus": "Turnado a revisora 11/11/2026",
+      "fecha": "2024-09-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4776185_20240924_1727198383.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5184487",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
+      "estatus": "Turnado a revisora 11/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5184487_20261103_1793744546.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5195094",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
+      "estatus": "Turnado a revisora 11/11/2026",
+      "fecha": "2026-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5195094_20261111_1794422129.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-11"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
+  "id": "sil-5187426",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5187426",
+  "sources": [
+    {
+      "archivo": "fuentes/0e/0eba1c5c877d8d51694db6c2d6f834efc2fc390c0d54ede47cc7d3a9d79d9c97.html",
+      "consultado": "2026-11-16T18:51:58Z",
+      "sha256": "0eba1c5c877d8d51694db6c2d6f834efc2fc390c0d54ede47cc7d3a9d79d9c97",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5187426&Asunto=5195094"
+    },
+    {
+      "archivo": "fuentes/f9/f9c7d33d3a87d360ce241395b2a10ac6fbff66c4b522656f959adb0dfb56b4e5.html",
+      "consultado": "2026-11-16T18:52:01Z",
+      "sha256": "f9c7d33d3a87d360ce241395b2a10ac6fbff66c4b522656f959adb0dfb56b4e5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5195094&Seguimiento=5187426"
+    }
+  ],
+  "tramites": {
+    "5195094": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 96
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 96 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 11/11/2026",
+  "votaciones": [
+    "sil-5195094-1"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4776173",
+      "denominacion": "Que adiciona una fracción XVI al artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2024-09-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4776173_20240924_1727196630.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5042780",
+      "denominacion": "Con proyecto de decreto por el que se reforma el artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042780_20260319_1773943101.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5050048",
+      "denominacion": "Con proyecto de decreto por el que se reforma el artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5050048_20260324_1773943102.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5054994",
+      "denominacion": "Que reforma y adiciona el artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5054994_20260325_1774507241.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-24"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-24"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-24"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se reforma el artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+  "id": "sil-5047900",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5047900",
+  "sources": [
+    {
+      "archivo": "fuentes/b6/b62e963c0b6ac1c7b01f83fafd8d2a789d24d59f761335fae897510a44dae33d.html",
+      "consultado": "2026-11-16T18:04:09Z",
+      "sha256": "b62e963c0b6ac1c7b01f83fafd8d2a789d24d59f761335fae897510a44dae33d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5047900&Asunto=5050048"
+    },
+    {
+      "archivo": "fuentes/a6/a6852a56e0fd113399264e7067f25724a5171eb7931fab148628a7ff75a5c036.html",
+      "consultado": "2026-11-16T18:04:13Z",
+      "sha256": "a6852a56e0fd113399264e7067f25724a5171eb7931fab148628a7ff75a5c036",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5050048&Seguimiento=5047900"
+    }
+  ],
+  "tramites": {
+    "5050048": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 94
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/03/2026",
+  "votaciones": [
+    "sil-5050048-1"
+  ]
+}

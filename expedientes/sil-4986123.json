@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822163",
+      "denominacion": "Que adiciona los artículos 3° y 7° de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822163_20241211_1730829909.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4983373",
+      "denominacion": "Que adiciona los artículos 3 y 7 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983373_20251126_1764174705.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985203",
+      "denominacion": "Que adiciona los artículos 3 y 7 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985203_20251126_1764177791.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4987325",
+      "denominacion": "Con proyecto de decreto por el que adiciona los artículos 3 y 7 de la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987325_20251202_1764697135.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Que adiciona los artículos 3 y 7 de la Ley General de Movilidad y Seguridad Vial.",
+  "id": "sil-4986123",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986123",
+  "sources": [
+    {
+      "archivo": "fuentes/45/450a259e73611105469d82a1844d7b9bbe750194319a8c3f4fd5d4a1f3d4cb7a.html",
+      "consultado": "2026-11-16T17:22:37Z",
+      "sha256": "450a259e73611105469d82a1844d7b9bbe750194319a8c3f4fd5d4a1f3d4cb7a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986123&Asunto=4985203"
+    },
+    {
+      "archivo": "fuentes/fb/fbabf7baee9a9abd82e4d7274554476c59129c972fd5c3fc16e51c7d05b052a8.html",
+      "consultado": "2026-11-16T17:22:41Z",
+      "sha256": "fbabf7baee9a9abd82e4d7274554476c59129c972fd5c3fc16e51c7d05b052a8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985203&Seguimiento=4986123"
+    }
+  ],
+  "tramites": {
+    "4985203": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona los artículos 3 y 7 de la Ley General de Movilidad y Seguridad Vial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 429
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 429 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4985203-1"
+  ]
+}

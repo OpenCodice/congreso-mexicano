@@ -1,0 +1,41 @@
+{
+  "asunto": "4909278",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 69
+    },
+    {
+      "option": "no",
+      "value": 28
+    },
+    {
+      "option": "abstain",
+      "value": 5
+    }
+  ],
+  "expediente_id": "sil-4909273",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4909278-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Por el que reforma, adiciona y deroga diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos no reservados la Ley General de Población y los dos artículos transitorios del proyecto de decreto. A Favor: 69 En contra: 28 Abstenciones 5"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bc/bc2d5bec120b5e16a60668d176f3c2b5a9b1217f138c2a44fbfb410ef48eb6bf.html",
+      "consultado": "2026-11-16T16:41:28Z",
+      "sha256": "bc2d5bec120b5e16a60668d176f3c2b5a9b1217f138c2a44fbfb410ef48eb6bf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4909278"
+    }
+  ],
+  "start_date": "2025-06-27",
+  "votes": [],
+  "votos_publicados": false
+}

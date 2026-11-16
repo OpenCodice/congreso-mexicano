@@ -1,0 +1,41 @@
+{
+  "asunto": "5177675",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 321
+    },
+    {
+      "option": "no",
+      "value": 106
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5150717",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5177675-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 321 En contra: 106 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bd/bd19a75d2805e2db27f05b2b6882e7f8be05c9d26c75eaf8f99a3c797aaa3280.html",
+      "consultado": "2026-11-16T18:40:33Z",
+      "sha256": "bd19a75d2805e2db27f05b2b6882e7f8be05c9d26c75eaf8f99a3c797aaa3280",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5177675"
+    }
+  ],
+  "start_date": "2026-10-27",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4835333",
+      "denominacion": "Que reforma los artículos 101 Bis y 101 Bis 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-02-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4835333_20250213_1739466178.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4981107",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 101 Bis 1 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981107_20251125_1764095448.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987842",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 101 Bis 1 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987842_20251201_1764095451.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995075",
+      "denominacion": "Que reforma el artículo 101 Bis 1 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995075_20251203_1765223452.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma el artículo 101 Bis 1 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+  "id": "sil-4983322",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4983322",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61c3bfd50a2d2b333c6f5b00bdfc533dd3da35153c1f79e022e4aa1dbe199e33.html",
+      "consultado": "2026-11-16T17:19:09Z",
+      "sha256": "61c3bfd50a2d2b333c6f5b00bdfc533dd3da35153c1f79e022e4aa1dbe199e33",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983322&Asunto=4987842"
+    },
+    {
+      "archivo": "fuentes/d2/d25ebb4fcc5e6473323064359a272170ae54f816d40ae947ab1eedd1cd99778a.html",
+      "consultado": "2026-11-16T17:19:13Z",
+      "sha256": "d25ebb4fcc5e6473323064359a272170ae54f816d40ae947ab1eedd1cd99778a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987842&Seguimiento=4983322"
+    }
+  ],
+  "tramites": {
+    "4987842": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general y en lo particular el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 80
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 80 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987842-1"
+  ]
+}

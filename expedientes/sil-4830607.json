@@ -1,0 +1,152 @@
+{
+  "asuntos": [
+    {
+      "clave": "4827305",
+      "denominacion": "Que el Honorable Congreso de la Unión declara al año 2025 como: 2025, Año de la Mujer Indígena.",
+      "estatus": "Publicado en DOF 21/02/2025",
+      "fecha": "2025-01-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4827305_20250108_1736353574.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4810318",
+      "denominacion": "De decreto por el que se declara al año -2025: Aniversario 50 del año Internacional de la Mujer y de la Primera Conferencia Mundial sobre la Mujer-.",
+      "estatus": "Publicado en DOF 21/02/2025",
+      "fecha": "2024-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4810318_20241127_1732651802.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4830438",
+      "denominacion": "Con proyecto de decreto que aprueba la declaratoria de 2025, Año de la Mujer Indígena.",
+      "estatus": "Publicado en DOF 21/02/2025",
+      "fecha": "2025-02-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4830438_20250201_1738431611.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4830512",
+      "denominacion": "Con proyecto de decreto que aprueba la declaratoria de 2025, Año de la Mujer Indígena.",
+      "estatus": "Publicado en DOF 21/02/2025",
+      "fecha": "2025-02-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4830512_20250201_1738463724.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4831022",
+      "denominacion": "Con proyecto de decreto que declara al -2025, Año de la Mujer Indígena-.",
+      "estatus": "Publicado en DOF 21/02/2025",
+      "fecha": "2025-02-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4831022_20250205_1738775580.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4835563",
+      "denominacion": "Con proyecto de decreto que declara al -2025, Año de la Mujer Indígena-",
+      "estatus": "Publicado en DOF 21/02/2025",
+      "fecha": "2025-02-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4835563_20250213_1739458139.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-02-01"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-02-01"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-02-01"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-02-05"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-02-05"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-02-11"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-02-21"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que aprueba la declaratoria de 2025, Año de la Mujer Indígena.",
+  "id": "sil-4830607",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-02-21",
+  "seguimiento": "4830607",
+  "sources": [
+    {
+      "archivo": "fuentes/cd/cde3b9c54f25b33e7357db7423b81e7ed635e101a0a93cfb25b44e542adaff0e.html",
+      "consultado": "2026-11-16T15:56:34Z",
+      "sha256": "cde3b9c54f25b33e7357db7423b81e7ed635e101a0a93cfb25b44e542adaff0e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4830607&Asunto=4830512"
+    },
+    {
+      "archivo": "fuentes/33/33a51b6379b014066de873a192408fc18a40dbb5c023db836e14302bf31a242f.html",
+      "consultado": "2026-11-16T15:56:38Z",
+      "sha256": "33a51b6379b014066de873a192408fc18a40dbb5c023db836e14302bf31a242f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4830512&Seguimiento=4830607"
+    }
+  ],
+  "tramites": {
+    "4830512": [
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 419
+        },
+        "texto": "Aprobado en lo general y en lo particular Con los datos proporcionados en la Gaceta Parlamentaria del 01 de febrero de 2025. A Favor: 419 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 21/02/2025",
+  "votaciones": [
+    "sil-4830512-1"
+  ]
+}

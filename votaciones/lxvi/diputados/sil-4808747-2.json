@@ -1,0 +1,41 @@
+{
+  "asunto": "4808747",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 344
+    },
+    {
+      "option": "no",
+      "value": 114
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4809132",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4808747-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 344 En contra: 114 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/18/184ad8d64a0b8925c6dac4a3a175d07d4314b91673dc499cfb0d8047de143e14.html",
+      "consultado": "2026-11-16T19:39:14Z",
+      "sha256": "184ad8d64a0b8925c6dac4a3a175d07d4314b91673dc499cfb0d8047de143e14",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4808747"
+    }
+  ],
+  "start_date": "2024-11-26",
+  "votes": [],
+  "votos_publicados": false
+}

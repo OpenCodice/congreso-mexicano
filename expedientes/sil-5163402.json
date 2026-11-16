@@ -1,0 +1,118 @@
+{
+  "asuntos": [
+    {
+      "clave": "4995703",
+      "denominacion": "Que reforma y adiciona los artículos 8, 12 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
+      "estatus": "Pendiente en comisión(es) de revisora 27/10/2026",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995703_20251208_1756742688.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5161581",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 8, 12 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
+      "estatus": "Pendiente en comisión(es) de revisora 27/10/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161581_20261013_1791905121.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5168635",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 8, 12 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
+      "estatus": "Pendiente en comisión(es) de revisora 27/10/2026",
+      "fecha": "2026-10-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5168635_20261020_1791905123.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5175988",
+      "denominacion": "Que adiciona los artículos 8, 12 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, en materia de protección de menores en entornos digitales.",
+      "estatus": "Pendiente en comisión(es) de revisora 27/10/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5175988_20261027_1793119491.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-10-27"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona los artículos 8, 12 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
+  "id": "sil-5163402",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5163402",
+  "sources": [
+    {
+      "archivo": "fuentes/80/80746a1bd3aefe593d1b52e2117868a50adcb06b46a13a7aff47cbb0ceb0395a.html",
+      "consultado": "2026-11-16T18:47:54Z",
+      "sha256": "80746a1bd3aefe593d1b52e2117868a50adcb06b46a13a7aff47cbb0ceb0395a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163402&Asunto=5168635"
+    },
+    {
+      "archivo": "fuentes/0e/0e6056aa2680ccfeedc43a24e670dd835c5f246acb1415f78dc64504ec9d6f20.html",
+      "consultado": "2026-11-16T18:47:58Z",
+      "sha256": "0e6056aa2680ccfeedc43a24e670dd835c5f246acb1415f78dc64504ec9d6f20",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5168635&Seguimiento=5163402"
+    }
+  ],
+  "tramites": {
+    "5168635": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 108
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados aprobado por unanimidad. A Favor: 108 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. María Lilly del Carmen Téllez García (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 100
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 100 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 27/10/2026",
+  "votaciones": [
+    "sil-5168635-1",
+    "sil-5168635-2"
+  ]
+}

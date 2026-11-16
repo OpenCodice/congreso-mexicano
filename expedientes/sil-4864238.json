@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4774695",
+      "denominacion": "Que inscribe en letras doradas en el Muro de Honor del Salón de Sesiones del Senado de la República: -2024, Bicentenario de la Federación de Chiapas a México-.",
+      "estatus": "Publicado en DOF 29/04/2025",
+      "fecha": "2024-09-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4774695_20240918_1725383146.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4862625",
+      "denominacion": "Con proyecto de decreto que inscribe en letras doradas, en el Muro del Honor, la leyenda: -14 de septiembre de 1824, en conmemoración de la incorporación del estado de Chiapas-.",
+      "estatus": "Publicado en DOF 29/04/2025",
+      "fecha": "2025-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4862625_20250325_1742912427.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4888141",
+      "denominacion": "Con proyecto de decreto que inscribe en letras doradas, en el Muro del Honor, la leyenda: -14 de septiembre de 1824, en conmemoración de la incorporación del estado de Chiapas-.",
+      "estatus": "Publicado en DOF 29/04/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888141_20250424_1742912429.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-04-24"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que inscribe en letras doradas, en el Muro del Honor, la leyenda: -14 de septiembre de 1824, en conmemoración de la incorporación del estado de Chiapas-.",
+  "id": "sil-4864238",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-29",
+  "seguimiento": "4864238",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6eb9fecbbb6b8c72e25d2a4ba295f1acdf75435e78113e09b91d3b9f468b588f.html",
+      "consultado": "2026-11-16T16:10:23Z",
+      "sha256": "6eb9fecbbb6b8c72e25d2a4ba295f1acdf75435e78113e09b91d3b9f468b588f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4864238&Asunto=4888141"
+    },
+    {
+      "archivo": "fuentes/46/464e5876a65d31989095ea8ea3b281554c721436fcd2e295ef51cd358d0c811b.html",
+      "consultado": "2026-11-16T16:10:27Z",
+      "sha256": "464e5876a65d31989095ea8ea3b281554c721436fcd2e295ef51cd358d0c811b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4888141&Seguimiento=4864238"
+    }
+  ],
+  "tramites": {
+    "4888141": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 2,
+          "no": 0,
+          "yes": 80
+        },
+        "texto": "Aprobado en lo general y en lo particular A favor solo para registro en el Diario de los Debates: Sen. Alberto Anaya Gutiérrez (PT), Sen. Geovanna del Carmen Bañuelos de la Torre (PT) y Sen. Lilia Margarita Valdez Martínez (Morena). A Favor: 80 En contra: 0 Abstenciones 2",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/04/2025",
+  "votaciones": [
+    "sil-4888141-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5027298",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 96
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5022773",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5027298-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto por el que declara el 6 de octubre de cada año como el -Día Nacional de los Propóleos Mexicanos-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 96 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abfc5e9788f8997e0f56b1a17dee6fceb9e5257c6dcaf03649f5ae91a82d4d5a.html",
+      "consultado": "2026-11-16T17:45:59Z",
+      "sha256": "abfc5e9788f8997e0f56b1a17dee6fceb9e5257c6dcaf03649f5ae91a82d4d5a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5027298"
+    }
+  ],
+  "start_date": "2026-03-03",
+  "votes": [],
+  "votos_publicados": false
+}

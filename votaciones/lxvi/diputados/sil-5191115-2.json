@@ -1,0 +1,41 @@
+{
+  "asunto": "5191115",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 352
+    },
+    {
+      "option": "no",
+      "value": 130
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5191165",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5191115-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen con proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027. A Favor: 352 En contra: 130 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/88/88dc550afe6a5991f02b2e785a256a0824ab370b77349d5dbdb939467ada8048.html",
+      "consultado": "2026-11-16T18:53:27Z",
+      "sha256": "88dc550afe6a5991f02b2e785a256a0824ab370b77349d5dbdb939467ada8048",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5191115"
+    }
+  ],
+  "start_date": "2026-11-09",
+  "votes": [],
+  "votos_publicados": false
+}

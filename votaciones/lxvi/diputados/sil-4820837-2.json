@@ -1,0 +1,41 @@
+{
+  "asunto": "4820837",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 326
+    },
+    {
+      "option": "no",
+      "value": 120
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4817560",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4820837-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 326 En contra: 120 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/8b/8b14c04eadee3596c39401c50b1ce7f7737034c967a42e36919b354b76b78402.html",
+      "consultado": "2026-11-16T19:42:20Z",
+      "sha256": "8b14c04eadee3596c39401c50b1ce7f7737034c967a42e36919b354b76b78402",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4820837"
+    }
+  ],
+  "start_date": "2024-12-10",
+  "votes": [],
+  "votos_publicados": false
+}

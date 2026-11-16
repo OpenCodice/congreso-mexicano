@@ -1,0 +1,41 @@
+{
+  "asunto": "4847530",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 432
+    },
+    {
+      "option": "no",
+      "value": 28
+    },
+    {
+      "option": "abstain",
+      "value": 4
+    }
+  ],
+  "expediente_id": "sil-4840133",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4847530-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados Es mayoría calificada. A Favor: 432 En contra: 28 Abstenciones 4"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/8c/8c1a11c82379f8a095b23750093543199940073fbbd186e9487467a791cb1dc6.html",
+      "consultado": "2026-11-16T19:43:03Z",
+      "sha256": "8c1a11c82379f8a095b23750093543199940073fbbd186e9487467a791cb1dc6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4847530"
+    }
+  ],
+  "start_date": "2025-03-04",
+  "votes": [],
+  "votos_publicados": false
+}

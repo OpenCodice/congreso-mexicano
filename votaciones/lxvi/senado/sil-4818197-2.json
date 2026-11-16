@@ -1,0 +1,41 @@
+{
+  "asunto": "4818197",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 102
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4818779",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4818197-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversos artículos del Reglamento del Senado de la República, en materia de reunión de comisiones y votos particulares.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados artículos 139, 186 y 209 y la adición al artículo 76, con las modificaciones admitidas por la asamblea y, el acuerdo para modificar el dictamen en términos del lenguaje inclusivo. A Favor: 102 En contra: 1 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/20/203aa185f55a0434b0dffc6f8fde7510a50001c82c5f545bdfb6b5be402e984d.html",
+      "consultado": "2026-11-16T15:50:14Z",
+      "sha256": "203aa185f55a0434b0dffc6f8fde7510a50001c82c5f545bdfb6b5be402e984d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4818197"
+    }
+  ],
+  "start_date": "2024-12-05",
+  "votes": [],
+  "votos_publicados": false
+}

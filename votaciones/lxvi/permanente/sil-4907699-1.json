@@ -1,0 +1,41 @@
+{
+  "asunto": "4907699",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 32
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4908437",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907699-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido a favor del ciudadano Julián Adem Díaz de León, como Cónsul General de México en Vancouver, Columbia Británica, Canadá.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 32 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/38/38de66dbf58e0605205a08048c14d5f5c862dd66b7e61447a94e8184a0b259a3.html",
+      "consultado": "2026-11-16T16:41:08Z",
+      "sha256": "38de66dbf58e0605205a08048c14d5f5c862dd66b7e61447a94e8184a0b259a3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907699"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

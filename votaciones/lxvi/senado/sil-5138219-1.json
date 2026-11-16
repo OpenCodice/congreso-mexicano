@@ -1,0 +1,41 @@
+{
+  "asunto": "5138219",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 105
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5088526",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5138219-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto por el que declara el 28 de mayo de cada año como el -Día Nacional de la concientización del Síndrome Treacher Collins-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 105 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/92/9215c3300352f083a4c870be292515360db03e5c88d8769e7b9131036b003b60.html",
+      "consultado": "2026-11-16T18:25:01Z",
+      "sha256": "9215c3300352f083a4c870be292515360db03e5c88d8769e7b9131036b003b60",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5138219"
+    }
+  ],
+  "start_date": "2026-09-22",
+  "votes": [],
+  "votos_publicados": false
+}

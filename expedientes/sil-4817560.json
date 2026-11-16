@@ -1,0 +1,212 @@
+{
+  "asuntos": [
+    {
+      "clave": "4805970",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 02/01/2025",
+      "fecha": "2024-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4805970_20241120_1732207522.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4817191",
+      "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 02/01/2025",
+      "fecha": "2024-12-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4817191_20241204_1733349056.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4818192",
+      "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 02/01/2025",
+      "fecha": "2024-12-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4818192_20241205_1733349057.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4820296",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 02/01/2025",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4820296_20241210_1733846099.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4820311",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 02/01/2025",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4820311_20241210_1733852493.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4820837",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 02/01/2025",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4820837_20241210_1733853815.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2024-12-05"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2024-12-05"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2024-12-05"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2024-12-09"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-01-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+  "id": "sil-4817560",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-01-02",
+  "seguimiento": "4817560",
+  "sources": [
+    {
+      "archivo": "fuentes/38/38337c143ffb15f5888e7a55571ad3da0133f0c36a98f0b27aeb3776a0a7bea1.html",
+      "consultado": "2026-11-16T15:49:40Z",
+      "sha256": "38337c143ffb15f5888e7a55571ad3da0133f0c36a98f0b27aeb3776a0a7bea1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4817560&Asunto=4818192"
+    },
+    {
+      "archivo": "fuentes/e9/e9fbcdec4d76ae910ef9656598443bb973b22a8343eacf6eac24bf336309dc38.html",
+      "consultado": "2026-11-16T15:49:44Z",
+      "sha256": "e9fbcdec4d76ae910ef9656598443bb973b22a8343eacf6eac24bf336309dc38",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4818192&Seguimiento=4817560"
+    }
+  ],
+  "tramites": {
+    "4818192": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para dar cuenta que la fundamentación, la exposición de votos particulares y de los posicionamientos de los grupos parlamentarios con relación al dictamen se realizaron en la presentación inicial del primer dictamen de las comisiones Unidas de Justicia y, de Estudios Legislativos, relativos a las reformas a las leyes secundarias en materia judicial.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 31,
+          "yes": 77
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 77 En contra: 31 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 9, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 28,
+          "yes": 74
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados 9 y 148 en términos del dictamen. A Favor: 74 En contra: 28 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "4820837": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa a la Asamblea que por acuerdo de los grupos parlamentarios se fundamentarán los tres dictámenes de la Comisión de Justicia en conjunto y se abordará su votación y aprobación por separado.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 126,
+          "yes": 328
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 328 En contra: 126 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 120,
+          "yes": 326
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 326 En contra: 120 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 02/01/2025",
+  "votaciones": [
+    "sil-4818192-1",
+    "sil-4818192-2",
+    "sil-4820837-1",
+    "sil-4820837-2"
+  ]
+}

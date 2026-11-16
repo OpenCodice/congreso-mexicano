@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4788873",
+      "denominacion": "Que reforma la fracción II del artículo 3, deroga el artículo 10, y modifica la fracción IV del artículo 84 de la Ley General de Población.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2024-10-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4788873_20241022_1729615629.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4981110",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción II del artículo 3º, deroga el artículo 10 y reforma la fracción IV del artículo 84 de la Ley General de Población.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981110_20251125_1764095505.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987846",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción II del artículo 3º, deroga el artículo 10 y reforma la fracción IV del artículo 84 de la Ley General de Población.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987846_20251201_1764095508.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995059",
+      "denominacion": "Por el que reforma y deroga diversas disposiciones de la Ley General de Población.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995059_20251203_1765223300.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma la fracción II del artículo 3º, deroga el artículo 10 y reforma la fracción IV del artículo 84 de la Ley General de Población.",
+  "id": "sil-4986129",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986129",
+  "sources": [
+    {
+      "archivo": "fuentes/14/14f97fdd5d65ea38ca65d28d43caf734fc1087c46a2450163615e4f5e0868e6b.html",
+      "consultado": "2026-11-16T17:24:58Z",
+      "sha256": "14f97fdd5d65ea38ca65d28d43caf734fc1087c46a2450163615e4f5e0868e6b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986129&Asunto=4987846"
+    },
+    {
+      "archivo": "fuentes/b5/b5baf3e0cdb7d749fb2fa50a49e1dc502f3bf354e412965831e6d22c750f87ed.html",
+      "consultado": "2026-11-16T17:25:02Z",
+      "sha256": "b5baf3e0cdb7d749fb2fa50a49e1dc502f3bf354e412965831e6d22c750f87ed",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987846&Seguimiento=4986129"
+    }
+  ],
+  "tramites": {
+    "4987846": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987846-1"
+  ]
+}

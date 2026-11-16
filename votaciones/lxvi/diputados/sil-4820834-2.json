@@ -1,0 +1,41 @@
+{
+  "asunto": "4820834",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 333
+    },
+    {
+      "option": "no",
+      "value": 119
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4817559",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4820834-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley de Carrera Judicial del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 333 En contra: 119 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c1/c1ce9f29f76d3f33aa790463b476768efd0c377010744cdf9058430254bb6c86.html",
+      "consultado": "2026-11-16T19:41:59Z",
+      "sha256": "c1ce9f29f76d3f33aa790463b476768efd0c377010744cdf9058430254bb6c86",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4820834"
+    }
+  ],
+  "start_date": "2024-12-10",
+  "votes": [],
+  "votos_publicados": false
+}

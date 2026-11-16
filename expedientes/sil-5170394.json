@@ -1,0 +1,170 @@
+{
+  "asuntos": [
+    {
+      "clave": "5092082",
+      "denominacion": "Que reforma y adiciona diversas disposiciones del Código Nacional de Procedimientos Civiles y Familiares.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/10/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5092082_20260429_1780948074.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5127502",
+      "denominacion": "Que reforma y adiciona diversas disposiciones transitorias al Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el DOF el 7 de junio de 2023.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/10/2026",
+      "fecha": "2026-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5127502_20260909_1788993339.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5136805",
+      "denominacion": "Que expide la Ley General de Garantía de la Transición al Código Nacional de Procedimientos Civiles y Familiares.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/10/2026",
+      "fecha": "2026-09-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5136805_20260921_1789773571.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5166298",
+      "denominacion": "Que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el 7 de junio de 2023.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/10/2026",
+      "fecha": "2026-10-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5166298_20261020_1792512234.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5169009",
+      "denominacion": "Que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el 7 de junio de 2023.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/10/2026",
+      "fecha": "2026-10-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5169009_20261020_1792525346.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5170657",
+      "denominacion": "Que reforma y adiciona diversas disposiciones transitorias del decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el 7 de julio de 2023.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/10/2026",
+      "fecha": "2026-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5170657_20261021_1792594570.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-10-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-10-21"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el 7 de junio de 2023.",
+  "id": "sil-5170394",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5170394",
+  "sources": [
+    {
+      "archivo": "fuentes/3e/3e1fa627b896fb1c02a8975440b96218cf47b139fcd80fc51764bc1704a72330.html",
+      "consultado": "2026-11-16T18:49:54Z",
+      "sha256": "3e1fa627b896fb1c02a8975440b96218cf47b139fcd80fc51764bc1704a72330",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5170394&Asunto=5169009"
+    },
+    {
+      "archivo": "fuentes/0f/0f164ad07d5ffd228dd8340ed0e6bf2df4667f4985424ddd7043f8ea23c6ae8e.html",
+      "consultado": "2026-11-16T18:49:58Z",
+      "sha256": "0f164ad07d5ffd228dd8340ed0e6bf2df4667f4985424ddd7043f8ea23c6ae8e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5169009&Seguimiento=5170394"
+    }
+  ],
+  "tramites": {
+    "5169009": [
+      {
+        "texto": "La presidencia de la Mesa Directiva da cuenta a la Asamblea de la discusión y votación del dictamen con proyecto de decreto que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el 7 de junio de 2023.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Segundo, Sexto, Séptimo, Décimo Primero, Décimo Cuarto, Décimo Quinto, Décimo Séptimo y al artículo Único Transitorio del proyecto de decreto.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 57,
+          "yes": 363
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados En la sesión del 13 de octubre de 2026 el Dip. Mario Calzada Mercado informa de su separación del Grupo Parlamentario del PRI y de su incorporación al Grupo Parlamentario de MC. A Favor: 363 En contra: 57 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado para admitir a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Avila (Morena) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para aceptar la propuesta de modificación presentada por el Dip. Ricardo Monreal Avila (Morena) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Ana Erika Santana González (PVEM) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) y el Dip. José Elías Lixa Abimerhi (PAN) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Olga María del Carmen Sánchez Cordero Dávila (Morena) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 2,
+          "no": 60,
+          "yes": 367
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas En la sesión del 13 de octubre de 2026 el Dip. Mario Calzada Mercado informa de su separación del Grupo Parlamentario del PRI y de su incorporación al Grupo Parlamentario de MC. A Favor: 367 En contra: 60 Abstenciones 2",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/10/2026",
+  "votaciones": [
+    "sil-5169009-1",
+    "sil-5169009-2"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "4804801",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 332
+    },
+    {
+      "option": "no",
+      "value": 119
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4798659",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4804801-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 332 En contra: 119 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/b0/b0000de2e9ab955914a685a922a4de74a88881b869ea04c63a9925cf73c63833.html",
+      "consultado": "2026-11-16T19:37:12Z",
+      "sha256": "b0000de2e9ab955914a685a922a4de74a88881b869ea04c63a9925cf73c63833",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4804801"
+    }
+  ],
+  "start_date": "2024-11-20",
+  "votes": [],
+  "votos_publicados": false
+}

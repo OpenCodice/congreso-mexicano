@@ -1,0 +1,41 @@
+{
+  "asunto": "5173272",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 281
+    },
+    {
+      "option": "no",
+      "value": 87
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5143322",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5173272-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones del Código Penal Federal y de la Ley Federal de Protección a la Propiedad Industrial.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados En la sesión del 13 de octubre de 2026 el Dip. Mario Calzada Mercado informa de su separación del Grupo Parlamentario del PRI y de su incorporación al Grupo Parlamentario de MC. A Favor: 281 En contra: 87 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/b3/b39cd3b6fd5594ad15c1a2d7218e0a93408a288dcaab6c4b24384033692937d2.html",
+      "consultado": "2026-11-16T18:38:48Z",
+      "sha256": "b39cd3b6fd5594ad15c1a2d7218e0a93408a288dcaab6c4b24384033692937d2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5173272"
+    }
+  ],
+  "start_date": "2026-10-21",
+  "votes": [],
+  "votos_publicados": false
+}

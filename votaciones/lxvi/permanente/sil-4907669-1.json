@@ -1,0 +1,41 @@
+{
+  "asunto": "4907669",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4908421",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907669-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido a favor del ciudadano Roberto Canseco Martínez, como Embajador Extraordinario Plenipotenciario de México en Jamaica, y en forma concurrente, sujeto a la recepción del beneplácito correspondiente, ante la mancomunidad de las Bahamas, así como Representante Permanente de México ante la autoridad internacional de los Fondos Marinos, con sede en Kingston, Jamaica.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 33 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/33/33826d6e347d45a8886e237cfae8adec925eee6485f966abf448fc181b691a7c.html",
+      "consultado": "2026-11-16T16:36:59Z",
+      "sha256": "33826d6e347d45a8886e237cfae8adec925eee6485f966abf448fc181b691a7c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907669"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,136 @@
+{
+  "asuntos": [
+    {
+      "clave": "4936396",
+      "denominacion": "Que adiciona el artículo 52 de la Ley de Migración.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4936396_20250930_1759778521.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4936306",
+      "denominacion": "Que reforma el artículo 2° de la Ley de Migración, en materia de derecho de mexicanos en retorno al acceso a la información permanente, clara, oportuna y accesible.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-09-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4936306_20250930_1758904123.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4973335",
+      "denominacion": "Que reforma el artículo 52 fracción IV y se adiciona un segundo párrafo de la Ley de Migración.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4973335_20251112_1761076806.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086680",
+      "denominacion": "Que reforma y adiciona los artículos 18 y 52 de la Ley de Migración.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086680_20260429_1777482713.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088443",
+      "denominacion": "Que reforma y adiciona los artículos 18 y 52 de la Ley de Migración para habilitar el ejercicio de la Tarjeta de Visitante Trabajador Fronterizo a nivel nacional.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088443_20260429_1777488956.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120792",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona el artículo 52 de la Ley de Migración.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120792_20260902_1790628383.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 18 y 52 de la Ley de Migración para habilitar el ejercicio de la Tarjeta de Visitante Trabajador Fronterizo a nivel nacional.",
+  "id": "sil-5090376",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090376",
+  "sources": [
+    {
+      "archivo": "fuentes/bf/bf48db6d6707d883787a7134ac5a2c2c0446a1d15e4d7d269126af8c3a18a6cf.html",
+      "consultado": "2026-11-16T18:27:50Z",
+      "sha256": "bf48db6d6707d883787a7134ac5a2c2c0446a1d15e4d7d269126af8c3a18a6cf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090376&Asunto=5088443"
+    },
+    {
+      "archivo": "fuentes/7c/7c141d77da6ae336d334d4d741db7971c153f4ccf9103ea633f1d3230321b2dd.html",
+      "consultado": "2026-11-16T18:27:54Z",
+      "sha256": "7c141d77da6ae336d334d4d741db7971c153f4ccf9103ea633f1d3230321b2dd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088443&Seguimiento=5090376"
+    }
+  ],
+  "tramites": {
+    "5088443": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Asuntos Migratorios, que reforma y adiciona los artículos 18 y 52 de la Ley de Migración.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Se dio lectura a la modificación propuesta por la Comisión de Asuntos Migratorios.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva formulada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado si la modificación se encuentra suficientemente discutida.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado si se acepta la propuesta de modificación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 457
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 457 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088443-1"
+  ]
+}

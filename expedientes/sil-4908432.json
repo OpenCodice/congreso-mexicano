@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4905759",
+      "denominacion": "Con el que remite de la titular del Ejecutivo Federal, Claudia Sheinbaum Pardo, los siguientes nombramientos en favor de personal diplomático.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905759_20250620_1750434943.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4907690",
+      "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Neftali Said Pérez González, como Cónsul General de México en San José, California, Estados Unidos de América.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907690_20250625_1750867457.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-06-24"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-06-25"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Neftali Said Pérez González, como Cónsul General de México en San José, California, Estados Unidos de América.",
+  "id": "sil-4908432",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4908432",
+  "sources": [
+    {
+      "archivo": "fuentes/fa/faaeb8908d9af0a4b2b7e9b41cd714b76c223dfcb33bbfb43e91034ebc4382af.html",
+      "consultado": "2026-11-16T16:40:04Z",
+      "sha256": "faaeb8908d9af0a4b2b7e9b41cd714b76c223dfcb33bbfb43e91034ebc4382af",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908432&Asunto=4907690"
+    },
+    {
+      "archivo": "fuentes/a8/a8e130d6bd0667faa0e2debef1f73f46cd4688b79adeee5af76d6a65a5ff99d0.html",
+      "consultado": "2026-11-16T16:40:08Z",
+      "sha256": "a8e130d6bd0667faa0e2debef1f73f46cd4688b79adeee5af76d6a65a5ff99d0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907690&Seguimiento=4908432"
+    }
+  ],
+  "tramites": {
+    "4907690": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 7,
+          "yes": 24
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 24 En contra: 7 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Neftali Said Pérez González, como Cónsul General de México en San José, California, Estados Unidos de América.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
+  "votaciones": [
+    "sil-4907690-1"
+  ]
+}

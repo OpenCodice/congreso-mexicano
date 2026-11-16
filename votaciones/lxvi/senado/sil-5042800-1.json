@@ -1,0 +1,41 @@
+{
+  "asunto": "5042800",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 75
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034963",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5042800-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma la fracción VI del artículo 12 de la Ley General de Cultura y Derechos Culturales.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 75 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/e1/e189a55d974e47fa29ecf27679373634dcbb8f14f5c65ad560d062d36b67bd21.html",
+      "consultado": "2026-11-16T18:00:25Z",
+      "sha256": "e189a55d974e47fa29ecf27679373634dcbb8f14f5c65ad560d062d36b67bd21",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5042800"
+    }
+  ],
+  "start_date": "2026-03-19",
+  "votes": [],
+  "votos_publicados": false
+}

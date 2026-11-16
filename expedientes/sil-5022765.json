@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4865534",
+      "denominacion": "Que reforma el artículo 7 y la fracción X del artículo 14 y adiciona la fracción V bis al artículo 1; el artículo 3 bis; el artículo 9 bis y 9 ter; el artículo 12 bis; las fracciones XIII.1 y XIII.1 y XIII.2 al artículo 14 y el segundo párrafo al artículo 15 de la Ley General de Bibliotecas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2025-03-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4865534_20250326_1742403591.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4905826",
+      "denominacion": "Que adiciona un segundo párrafo al artículo 7 de la Ley General de Bibliotecas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905826_20250620_1749652568.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020220",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Bibliotecas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020220_20260224_1771951395.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5023240",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Bibliotecas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-02-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5023240_20260225_1771951396.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5026221",
+      "denominacion": "Que reforma y adiciona la Ley General de Bibliotecas, en materia de acervos en lenguas indígenas.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026221_20260303_1772570418.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Bibliotecas.",
+  "id": "sil-5022765",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022765",
+  "sources": [
+    {
+      "archivo": "fuentes/31/31ca8a37d33b50ec00f35529c598aff7b55430483ce3fe48d26b852f28e60a9a.html",
+      "consultado": "2026-11-16T17:45:02Z",
+      "sha256": "31ca8a37d33b50ec00f35529c598aff7b55430483ce3fe48d26b852f28e60a9a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022765&Asunto=5023240"
+    },
+    {
+      "archivo": "fuentes/bf/bf6cfedad0a17fe7d8f0183ba75647bef7793f0f8f6d1169fbb8c90f07202843.html",
+      "consultado": "2026-11-16T17:45:05Z",
+      "sha256": "bf6cfedad0a17fe7d8f0183ba75647bef7793f0f8f6d1169fbb8c90f07202843",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5023240&Seguimiento=5022765"
+    }
+  ],
+  "tramites": {
+    "5023240": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular En la votación publicada de registran 2 votos a favor fuera del sistema del Sen. Juan Carlos Loera De La Rosa (Morena) y del Sen. Higinio Martínez Miranda (Morena). A Favor: 89 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/03/2026",
+  "votaciones": [
+    "sil-5023240-1"
+  ]
+}

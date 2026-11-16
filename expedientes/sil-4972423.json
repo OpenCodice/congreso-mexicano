@@ -1,0 +1,140 @@
+{
+  "asuntos": [
+    {
+      "clave": "4896237",
+      "denominacion": "De Decreto por el que se declara el 4 de noviembre como el -Día Nacional de la Mujer Afromexicana-.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4896237_20250430_1747412546.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971198",
+      "denominacion": "Que declara el 4 de noviembre de cada año como el -Día Nacional de las Mujeres Afromexicanas-.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971198_20251111_1762880821.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971434",
+      "denominacion": "Que declara el 4 de noviembre de cada año, como el -Día Nacional de las Mujeres Afromexicanas-.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971434_20251111_1762887026.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975630",
+      "denominacion": "Con proyecto de decreto por el que declara el 4 de noviembre de cada año, como el -Día Nacional de las Mujeres Afromexicanas-.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975630_20251119_1763572765.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5088514",
+      "denominacion": "Con proyecto de decreto por el que declara el 4 de noviembre de cada año como el -Día Nacional de las Mujeres Afromexicanas-.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088514_20260429_1777485421.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5126364",
+      "denominacion": "Por el que se declara el 4 de noviembre de cada año como el -Día Nacional de las Mujeres Afromexicanas-.",
+      "estatus": "Publicado en DOF 04/11/2026",
+      "fecha": "2026-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5126364_20260909_1788973975.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-09-09"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-09-09"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-09-09"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-04"
+    }
+  ],
+  "denominacion": "Por el que se declara el 4 de noviembre de cada año como el -Día Nacional de las Mujeres Afromexicanas-.",
+  "id": "sil-4972423",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-04",
+  "seguimiento": "4972423",
+  "sources": [
+    {
+      "archivo": "fuentes/f8/f8a0f49eb6ba627960db59745891c1222def273ed5426c83ad4e4d10b39b78bd.html",
+      "consultado": "2026-11-16T17:08:25Z",
+      "sha256": "f8a0f49eb6ba627960db59745891c1222def273ed5426c83ad4e4d10b39b78bd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972423&Asunto=5126364"
+    },
+    {
+      "archivo": "fuentes/48/485a84fbb7e6c9e1a71e7072fcd3eed5bd716b400d3bff847e14aa307c6afc97.html",
+      "consultado": "2026-11-16T17:08:29Z",
+      "sha256": "485a84fbb7e6c9e1a71e7072fcd3eed5bd716b400d3bff847e14aa307c6afc97",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5126364&Seguimiento=4972423"
+    }
+  ],
+  "tramites": {
+    "4971434": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Gobernación y Población que declara el 4 de noviembre de cada año, como el -Día Nacional de las Mujeres Afromexicanas-.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que declara el 4 de noviembre de cada año, como el -Día Nacional de las Mujeres Afromexicanas-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 443
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 443 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5126364": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 04/11/2026",
+  "votaciones": [
+    "sil-4971434-1",
+    "sil-5126364-1"
+  ]
+}

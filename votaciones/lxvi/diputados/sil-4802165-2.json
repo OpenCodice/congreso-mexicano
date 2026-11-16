@@ -1,0 +1,41 @@
+{
+  "asunto": "4802165",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 431
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4802003",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4802165-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados el segundo bloque conformado por el artículo 42 Bis, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal. A Favor: 431 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/0a/0a90fafdb7c5b0e9e0da121d8eb2c1cc0fbc876585cec157c2c8e7ceb6e83bf3.html",
+      "consultado": "2026-11-16T19:38:14Z",
+      "sha256": "0a90fafdb7c5b0e9e0da121d8eb2c1cc0fbc876585cec157c2c8e7ceb6e83bf3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4802165"
+    }
+  ],
+  "start_date": "2024-11-13",
+  "votes": [],
+  "votos_publicados": false
+}

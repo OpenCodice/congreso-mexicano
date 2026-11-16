@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4892721",
+      "denominacion": "Que reforma el artículo 5° y adiciona un artículo 20 Septies a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de inteligencia artificial generativa.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4892721_20250429_1745435703.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016118",
+      "denominacion": "Que adiciona un quinto párrafo al artículo 20 Quáter a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias en materia de inteligencia artificial generativa.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016118_20260217_1771349621.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016207",
+      "denominacion": "Que adiciona un quinto párrafo al artículo 20 Quáter a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias en materia de inteligencia artificial generativa.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016207_20260217_1771350948.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017170",
+      "denominacion": "Con proyecto de decreto por el que adiciona un quinto párrafo al artículo 20 Quáter a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, en materia de inteligencia artificial generativa.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017170_20260218_1771436106.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que adiciona un quinto párrafo al artículo 20 Quáter a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias en materia de inteligencia artificial generativa.",
+  "id": "sil-5017045",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017045",
+  "sources": [
+    {
+      "archivo": "fuentes/95/959887895dbcd27a5fde2f8770ea29d0d3953a2cd5aee02f912f6c96d3b7e993.html",
+      "consultado": "2026-11-16T17:41:16Z",
+      "sha256": "959887895dbcd27a5fde2f8770ea29d0d3953a2cd5aee02f912f6c96d3b7e993",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017045&Asunto=5016207"
+    },
+    {
+      "archivo": "fuentes/dc/dceb4d31bc5881f5af702d9d432040f1570fb85587044ef39fc781d8d633fe1e.html",
+      "consultado": "2026-11-16T17:41:19Z",
+      "sha256": "dceb4d31bc5881f5af702d9d432040f1570fb85587044ef39fc781d8d633fe1e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016207&Seguimiento=5017045"
+    }
+  ],
+  "tramites": {
+    "5016207": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona un quinto párrafo al artículo 20 Quáter a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 442
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 442 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016207-1"
+  ]
+}

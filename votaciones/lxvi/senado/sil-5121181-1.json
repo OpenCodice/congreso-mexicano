@@ -1,0 +1,41 @@
+{
+  "asunto": "5121181",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 104
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5122182",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5121181-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que se ratifica el nombramiento que la ciudadana Presidenta de la República hace a favor de la ciudadana Cristina Planter Riebeling, como Subsecretaria para América del Norte de la Secretaría de Relaciones Exteriores.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/3d/3d4464ad31ad8ed7396873e381c61d6c149fd00b61341e17f2cc61ca37ce7b40.html",
+      "consultado": "2026-11-16T18:36:59Z",
+      "sha256": "3d4464ad31ad8ed7396873e381c61d6c149fd00b61341e17f2cc61ca37ce7b40",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5121181"
+    }
+  ],
+  "start_date": "2026-09-02",
+  "votes": [],
+  "votos_publicados": false
+}

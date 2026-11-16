@@ -1,0 +1,41 @@
+{
+  "asunto": "5061495",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 89
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5059218",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5061495-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Para autorizar salida/entrada de fuerzas armadas",
+    "denominacion": "Relativo a la solicitud de autorización para que la titular del Ejecutivo Federal permita la salida de los límites del país a los 332 elementos que integran la tripulación a bordo del Buque Escuela ARM -Cuauhtémoc- (BE-01) para que participen en el crucero de instrucción -Pacífico Norte 2026- del 15 de julio al 15 de octubre de 2026.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 89 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/7f/7fe5da30f35536641855600b76c20c890a86496bec5a03426cbaea21bab5f9cb.html",
+      "consultado": "2026-11-16T18:11:52Z",
+      "sha256": "7fe5da30f35536641855600b76c20c890a86496bec5a03426cbaea21bab5f9cb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5061495"
+    }
+  ],
+  "start_date": "2026-04-08",
+  "votes": [],
+  "votos_publicados": false
+}

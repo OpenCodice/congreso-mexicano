@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4983022",
+      "denominacion": "Que reforma los artículos 260 y 266 Bis del Código Penal Federal.",
+      "estatus": "Publicado en DOF 13/03/2026",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983022_20251125_1764097850.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4998436",
+      "denominacion": "Que reforma los artículos 260 y 266 Bis del Código Penal Federal.",
+      "estatus": "Publicado en DOF 13/03/2026",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4998436_20251209_1765316632.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4999140",
+      "denominacion": "Que reforma los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.",
+      "estatus": "Publicado en DOF 13/03/2026",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999140_20251210_1765390262.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5018399",
+      "denominacion": "Que reforma los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.",
+      "estatus": "Publicado en DOF 13/03/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5018399_20260218_1771436223.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5017130",
+      "denominacion": "Que reforma los artículos 260 y 266 Bis del Código Penal Federal en materia de abuso sexual.",
+      "estatus": "Publicado en DOF 13/03/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017130_20260218_1771436250.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-03-13"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 260 y 266 Bis del Código Penal Federal en materia de abuso sexual.",
+  "id": "sil-5000552",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-03-13",
+  "seguimiento": "5000552",
+  "sources": [
+    {
+      "archivo": "fuentes/dc/dca37ce07a038ab237ff6cdd8f6ac9f085cac4e71baeab67fe7481487e1e5dea.html",
+      "consultado": "2026-11-16T17:34:11Z",
+      "sha256": "dca37ce07a038ab237ff6cdd8f6ac9f085cac4e71baeab67fe7481487e1e5dea",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5000552&Asunto=5017130"
+    },
+    {
+      "archivo": "fuentes/d4/d46ba54987b702fd124d8116738fd8b08b3abef97964697a4c46b7c259b07465.html",
+      "consultado": "2026-11-16T17:34:15Z",
+      "sha256": "d46ba54987b702fd124d8116738fd8b08b3abef97964697a4c46b7c259b07465",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5017130&Seguimiento=5000552"
+    }
+  ],
+  "tramites": {
+    "5017130": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de las comisiones Unidas de Justicia y de Igualdad de Género a la minuta con proyecto de decreto por el que reforma los artículos 260 y 266 Bis del Código Penal Federal, en materia de abuso sexual.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido el dictamen que reforma los artículos 260 y 266 Bis del Código Penal Federal en materia de abuso sexual.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 431
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 431 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 13/03/2026",
+  "votaciones": [
+    "sil-5017130-1"
+  ]
+}

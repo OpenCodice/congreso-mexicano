@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4895715",
+      "denominacion": "De Decreto por el que se declara el día 22 de febrero de cada año como el -Día Nacional de la y el Periodista Deportivo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895715_20250430_1739923687.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4937880",
+      "denominacion": "Por el que declara el 22 de febrero de cada año como el -Dia Nacional de la y el Periodista Deportivo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4937880_20251001_1759329785.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4939313",
+      "denominacion": "Por el que declara el 22 de febrero de cada año como el -Día Nacional de la y el Periodista Deportivo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4939313_20251001_1759329786.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4942275",
+      "denominacion": "Por el que se declara el 22 de febrero de cada año, como el -Día Nacional de la y el Periodista Deportivo-.",
+      "estatus": "Pendiente en comisión(es) de revisora 07/10/2025",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4942275_20251007_1759852006.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-07"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-07"
+    }
+  ],
+  "denominacion": "Por el que declara el 22 de febrero de cada año como el -Día Nacional de la y el Periodista Deportivo-.",
+  "id": "sil-4940975",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4940975",
+  "sources": [
+    {
+      "archivo": "fuentes/a5/a5d9e34b8ddcb4caebfdc7908004361d9ed5ee4a50e4912160da98efd8aa8940.html",
+      "consultado": "2026-11-16T16:55:54Z",
+      "sha256": "a5d9e34b8ddcb4caebfdc7908004361d9ed5ee4a50e4912160da98efd8aa8940",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4940975&Asunto=4939313"
+    },
+    {
+      "archivo": "fuentes/05/05d50b4a7542af74bd7317ab2d95848e48e0b7a631b85f701709b83ec071ab8b.html",
+      "consultado": "2026-11-16T16:55:58Z",
+      "sha256": "05d50b4a7542af74bd7317ab2d95848e48e0b7a631b85f701709b83ec071ab8b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4939313&Seguimiento=4940975"
+    }
+  ],
+  "tramites": {
+    "4939313": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Gobernación y Población que declara el 22 de febrero de cada año como el -Día Nacional de la y el Periodista Deportivo-.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 448
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 448 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 07/10/2025",
+  "votaciones": [
+    "sil-4939313-1"
+  ]
+}

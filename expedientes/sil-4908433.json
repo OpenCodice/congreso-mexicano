@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4905759",
+      "denominacion": "Con el que remite de la titular del Ejecutivo Federal, Claudia Sheinbaum Pardo, los siguientes nombramientos en favor de personal diplomático.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905759_20250620_1750434943.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4907693",
+      "denominacion": "Por el que ratifica el nombramiento expedido a favor de la ciudadana Claudia Velasco Osorio, como Cónsul General de México en Sao Paulo, República Federativa del Brasil.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907693_20250625_1750867493.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-06-24"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-06-25"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento expedido a favor de la ciudadana Claudia Velasco Osorio, como Cónsul General de México en Sao Paulo, República Federativa del Brasil.",
+  "id": "sil-4908433",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4908433",
+  "sources": [
+    {
+      "archivo": "fuentes/f4/f45b70139aa72333818d6c2427cc899b5c3c982cb4bcfa7a3f36f11f1703043d.html",
+      "consultado": "2026-11-16T16:40:23Z",
+      "sha256": "f45b70139aa72333818d6c2427cc899b5c3c982cb4bcfa7a3f36f11f1703043d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908433&Asunto=4907693"
+    },
+    {
+      "archivo": "fuentes/79/79c4e088dc1b8543b7d97ef01a0790d45f69b486c247a6d2b2503a3e2995f9c3.html",
+      "consultado": "2026-11-16T16:40:26Z",
+      "sha256": "79c4e088dc1b8543b7d97ef01a0790d45f69b486c247a6d2b2503a3e2995f9c3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907693&Seguimiento=4908433"
+    }
+  ],
+  "tramites": {
+    "4907693": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 7,
+          "yes": 24
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 24 En contra: 7 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Claudia Velasco Osorio, como Cónsul General de México en Sao Paulo, República Federativa del Brasil.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
+  "votaciones": [
+    "sil-4907693-1"
+  ]
+}

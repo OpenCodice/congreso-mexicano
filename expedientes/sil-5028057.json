@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4864913",
+      "denominacion": "De Decreto por el que se declara la tercera semana de noviembre de cada año como la -Semana Nacional de la Mujer Emprendedora-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-03-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4864913_20250326_1743007848.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5025191",
+      "denominacion": "Que declara la tercera semana de noviembre de cada año como la -Semana Nacional de las Mujeres Emprendedoras-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025191_20260303_1772566531.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5028698",
+      "denominacion": "Que declara la tercera semana de noviembre de cada año como la -Semana Nacional de las Mujeres Emprendedoras-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5028698_20260304_1772640258.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5031528",
+      "denominacion": "Con proyecto de decreto por el que declara la tercera semana de noviembre de cada año como la -Semana Nacional de las Mujeres Emprendedoras-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031528_20260310_1773165734.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Que declara la tercera semana de noviembre de cada año como la -Semana Nacional de las Mujeres Emprendedoras-.",
+  "id": "sil-5028057",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028057",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1bdd2e470a02f3cc99a9805ee234433991b374871b68077f1fedd8fb258dac4a.html",
+      "consultado": "2026-11-16T17:54:57Z",
+      "sha256": "1bdd2e470a02f3cc99a9805ee234433991b374871b68077f1fedd8fb258dac4a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028057&Asunto=5028698"
+    },
+    {
+      "archivo": "fuentes/07/07b6b3343345c947e87f50db7f94f5067d9db95f7bd5bfd5531a97d8bc612b72.html",
+      "consultado": "2026-11-16T17:55:01Z",
+      "sha256": "07b6b3343345c947e87f50db7f94f5067d9db95f7bd5bfd5531a97d8bc612b72",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5028698&Seguimiento=5028057"
+    }
+  ],
+  "tramites": {
+    "5028698": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido, en lo general y en lo particular, el dictamen que declara la tercera semana de noviembre de cada año como la -Semana Nacional de las Mujeres Emprendedoras-.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 447
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 447 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5028698-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "4815505",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 74
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4809131",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4815505-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+    "text": "Se rechazó poner a discusión la reserva al artículo 18 a formulada por la Sen. Claudia Edith Anaya Mota (PRI), relacionada al tema del fondo minero. A Favor: 38 En contra: 74 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/5e/5e3987f0485326b1a2689d272e2b19d80081084eae1ffff950e142ea10ede649.html",
+      "consultado": "2026-11-16T15:44:26Z",
+      "sha256": "5e3987f0485326b1a2689d272e2b19d80081084eae1ffff950e142ea10ede649",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4815505"
+    }
+  ],
+  "start_date": "2024-12-03",
+  "votes": [],
+  "votos_publicados": false
+}

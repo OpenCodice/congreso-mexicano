@@ -1,0 +1,41 @@
+{
+  "asunto": "4867148",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 93
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4838028",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4867148-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/af/af89395d795243c546dfac3c25bb56bfc39f718626f26a7a3247fb866058f1d8.html",
+      "consultado": "2026-11-16T15:58:02Z",
+      "sha256": "af89395d795243c546dfac3c25bb56bfc39f718626f26a7a3247fb866058f1d8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4867148"
+    }
+  ],
+  "start_date": "2025-04-01",
+  "votes": [],
+  "votos_publicados": false
+}

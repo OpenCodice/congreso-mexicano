@@ -1,0 +1,41 @@
+{
+  "asunto": "5102541",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 35
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5102729",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5102541-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Pedro Blanco Pérez, como Embajador Extraordinario y Plenipotenciario de México en la República de la India y, en forma concurrente, sujeto a los beneplácitos correspondientes, ante la República Popular de Bangladesh, la República Socialista Democrática de Sri Lanka, la República de Maldivas y Nepal.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 35 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/16/16e3e6c3e22c624014285b088a27f7af02726f14f8f9fda11efeb9cc441dd4c0.html",
+      "consultado": "2026-11-16T18:35:07Z",
+      "sha256": "16e3e6c3e22c624014285b088a27f7af02726f14f8f9fda11efeb9cc441dd4c0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5102541"
+    }
+  ],
+  "start_date": "2026-06-10",
+  "votes": [],
+  "votos_publicados": false
+}

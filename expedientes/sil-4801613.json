@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "4800086",
+      "denominacion": "Con el que somete a ratificación el ascenso al grado inmediato a 234 Generales, Coroneles y Tenientes Coroneles del Ejército y Fuerza Aérea Mexicanos.",
+      "estatus": "Resuelto / Aprobado 12/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800086_20241112_1731423734.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4801218",
+      "denominacion": "Por el que se ratifican 234 ascensos de diversos grados del Ejército y Fuerza Aérea Mexicanos que expidió el Poder Ejecutivo Federal.",
+      "estatus": "Resuelto / Aprobado 12/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4801218_20241112_1732319939.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-11-11"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-11-12"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-11-12"
+    },
+    {
+      "estatus": "Resuelto / Aprobado",
+      "fecha": "2024-11-12"
+    }
+  ],
+  "denominacion": "Por el que se ratifican 234 ascensos de diversos grados del Ejército y Fuerza Aérea Mexicanos que expidió el Poder Ejecutivo Federal.",
+  "id": "sil-4801613",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4801613",
+  "sources": [
+    {
+      "archivo": "fuentes/bf/bf0be58e06fc080dab83456320c7186165bcf67b905d348241dddcf9fb358048.html",
+      "consultado": "2026-11-16T15:41:28Z",
+      "sha256": "bf0be58e06fc080dab83456320c7186165bcf67b905d348241dddcf9fb358048",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4801613&Asunto=4801218"
+    },
+    {
+      "archivo": "fuentes/78/78fc84b7384378ab8f53c520a3128051ba655cb5206fe61f2cf3fca50070a2f4.html",
+      "consultado": "2026-11-16T15:41:31Z",
+      "sha256": "78fc84b7384378ab8f53c520a3128051ba655cb5206fe61f2cf3fca50070a2f4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4801218&Seguimiento=4801613"
+    }
+  ],
+  "tramites": {
+    "4801218": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación del dictamen, previo a su discusión y votación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 122
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 122 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "a la titular del Poder Ejecutivo Federal.",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Resuelto / Aprobado Aprobado 12/11/2024",
+  "votaciones": [
+    "sil-4801218-1"
+  ]
+}

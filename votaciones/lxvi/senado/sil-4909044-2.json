@@ -1,0 +1,41 @@
+{
+  "asunto": "4909044",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 71
+    },
+    {
+      "option": "no",
+      "value": 34
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4906896",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4909044-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Por el que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental, en materia de traslado de facultades del CONEVAL al INEGI.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 71 En contra: 34 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/a6/a62c07790e7388a321e848d085bc9c754b2a2350d6051abc2e2b3923744f124d.html",
+      "consultado": "2026-11-16T16:33:44Z",
+      "sha256": "a62c07790e7388a321e848d085bc9c754b2a2350d6051abc2e2b3923744f124d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4909044"
+    }
+  ],
+  "start_date": "2025-06-26",
+  "votes": [],
+  "votos_publicados": false
+}

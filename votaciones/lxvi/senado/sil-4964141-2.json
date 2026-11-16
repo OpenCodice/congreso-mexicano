@@ -1,0 +1,41 @@
+{
+  "asunto": "4964141",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 88
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4961529",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4964141-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que adiciona la Ley de Fomento para la Lectura y el Libro.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 88 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c3/c3f98577d112a27b1b93c27283aa5017e44d9c0a24efdec81f8af06dcde89dcc.html",
+      "consultado": "2026-11-16T17:05:53Z",
+      "sha256": "c3f98577d112a27b1b93c27283aa5017e44d9c0a24efdec81f8af06dcde89dcc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4964141"
+    }
+  ],
+  "start_date": "2025-10-29",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5117473",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5118171",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5117473-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Con el que remite, la designación del ciudadano Rogelio Granguillhome Morfín como Embajador Extraordinario y Plenipotenciario de México en Irlanda.",
+    "text": "Aprobado A Favor: 34 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b700b7432ea1655a47e632cb1d89add9307e18ae8399075a431e380c07466f4a.html",
+      "consultado": "2026-11-16T18:36:40Z",
+      "sha256": "b700b7432ea1655a47e632cb1d89add9307e18ae8399075a431e380c07466f4a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5117473"
+    }
+  ],
+  "start_date": "2026-08-19",
+  "votes": [],
+  "votos_publicados": false
+}

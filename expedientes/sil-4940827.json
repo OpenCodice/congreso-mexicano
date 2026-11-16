@@ -1,0 +1,546 @@
+{
+  "asuntos": [
+    {
+      "clave": "4925483",
+      "denominacion": "Con proyecto de decreto por el que se reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-09-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4925483_20250917_1758121011.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4940790",
+      "denominacion": "Con proyecto de decreto por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4940790_20251001_1759354651.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4940816",
+      "denominacion": "Que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-10-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4940816_20251001_1759380670.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4942167",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, del Código Fiscal de la Federación y de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4942167_20251007_1759846365.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4947219",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, del Código Fiscal de la Federación y de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4947219_20251014_1760459286.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4948261",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, del Código Fiscal de la Federación y de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4948261_20251014_1760495094.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4951120",
+      "denominacion": "Con proyecto de decreto por el que se reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+      "estatus": "Publicado en DOF 16/10/2025",
+      "fecha": "2025-10-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4951120_20251015_1760559275.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-10-01"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-10-07"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-10-07"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-10-13"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Aprobado con modificaciones en revisora",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Devuelto a origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Minuta recibida en origen",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Sin turno a comisión(es) - Modificaciones aprobadas",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-10-15"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-10-16"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+  "id": "sil-4940827",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-10-16",
+  "seguimiento": "4940827",
+  "sources": [
+    {
+      "archivo": "fuentes/92/92abd7bf4bc9f2697a1557e9a917b5fc9cf08369e024194dc0ee5834dd4b1ba1.html",
+      "consultado": "2026-11-16T16:54:53Z",
+      "sha256": "92abd7bf4bc9f2697a1557e9a917b5fc9cf08369e024194dc0ee5834dd4b1ba1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4940827&Asunto=4940816"
+    },
+    {
+      "archivo": "fuentes/59/595bb3a80dee2b98445e735cff4ec07374bc47039d065e1cb46a7956164045d8.html",
+      "consultado": "2026-11-16T16:54:57Z",
+      "sha256": "595bb3a80dee2b98445e735cff4ec07374bc47039d065e1cb46a7956164045d8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4940816&Seguimiento=4940827"
+    }
+  ],
+  "tramites": {
+    "4940816": [
+      {
+        "texto": "Aprobado para dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 64,
+          "yes": 32
+        },
+        "texto": "Se rechazó admitir la moción suspensiva del grupo parlamentario de MC. Se desecha. A Favor: 32 En contra: 64 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó considerar suficientemente discutido en lo general el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "5, 7, 26, 27, 59, 60, 107, 111, 121, 128, 129, 166, 168, 192, Transitorios Primero, Tercero, Cuarto, Quinto y Sexto de la Ley de Amparo; artículo 124 del Código Fiscal de la Federación; y, artículo 3 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 39,
+          "yes": 76
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 76 En contra: 39 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado se admiten a discusión las reservas presentadas por el Sen. Manuel Rafael Huerta Ladrón de Guevara (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutidas las reservas presentadas por el Sen. Manuel Rafael Huerta Ladrón de Guevara (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado las reservas presentadas por el Sen. Manuel Rafael Huerta Ladrón de Guevara (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por el Sen. Marko Antonio Cortés Mendoza (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por la Sen. María Alejandra Barrales Magdaleno (MC) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por el Sen. Raymundo Bolaños Azocar (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por el Sen. Luis Donaldo Colosio Riojas (MC) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por la Sen. Verónica Rodríguez Hernández (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas presentadas por la Sen. Susana del Carmen Zataraín García (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 39,
+          "yes": 70
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 70 En contra: 39 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "4948261": [
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Germán Martínez Cázares (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, del Código Fiscal de la Federación y de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "3, 5, 7, 25, 26, 27, 28, 30, 59, 60, 82, 107, 111, 115, 121, 124, 128, 129, 135, 137, 138, 146, 148, 166, 168, 181, 186, 192, 260, 262 y 271 de Ley de Amparo; 124 del Código Fiscal de la Federación; 3 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa; y, los Transitorios Primero, Segundo, Tercero, Cuarto y Quinto.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 3,
+          "no": 131,
+          "yes": 345
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 345 En contra: 131 Abstenciones 3",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Annia Sarahí Gómez Cárdenas (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Jesús Martín Cuanalo Araujo (PVEM) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Ricardo Sóstenes Mejía Berdeja (PT) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida, la propuesta de modificación presentada por el Dip. Ricardo Sóstenes Mejía Berdeja (PT) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Sóstenes Mejía Berdeja (PT) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Graciela Ortiz González (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Julio César Moreno Rivera (Morena) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Julio César Moreno Rivera (Morena) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Julio César Moreno Rivera (Morena) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. David Alejandro Cortés Mendoza (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Martha Amalia Moya Bastón (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Nadia Navarro Acevedo (PRI)al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Fernando Torres Graciano (PAN)al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Pablo Vázquez Ahued (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Amparo Lilia Olivares Castañeda (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Verónica Martínez García (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Zamora Gastélum (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Genoveva Huerta Villegas (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María Isabel Rodríguez Heredia (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Gloria Elizabeth Núñez Sánchez (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Hernando Castañeda Córdova (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Francisco Javier Farias Bailón (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Julia Licet Jiménez Angulo (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Noel Chávez Velázquez (PRI)al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Samperio Montaño (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Mónica Becerra Moreno (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Alfonso Rubalcava Jiménez (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Mariana Guadalupe Jiménez Zamora (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Fidel Daniel Chimal García (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paola Michell Longoria López (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Cristina Márquez Alcalá (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Israel Betanzos Cortés (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Asael Hernández Cerón (PAN)al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Sánchez Rivera (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Antonio Meléndez Ortega (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. David Azuara Zúñiga (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (PRI)al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Hugo Eric Flores Cervantes (Morena) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutida la propuesta de modificación presentada por el Dip. Hugo Eric Flores Cervantes (Morena) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado se acepta la propuesta de modificación presentada por el Dip. Hugo Eric Flores Cervantes (Morena) al dictamen que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 3,
+          "no": 128,
+          "yes": 322
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 322 En contra: 128 Abstenciones 3",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para los efectos de la fracción e) del artículo 72 constitucional.",
+        "tipo": "Se devuelve a la Cámara de Senadores"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 16/10/2025",
+  "votaciones": [
+    "sil-4940816-1",
+    "sil-4940816-2",
+    "sil-4940816-3",
+    "sil-4948261-1",
+    "sil-4948261-2"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5102543",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 27
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5102730",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5102543-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Roberto Lazzeri Montaño como Embajador Extraordinario y Plenipotenciario de México en los Estados Unidos de América.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 27 En contra: 8 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/1f/1fd168c87f271a1a1568f56f99d98f11a705e0f43975f3d66464534ac70b1222.html",
+      "consultado": "2026-11-16T18:35:25Z",
+      "sha256": "1fd168c87f271a1a1568f56f99d98f11a705e0f43975f3d66464534ac70b1222",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5102543"
+    }
+  ],
+  "start_date": "2026-06-10",
+  "votes": [],
+  "votos_publicados": false
+}

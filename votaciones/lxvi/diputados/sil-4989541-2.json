@@ -1,0 +1,41 @@
+{
+  "asunto": "4989541",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 333
+    },
+    {
+      "option": "no",
+      "value": 70
+    },
+    {
+      "option": "abstain",
+      "value": 22
+    }
+  ],
+  "expediente_id": "sil-4990627",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4989541-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley General de Desarrollo Social, de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en los términos del dictamen. A Favor: 333 En contra: 70 Abstenciones 22"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/73/73640fa0c61d5f89618496e2b8656f4263a2e749615d91454feea3210879d0ef.html",
+      "consultado": "2026-11-16T17:29:41Z",
+      "sha256": "73640fa0c61d5f89618496e2b8656f4263a2e749615d91454feea3210879d0ef",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4989541"
+    }
+  ],
+  "start_date": "2025-12-02",
+  "votes": [],
+  "votos_publicados": false
+}

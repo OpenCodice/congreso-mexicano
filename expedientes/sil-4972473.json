@@ -1,0 +1,124 @@
+{
+  "asuntos": [
+    {
+      "clave": "4896490",
+      "denominacion": "Que reforma el artículo 31 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4896490_20250430_1746052317.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4896488",
+      "denominacion": "Que adiciona los artículos 19 y 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4896488_20250430_1746052305.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4911030",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-07-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4911030_20250703_1751562869.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971206",
+      "denominacion": "Que reforma la fracción III de artículo 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971206_20251111_1762881176.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971446",
+      "denominacion": "Que reforma la fracción III de artículo 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971446_20251111_1762891256.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975642",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción III del artículo 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975642_20251119_1763572940.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que reforma la fracción III de artículo 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+  "id": "sil-4972473",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972473",
+  "sources": [
+    {
+      "archivo": "fuentes/71/71c633d3fbe3caad1917b5a33b141b7e4d1db0ce841f295df0fe0101d170e527.html",
+      "consultado": "2026-11-16T17:10:59Z",
+      "sha256": "71c633d3fbe3caad1917b5a33b141b7e4d1db0ce841f295df0fe0101d170e527",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972473&Asunto=4971446"
+    },
+    {
+      "archivo": "fuentes/fb/fb4461e9aa6415932bf2ffedcfbfbff115bbacb1d68edd3b5a983a578772c8f4.html",
+      "consultado": "2026-11-16T17:11:03Z",
+      "sha256": "fb4461e9aa6415932bf2ffedcfbfbff115bbacb1d68edd3b5a983a578772c8f4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971446&Seguimiento=4972473"
+    }
+  ],
+  "tramites": {
+    "4971446": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Medio Ambiente y Recursos Naturales, que reforma la fracción III de artículo 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma la fracción III de artículo 28 de la Ley General para la Prevención y Gestión Integral de los Residuos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 454
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 454 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971446-1"
+  ]
+}

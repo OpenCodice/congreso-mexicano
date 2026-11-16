@@ -1,0 +1,41 @@
+{
+  "asunto": "4775365",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 353
+    },
+    {
+      "option": "no",
+      "value": 126
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4774908",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4775365-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas Es mayoría calificada. A Favor: 353 En contra: 126 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/19/1978fcb8ce108ef914027a57473420a4f4dbc3234bcc7c0b10c9674678d8dcf5.html",
+      "consultado": "2026-11-16T15:31:19Z",
+      "sha256": "1978fcb8ce108ef914027a57473420a4f4dbc3234bcc7c0b10c9674678d8dcf5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4775365"
+    }
+  ],
+  "start_date": "2024-09-19",
+  "votes": [],
+  "votos_publicados": false
+}

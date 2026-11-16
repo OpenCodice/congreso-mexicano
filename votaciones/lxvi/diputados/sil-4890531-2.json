@@ -1,0 +1,41 @@
+{
+  "asunto": "4890531",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 332
+    },
+    {
+      "option": "no",
+      "value": 130
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4890578",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4890531-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley Nacional para Eliminar Trámites Burocráticos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y la modificación aceptada por la asamblea. A Favor: 332 En contra: 130 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/eb/eb2cb46c82a1b8c8c6c974eab213997a80284233c7ff32b510a4849aa131909b.html",
+      "consultado": "2026-11-16T16:25:08Z",
+      "sha256": "eb2cb46c82a1b8c8c6c974eab213997a80284233c7ff32b510a4849aa131909b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4890531"
+    }
+  ],
+  "start_date": "2025-04-28",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4827987",
+      "denominacion": "Que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-01-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4827987_20250115_1736972621.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086671",
+      "denominacion": "Que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086671_20260429_1777482564.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088434",
+      "denominacion": "Que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088434_20260429_1777481064.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120782",
+      "denominacion": "Con proyecto de decreto por el que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120782_20260902_1788360424.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional.",
+  "id": "sil-5090374",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090374",
+  "sources": [
+    {
+      "archivo": "fuentes/68/6835737cfd4f0dd793a0bc9e42f9918e4338b6c77c021987a4d2511e9aea79a9.html",
+      "consultado": "2026-11-16T18:26:52Z",
+      "sha256": "6835737cfd4f0dd793a0bc9e42f9918e4338b6c77c021987a4d2511e9aea79a9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090374&Asunto=5088434"
+    },
+    {
+      "archivo": "fuentes/cb/cb9f82c7241cc74f50ea8e01376e7d3698f04beaedd4ef66a276843428076949.html",
+      "consultado": "2026-11-16T18:26:56Z",
+      "sha256": "cb9f82c7241cc74f50ea8e01376e7d3698f04beaedd4ef66a276843428076949",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088434&Seguimiento=5090374"
+    }
+  ],
+  "tramites": {
+    "5088434": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Trabajo y Previsión Social, que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que adiciona un segundo párrafo al artículo 13 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 422
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 422 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088434-1"
+  ]
+}

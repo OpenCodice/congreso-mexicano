@@ -1,0 +1,88 @@
+{
+  "asuntos": [
+    {
+      "clave": "4830863",
+      "denominacion": "Con el que remite el nombramiento de Rosa Isabel Islas Arredondo, como Vicepresidenta de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía.",
+      "estatus": "Toma de protesta 13/02/2025",
+      "fecha": "2025-02-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4830863_20250205_1738779027.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4835571",
+      "denominacion": "El que contiene acuerdo por el que se aprueba el nombramiento de Rosa Isabel Islas Arredondo como Vicepresidenta de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía.",
+      "estatus": "Toma de protesta 13/02/2025",
+      "fecha": "2025-02-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4835571_20250213_1739466446.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-02-12"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-02-13"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-02-13"
+    }
+  ],
+  "denominacion": "El que contiene acuerdo por el que se aprueba el nombramiento de Rosa Isabel Islas Arredondo como Vicepresidenta de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía.",
+  "id": "sil-4835800",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4835800",
+  "sources": [
+    {
+      "archivo": "fuentes/1d/1d372deac81d28f3a6fd2fab3cc9abc0bae12327d7dd3e0907f607f6d8f00f7f.html",
+      "consultado": "2026-11-16T15:57:28Z",
+      "sha256": "1d372deac81d28f3a6fd2fab3cc9abc0bae12327d7dd3e0907f607f6d8f00f7f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4835800&Asunto=4835571"
+    },
+    {
+      "archivo": "fuentes/5a/5abad5b623982d8962db220b2c3ffe5274f07c0d60e162ed7b6819d85212f2d4.html",
+      "consultado": "2026-11-16T15:57:32Z",
+      "sha256": "5abad5b623982d8962db220b2c3ffe5274f07c0d60e162ed7b6819d85212f2d4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4835571&Seguimiento=4835800"
+    }
+  ],
+  "tramites": {
+    "4835571": [
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 96
+        },
+        "texto": "Aprobado en lo general y en lo particular Senador con voto a favor sólo para registro en el Diario de los Debates Sen. Francisco Javier Ramírez Acuña (PAN) A Favor: 96 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de Rosa Isabel Islas Arredondo como Vicepresidenta de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 13/02/2025",
+  "votaciones": [
+    "sil-4835571-1"
+  ]
+}

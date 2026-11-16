@@ -1,0 +1,41 @@
+{
+  "asunto": "5050117",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 354
+    },
+    {
+      "option": "no",
+      "value": 95
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5051177",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5050117-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma diversas disposiciones de la Ley de Vivienda.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 354 En contra: 95 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/36/36d91fc90cb551b939a7c4c4beb7fc3887cc12f1ab0b23cb9599ae0c846f1da3.html",
+      "consultado": "2026-11-16T18:07:32Z",
+      "sha256": "36d91fc90cb551b939a7c4c4beb7fc3887cc12f1ab0b23cb9599ae0c846f1da3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5050117"
+    }
+  ],
+  "start_date": "2026-03-24",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "4783722",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 75
+    },
+    {
+      "option": "no",
+      "value": 37
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4782820",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4783722-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, relativo a la actualización de los medios de impugnación en el proceso de elección de los integrantes del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas admitidas por la asamblea a los artículos reservados 53, 61, 79, 80 y 112 por la Sen. Edith López Hernández (Morena). A Favor: 75 En contra: 37 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c1/c15816707c978cd97f3dadfef918a37c21c9086492b15ab8cf6559c10a791421.html",
+      "consultado": "2026-11-16T15:35:16Z",
+      "sha256": "c15816707c978cd97f3dadfef918a37c21c9086492b15ab8cf6559c10a791421",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4783722"
+    }
+  ],
+  "start_date": "2024-10-10",
+  "votes": [],
+  "votos_publicados": false
+}

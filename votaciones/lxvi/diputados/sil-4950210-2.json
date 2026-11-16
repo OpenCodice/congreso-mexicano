@@ -1,0 +1,41 @@
+{
+  "asunto": "4950210",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 352
+    },
+    {
+      "option": "no",
+      "value": 133
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4951950",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4950210-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 352 En contra: 133 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/dd/ddd0c27c97264b1acb23dd3203db032f2ab184112cf9f5f7bdba1dc34b6ef2fb.html",
+      "consultado": "2026-11-16T16:59:23Z",
+      "sha256": "ddd0c27c97264b1acb23dd3203db032f2ab184112cf9f5f7bdba1dc34b6ef2fb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4950210"
+    }
+  ],
+  "start_date": "2025-10-15",
+  "votes": [],
+  "votos_publicados": false
+}

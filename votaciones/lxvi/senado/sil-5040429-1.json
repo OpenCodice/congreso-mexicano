@@ -1,0 +1,41 @@
+{
+  "asunto": "5040429",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 93
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5034959",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5040429-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma la fracción III del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/57/577449e43bfde65caf45f63d2b4dca3ab9a8afdf91651a5b9e9e827b57634c0e.html",
+      "consultado": "2026-11-16T17:59:28Z",
+      "sha256": "577449e43bfde65caf45f63d2b4dca3ab9a8afdf91651a5b9e9e827b57634c0e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5040429"
+    }
+  ],
+  "start_date": "2026-03-18",
+  "votes": [],
+  "votos_publicados": false
+}

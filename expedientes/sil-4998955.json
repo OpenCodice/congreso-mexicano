@@ -1,0 +1,166 @@
+{
+  "asuntos": [
+    {
+      "clave": "4923277",
+      "denominacion": "Que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y Exportación.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4923277_20250909_1757455556.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4996318",
+      "denominacion": "Que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4996318_20251209_1765302064.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4997670",
+      "denominacion": "Que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4997670_20251209_1765352862.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5000588",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y Exportación.",
+      "estatus": "Publicado en DOF 29/12/2025",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_5000588_20251210_1765401133.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-09"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Sin turno a comisión(es) - Aprobado en revisora",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-10"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-29"
+    }
+  ],
+  "denominacion": "Que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.",
+  "id": "sil-4998955",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-29",
+  "seguimiento": "4998955",
+  "sources": [
+    {
+      "archivo": "fuentes/85/85420ab1a19a5747d079597fa9cfb52f160f71d713dfb066aae9955c0b3a6889.html",
+      "consultado": "2026-11-16T17:33:24Z",
+      "sha256": "85420ab1a19a5747d079597fa9cfb52f160f71d713dfb066aae9955c0b3a6889",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4998955&Asunto=4997670"
+    },
+    {
+      "archivo": "fuentes/d1/d145b4fb355c87bca8ec912d300ad17f25569c24b2320e0ee465f351703f41b6.html",
+      "consultado": "2026-11-16T17:33:28Z",
+      "sha256": "d145b4fb355c87bca8ec912d300ad17f25569c24b2320e0ee465f351703f41b6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4997670&Seguimiento=4998955"
+    }
+  ],
+  "tramites": {
+    "4997670": [
+      {
+        "texto": "La presidencia de la Mesa Directiva presenta el dictamen que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que reforma diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "presentación de diversas propuestas de modificación al artículo Primero de la Ley de los Impuestos Generales de Importación y de Exportación, así como a los artículos transitorios Primero y Segundo.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 149,
+          "no": 24,
+          "yes": 281
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 281 En contra: 24 Abstenciones 149",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado admitir a discusión las propuestas de modificación presentadas por el Dip. Ricardo Monreal Ávila (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutidas las propuestas de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir las propuestas de modificación presentadas por el Dip. Ricardo Monreal Ávila (Morena) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paola Michell Longoria López (MC) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Hugo Manuel Luna Vázquez (MC) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Emilio Suárez Licona (PRI) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 136,
+          "no": 25,
+          "yes": 278
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las propuestas de modificación aprobadas por la Asamblea. A Favor: 278 En contra: 25 Abstenciones 136",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/12/2025",
+  "votaciones": [
+    "sil-4997670-1",
+    "sil-4997670-2"
+  ]
+}

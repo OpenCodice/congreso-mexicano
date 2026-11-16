@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4885300",
+      "denominacion": "Con el que remite la solicitud de autorización para que se permita la salida de elementos de la Armada de México fuera de los límites del país, para que participen en el Ejercicio Multinacional -TRIDENT FURY 2025-, que se llevará a cabo del 16 de Junio al 6 de julio de 2025, en Vancouver, Columbia Británica, Canadá.",
+      "estatus": "Publicado en DOF 29/05/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4885300_20250423_1745446924.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4890483",
+      "denominacion": "Con proyecto de decreto que permite la salida de elementos de la Armada de México fuera de los límites del país, a fin de que participen en el ejercicio multinacional -Trident Fury 2025-, que se llevará a cabo del 16 de junio al 6 de julio de 2025, en Vancouver, Columbia Británica, Canadá.",
+      "estatus": "Publicado en DOF 29/05/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890483_20250428_1745874679.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4891104",
+      "denominacion": "Con proyecto de decreto que permite la salida de elementos de la Armada de México fuera de los límites del país, a fin de que participen en el ejercicio multinacional -Trident Fury 2025-, que se llevará a cabo del 16 de junio al 6 de julio de 2025, en Vancouver, Columbia Británica, Canadá.",
+      "estatus": "Publicado en DOF 29/05/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4891104_20250428_1745874680.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-05-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que permite la salida de elementos de la Armada de México fuera de los límites del país, a fin de que participen en el ejercicio multinacional -Trident Fury 2025-, que se llevará a cabo del 16 de junio al 6 de julio de 2025, en Vancouver, Columbia Británica, Canadá.",
+  "id": "sil-4890566",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-05-29",
+  "seguimiento": "4890566",
+  "sources": [
+    {
+      "archivo": "fuentes/e7/e7dacb8074281f30552b0d1550a3c2ba9bfba969f28937ee05bd1253f9a91332.html",
+      "consultado": "2026-11-16T16:23:42Z",
+      "sha256": "e7dacb8074281f30552b0d1550a3c2ba9bfba969f28937ee05bd1253f9a91332",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890566&Asunto=4891104"
+    },
+    {
+      "archivo": "fuentes/52/52e5da9adbb7ec37db0ed8ee9daa1168e644e8f3c1ab100d24e77bf1bf96afe1.html",
+      "consultado": "2026-11-16T16:23:46Z",
+      "sha256": "52e5da9adbb7ec37db0ed8ee9daa1168e644e8f3c1ab100d24e77bf1bf96afe1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4891104&Seguimiento=4890566"
+    }
+  ],
+  "tramites": {
+    "4891104": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular Solo para registro en el Diario de los Debates: Sen. Manlio Fabio Beltrones Rivera (Sin Partido), Sen. Homero Davis Castro (Morena), Sen. Alma Anahí González Hernández (Morena), Sen. Ruth Miriam González Silva (PVEM), Sen. Juan Carlos Loera De La Rosa (Morena), Sen. Julieta Andrea Ramírez Padilla (Morena), Sen. Karina Isabel Ruiz Ruiz (Morena), Sen. Lizeth Sánchez García (PT) y Sen. Olga Patricia Sosa Ruíz (Morena). A Favor: 89 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/05/2025",
+  "votaciones": [
+    "sil-4891104-1"
+  ]
+}

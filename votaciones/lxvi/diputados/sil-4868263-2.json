@@ -1,0 +1,41 @@
+{
+  "asunto": "4868263",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 324
+    },
+    {
+      "option": "no",
+      "value": 119
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-4868955",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4868263-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas (para eficientar las contrataciones públicas, atendiendo los principios establecidos en el artículo 134 constitucional como la transparencia, la eficacia y eficiencia).",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 324 En contra: 119 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/9e/9e3526282f087b68d0bc7c65628894b3231e2ab35f80adbe5012b8ad63d116b0.html",
+      "consultado": "2026-11-16T16:13:15Z",
+      "sha256": "9e3526282f087b68d0bc7c65628894b3231e2ab35f80adbe5012b8ad63d116b0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4868263"
+    }
+  ],
+  "start_date": "2025-04-01",
+  "votes": [],
+  "votos_publicados": false
+}

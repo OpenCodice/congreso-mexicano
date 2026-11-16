@@ -1,0 +1,218 @@
+{
+  "asuntos": [
+    {
+      "clave": "4824150",
+      "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2024-12-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4824150_20241211_1732213484.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4877229",
+      "denominacion": "Con proyecto de decreto que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-04-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4877229_20250410_1744294207.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4880307",
+      "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4880307_20250422_1745331743.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4983361",
+      "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983361_20251126_1764172860.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985191",
+      "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985191_20251126_1764193496.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4987184",
+      "denominacion": "Por el que se expide la Ley de Desarrollo Sustentable de la Cafeticultura, devuelta para los efectos de la fracción E del artículo 72 Constitucional.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4987184_20251127_1764293117.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4989601",
+      "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4989601_20251202_1764715925.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4991242",
+      "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+      "estatus": "Publicado en DOF 19/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4991242_20251203_1764715926.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado con modificaciones en revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Devuelto a origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en origen",
+      "fecha": "2025-11-27"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de Cámara de Origen",
+      "fecha": "2025-11-27"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "De primera lectura en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Modificaciones aprobadas",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-19"
+    }
+  ],
+  "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+  "id": "sil-4878441",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-19",
+  "seguimiento": "4878441",
+  "sources": [
+    {
+      "archivo": "fuentes/58/5825cdf73bc770eec6f0205b000e19ccf4880151c42ac608382446e2276dcb24.html",
+      "consultado": "2026-11-16T16:15:27Z",
+      "sha256": "5825cdf73bc770eec6f0205b000e19ccf4880151c42ac608382446e2276dcb24",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4878441&Asunto=4985191"
+    },
+    {
+      "archivo": "fuentes/9e/9e413768d66aac959dc24ed3d90bf34f73bc4da9b8ca08b9b2e9c05699902255.html",
+      "consultado": "2026-11-16T16:15:31Z",
+      "sha256": "9e413768d66aac959dc24ed3d90bf34f73bc4da9b8ca08b9b2e9c05699902255",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985191&Seguimiento=4878441"
+    }
+  ],
+  "tramites": {
+    "4985191": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general el dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "1-11, 13-18, 21-25, 29, 31, 32, 34, 36, 37, 40, 41, 43, 45, 49, 51, 52, 53, 55, 56, 57, 60, 62, 63, 65, 67, 70, 73, 75, 77, 78, 79, 82, 83, 84, 86 y la denominación del Capítulo II del Título Tercero; y, los Transitorios Primero, Tercero y Cuarto del dictamen.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 399
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 399 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 0,
+          "yes": 377
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 377 En contra: 0 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para los efectos de la fracción E) del artículo 72 constitucional.",
+        "tipo": "Se devuelve a la Cámara de Senadores"
+      }
+    ],
+    "4991242": [
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular con datos publicado en la gaceta. A Favor: 89 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 19/12/2025",
+  "votaciones": [
+    "sil-4985191-1",
+    "sil-4985191-2",
+    "sil-4991242-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "4907872",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 423
+    },
+    {
+      "option": "no",
+      "value": 63
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4861106",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907872-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley General del Sistema Nacional de Seguridad Pública.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 423 En contra: 63 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d99da5ca7be4edfe9a1b727e6b71515bd718be1780b495745fd22b2dbd4d4522.html",
+      "consultado": "2026-11-16T16:07:36Z",
+      "sha256": "d99da5ca7be4edfe9a1b727e6b71515bd718be1780b495745fd22b2dbd4d4522",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907872"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

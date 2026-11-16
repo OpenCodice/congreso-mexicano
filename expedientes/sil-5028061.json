@@ -1,0 +1,120 @@
+{
+  "asuntos": [
+    {
+      "clave": "4895922",
+      "denominacion": "Que adiciona los párrafos sexto y séptimo al artículo 2° de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895922_20250430_1743608311.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4913774",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-07-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4913774_20250723_1752681590.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4954453",
+      "denominacion": "Que reforma y adiciona los artículos 3° Ter y 132 de la Ley Federal del Trabajo, en materia de desconexión digital.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4954453_20251021_1761140382.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5025214",
+      "denominacion": "Que reforma y adiciona diversas disposiciones a los artículos 3° Ter y 132 de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025214_20260303_1772566852.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5026709",
+      "denominacion": "Que reforma y adiciona diversas disposiciones a los artículos 3° Ter y 132 de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5026709_20260303_1772567940.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5031495",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones a los artículos 3º Ter y 132 de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031495_20260310_1773164072.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones a los artículos 3° Ter y 132 de la Ley Federal del Trabajo.",
+  "id": "sil-5028061",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5028061",
+  "sources": [
+    {
+      "archivo": "fuentes/13/13f1a678e20c6c69e18ba4dee766fde38a959979c0db8340eb1a5d7bccbc76ed.html",
+      "consultado": "2026-11-16T17:57:00Z",
+      "sha256": "13f1a678e20c6c69e18ba4dee766fde38a959979c0db8340eb1a5d7bccbc76ed",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028061&Asunto=5026709"
+    },
+    {
+      "archivo": "fuentes/0e/0e07cb037d262f83c98b5ef39600eef026260e3ae27806bde8ee2d5d8d961a4a.html",
+      "consultado": "2026-11-16T17:57:04Z",
+      "sha256": "0e07cb037d262f83c98b5ef39600eef026260e3ae27806bde8ee2d5d8d961a4a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026709&Seguimiento=5028061"
+    }
+  ],
+  "tramites": {
+    "5026709": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones a los artículos 3° Ter y 132 de la Ley Federal del Trabajo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 447
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 447 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5026709-1"
+  ]
+}

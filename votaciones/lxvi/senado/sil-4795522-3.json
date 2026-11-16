@@ -1,0 +1,41 @@
+{
+  "asunto": "4795522",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 103
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4784645",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4795522-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma los párrafos primero y actual segundo y, adiciona los párrafos segundo, cuarto y quinto, recorriéndose los subsecuentes en su orden, a la fracción XII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 123, segundo y tercero transitorios, en términos del dictamen. A Favor: 103 En contra: 0 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/53/5330ad36a57ea5164b5f395007a7136e06fdb01a59dc3c9a7f3bf06af596675a.html",
+      "consultado": "2026-11-16T15:37:08Z",
+      "sha256": "5330ad36a57ea5164b5f395007a7136e06fdb01a59dc3c9a7f3bf06af596675a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4795522"
+    }
+  ],
+  "start_date": "2024-10-31",
+  "votes": [],
+  "votos_publicados": false
+}

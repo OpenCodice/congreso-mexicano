@@ -1,0 +1,41 @@
+{
+  "asunto": "4776570",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 128
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4771539",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4776570-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos. en materia de pueblos y comunidades indígenas y afromexicanos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 128 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/89/897ac47d99905deef540e3397ad0a7889acd731bdf4b4293409ffb51e8e98956.html",
+      "consultado": "2026-11-16T15:30:23Z",
+      "sha256": "897ac47d99905deef540e3397ad0a7889acd731bdf4b4293409ffb51e8e98956",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4776570"
+    }
+  ],
+  "start_date": "2024-09-24",
+  "votes": [],
+  "votos_publicados": false
+}

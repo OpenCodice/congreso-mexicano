@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4912577",
+      "denominacion": "Que adiciona un párrafo quinto al artículo 119 de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-07-16",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/07/asun_4912577_20250716_1752679544.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016124",
+      "denominacion": "Que adiciona el artículo 119 de la Ley General de Desarrollo Forestal Sustentable, en materia de programas de manejo de fuego.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016124_20260217_1771349640.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016213",
+      "denominacion": "Que adiciona el artículo 119 de la Ley General de Desarrollo Forestal Sustentable, en materia de programas de manejo de fuego.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016213_20260217_1771350968.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017176",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 119 de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017176_20260218_1771436198.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 119 de la Ley General de Desarrollo Forestal Sustentable, en materia de programas de manejo de fuego.",
+  "id": "sil-5017047",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017047",
+  "sources": [
+    {
+      "archivo": "fuentes/30/30448eb5b2da34505cc8c7be404eaaca5eb8b5f76d91ebc8b8e04e093dc9810e.html",
+      "consultado": "2026-11-16T17:42:31Z",
+      "sha256": "30448eb5b2da34505cc8c7be404eaaca5eb8b5f76d91ebc8b8e04e093dc9810e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017047&Asunto=5016213"
+    },
+    {
+      "archivo": "fuentes/47/478bc08c0f6ae7b6647c260c9e67e895a694fb44ed27fabadd4ca0b6b22739e8.html",
+      "consultado": "2026-11-16T17:42:34Z",
+      "sha256": "478bc08c0f6ae7b6647c260c9e67e895a694fb44ed27fabadd4ca0b6b22739e8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016213&Seguimiento=5017047"
+    }
+  ],
+  "tramites": {
+    "5016213": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona el artículo 119 de la Ley General de Desarrollo Forestal Sustentable.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 443
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 443 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016213-1"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4880544",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Cambio Climático, en materia de carbono azul.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4880544_20250422_1742581490.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5030130",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Cambio Climático en materia de carbono azul.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5030130_20260304_1772659092.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5030860",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de carbono azul.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5030860_20260304_1772664130.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5031534",
+      "denominacion": "Con proyecto de decreto por el que reforman diversas disposiciones de la Ley General de Cambio Climático, en materia de carbono azul.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5031534_20260310_1773165972.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de carbono azul.",
+  "id": "sil-5030926",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5030926",
+  "sources": [
+    {
+      "archivo": "fuentes/a2/a2c5b9cfbf5bfd91af15fd37407e8f055c1688e23c631d5f00a31dda2c212cbc.html",
+      "consultado": "2026-11-16T17:57:29Z",
+      "sha256": "a2c5b9cfbf5bfd91af15fd37407e8f055c1688e23c631d5f00a31dda2c212cbc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5030926&Asunto=5030860"
+    },
+    {
+      "archivo": "fuentes/a3/a3d91a167fe6cbb6c2a0e8d35cda5129cc6cfa42c488df3bf08ff3c85b74688c.html",
+      "consultado": "2026-11-16T17:57:33Z",
+      "sha256": "a3d91a167fe6cbb6c2a0e8d35cda5129cc6cfa42c488df3bf08ff3c85b74688c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5030860&Seguimiento=5030926"
+    }
+  ],
+  "tramites": {
+    "5030860": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de carbono azul.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 391
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 391 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5030860-1"
+  ]
+}

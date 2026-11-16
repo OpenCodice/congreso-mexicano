@@ -1,0 +1,41 @@
+{
+  "asunto": "4808881",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 82
+    },
+    {
+      "option": "no",
+      "value": 39
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4802003",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4808881-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, para actualizar el marco normativo de la Administración Pública Federal.",
+    "text": "Aprobado en lo general y en lo particular artículos 14 Bis, 19, 20, 25, 26, 27, 31, 37, 42 Ter, 44, 50 y los transitorios Primero, Cuarto, Quinto, Sexto, Séptimo, Noveno, Décimo, Décimo primero, Décimo segundo y Décimo quinto que integran el segundo bloque del dictamen con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal. Senador a favor del dictamen sólo para registro en el Diario de los Debates: Sen. Alejandro Ismael Murat Hinojosa (Morena) A Favor: 82 En contra: 39 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/be/bea86cb19e4b99a071d203db023ef202d6cbd6d87a6425c46ea6a47651f26e76.html",
+      "consultado": "2026-11-16T15:43:04Z",
+      "sha256": "bea86cb19e4b99a071d203db023ef202d6cbd6d87a6425c46ea6a47651f26e76",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4808881"
+    }
+  ],
+  "start_date": "2024-11-26",
+  "votes": [],
+  "votos_publicados": false
+}

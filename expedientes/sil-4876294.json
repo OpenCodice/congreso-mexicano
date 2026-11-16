@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822804",
+      "denominacion": "Que inscribe con letras doradas en el Muro de Honor del salón de sesiones del Senado de la República, la leyenda: -Miguel Ramos Arizpe. Padre del federalismo mexicano-.",
+      "estatus": "Publicado en DOF 30/04/2025",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822804_20241211_1733944258.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4874314",
+      "denominacion": "Con proyecto de decreto por el que se inscribe con letras doradas en el muro de honor del salón de sesiones del Senado de la República, la leyenda: Miguel Ramos Arizpe. Padre del Federalismo Mexicano.",
+      "estatus": "Publicado en DOF 30/04/2025",
+      "fecha": "2025-04-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4874314_20250409_1744202375.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4879960",
+      "denominacion": "Con proyecto de decreto que inscribe con letras doradas en el muro de honor del salón de sesiones del Senado de la República, la leyenda: Miguel Ramos Arizpe. Padre del Federalismo Mexicano.",
+      "estatus": "Publicado en DOF 30/04/2025",
+      "fecha": "2025-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4879960_20250421_1744202377.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-22"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-22"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-04-22"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-30"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que inscribe con letras doradas en el muro de honor del salón de sesiones del Senado de la República, la leyenda: Miguel Ramos Arizpe. Padre del Federalismo Mexicano.",
+  "id": "sil-4876294",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-30",
+  "seguimiento": "4876294",
+  "sources": [
+    {
+      "archivo": "fuentes/86/865a096d99e1496722ace35b498a804246f1a688f7d8384073c4192beb157b0a.html",
+      "consultado": "2026-11-16T16:15:01Z",
+      "sha256": "865a096d99e1496722ace35b498a804246f1a688f7d8384073c4192beb157b0a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4876294&Asunto=4879960"
+    },
+    {
+      "archivo": "fuentes/de/de510b6f9f735f977c171b2e46f4a40390059fa1257fba887b3b484792aa6ea4.html",
+      "consultado": "2026-11-16T16:15:05Z",
+      "sha256": "de510b6f9f735f977c171b2e46f4a40390059fa1257fba887b3b484792aa6ea4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4879960&Seguimiento=4876294"
+    }
+  ],
+  "tramites": {
+    "4879960": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 30/04/2025",
+  "votaciones": [
+    "sil-4879960-1"
+  ]
+}

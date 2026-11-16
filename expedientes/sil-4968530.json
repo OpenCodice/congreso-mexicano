@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4776653",
+      "denominacion": "Que adiciona los párrafos quinto y sexto al artículo 357 de la Ley Federal del Trabajo, se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 15/12/2025",
+      "fecha": "2024-09-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4776653_20240924_1726678576.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4967620",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un artículo 69 bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado b) del artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas, en materia de autonomía sindical.",
+      "estatus": "Publicado en DOF 15/12/2025",
+      "fecha": "2025-11-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4967620_20251105_1762403671.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4970297",
+      "denominacion": "Que adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 15/12/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4970297_20251111_1762880254.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4983358",
+      "denominacion": "Que adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del Artículo 123 Constitucional y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 15/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983358_20251126_1764172575.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985188",
+      "denominacion": "Que adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del Artículo 123 Constitucional y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Publicado en DOF 15/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985188_20251126_1764177501.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-12-15"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del Artículo 123 Constitucional y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+  "id": "sil-4968530",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-12-15",
+  "seguimiento": "4968530",
+  "sources": [
+    {
+      "archivo": "fuentes/83/834afd9c29bde12afd13dfa7e837492baa28963b9dd2268c1876c0e844037a53.html",
+      "consultado": "2026-11-16T17:07:08Z",
+      "sha256": "834afd9c29bde12afd13dfa7e837492baa28963b9dd2268c1876c0e844037a53",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4968530&Asunto=4985188"
+    },
+    {
+      "archivo": "fuentes/45/454e71929599fdd55e157b2ef40ba28770146f41965f5058e9167e58a215679e.html",
+      "consultado": "2026-11-16T17:07:12Z",
+      "sha256": "454e71929599fdd55e157b2ef40ba28770146f41965f5058e9167e58a215679e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985188&Seguimiento=4968530"
+    }
+  ],
+  "tramites": {
+    "4985188": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del Artículo 123 Constitucional y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 407
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 407 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 15/12/2025",
+  "votaciones": [
+    "sil-4985188-1"
+  ]
+}

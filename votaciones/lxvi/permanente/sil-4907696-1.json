@@ -1,0 +1,41 @@
+{
+  "asunto": "4907696",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 32
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4908436",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907696-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido a favor del ciudadano Iván Roberto Sierra Medel, como Cónsul General de México en Toronto, Ontario, Canadá.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 32 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/44/44baf3381a83ca5f0d9bd0f59e0ecbc5b4055ddfe7b7b0a50287af3ce319ea18.html",
+      "consultado": "2026-11-16T16:40:49Z",
+      "sha256": "44baf3381a83ca5f0d9bd0f59e0ecbc5b4055ddfe7b7b0a50287af3ce319ea18",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907696"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

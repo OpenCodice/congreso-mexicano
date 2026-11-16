@@ -1,0 +1,41 @@
+{
+  "asunto": "4820831",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 332
+    },
+    {
+      "option": "no",
+      "value": 120
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4817558",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4820831-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley Orgánica del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 332 En contra: 120 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bc/bc583ce197f69df52e822e242776b69b0fc0fcd8bbcc100867d3a84fc825b503.html",
+      "consultado": "2026-11-16T19:41:37Z",
+      "sha256": "bc583ce197f69df52e822e242776b69b0fc0fcd8bbcc100867d3a84fc825b503",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4820831"
+    }
+  ],
+  "start_date": "2024-12-10",
+  "votes": [],
+  "votos_publicados": false
+}

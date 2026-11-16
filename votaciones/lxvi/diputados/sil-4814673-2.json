@@ -1,0 +1,41 @@
+{
+  "asunto": "4814673",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 327
+    },
+    {
+      "option": "no",
+      "value": 118
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4809133",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4814673-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que adiciona diversas disposiciones a los artículos 4o. y 5o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección a la salud.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas Es mayoría calificada. A Favor: 327 En contra: 118 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/bc/bc938200d99b31d13b048c778913bea14be790158d69780b6fded5015c643992.html",
+      "consultado": "2026-11-16T19:39:36Z",
+      "sha256": "bc938200d99b31d13b048c778913bea14be790158d69780b6fded5015c643992",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4814673"
+    }
+  ],
+  "start_date": "2024-12-03",
+  "votes": [],
+  "votos_publicados": false
+}

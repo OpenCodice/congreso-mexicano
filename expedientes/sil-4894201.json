@@ -1,0 +1,144 @@
+{
+  "asuntos": [
+    {
+      "clave": "4778887",
+      "denominacion": "Que reforma y adiciona los artículos 58 y 62 de la Ley General de Turismo.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2024-10-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4778887_20241002_1727893173.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4805258",
+      "denominacion": "Que reforma y adiciona el artículo 58 de la Ley General de Turismo, en materia de protección a niñas, niños y adolescentes.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2024-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4805258_20241120_1732129610.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4891466",
+      "denominacion": "Que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4891466_20250429_1745938312.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4894345",
+      "denominacion": "Que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894345_20250429_1745960109.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4894460",
+      "denominacion": "Con proyecto de decreto que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894460_20250430_1746018011.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5083083",
+      "denominacion": "Con proyecto de decreto por el que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5083083_20260428_1777393734.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5156311",
+      "denominacion": "Con proyecto de decreto por el que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5156311_20261007_1791301780.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-10-07"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-10-07"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-10-07"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-13"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+  "id": "sil-4894201",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-13",
+  "seguimiento": "4894201",
+  "sources": [
+    {
+      "archivo": "fuentes/e1/e1ff90643747fbc247a65e0768606676d9b14a76f4b62c6842fe040608348c61.html",
+      "consultado": "2026-11-16T16:29:42Z",
+      "sha256": "e1ff90643747fbc247a65e0768606676d9b14a76f4b62c6842fe040608348c61",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894201&Asunto=5156311"
+    },
+    {
+      "archivo": "fuentes/bb/bb42cdd967b50f3866dab733615db58c4c30db63ee228e011ca4c34d6d64695e.html",
+      "consultado": "2026-11-16T16:29:46Z",
+      "sha256": "bb42cdd967b50f3866dab733615db58c4c30db63ee228e011ca4c34d6d64695e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5156311&Seguimiento=4894201"
+    }
+  ],
+  "tramites": {
+    "4894345": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, y lo particular el dictamen que adiciona las fracciones X Bis y X Ter al artículo 58 de la Ley General de Turismo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 451
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 451 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5156311": [
+      {
+        "texto": "Aprobado para dispensar su lectura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 13/11/2026",
+  "votaciones": [
+    "sil-4894345-1",
+    "sil-5156311-1"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4778865",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia del derecho al descanso de las personas trabajadoras durante la jornada laboral (Ley Silla).",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-10-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4778865_20241002_1727981976.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4779585",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia del derecho al descanso de las personas trabajadoras durante la jornada laboral (Ley Silla).",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-10-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4779585_20241003_1727970124.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4815289",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia del derecho al descanso durante la jornada laboral.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4815289_20241203_1733244933.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4816451",
+      "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia del derecho al descanso durante la jornada laboral.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-12-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4816451_20241204_1733244934.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2024-12-04"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2024-12-04"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-12-04"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-12-19"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia del derecho al descanso durante la jornada laboral.",
+  "id": "sil-4779301",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-12-19",
+  "seguimiento": "4779301",
+  "sources": [
+    {
+      "archivo": "fuentes/eb/eb23fb47a75ed3051ba9db3f58475c3d70359b00881d82002232b09539574f4c.html",
+      "consultado": "2026-11-16T15:33:48Z",
+      "sha256": "eb23fb47a75ed3051ba9db3f58475c3d70359b00881d82002232b09539574f4c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4779301&Asunto=4816451"
+    },
+    {
+      "archivo": "fuentes/26/26c1c15b18055b2e5992049dadb213c58e75939601bec0255aef2ba491bdb0cc.html",
+      "consultado": "2026-11-16T15:33:51Z",
+      "sha256": "26c1c15b18055b2e5992049dadb213c58e75939601bec0255aef2ba491bdb0cc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4816451&Seguimiento=4779301"
+    }
+  ],
+  "tramites": {
+    "4816451": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para integrar la intervención de la Sen. María Alejandra Barrales Magdaleno (MC) en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "para integrar la intervención de la Sen. Ruth Miriam González Silva (PVEM) en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 19/12/2024",
+  "votaciones": [
+    "sil-4816451-1"
+  ]
+}

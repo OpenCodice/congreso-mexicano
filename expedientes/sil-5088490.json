@@ -1,0 +1,132 @@
+{
+  "asuntos": [
+    {
+      "clave": "4899153",
+      "denominacion": "Que reforma los artículos 13, 16 y 30 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2025-05-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/05/asun_4899153_20250514_1747244202.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4999233",
+      "denominacion": "Que reforma la fracción VIII del artículo 15 y la fracción XVI del artículo 30 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2025-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999233_20251210_1765384172.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5065748",
+      "denominacion": "Que reforma el artículo 30 de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5065748_20260414_1776185008.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5065401",
+      "denominacion": "Que reforma la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5065401_20260414_1775585880.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5083077",
+      "denominacion": "Con proyecto de decreto por el que adiciona un segundo párrafo a la fracción XVI del artículo 30 de la Ley General de Educación, en materia de protección y trato digno y respetuoso a los animales.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5083077_20260428_1777392045.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5138223",
+      "denominacion": "Con proyecto de decreto que adiciona un segundo párrafo a la fracción XVI del artículo 30 de la Ley General de Educación, en materia de protección y trato digno y respetuoso a los animales.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5138223_20260922_1790097004.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5143814",
+      "denominacion": "Que adiciona un segundo párrafo a la fracción XVI del artículo 30 de la Ley General de Educación, en materia de protección y trato digno y respetuoso hacia los animales.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5143814_20260929_1790708155.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que adiciona un segundo párrafo a la fracción XVI del artículo 30 de la Ley General de Educación, en materia de protección y trato digno y respetuoso a los animales.",
+  "id": "sil-5088490",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5088490",
+  "sources": [
+    {
+      "archivo": "fuentes/84/84b0d2762cc5ad538e3d8cf296e28352718459abd29e08c19e566ec3350e11b4.html",
+      "consultado": "2026-11-16T18:24:16Z",
+      "sha256": "84b0d2762cc5ad538e3d8cf296e28352718459abd29e08c19e566ec3350e11b4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5088490&Asunto=5138223"
+    },
+    {
+      "archivo": "fuentes/90/90429f2fda521d56834fe0738701a8819189be9aa8b080f9dd4fae5bc79d541d.html",
+      "consultado": "2026-11-16T18:24:20Z",
+      "sha256": "90429f2fda521d56834fe0738701a8819189be9aa8b080f9dd4fae5bc79d541d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5138223&Seguimiento=5088490"
+    }
+  ],
+  "tramites": {
+    "5138223": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 97
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 97 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 29/09/2026",
+  "votaciones": [
+    "sil-5138223-1"
+  ]
+}

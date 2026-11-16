@@ -1,0 +1,41 @@
+{
+  "asunto": "5021503",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 411
+    },
+    {
+      "option": "no",
+      "value": 58
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5012470",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5021503-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma las fracciones IV y XI del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de reducción de la jornada laboral.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados es mayoría calificada. A Favor: 411 En contra: 58 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c3/c350a5d4350a0415bf18ef4330161c9151f564afcb73fd8a3bbc797acfa34767.html",
+      "consultado": "2026-11-16T17:37:43Z",
+      "sha256": "c350a5d4350a0415bf18ef4330161c9151f564afcb73fd8a3bbc797acfa34767",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5021503"
+    }
+  ],
+  "start_date": "2026-02-24",
+  "votes": [],
+  "votos_publicados": false
+}

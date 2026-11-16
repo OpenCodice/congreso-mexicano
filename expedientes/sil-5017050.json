@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4875484",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de deporte adaptado.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-04-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4875484_20250409_1743009450.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5015118",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de deporte adaptado.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5015118_20260217_1771349669.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016222",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de deporte adaptado.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016222_20260217_1771350998.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017185",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de deporte adaptado.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017185_20260218_1771436235.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de deporte adaptado.",
+  "id": "sil-5017050",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017050",
+  "sources": [
+    {
+      "archivo": "fuentes/42/422043c5d145d79c71b11ab87c513024721168f4ada97a33b83a4fed0c440d2e.html",
+      "consultado": "2026-11-16T17:44:33Z",
+      "sha256": "422043c5d145d79c71b11ab87c513024721168f4ada97a33b83a4fed0c440d2e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017050&Asunto=5016222"
+    },
+    {
+      "archivo": "fuentes/46/4627bdba60273eaf7cdc3776ad67efb38efab111642e6f5edf095c6f57841ca2.html",
+      "consultado": "2026-11-16T17:44:37Z",
+      "sha256": "4627bdba60273eaf7cdc3776ad67efb38efab111642e6f5edf095c6f57841ca2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016222&Seguimiento=5017050"
+    }
+  ],
+  "tramites": {
+    "5016222": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de deporte adaptado.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 440
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 440 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016222-1"
+  ]
+}

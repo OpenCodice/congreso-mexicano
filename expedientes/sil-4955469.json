@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4754432",
+      "denominacion": "Por el que remite la Cuenta Pública correspondiente al ejercicio fiscal 2023 (*).",
+      "estatus": "Publicado en DOF 29/10/2025",
+      "fecha": "2024-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/04/asun_4754432_20240429_1714683978.pdf",
+      "tipo": "Informe"
+    },
+    {
+      "clave": "4953600",
+      "denominacion": "Relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al ejercicio Fiscal 2023.",
+      "estatus": "Publicado en DOF 29/10/2025",
+      "fecha": "2025-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4953600_20251021_1761057461.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4955931",
+      "denominacion": "Relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2023.",
+      "estatus": "Publicado en DOF 29/10/2025",
+      "fecha": "2025-10-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4955931_20251022_1761144826.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-22"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-10-22"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-10-22"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-10-29"
+    }
+  ],
+  "denominacion": "Relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2023.",
+  "id": "sil-4955469",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-10-29",
+  "seguimiento": "4955469",
+  "sources": [
+    {
+      "archivo": "fuentes/cb/cb48de4f680368eeacd56b192fbff6e5c5ec75793ebf22aa109267ae64de85c8.html",
+      "consultado": "2026-11-16T17:02:56Z",
+      "sha256": "cb48de4f680368eeacd56b192fbff6e5c5ec75793ebf22aa109267ae64de85c8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4955469&Asunto=4955931"
+    },
+    {
+      "archivo": "fuentes/af/af4d464512b6751f1fa9ce9020e54eed8e54812cde2d30bdd46d12ed213ba00a.html",
+      "consultado": "2026-11-16T17:03:00Z",
+      "sha256": "af4d464512b6751f1fa9ce9020e54eed8e54812cde2d30bdd46d12ed213ba00a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4955931&Seguimiento=4955469"
+    }
+  ],
+  "tramites": {
+    "4955931": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Presupuesto y Cuenta Pública relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2023.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen relativo a la Cuenta de la Hacienda Pública Federal, correspondiente al Ejercicio Fiscal 2023.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 127,
+          "yes": 335
+        },
+        "texto": "Aprobado en lo general y en lo particular en un solo acto A Favor: 335 En contra: 127 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Comuníquese a la Comisión de Vigilancia de la Auditoría Superior de la Federación y a la Auditoría Superior de la Federación.",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/10/2025",
+  "votaciones": [
+    "sil-4955931-1"
+  ]
+}

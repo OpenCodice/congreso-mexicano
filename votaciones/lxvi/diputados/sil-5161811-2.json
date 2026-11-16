@@ -1,0 +1,41 @@
+{
+  "asunto": "5161811",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 322
+    },
+    {
+      "option": "no",
+      "value": 115
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5163341",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5161811-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto sobre la Renta y se expiden disposiciones de vigencia transitoria.",
+    "text": "Aprobado en lo general y en lo particular en los términos del dictamen. A Favor: 322 En contra: 115 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/c0/c0d93b149e664c4d3236d9f4dac5d12646e1701d0735396a1cec5f8f7023f495.html",
+      "consultado": "2026-11-16T18:46:27Z",
+      "sha256": "c0d93b149e664c4d3236d9f4dac5d12646e1701d0735396a1cec5f8f7023f495",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5161811"
+    }
+  ],
+  "start_date": "2026-10-13",
+  "votes": [],
+  "votos_publicados": false
+}

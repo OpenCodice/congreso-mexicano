@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4905759",
+      "denominacion": "Con el que remite de la titular del Ejecutivo Federal, Claudia Sheinbaum Pardo, los siguientes nombramientos en favor de personal diplomático.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905759_20250620_1750434943.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4907672",
+      "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Rafael Eugenio Laveaga Rendón, como Cónsul General de México en Atlanta, Georgia, Estados Unidos de América.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907672_20250625_1750867154.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-06-24"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-06-25"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Rafael Eugenio Laveaga Rendón, como Cónsul General de México en Atlanta, Georgia, Estados Unidos de América.",
+  "id": "sil-4908424",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4908424",
+  "sources": [
+    {
+      "archivo": "fuentes/c1/c15755d5f1df77877365961b3b80cac9b8468c43058f1e5d36c5cbbb0b679caf.html",
+      "consultado": "2026-11-16T16:37:10Z",
+      "sha256": "c15755d5f1df77877365961b3b80cac9b8468c43058f1e5d36c5cbbb0b679caf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908424&Asunto=4907672"
+    },
+    {
+      "archivo": "fuentes/c0/c0574b405537839ec0d05861c6684cdf4f01ddfc0f47955cec7eee73be3873ca.html",
+      "consultado": "2026-11-16T16:37:14Z",
+      "sha256": "c0574b405537839ec0d05861c6684cdf4f01ddfc0f47955cec7eee73be3873ca",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907672&Seguimiento=4908424"
+    }
+  ],
+  "tramites": {
+    "4907672": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 33
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 33 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Rafael Eugenio Laveaga Rendón, como Cónsul General de México en Atlanta, Georgia, Estados Unidos de América.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
+  "votaciones": [
+    "sil-4907672-1"
+  ]
+}

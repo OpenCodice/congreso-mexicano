@@ -1,0 +1,41 @@
+{
+  "asunto": "5098677",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 43
+    },
+    {
+      "option": "no",
+      "value": 79
+    },
+    {
+      "option": "abstain",
+      "value": 2
+    }
+  ],
+  "expediente_id": "sil-5097530",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5098677-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Que adiciona un inciso a la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para introducir una nueva causal de nulidad de elecciones por intervención extranjera.",
+    "text": "Se rechazó admitir a discusión la reserva de la Sen. Mely Romero Celis (PRI). A Favor: 43 En contra: 79 Abstenciones 2"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "fail",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4afe29c317385a54d65a0ae5585f5f1b2937db5896f10239f9feb6a8b8138cb7.html",
+      "consultado": "2026-11-16T18:33:55Z",
+      "sha256": "4afe29c317385a54d65a0ae5585f5f1b2937db5896f10239f9feb6a8b8138cb7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5098677"
+    }
+  ],
+  "start_date": "2026-05-28",
+  "votes": [],
+  "votos_publicados": false
+}

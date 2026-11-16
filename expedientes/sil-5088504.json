@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4921295",
+      "denominacion": "Que reforma y adiciona el artículo 14 de la Ley General de Educación Superior.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2025-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4921295_20250909_1756823445.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5083080",
+      "denominacion": "Con proyecto de decreto por el que adiciona un nuevo párrafo cuarto el artículo 14 de la Ley General de Educación Superior.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5083080_20260428_1777393058.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5138231",
+      "denominacion": "Con proyecto de decreto que adiciona un nuevo párrafo cuarto al artículo 14 de la Ley General de Educación Superior.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5138231_20260922_1790097228.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5143818",
+      "denominacion": "Minuta que adiciona el artículo 14 de la Ley General de Educación Superior.",
+      "estatus": "Pendiente en comisión(es) de revisora 29/09/2026",
+      "fecha": "2026-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5143818_20260929_1790708422.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-09-22"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-29"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que adiciona un nuevo párrafo cuarto al artículo 14 de la Ley General de Educación Superior.",
+  "id": "sil-5088504",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5088504",
+  "sources": [
+    {
+      "archivo": "fuentes/3a/3a514432da82ee3bbe7a799a1ed9d6d0066916fbe9d6290720a33339cd1a5823.html",
+      "consultado": "2026-11-16T18:24:35Z",
+      "sha256": "3a514432da82ee3bbe7a799a1ed9d6d0066916fbe9d6290720a33339cd1a5823",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5088504&Asunto=5138231"
+    },
+    {
+      "archivo": "fuentes/67/676dab9a30660f34740e5dc2a7cbba5b084afdce7306dc42c1c8fa4ff41700a7.html",
+      "consultado": "2026-11-16T18:24:39Z",
+      "sha256": "676dab9a30660f34740e5dc2a7cbba5b084afdce7306dc42c1c8fa4ff41700a7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5138231&Seguimiento=5088504"
+    }
+  ],
+  "tramites": {
+    "5138231": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 109
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 109 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 29/09/2026",
+  "votaciones": [
+    "sil-5138231-1"
+  ]
+}

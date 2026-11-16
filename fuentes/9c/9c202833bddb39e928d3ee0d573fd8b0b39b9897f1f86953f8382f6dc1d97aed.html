@@ -1,0 +1,669 @@
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHE22ZZ05R"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-BHE22ZZ05R');
+</script>
+<!-- Termina Google tag   -->
+
+<meta http-equiv="Content-Language" content="es-mx">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>
+SIL - Sistema de Información Legislativa-PopUp Historia del proceso legislativo
+</title>
+<link href="/template/skin/style.css" rel="stylesheet" type="text/css">
+</head>
+<script type="text/javascript">
+function AbrirAsunto(CveAsunto){
+	var open = window.open("/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4740598&HistoriaLeg=1&Asunto="+CveAsunto,"Seguimiento","top=0, left=0,scrollbars=yes");
+	open.focus();
+	window.location.href = "/Librerias/pp_HProcesoLegislativo.php?SID=&Seguimiento=4740598&Asunto="+CveAsunto;
+}
+</script>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table style="background-color:#14332c; width:100%; height:50px;">
+	<tr>
+		<td align="left" style="padding-top:5px; padding-right:5px; padding-bottom:5px; padding-left:5px;">
+		<a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/segob" target="_blank"><span class="logoSegob" style="background-color:#14332c;"><img height="36px" src="../../../../../mkb.app/portal/views/default/img/logoheader.svg" alt="SEGOB" />
+		<td style="align:right; width:60px;"><a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/tramites" target="_blank"><span>Tr&aacute;mites</span></a></td>
+		<td style="align:right; width:60px;"><a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/gobierno" target="_blank" >G<span>obierno</span></a></td>
+		<td style="align:right; width:20px;"><a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/busqueda?utf8=?" target="_blank" ><img height="16px" src="../../../../../mkb.app/portal/views/default/img/lupa.png" alt="Buscar" /></a></td>
+	</tr>
+</table>
+<table style="background-color:#134237; width:100%; height:50px;">
+	<tr>
+		<td>
+			<td style="align:right; width:10px;"><a style="color:#ffffff;" title="Inicio" href="http://silvmqa.gobernacion.gob.mx/portal/" target="_blank"><span>Inicio</span></a></td>
+            <td style="align:right; width:60px; padding:10px;"><a style="color:#ffffff;" title="Bienvenida. El Sistema de Informaci&oacute;n Legislativa (SIL) surge el 19 de agosto de 2003 como una plataforma digital que pretende apoyar la relaci&oacute;n entre los poderes Ejecutivo y Legislativo; promover en la ciudadan&iacute;a el inter&eacute;s por los asuntos legislativos; y, contribuir a facilitar el compromiso de transparentar la informaci&oacute;n gubernamental.
+            El SIL permite acceder en tiempo real a las sesiones que se desarrollan en los plenos de las C&aacute;maras del H. Congreso de la Uni&oacute;n, a trav&eacute;s del m&oacute;dulo Minuto a Minuto; y, a la informaci&oacute;n generada durante &eacute;stas mediante los reportes que formula.
+            Adicionalmente es posible consultar el acervo de noticias legislativas; y, conocer el perfil curricular de las y los legisladores as&iacute; como el desarrollo de su actividad legislativa, sus votaciones e intervenciones en los asuntos que se discuten." href="http://silvmqa.gobernacion.gob.mx/portal/Contacto/acerca" target="_blank">A<span>cerca de</span></a></td>
+            <td style="align:right; width:60px; padding:10px;"><a style="color:#ffffff;" title="Bienvenida. El Sistema de Informaci&oacute;n Legislativa (SIL) surge el 19 de agosto de 2003 como una plataforma digital que pretende apoyar la relaci&oacute;n entre los poderes Ejecutivo y Legislativo; promover en la ciudadan&iacute;a el inter&eacute;s por los asuntos legislativos; y, contribuir a facilitar el compromiso de transparentar la informaci&oacute;n gubernamental.
+            El SIL permite acceder en tiempo real a las sesiones que se desarrollan en los plenos de las C&aacute;maras del H. Congreso de la Uni&oacute;n, a trav&eacute;s del m&oacute;dulo Minuto a Minuto; y, a la informaci&oacute;n generada durante &eacute;stas mediante los reportes que formula.
+            Adicionalmente es posible consultar el acervo de noticias legislativas; y, conocer el perfil curricular de las y los legisladores as&iacute; como el desarrollo de su actividad legislativa, sus votaciones e intervenciones en los asuntos que se discuten." href="http://silvmqa.gobernacion.gob.mx/portal/Contacto/acerca" target="_blank">A<span>cerca de</span></a></td>
+            <td style="align:right; width:10px;"><a style="color:#ffffff;" title="Contacto" href="http://silvmqa.gobernacion.gob.mx/portal/Contacto/contactanos" target="_blank">C<span>ontacto</span></a></td>
+		</td>
+	</tr>
+</table>
+<table style="background-color:#faf8f0; width:100%; background:../../../../../mkb.app/portal/views/default/img/fondo.png;">
+	<tr><td><img width="1000" src="../../../../../mkb.app/portal/views/default/img/encabezado3.png" alt="SEGOB" /></td></tr>
+</table><br>
+<!-- Titulo principal de la pagina  -->
+<table align="center">
+    <tr>
+        <td></td>
+        <td  align="center" class='SubTitle'>Historial del proceso legislativo</td>
+    </tr>
+    <tr><td colspan="5"><hr class="divisorHead" width='980px'><br><br></td></tr>
+</table>
+<br>
+<table align='center' width='600'>
+	<tr>
+		<td class='tdcriterio' align='center'><b>Denominaci&oacute;n</b><br></td>
+	</tr>
+	<tr>
+		<td><hr class="divisor" width='100%'></td>
+	</tr>
+	<tr>
+		<td class='simpletextmayor2'><br> Contemplado en:&nbsp;Que reforma sesenta y cinco ordenamientos legales en materia de homologación normativa respecto del Código Nacional de Procedimientos Civiles y Familiares.  <br><br></td>
+	</tr>
+</table><br><br>
+<table align='center'>
+	<tr>
+		<td class='tdcriterio' width='5%' align='center'>No</td>
+		<td class='tdcriterio' width='10%' align='center'>Fecha</td>
+		<td class='tdcriterio' width='15%' align='center'>Tipo del Asunto</td>
+		<td class='tdcriterio' width='40%' align='center'>Denominaci&oacute;n del Asunto</td>
+		<td class='tdcriterio' width='20%' align='center'>Estatus</td>
+		<td class='tdcriteriogr' width='5%' align='center'>PDF</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>1</td>
+		<td class='simpletextmayor2' align='center'>13/12/2023</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E1' onclick ='AbrirAsunto("4684843");'>Que reforma y adiciona diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en relación al Código Nacional de Procedimientos Civiles y Familiares en materia de supletoriedad.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2023/12/asun_4684843_20231213_1693931997.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>2</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E2' onclick ='AbrirAsunto("4706412");'>Que reforma diversas disposiciones del Código Civil Federal en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706412_20240221_1708541981.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>3</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E3' onclick ='AbrirAsunto("4706480");'>Que reforma diversas disposiciones del Código de Comercio, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706480_20240221_1708558103.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>4</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E4' onclick ='AbrirAsunto("4706482");'>Que reforma el artículo 130 del Código Fiscal de la Federación, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706482_20240221_1708558128.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>5</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E5' onclick ='AbrirAsunto("4706484");'>Que reforma el artículo 138 del Código Nacional de Procedimientos Penales, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706484_20240221_1708558137.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>6</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E6' onclick ='AbrirAsunto("4706486");'>Que reforma el artículo 137 del Código Militar de Procedimientos Penales, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706486_20240221_1708558148.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>7</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E7' onclick ='AbrirAsunto("4706488");'>Que reforma el artículo 36 de la Ley de Asociaciones Religiosas y Culto Público, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706488_20240221_1708558158.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>8</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E8' onclick ='AbrirAsunto("4706490");'>Que reforma el artículo 42 de la Ley de la Policía Federal.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706490_20240221_1708558167.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>9</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E9' onclick ='AbrirAsunto("4706492");'>Que reforma el artículo 126 de la Ley del Sistema Nacional de Información Estadística y Geográfica, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706492_20240221_1708558177.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>10</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E10' onclick ='AbrirAsunto("4706494");'>Que reforma los artículos 12, 121 y 132 de la Ley Federal de Competencia Económica, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706494_20240221_1708558189.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>11</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E11' onclick ='AbrirAsunto("4706496");'>Que reforma los artículos 3° y 400 de la Ley Federal de Protección a la Propiedad Industrial, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706496_20240221_1708558199.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>12</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E12' onclick ='AbrirAsunto("4706504");'>Que reforma el artículo 6° de la Ley de Firma Electrónica Avanzada.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706504_20240221_1708558237.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>13</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E13' onclick ='AbrirAsunto("4706506");'>Que reforma el artículo 68 de la Ley de la Fiscalía General de la República.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706506_20240221_1708558249.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>14</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E14' onclick ='AbrirAsunto("4706508");'>Que reforma diversas disposiciones de la Ley de Navegación y Comercio Marítimos, en materia de homologación legislativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706508_20240221_1708558267.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>15</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E15' onclick ='AbrirAsunto("4706510");'>Que reforma el artículo 61 de la Ley de Vertimientos en las Zonas Marinas Mexicanas.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706510_20240221_1708558280.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>16</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E16' onclick ='AbrirAsunto("4706514");'>Que reforma diversas disposiciones de la Ley de Sistemas de Pagos, en materia de homologación legislativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706514_20240221_1708558302.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>17</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E17' onclick ='AbrirAsunto("4706516");'>Que reforma diversas disposiciones de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, en materia de homologación legislativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706516_20240221_1708558315.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>18</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E18' onclick ='AbrirAsunto("4706518");'>Que reforma el artículo 11 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706518_20240221_1708558434.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>19</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E19' onclick ='AbrirAsunto("4706520");'>Que reforma el artículo 11 de la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706520_20240221_1708558507.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>20</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E20' onclick ='AbrirAsunto("4706522");'>Que reforma diversas disposiciones de la Ley Federal de Responsabilidad Ambiental, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706522_20240221_1708559087.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>21</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E21' onclick ='AbrirAsunto("4706524");'>Que reforma los artículos 4°, 63 y 71 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706524_20240221_1708559093.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>22</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E22' onclick ='AbrirAsunto("4706526");'>Que reforma los artículos 5º y 114 de la Ley General de Bienes Nacionales, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706526_20240221_1708559101.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>23</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E23' onclick ='AbrirAsunto("4706528");'>Que reforma los artículos 8º y 35 de la Ley Reglamentaria del artículo 6°, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia de derecho de réplica.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706528_20240221_1708559108.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>24</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E24' onclick ='AbrirAsunto("4706530");'>Que reforma el artículo 11 de la Ley sobre la Celebración de Tratados.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706530_20240221_1708559114.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>25</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E25' onclick ='AbrirAsunto("4706532");'>Que reforma diversas disposiciones de la Ley de Protección y Defensa al Usuario de Servicios Financieros.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706532_20240221_1708559123.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>26</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E26' onclick ='AbrirAsunto("4706534");'>Que reforma los artículos 26 y 114 de la Ley Federal de Protección al Consumidor, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706534_20240221_1708559131.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>27</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E27' onclick ='AbrirAsunto("4706536");'>Que reforma el artículo 202 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706536_20240221_1708559139.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>28</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E28' onclick ='AbrirAsunto("4706538");'>Que reforma los artículos 2º, 10 y 27 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706538_20240221_1708559146.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>29</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E29' onclick ='AbrirAsunto("4706544");'>Que reforma el artículo 9º de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706544_20240221_1708559344.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>30</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E30' onclick ='AbrirAsunto("4706546");'>Que reforma el artículo 5º de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706546_20240221_1708560024.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>31</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E31' onclick ='AbrirAsunto("4706548");'>Que reforma los artículos 10 y 213 de la Ley Federal del Derecho de Autor, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706548_20240221_1708560033.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>32</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E32' onclick ='AbrirAsunto("4706550");'>Que reforma el artículo 3º de la Ley General de Archivos, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706550_20240221_1708560042.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>33</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E33' onclick ='AbrirAsunto("4706552");'>Que reforma el artículo 4º de la Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706552_20240221_1708560050.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>34</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E34' onclick ='AbrirAsunto("4706554");'>Que reforma el artículo 1º de la Ley Reglamentaria de las fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706554_20240221_1708560059.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>35</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E35' onclick ='AbrirAsunto("4706560");'>Que reforma los artículos 109 Bis y 225 de la Ley de Instituciones de Crédito, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706560_20240221_1708560083.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>36</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E36' onclick ='AbrirAsunto("4706562");'>Que reforma diversas disposiciones de la Ley de Instituciones de Seguros y de Fianzas, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706562_20240221_1708560090.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>37</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E37' onclick ='AbrirAsunto("4706564");'>Que reforma los artículos 4º y 95 de la Ley General del Sistema de Medios de Impugnación, en materia electoral.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706564_20240221_1708560098.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>38</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E38' onclick ='AbrirAsunto("4706566");'>Que reforma diversas disposiciones de la Ley Orgánica del Poder Judicial de la Federación, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706566_20240221_1708560106.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>39</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E39' onclick ='AbrirAsunto("4706568");'>Que reforma el artículo 30 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706568_20240221_1708560396.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>40</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E40' onclick ='AbrirAsunto("4706570");'>Que reforma el artículo 102 de la Ley para Regular las Instituciones de Tecnología Financiera, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706570_20240221_1708560403.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>41</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E41' onclick ='AbrirAsunto("4706572");'>Que reforma el artículo 5° de la Ley Reglamentaria de la fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706572_20240221_1708560411.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>42</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E42' onclick ='AbrirAsunto("4706576");'>Que reforma el artículo 8° de la Ley de Concursos Mercantiles, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706576_20240221_1708560428.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>43</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E43' onclick ='AbrirAsunto("4706578");'>Que reforma el artículo 88 Bis 4 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706578_20240221_1708560787.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>44</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E44' onclick ='AbrirAsunto("4706580");'>Que reforma el artículo 73 de la Ley General de Turismo, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706580_20240221_1708560796.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>45</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E45' onclick ='AbrirAsunto("4706582");'>Que reforma los artículos 141 y 161 de la Ley para Regular las Agrupaciones Financieras, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706582_20240221_1708560803.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>46</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E46' onclick ='AbrirAsunto("4706586");'>Que reforma el artículo 6° de la Ley de Fondos de Aseguramiento Agropecuario y Rural, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706586_20240221_1708560823.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>47</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E47' onclick ='AbrirAsunto("4706588");'>Que reforma el artículo 389 de la Ley del Mercado de Valores, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706588_20240221_1708560831.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>48</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E48' onclick ='AbrirAsunto("4706590");'>Que reforma el artículo 84 Bis de la Ley de Fondos de Inversión, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706590_20240221_1708624400.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>49</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E49' onclick ='AbrirAsunto("4706592");'>Que reforma el artículo 108 de la Ley de Uniones de Crédito, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706592_20240221_1708624687.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>50</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E50' onclick ='AbrirAsunto("4706594");'>Que reforma el artículo 9° de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706594_20240221_1708624698.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>51</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E51' onclick ='AbrirAsunto("4706598");'>Que reforma el artículo 111 de la Ley de los Sistemas de Ahorro para el Retiro, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706598_20240221_1708624717.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>52</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E52' onclick ='AbrirAsunto("4706600");'>Que reforma el artículo 8° de la Ley de Seguridad Nacional, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706600_20240221_1708624755.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>53</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E53' onclick ='AbrirAsunto("4706602");'>Que reforma el artículo 6° de la Ley Federal de Telecomunicaciones y Radiodifusión, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706602_20240221_1708624766.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>54</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E54' onclick ='AbrirAsunto("4706604");'>Que reforma el artículo 83 de la Ley General de Cultura Física y Deporte, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706604_20240221_1708624775.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>55</td>
+		<td class='simpletextmayor2' align='center'>21/02/2024</td>
+		<td class='simpletextmayor2' align='center'>Iniciativa</td>
+		<td class='simpletextmayor2' align='left'><a href='#E55' onclick ='AbrirAsunto("4706606");'>Que reforma el artículo 5° Ter de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en materia de homologación normativa.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/02/asun_4706606_20240221_1708624784.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>56</td>
+		<td class='simpletextmayor2' align='center'>10/04/2024</td>
+		<td class='simpletextmayor2' align='center'>Dictamen de primera lectura / Declaratoria de publicidad</td>
+		<td class='simpletextmayor2' align='left'><a href='#E56' onclick ='AbrirAsunto("4738603");'>Que reforma sesenta y cinco ordenamientos legales en materia de homologación normativa respecto del Código Nacional de Procedimientos Civiles y Familiares. </a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/04/asun_4738603_20240410_1712762691.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>57</td>
+		<td class='simpletextmayor2' align='center'>17/04/2024</td>
+		<td class='simpletextmayor2' align='center'>Minuta</td>
+		<td class='simpletextmayor2' align='left'><a href='#E57' onclick ='AbrirAsunto("4743328");'>Con proyecto de decreto que reforma diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/04/asun_4743328_20240417_1713276205.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>58</td>
+		<td class='simpletextmayor2' align='center'>26/11/2024</td>
+		<td class='simpletextmayor2' align='center'>Dictamen de primera lectura / Declaratoria de publicidad</td>
+		<td class='simpletextmayor2' align='left'><a href='#E58' onclick ='AbrirAsunto("4809155");'>Con proyecto de decreto que reforma diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2024/11/asun_4809155_20241126_1732672117.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>59</td>
+		<td class='simpletextmayor2' align='center'>18/09/2025</td>
+		<td class='simpletextmayor2' align='center'>Dictamen de primera lectura / Declaratoria de publicidad</td>
+		<td class='simpletextmayor2' align='left'><a href='#E59' onclick ='AbrirAsunto("4928128");'>Con proyecto de decreto por el que reforma diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2025/09/asun_4928128_20250918_1758214480.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>60</td>
+		<td class='simpletextmayor2' align='center'>23/09/2025</td>
+		<td class='simpletextmayor2' align='center'>Dictamen a discusión</td>
+		<td class='simpletextmayor2' align='left'><a href='#E60' onclick ='AbrirAsunto("4930483");'>Con proyecto de decreto que reforma diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2025/09/asun_4930483_20250923_1758643372.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>61</td>
+		<td class='simpletextmayor2' align='center'>30/09/2025</td>
+		<td class='simpletextmayor2' align='center'>Minuta</td>
+		<td class='simpletextmayor2' align='left'><a href='#E61' onclick ='AbrirAsunto("4935580");'>Que reforma diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares, que devuelve para los efectos de la Fracción E) del artículo 72 Constitucional.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2025/09/asun_4935580_20250930_1759246122.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+		<tr>
+		<td class='simpletextmayor2' align='center'>62</td>
+		<td class='simpletextmayor2' align='center'>01/10/2025</td>
+		<td class='simpletextmayor2' align='center'>Minuta</td>
+		<td class='simpletextmayor2' align='left'><a href='#E62' onclick ='AbrirAsunto("4940543");'>Que reforma diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares, que devuelve para los efectos de la Fracción e) del artículo 72 Constitucional.</a></td>
+		<td class='simpletextmayor2' align='center'>Publicado en DOF<BR><BR>14/11/2025</td>
+		<TD class='simpletextmayor2' align='center'><a href='/Archivos/Documentos/2025/10/asun_4940543_20251001_1759346236.pdf' target='_blank'><img src='/template/skin/pdf.gif' border='0' alt='Ver archivo'></a><br></TD>		</td>
+	</tr>
+	<tr><td colspan="6"><hr class='divisor'></td></tr>
+	</table>
+<HR class="divisorBotones" width="97%"><br><br>
+<div id="Botonera" align="center">
+<TABLE align="center" width="100%">
+<tr>
+	<td align="center">
+		<button alt="Si deseas cerrar la busqueda debes de dar click aqui" class="buttonA button2" OnClick="window.close();">Cerrar</button>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<button alt="Si deseas imprimir esta busqueda debes de dar click aqui." class="buttonA button2" OnClick="Imprimir(); return(false);">Imprimir</button>
+	</td>
+</tr>
+</TABLE>
+</div>
+</body>
+</html>
+<SCRIPT type="text/javascript">
+    function Imprimir()
+    {
+        var Botonera=document.getElementById("Botonera");
+        var htmltemp="";
+        var htmltemp=Botonera.innerHTML;
+        Botonera.innerHTML="<img src='/template/skin/fotter.jpg' alt='Los contenidos del SIL provienen de Documentos emitidos por las C&aacute;maras de Diputados y Senadores (Gaceta Parlamentaria, Diario de los Debates, Versi&oacute;n Estenogr&aacute;fica) adem&aacute;s del Diario Oficial de la Federación.' border='0' align='center'>";
+        window.print();
+        Botonera.innerHTML=htmltemp;
+    }
+</SCRIPT>

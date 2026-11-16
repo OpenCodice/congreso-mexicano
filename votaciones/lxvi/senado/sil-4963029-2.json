@@ -1,0 +1,41 @@
+{
+  "asunto": "4963029",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 74
+    },
+    {
+      "option": "no",
+      "value": 35
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4951963",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4963029-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Por la que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 74 En contra: 35 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ac/ac186f1252aeb933b3f53c810371f28f29778e4135beee05e050e510d05cda37.html",
+      "consultado": "2026-11-16T17:01:50Z",
+      "sha256": "ac186f1252aeb933b3f53c810371f28f29778e4135beee05e050e510d05cda37",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4963029"
+    }
+  ],
+  "start_date": "2025-10-29",
+  "votes": [],
+  "votos_publicados": false
+}

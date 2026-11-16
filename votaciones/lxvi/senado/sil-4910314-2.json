@@ -1,0 +1,41 @@
+{
+  "asunto": "4910314",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 66
+    },
+    {
+      "option": "no",
+      "value": 31
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4861114",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4910314-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 66 En contra: 31 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/14/14a62806b30ed5c41b70ed55fec4f8291de6122b8dab9c1af458a012e3505955.html",
+      "consultado": "2026-11-16T16:08:07Z",
+      "sha256": "14a62806b30ed5c41b70ed55fec4f8291de6122b8dab9c1af458a012e3505955",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4910314"
+    }
+  ],
+  "start_date": "2025-07-01",
+  "votes": [],
+  "votos_publicados": false
+}

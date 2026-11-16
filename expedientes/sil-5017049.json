@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4895833",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895833_20250430_1742510724.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016130",
+      "denominacion": "Que reforma los artículos 33 y 102 de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016130_20260217_1771349660.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016219",
+      "denominacion": "Que reforma los artículos 33 y 102 de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016219_20260217_1771350989.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017182",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 33 y 102 de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017182_20260218_1771436220.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 33 y 102 de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial.",
+  "id": "sil-5017049",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017049",
+  "sources": [
+    {
+      "archivo": "fuentes/ae/ae42d19a6842e587299be34a96a86476989f6dc4dd529b8a1b86e302b602524a.html",
+      "consultado": "2026-11-16T17:43:46Z",
+      "sha256": "ae42d19a6842e587299be34a96a86476989f6dc4dd529b8a1b86e302b602524a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017049&Asunto=5016219"
+    },
+    {
+      "archivo": "fuentes/f7/f748f09af71ca02119080b8ba6145e20cc6c1b2fac9749c0613611415967eb12.html",
+      "consultado": "2026-11-16T17:43:50Z",
+      "sha256": "f748f09af71ca02119080b8ba6145e20cc6c1b2fac9749c0613611415967eb12",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016219&Seguimiento=5017049"
+    }
+  ],
+  "tramites": {
+    "5016219": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma los artículos 33 y 102 de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 442
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 442 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016219-1"
+  ]
+}

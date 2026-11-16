@@ -1,0 +1,182 @@
+{
+  "asuntos": [
+    {
+      "clave": "4942227",
+      "denominacion": "Que expide la Ley Orgánica de la Armada de México.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4942227_20251007_1759846703.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4953597",
+      "denominacion": "Que expide la Ley Orgánica de la Armada de México.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4953597_20251021_1761056646.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4955927",
+      "denominacion": "Que expide la Ley Orgánica de la Armada de México.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4955927_20251022_1761163845.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4958611",
+      "denominacion": "Con proyecto de decreto por el que se expide la Ley Orgánica de la Armada de México.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4958611_20251028_1761665310.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4961195",
+      "denominacion": "Con proyecto de decreto por el que expide la Ley Orgánica de la Armada de México.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4961195_20251028_1761694586.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4963033",
+      "denominacion": "Con proyecto de decreto por el que expide la Ley Orgánica de la Armada de México.",
+      "estatus": "Publicado en DOF 07/11/2025",
+      "fecha": "2025-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4963033_20251029_1761694587.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-11-07"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que expide la Ley Orgánica de la Armada de México.",
+  "id": "sil-4955430",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-11-07",
+  "seguimiento": "4955430",
+  "sources": [
+    {
+      "archivo": "fuentes/ba/ba120b86e900f749a5ec9533fbcf3c93cf6717e58f1d0ed9ecd0e98a4d9be0b1.html",
+      "consultado": "2026-11-16T17:02:09Z",
+      "sha256": "ba120b86e900f749a5ec9533fbcf3c93cf6717e58f1d0ed9ecd0e98a4d9be0b1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4955430&Asunto=4963033"
+    },
+    {
+      "archivo": "fuentes/be/bebb9eee0fc764179ae9fc760fc6c3500b301fdffd1697057f66fef41bff5fb0.html",
+      "consultado": "2026-11-16T17:02:13Z",
+      "sha256": "bebb9eee0fc764179ae9fc760fc6c3500b301fdffd1697057f66fef41bff5fb0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4963033&Seguimiento=4955430"
+    }
+  ],
+  "tramites": {
+    "4955927": [
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley Orgánica de la Armada de México.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que expide la Ley Orgánica de la Armada de México.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "informa que las propuestas de modificación del proyecto de dictamen que no fueron presentadas en tribuna serán incorporadas íntegramente en el Diario de los Debates como lo ha instruido cada legisladora y legislador.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "1, 2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 16, 19, 21, 22, 25, 26, 28, 30, 37, 38, 42, 47, 62, 70, 71, 72, 75, 77, 82, 84, 86, 90, 91, 92, 93, 94, 96, 100 y 101 del proyecto de decreto; y el Artículo Tercero Transitorio.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "texto": "La presidenta de la Mesa Directiva informa que las propuestas de modificación al proyecto de dictamen que no fueron presentadas en tribuna serán incorporadas íntegramente en el Diario de los Debates como lo ha instruido cada legisladora y legislador.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 127,
+          "yes": 344
+        },
+        "texto": "Aprobado en lo general y en lo particular en un solo acto. A Favor: 344 En contra: 127 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4963033": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó la moción suspensiva del Sen. Añorve Baños Manuel (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 32,
+          "yes": 69
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados Solo para registro en el Diario de los Debates. A favor: Sen. Alberto Anaya Gutiérrez (PT), Sen. Juan Carlos Loera De la Rosa (Morena) y Sen. Saúl Monreal Ávila (Morena). En contra: Sen. Gustavo Sánchez Vásquez (PAN). A Favor: 69 En contra: 32 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó las reservas al dictamen, presentada por la Sen. Anaya Mota Claudia Edith (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó las reservas al dictamen, presentadas por la Sen. Gina Gerardina Campuzano González (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 31,
+          "yes": 72
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 72 En contra: 31 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/11/2025",
+  "votaciones": [
+    "sil-4955927-1",
+    "sil-4963033-1",
+    "sil-4963033-2"
+  ]
+}

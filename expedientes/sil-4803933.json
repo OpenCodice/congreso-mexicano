@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "4800089",
+      "denominacion": "Con el que somete para su ratificación el ascenso al grado inmediato a 110 Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata de la Armada de México.",
+      "estatus": "Resuelto / Aprobado 13/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800089_20241112_1731423794.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4803242",
+      "denominacion": "Por el que se ratifican 110 ascensos de Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata de la Armada de México.",
+      "estatus": "Resuelto / Aprobado 13/11/2024",
+      "fecha": "2024-11-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4803242_20241113_1732574579.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-11-13"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-11-13"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-11-13"
+    },
+    {
+      "estatus": "Resuelto / Aprobado",
+      "fecha": "2024-11-13"
+    }
+  ],
+  "denominacion": "Por el que se ratifican 110 ascensos de Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata de la Armada de México.",
+  "id": "sil-4803933",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4803933",
+  "sources": [
+    {
+      "archivo": "fuentes/71/71268a1bcfcf1bdb9e3659182e4dfcf22d7e2385a9f6886ab7053a7685de177a.html",
+      "consultado": "2026-11-16T15:43:52Z",
+      "sha256": "71268a1bcfcf1bdb9e3659182e4dfcf22d7e2385a9f6886ab7053a7685de177a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4803933&Asunto=4803242"
+    },
+    {
+      "archivo": "fuentes/60/605ca1d81a0fc675bb92b6744f5061991f14b90b80c159648e0f462595766ff9.html",
+      "consultado": "2026-11-16T15:43:56Z",
+      "sha256": "605ca1d81a0fc675bb92b6744f5061991f14b90b80c159648e0f462595766ff9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4803242&Seguimiento=4803933"
+    }
+  ],
+  "tramites": {
+    "4803242": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de publicación previa de veinticuatro horas del dictamen, a efecto de que sea discutido en esta sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 109
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 109 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "a la titular del Poder Ejecutivo Federal.",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Resuelto / Aprobado Aprobado 13/11/2024",
+  "votaciones": [
+    "sil-4803242-1"
+  ]
+}

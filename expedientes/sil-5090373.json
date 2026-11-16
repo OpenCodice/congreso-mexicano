@@ -1,0 +1,128 @@
+{
+  "asuntos": [
+    {
+      "clave": "4817638",
+      "denominacion": "Que adiciona el artículo 537 de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2024-12-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4817638_20241205_1729112092.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4809996",
+      "denominacion": "Que reforma los artículos 3º y 133 de la Ley Federal del Trabajo.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2024-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4809996_20241127_1729638823.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086668",
+      "denominacion": "Que reforma diversas disposiciones de la Ley Federal del Trabajo, para fomentar el primer empleo de personas jóvenes.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086668_20260429_1777482211.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5088431",
+      "denominacion": "Que reforma diversas disposiciones de la Ley Federal del Trabajo, para fomentar el primer empleo de personas jóvenes.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5088431_20260429_1777490906.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120779",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley Federal del Trabajo, para fomentar el primer empleo de personas jóvenes.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120779_20260902_1788360154.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley Federal del Trabajo, para fomentar el primer empleo de personas jóvenes.",
+  "id": "sil-5090373",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5090373",
+  "sources": [
+    {
+      "archivo": "fuentes/6b/6bf1be6513648a221dfc8ad1442756c762340b02221b7d82d190eb3599428dfd.html",
+      "consultado": "2026-11-16T18:26:23Z",
+      "sha256": "6bf1be6513648a221dfc8ad1442756c762340b02221b7d82d190eb3599428dfd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090373&Asunto=5088431"
+    },
+    {
+      "archivo": "fuentes/7e/7e9d934d9f1251051f00ce44edcc68078a56772481e00112ad6c63943cb1ded1.html",
+      "consultado": "2026-11-16T18:26:26Z",
+      "sha256": "7e9d934d9f1251051f00ce44edcc68078a56772481e00112ad6c63943cb1ded1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088431&Seguimiento=5090373"
+    }
+  ],
+  "tramites": {
+    "5088431": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Trabajo y Previsión Social que reforma diversas disposiciones de la Ley Federal del Trabajo para fomentar el primer empleo de personas jóvenes.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "a la propuesta de modificación.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado admitir a discusión la reserva formulada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado si la propuesta de modificación se encuentra suficientemente discutida.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado si se acepta la propuesta de modificación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 448
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 448 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-5088431-1"
+  ]
+}

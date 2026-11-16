@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4946547",
+      "denominacion": "Con el que remite el nombramiento de Roberto Velasco Álvarez, como Subsecretario para América del Norte de la Secretaría de Relaciones Exteriores.",
+      "estatus": "Toma de protesta 14/10/2025",
+      "fecha": "2025-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4946547_20251014_1760454248.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4948236",
+      "denominacion": "Por el que se ratifica el nombramiento que la Presidenta de la República, hace a favor de Roberto Velasco Álvarez, como Subsecretario para América del Norte de la Secretaría de Relaciones Exteriores.",
+      "estatus": "Toma de protesta 14/10/2025",
+      "fecha": "2025-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4948236_20251014_1760461758.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-10-14"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-10-14"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento que la Presidenta de la República, hace a favor de Roberto Velasco Álvarez, como Subsecretario para América del Norte de la Secretaría de Relaciones Exteriores.",
+  "id": "sil-4949250",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4949250",
+  "sources": [
+    {
+      "archivo": "fuentes/e8/e82b1bf273a1b141468881371b944afecdb49f9753a4efd7e534fc7b4716a911.html",
+      "consultado": "2026-11-16T16:57:30Z",
+      "sha256": "e82b1bf273a1b141468881371b944afecdb49f9753a4efd7e534fc7b4716a911",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4949250&Asunto=4948236"
+    },
+    {
+      "archivo": "fuentes/e6/e6364215b611f7bfe6787fb500c49a96a4c8ef343a660d616909d6819275c5ce.html",
+      "consultado": "2026-11-16T16:57:33Z",
+      "sha256": "e6364215b611f7bfe6787fb500c49a96a4c8ef343a660d616909d6819275c5ce",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4948236&Seguimiento=4949250"
+    }
+  ],
+  "tramites": {
+    "4948236": [
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 11,
+          "no": 1,
+          "yes": 94
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 1 Abstenciones 11",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 14/10/2025",
+  "votaciones": [
+    "sil-4948236-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "5062615",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 92
+    },
+    {
+      "option": "no",
+      "value": 11
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5062783",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5062615-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma los artículos 40, fracción I, de la Ley Orgánica de la Administración Pública Federal; 15, fracciones IV y VI, de la Ley de Comercio Exterior y se adiciona el artículo 283 Quater a la Ley Federal del Trabajo, en materia de certificación laboral para la agroexportación y protección de los ecosistemas forestales.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 92 En contra: 11 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f8/f8290543245f0bbd11ef47c9ac0d357f54d0e4c34c94443bd4ab9be20aec9d0f.html",
+      "consultado": "2026-11-16T18:13:30Z",
+      "sha256": "f8290543245f0bbd11ef47c9ac0d357f54d0e4c34c94443bd4ab9be20aec9d0f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5062615"
+    }
+  ],
+  "start_date": "2026-04-08",
+  "votes": [],
+  "votos_publicados": false
+}

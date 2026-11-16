@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825459",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Educación, de la Ley de Migración y de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de trata de personas y para la protección y asistencia a las víctimas de estos delitos.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/03/2026",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825459_20241213_1734111031.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4976183",
+      "denominacion": "Con proyecto decreto por el que reforma y adiciona diversas disposiciones de la Ley de Migración y de la Ley General para Prevenir, Sancionar y Erradicar los delitos en materia de trata de personas y para la Protección y asistencia a las víctimas de estos delitos.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/03/2026",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4976183_20251119_1763576083.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5036730",
+      "denominacion": "Con proyecto decreto por el que reforma y adiciona diversas disposiciones de la Ley de Migración y de la Ley General para Prevenir, Sancionar y Erradicar los delitos en materia de trata de personas y para la Protección y asistencia a las víctimas de estos delitos.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/03/2026",
+      "fecha": "2026-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5036730_20260311_1773174354.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5038434",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Migración y de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/03/2026",
+      "fecha": "2026-03-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5038434_20260318_1773854329.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-18"
+    }
+  ],
+  "denominacion": "Con proyecto decreto por el que reforma y adiciona diversas disposiciones de la Ley de Migración y de la Ley General para Prevenir, Sancionar y Erradicar los delitos en materia de trata de personas y para la Protección y asistencia a las víctimas de estos delitos.",
+  "id": "sil-4979639",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4979639",
+  "sources": [
+    {
+      "archivo": "fuentes/c2/c2662fbbdf6d766f7452ef26dfccd1134bb6b72c19f08571b5b0b570a6c2674f.html",
+      "consultado": "2026-11-16T17:15:21Z",
+      "sha256": "c2662fbbdf6d766f7452ef26dfccd1134bb6b72c19f08571b5b0b570a6c2674f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4979639&Asunto=5036730"
+    },
+    {
+      "archivo": "fuentes/bf/bf7a574a1fba0ea8bb461a62da7a6cafab1d56b189ccfcb989929ca7b9378a76.html",
+      "consultado": "2026-11-16T17:15:25Z",
+      "sha256": "bf7a574a1fba0ea8bb461a62da7a6cafab1d56b189ccfcb989929ca7b9378a76",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5036730&Seguimiento=4979639"
+    }
+  ],
+  "tramites": {
+    "5036730": [
+      {
+        "texto": "Aprobado omitir su lectura.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 112
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 112 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/03/2026",
+  "votaciones": [
+    "sil-5036730-1"
+  ]
+}

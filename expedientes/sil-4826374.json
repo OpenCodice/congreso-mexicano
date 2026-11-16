@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825007",
+      "denominacion": "Con el que remite la ratificación del nombramiento de Rutilio Cruz Escandón Cadenas, como Cónsul General de México en Miami, Florida, Estados Unidos de América.",
+      "estatus": "Toma de protesta 13/12/2024",
+      "fecha": "2024-12-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825007_20241212_1734036217.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4826101",
+      "denominacion": "Por el que ratifica el nombramiento de Rutilio Cruz Escandón Cadenas, como Cónsul General de México en Miami, Florida, Estados Unidos de América.",
+      "estatus": "Toma de protesta 13/12/2024",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4826101_20241213_1734120602.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-12-13"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-12-13"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-12-13"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2024-12-13"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento de Rutilio Cruz Escandón Cadenas, como Cónsul General de México en Miami, Florida, Estados Unidos de América.",
+  "id": "sil-4826374",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4826374",
+  "sources": [
+    {
+      "archivo": "fuentes/10/105c8abf94c87f1bbca832910e3ad8eb70351b06431adba9660b39c71595c3a3.html",
+      "consultado": "2026-11-16T15:55:06Z",
+      "sha256": "105c8abf94c87f1bbca832910e3ad8eb70351b06431adba9660b39c71595c3a3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4826374&Asunto=4826101"
+    },
+    {
+      "archivo": "fuentes/b4/b45b42bfef5c30a665672bf87ef04c8b9e5b5fc5dc7921030fc80e81bee41b50.html",
+      "consultado": "2026-11-16T15:55:10Z",
+      "sha256": "b45b42bfef5c30a665672bf87ef04c8b9e5b5fc5dc7921030fc80e81bee41b50",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4826101&Seguimiento=4826374"
+    }
+  ],
+  "tramites": {
+    "4826101": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado integrar el asunto al orden del día.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para dar lectura a los artículos 10 y 61 del Reglamento de Senado, a efecto de puntualizar a la asamblea los derechos y obligaciones de las y los senadores.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 5,
+          "no": 22,
+          "yes": 65
+        },
+        "texto": "Aprobado en lo general y en lo particular Senadores en contra sólo para el registro en el Diario de los Debates: Sen. Ricardo Anaya Cortés (PAN) y Sen. Francisco Javier Ramírez Acuña (PAN). A Favor: 65 En contra: 22 Abstenciones 5",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de Rutilio Cruz Escandón Cadenas, como Cónsul General de México en Miami, Florida, Estados Unidos de América.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 13/12/2024",
+  "votaciones": [
+    "sil-4826101-1"
+  ]
+}

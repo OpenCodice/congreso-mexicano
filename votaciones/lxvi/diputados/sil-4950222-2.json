@@ -1,0 +1,41 @@
+{
+  "asunto": "4950222",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 352
+    },
+    {
+      "option": "no",
+      "value": 128
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4951963",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4950222-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 352 En contra: 128 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f8/f8409a65f055a99607e80d246617b18d31487c487bc4548fbc4a01cf97f29b50.html",
+      "consultado": "2026-11-16T17:01:09Z",
+      "sha256": "f8409a65f055a99607e80d246617b18d31487c487bc4548fbc4a01cf97f29b50",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4950222"
+    }
+  ],
+  "start_date": "2025-10-15",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,116 @@
+{
+  "asuntos": [
+    {
+      "clave": "4888419",
+      "denominacion": "Que adiciona un numeral siete al artículo 29 del Reglamento de la Cámara de Diputados, en materia de comisiones de cortesía representativas.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888419_20250424_1745618157.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4888417",
+      "denominacion": "Que reforma los artículos 66 y 231 del Reglamento de la Cámara de Diputados, en materia de reservas para la discusión de reformas constitucionales y del sistema electrónico de gestión de turnos.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888417_20250424_1745618085.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4888421",
+      "denominacion": "Que reforma diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de mejora en los procesos de registro de asistencia y votación para reuniones semipresenciales en comisiones y simplificar el procedimiento de solicitud de prórroga.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888421_20250424_1745618663.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4900203",
+      "denominacion": "Que reforma, adiciona y derogan diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de optimización de los trabajos y procedimientos legislativos y parlamentarios.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4900203_20250424_1747409192.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4891454",
+      "denominacion": "Que reforma diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de lenguaje inclusivo y optimización de trámites y procedimientos parlamentarios.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4891454_20250429_1745951224.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4893375",
+      "denominacion": "Que reforma diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de lenguaje inclusivo y optimización de trámites y procedimientos parlamentarios.",
+      "estatus": "Publicado en DOF 07/05/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4893375_20250429_1745951236.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-05-07"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de lenguaje inclusivo y optimización de trámites y procedimientos parlamentarios.",
+  "id": "sil-4894202",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-05-07",
+  "seguimiento": "4894202",
+  "sources": [
+    {
+      "archivo": "fuentes/22/224ddb055935341b91669dbdf68fa5287887f314b5af1045be2bebb8a3031cf4.html",
+      "consultado": "2026-11-16T16:30:23Z",
+      "sha256": "224ddb055935341b91669dbdf68fa5287887f314b5af1045be2bebb8a3031cf4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894202&Asunto=4893375"
+    },
+    {
+      "archivo": "fuentes/6a/6aad18ae5b038a535070e1e39a7127b4a049d15891cf27167d20e9bd33e3cb29.html",
+      "consultado": "2026-11-16T16:30:27Z",
+      "sha256": "6aad18ae5b038a535070e1e39a7127b4a049d15891cf27167d20e9bd33e3cb29",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4893375&Seguimiento=4894202"
+    }
+  ],
+  "tramites": {
+    "4893375": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, y en lo particular el dictamen que reforma diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de lenguaje inclusivo y optimización de trámites y procedimientos parlamentarios.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 447
+        },
+        "texto": "Aprobado en lo general y en lo particular Los datos de la votación es con información publicada en la Gaceta Parlamentaria. A Favor: 447 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/05/2025",
+  "votaciones": [
+    "sil-4893375-1"
+  ]
+}

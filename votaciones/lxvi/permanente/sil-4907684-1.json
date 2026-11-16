@@ -1,0 +1,41 @@
+{
+  "asunto": "4907684",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4908430",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4907684-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que ratifica el nombramiento expedido en favor de la ciudadana Donají Alba Arroyo, como Cónsul General de México en Raleigh, Carolina del Norte, Estados Unidos de América.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 25 En contra: 8 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/b3/b36248cf39d0a68c3fefbc2c57e3c6730d384a14d971eb52d79f0c3a275a7658.html",
+      "consultado": "2026-11-16T16:39:34Z",
+      "sha256": "b36248cf39d0a68c3fefbc2c57e3c6730d384a14d971eb52d79f0c3a275a7658",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4907684"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

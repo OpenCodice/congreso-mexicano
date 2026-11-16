@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4916834",
+      "denominacion": "Con el que remite el nombramiento en favor de María del Carmen Bonilla Rodríguez como Subsecretaria de Hacienda y Crédito Público, y de Omar Reyes Colmenares como titular de la Unidad de Inteligencia Financiera.",
+      "estatus": "Toma de protesta 13/08/2025",
+      "fecha": "2025-08-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4916834_20250813_1755100857.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4917292",
+      "denominacion": "Por el que ratifica el nombramiento en favor de Omar Reyes Colmenares como titular de la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público.",
+      "estatus": "Toma de protesta 13/08/2025",
+      "fecha": "2025-08-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4917292_20250813_1755106346.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-08-13"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-08-13"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-08-13"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-08-13"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-08-13"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento en favor de Omar Reyes Colmenares como titular de la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público.",
+  "id": "sil-4917555",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4917555",
+  "sources": [
+    {
+      "archivo": "fuentes/f1/f192a71207f5f4a6ff4ea5748541697b9006bae0c36d9fc441189623b8c9d487.html",
+      "consultado": "2026-11-16T16:43:21Z",
+      "sha256": "f192a71207f5f4a6ff4ea5748541697b9006bae0c36d9fc441189623b8c9d487",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4917555&Asunto=4917292"
+    },
+    {
+      "archivo": "fuentes/5d/5dfc86f2942f8f8572a250c84343c894e3401dd26b41cb4136d371b34ca347fb.html",
+      "consultado": "2026-11-16T16:43:25Z",
+      "sha256": "5dfc86f2942f8f8572a250c84343c894e3401dd26b41cb4136d371b34ca347fb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4917292&Seguimiento=4917555"
+    }
+  ],
+  "tramites": {
+    "4917292": [
+      {
+        "texto": "Aprobado para incorporarlo en el orden del día.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 31
+        },
+        "texto": "Aprobado por unanimidad. A Favor: 31 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "se designa comisión de cortesía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 13/08/2025",
+  "votaciones": [
+    "sil-4917292-1"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "asuntos": [
+    {
+      "clave": "4931425",
+      "denominacion": "Designación de Óscar Daniel Del Río Serrano como titular del Órgano Interno de Control de la Fiscalía General de la República por un periodo de cuatro años.",
+      "estatus": "Publicado en DOF 29/09/2025",
+      "fecha": "2025-09-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4931425_20250923_1758676327.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-09-23"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-09-23"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-09-23"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-09-29"
+    }
+  ],
+  "denominacion": "Designación de Óscar Daniel Del Río Serrano como titular del Órgano Interno de Control de la Fiscalía General de la República por un periodo de cuatro años.",
+  "id": "sil-4932585",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-09-29",
+  "seguimiento": "4932585",
+  "sources": [
+    {
+      "archivo": "fuentes/9e/9e744e88e4f19549e0caf37f6c81a56ad1cc8b0c0ab135c06ff8201bb4ab7e09.html",
+      "consultado": "2026-11-16T16:48:08Z",
+      "sha256": "9e744e88e4f19549e0caf37f6c81a56ad1cc8b0c0ab135c06ff8201bb4ab7e09",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4932585&Asunto=4931425"
+    },
+    {
+      "archivo": "fuentes/04/04878277cb3bb7d1dfd39a92f72d56e066e2dac674976da1cf3fb769b9939ce2.html",
+      "consultado": "2026-11-16T16:48:12Z",
+      "sha256": "04878277cb3bb7d1dfd39a92f72d56e066e2dac674976da1cf3fb769b9939ce2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4931425&Seguimiento=4932585"
+    }
+  ],
+  "tramites": {
+    "4931425": [
+      {
+        "texto": "Aprobado se admite someter a discusión el Acuerdo de la Junta de Coordinación Política que designa a Óscar Daniel Del Río Serrano como titular del Órgano Interno de Control de la Fiscalía General de la República.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para la discusión del Acuerdo.",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "texto": "Aprobado se aprueba considerar suficientemente discutido el acuerdo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 15,
+          "yes": 408
+        },
+        "texto": "Aprobado Es mayoría calificada. Los datos de la votación son conforme la publicación en la Gaceta Parlamentaria. A Favor: 408 En contra: 15 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      },
+      {
+        "texto": "de Óscar Daniel Del Río Serrano como titular del Órgano Interno de Control de la Fiscalía General de la República por un periodo de cuatro años.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/09/2025",
+  "votaciones": [
+    "sil-4931425-1"
+  ]
+}

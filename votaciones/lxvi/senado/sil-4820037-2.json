@@ -1,0 +1,41 @@
+{
+  "asunto": "4820037",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 112
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4818791",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4820037-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de lenguaje inclusivo.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 112 En contra: 1 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/a0/a0259be69fb3c7b0c7167a9f92abf1c35a92830a8649363f0440a20165003f57.html",
+      "consultado": "2026-11-16T15:50:40Z",
+      "sha256": "a0259be69fb3c7b0c7167a9f92abf1c35a92830a8649363f0440a20165003f57",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4820037"
+    }
+  ],
+  "start_date": "2024-12-10",
+  "votes": [],
+  "votos_publicados": false
+}

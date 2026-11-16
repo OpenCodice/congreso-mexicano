@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5083872",
+      "denominacion": "En favor de Jennifer Krystel Castillo Madrid como Administradora General de Grandes Contribuyentes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, en su carácter de empleada superior de Hacienda.",
+      "estatus": "Toma de protesta 17/06/2026",
+      "fecha": "2026-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5083872_20260428_1778169122.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5090604",
+      "denominacion": "Con el que remite, el nombramiento de Jennifer Krystel Castillo Madrid como Administradora General de Grandes Contribuyentes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.",
+      "estatus": "Toma de protesta 17/06/2026",
+      "fecha": "2026-05-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/05/asun_5090604_20260506_1778114908.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5104672",
+      "denominacion": "Por el que se ratifica el nombramiento que la titular del Ejecutivo Federal hace a favor de Jennifer Krystel Castillo Madrid, como Administradora General de Grandes Contribuyentes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.",
+      "estatus": "Toma de protesta 17/06/2026",
+      "fecha": "2026-06-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/06/asun_5104672_20260617_1781907988.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2026-06-17"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2026-06-17"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-06-17"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-06-17"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2026-06-17"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento que la titular del Ejecutivo Federal hace a favor de Jennifer Krystel Castillo Madrid, como Administradora General de Grandes Contribuyentes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.",
+  "id": "sil-5104678",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5104678",
+  "sources": [
+    {
+      "archivo": "fuentes/2b/2bc5922550b21019e9a806cae80c359a664caac8456a7ce73751076472afc32d.html",
+      "consultado": "2026-11-16T18:35:56Z",
+      "sha256": "2bc5922550b21019e9a806cae80c359a664caac8456a7ce73751076472afc32d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5104678&Asunto=5104672"
+    },
+    {
+      "archivo": "fuentes/86/86f5294e00bde622ee85f5748ae03bb6f7168e30f1b67cfd6774278f3a7587a4.html",
+      "consultado": "2026-11-16T18:35:59Z",
+      "sha256": "86f5294e00bde622ee85f5748ae03bb6f7168e30f1b67cfd6774278f3a7587a4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5104672&Seguimiento=5104678"
+    }
+  ],
+  "tramites": {
+    "5104672": [
+      {
+        "texto": "Aprobado autorizar integrar el asunto en el Orden del Día.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 8,
+          "yes": 26
+        },
+        "texto": "Aprobado A Favor: 26 En contra: 8 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de Jennifer Krystel Castillo Madrid, como Administradora General de Grandes Contribuyentes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 17/06/2026",
+  "votaciones": [
+    "sil-5104672-1"
+  ]
+}

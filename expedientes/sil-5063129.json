@@ -1,0 +1,148 @@
+{
+  "asuntos": [
+    {
+      "clave": "5038418",
+      "denominacion": "Que adiciona la fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Publicado en DOF 07/05/2026",
+      "fecha": "2026-03-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5038418_20260318_1773859785.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5059294",
+      "denominacion": "Que adiciona la fracción I Sexies al artículo 36 de Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Publicado en DOF 07/05/2026",
+      "fecha": "2026-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5059294_20260408_1775686143.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5063106",
+      "denominacion": "Que adiciona la fracción I Sexies al artículo 36 de Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Publicado en DOF 07/05/2026",
+      "fecha": "2026-04-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5063106_20260409_1775761966.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5064922",
+      "denominacion": "Con proyecto de decreto por el que se adiciona una fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Publicado en DOF 07/05/2026",
+      "fecha": "2026-04-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5064922_20260414_1776182476.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5074663",
+      "denominacion": "Con proyecto de decreto por el que adiciona una fracción I Sexies al artículo 36 de la Ley Orgánica de la Administración Pública Federal.",
+      "estatus": "Publicado en DOF 07/05/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5074663_20260421_1776801194.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-09"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-09"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-09"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-14"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-14"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-05-07"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción I Sexies al artículo 36 de Ley Orgánica de la Administración Pública Federal.",
+  "id": "sil-5063129",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-05-07",
+  "seguimiento": "5063129",
+  "sources": [
+    {
+      "archivo": "fuentes/06/06e5121c27c1e93a0156d9d36cd730cff3623b17ff3ce4ec8f1901d4de054de6.html",
+      "consultado": "2026-11-16T18:14:29Z",
+      "sha256": "06e5121c27c1e93a0156d9d36cd730cff3623b17ff3ce4ec8f1901d4de054de6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5063129&Asunto=5063106"
+    },
+    {
+      "archivo": "fuentes/ed/ed3b93d02384885bc22c85411df0f93093ef6e724ac6e3624cd7664171218889.html",
+      "consultado": "2026-11-16T18:14:33Z",
+      "sha256": "ed3b93d02384885bc22c85411df0f93093ef6e724ac6e3624cd7664171218889",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5063106&Seguimiento=5063129"
+    }
+  ],
+  "tramites": {
+    "5063106": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Gobernación y Población que adiciona la fracción I Sexies al artículo 36 de Ley Orgánica de la Administración Pública Federal.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "no hay oradores para su discusión en lo general y en lo particular.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 37,
+          "yes": 423
+        },
+        "texto": "Aprobado en lo general y en lo particular en un solo acto. A Favor: 423 En contra: 37 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 07/05/2026",
+  "votaciones": [
+    "sil-5063106-1"
+  ]
+}

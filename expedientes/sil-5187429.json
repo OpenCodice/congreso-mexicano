@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4994116",
+      "denominacion": "Que declara el 22 de abril de cada año como -Día Nacional del Municipio-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2025-12-04",
+      "pdf": null,
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5186085",
+      "denominacion": "Con proyecto de decreto por el que declara el 22 de abril de cada año como el -Día Nacional del Municipio Libre-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5186085_20261103_1793764184.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5190021",
+      "denominacion": "Con proyecto de decreto por el que declara el 22 de abril de cada año como el -Día Nacional del Municipio Libre-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2026-11-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5190021_20261104_1793764185.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5190753",
+      "denominacion": "Con proyecto de decreto por el que declara el 22 de abril de cada año como el -Día Nacional del Municipio Libre-.",
+      "estatus": "Pendiente en comisión(es) de revisora 09/11/2026",
+      "fecha": "2026-11-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5190753_20261109_1794256327.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-04"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-04"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-04"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-09"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-09"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el 22 de abril de cada año como el -Día Nacional del Municipio Libre-.",
+  "id": "sil-5187429",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5187429",
+  "sources": [
+    {
+      "archivo": "fuentes/9f/9f485a22d2fc5e08bc08b2c8ad3d17ae923bc526f252687342c79a2f4b8af620.html",
+      "consultado": "2026-11-16T18:52:35Z",
+      "sha256": "9f485a22d2fc5e08bc08b2c8ad3d17ae923bc526f252687342c79a2f4b8af620",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5187429&Asunto=5190021"
+    },
+    {
+      "archivo": "fuentes/94/948b7e7fe862b32730d0ec47c0a635cc54b91d3a068889083e4942cda57e9243.html",
+      "consultado": "2026-11-16T18:52:39Z",
+      "sha256": "948b7e7fe862b32730d0ec47c0a635cc54b91d3a068889083e4942cda57e9243",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5190021&Seguimiento=5187429"
+    }
+  ],
+  "tramites": {
+    "5190021": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 104
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 09/11/2026",
+  "votaciones": [
+    "sil-5190021-1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "asunto": "4816456",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 100
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4816255",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4816456-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B), del Artículo 123 Constitucional, en materia de erradicación de la brecha salarial por razones de género.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 86 de la Ley Federal del Trabajo, 28 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B), del Artículo 123 Constitucional y, segundo transitorio, en términos del dictamen. A Favor: 100 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/02/0277c817a2ba547a43e96ff6850939d8d3cbb2f7992ccfc93a0e6c5387d30145.html",
+      "consultado": "2026-11-16T15:46:35Z",
+      "sha256": "0277c817a2ba547a43e96ff6850939d8d3cbb2f7992ccfc93a0e6c5387d30145",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4816456"
+    }
+  ],
+  "start_date": "2024-12-04",
+  "votes": [],
+  "votos_publicados": false
+}

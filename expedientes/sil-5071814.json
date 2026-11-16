@@ -1,0 +1,120 @@
+{
+  "asuntos": [
+    {
+      "clave": "4833442",
+      "denominacion": "Que reforma el artículo 18 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-02-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/02/asun_4833442_20250211_1738871229.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4878208",
+      "denominacion": "Que reforma el artículo 18 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-04-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4878208_20250410_1744235168.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4886678",
+      "denominacion": "Que reforma el artículo 13 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa que promueva la igualdad y productividad entre hombres y mujeres.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886678_20250424_1744235366.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067871",
+      "denominacion": "Que reforma los artículos 2, primer párrafo y 18, fracciones VIII y XIII, de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en materia de promover la igualdad de oportunidades entre hombres y mujeres.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067871_20260415_1776262641.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070183",
+      "denominacion": "Que reforma los artículos 2, primer párrafo y 18, fracciones VIII y XIII, de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en materia de promover la igualdad de oportunidades entre hombres y mujeres.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070183_20260415_1776262642.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072254",
+      "denominacion": "Con proyecto de decreto por el que reforma los artículos 2, primer párrafo, y 18, fracciones VIII y XIII de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072254_20260421_1776790977.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 2, primer párrafo y 18, fracciones VIII y XIII, de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en materia de promover la igualdad de oportunidades entre hombres y mujeres.",
+  "id": "sil-5071814",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071814",
+  "sources": [
+    {
+      "archivo": "fuentes/a2/a2fccf9d81246ef5e14ccc4ae8f6430734d4ef699bdb470ab1f0439e2cb8ea01.html",
+      "consultado": "2026-11-16T18:20:38Z",
+      "sha256": "a2fccf9d81246ef5e14ccc4ae8f6430734d4ef699bdb470ab1f0439e2cb8ea01",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071814&Asunto=5070183"
+    },
+    {
+      "archivo": "fuentes/45/45b93e1b931e2248330be6ad8b57e8872404c995b820e8cdee101f2e8e272390.html",
+      "consultado": "2026-11-16T18:20:42Z",
+      "sha256": "45b93e1b931e2248330be6ad8b57e8872404c995b820e8cdee101f2e8e272390",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070183&Seguimiento=5071814"
+    }
+  ],
+  "tramites": {
+    "5070183": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 428
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 428 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070183-1"
+  ]
+}

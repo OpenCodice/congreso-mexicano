@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4980960",
+      "denominacion": "Nombramiento en favor de César David Vives Flores como titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda de la Secretaría de Hacienda y Crédito Público, en su carácter de empleado superior de Hacienda.",
+      "estatus": "Toma de protesta 02/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4980960_20251125_1764092143.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4988380",
+      "denominacion": "Por el que se ratifica el nombramiento de César David Vives Flores, como titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda de la Secretaría de Hacienda y Crédito Público, en su carácter de empleado superior de Hacienda.",
+      "estatus": "Toma de protesta 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988380_20251202_1764706891.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4989538",
+      "denominacion": "Por el que se ratifica el nombramiento de César David Vives Flores, como titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda de la Secretaría de Hacienda y Crédito Público, en su carácter de empleado superior de Hacienda.",
+      "estatus": "Toma de protesta 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4989538_20251202_1764706503.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento de César David Vives Flores, como titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda de la Secretaría de Hacienda y Crédito Público, en su carácter de empleado superior de Hacienda.",
+  "id": "sil-4990651",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4990651",
+  "sources": [
+    {
+      "archivo": "fuentes/9a/9a16d0d4f6930f51835c506ab12cbfbea7760698ba35813e8144a208f26bd254.html",
+      "consultado": "2026-11-16T17:30:03Z",
+      "sha256": "9a16d0d4f6930f51835c506ab12cbfbea7760698ba35813e8144a208f26bd254",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990651&Asunto=4989538"
+    },
+    {
+      "archivo": "fuentes/f8/f8fe8b6b89e4b3acf689e024d42dccbe6478a04706c271c29fbb64273408f8e9.html",
+      "consultado": "2026-11-16T17:30:07Z",
+      "sha256": "f8fe8b6b89e4b3acf689e024d42dccbe6478a04706c271c29fbb64273408f8e9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989538&Seguimiento=4990651"
+    }
+  ],
+  "tramites": {
+    "4989538": [
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general y en lo particular, el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 84,
+          "yes": 329
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 329 En contra: 84 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "a la Presidenta de la República.",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de César David Vives Flores, como titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda de la Secretaría de Hacienda y Crédito Público, en su carácter de empleado superior de Hacienda.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 02/12/2025",
+  "votaciones": [
+    "sil-4989538-1"
+  ]
+}

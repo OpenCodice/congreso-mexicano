@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4879376",
+      "denominacion": "Que reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4879376_20250422_1745329487.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4882515",
+      "denominacion": "Con proyecto de decreto que reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4882515_20250423_1745414366.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4886109",
+      "denominacion": "Que reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4886109_20250424_1745503993.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4890450",
+      "denominacion": "Que reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890450_20250428_1745878684.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4890540",
+      "denominacion": "Con proyecto de decreto que reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+      "estatus": "Publicado en DOF 06/06/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890540_20250428_1745878803.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-04-28"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-04-28"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-28"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-06-06"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.",
+  "id": "sil-4885182",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-06-06",
+  "seguimiento": "4885182",
+  "sources": [
+    {
+      "archivo": "fuentes/a2/a2b1ac175438d5c729ec0ef288f32cfd8eba29e3199220903429af165aad03f9.html",
+      "consultado": "2026-11-16T16:20:46Z",
+      "sha256": "a2b1ac175438d5c729ec0ef288f32cfd8eba29e3199220903429af165aad03f9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4885182&Asunto=4890540"
+    },
+    {
+      "archivo": "fuentes/97/97ae770538c49fade7e99e310a4c55d6627b0e2eebc440878a8971f8b789054e.html",
+      "consultado": "2026-11-16T16:20:50Z",
+      "sha256": "97ae770538c49fade7e99e310a4c55d6627b0e2eebc440878a8971f8b789054e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4890540&Seguimiento=4885182"
+    }
+  ],
+  "tramites": {
+    "4890540": [
+      {
+        "texto": "Aprobado se considera suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para su discusión en lo particular.",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 447
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 447 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 06/06/2025",
+  "votaciones": [
+    "sil-4890540-1"
+  ]
+}

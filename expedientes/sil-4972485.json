@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4896038",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de medidas de protección a víctimas en contra de personas servidoras públicas.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4896038_20250430_1744244258.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971212",
+      "denominacion": "Que adiciona la fracción VII al artículo 9 y la fracción VII al artículo 32 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971212_20251111_1762881235.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971455",
+      "denominacion": "Que adiciona la fracción VII al artículo 9 y la fracción VII al artículo 32 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971455_20251111_1762894295.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975651",
+      "denominacion": "Con proyecto de decreto por el que adiciona la fracción VII al artículo 9 y la fracción VII al artículo 32 a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975651_20251119_1763572968.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción VII al artículo 9 y la fracción VII al artículo 32 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+  "id": "sil-4972485",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972485",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b892c2f2586e452c660afc152b1c63b551b504dd16b74861dc4f7e6dfe8a788.html",
+      "consultado": "2026-11-16T17:12:47Z",
+      "sha256": "1b892c2f2586e452c660afc152b1c63b551b504dd16b74861dc4f7e6dfe8a788",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972485&Asunto=4971455"
+    },
+    {
+      "archivo": "fuentes/ab/abe08da2c16ba1afd9ccc891d3a5e3e2a3d3ac644ae5f665201a333523ad06ca.html",
+      "consultado": "2026-11-16T17:12:51Z",
+      "sha256": "abe08da2c16ba1afd9ccc891d3a5e3e2a3d3ac644ae5f665201a333523ad06ca",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971455&Seguimiento=4972485"
+    }
+  ],
+  "tramites": {
+    "4971455": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Igualdad de Género, que adiciona la fracción VII al artículo 9 y la fracción VII al artículo 32 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona la fracción VII al artículo 9 y la fracción VII al artículo 32 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 451
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 451 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971455-1"
+  ]
+}

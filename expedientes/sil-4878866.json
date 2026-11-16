@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4875924",
+      "denominacion": "Con el que remite la designación de la Presidenta de la República de las Personas Consejeras Independientes del Consejo de Administración de Petróleos Mexicanos.",
+      "estatus": "Toma de protesta 10/04/2025",
+      "fecha": "2025-04-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4875924_20250409_1744303244.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4878764",
+      "denominacion": "Por el que se acuerda la idoneidad de Juan José Paullada Figueroa, para ocupar el cargo de consejera independiente del consejo de administración de la empresa pública del estado Petróleos Mexicanos.",
+      "estatus": "Toma de protesta 10/04/2025",
+      "fecha": "2025-04-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4878764_20250410_1744311506.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-10"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-04-10"
+    }
+  ],
+  "denominacion": "Por el que se acuerda la idoneidad de Juan José Paullada Figueroa, para ocupar el cargo de consejera independiente del consejo de administración de la empresa pública del estado Petróleos Mexicanos.",
+  "id": "sil-4878866",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4878866",
+  "sources": [
+    {
+      "archivo": "fuentes/7a/7aa82aa4a95c78829706ff51dcbc95e78049a779e6dc1f57a3ad9527be77b5ca.html",
+      "consultado": "2026-11-16T16:17:49Z",
+      "sha256": "7aa82aa4a95c78829706ff51dcbc95e78049a779e6dc1f57a3ad9527be77b5ca",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4878866&Asunto=4878764"
+    },
+    {
+      "archivo": "fuentes/68/687a8c3870f078bd81b5c76dd48c5e22868435a950cd2685b72b2c46c6217cd6.html",
+      "consultado": "2026-11-16T16:17:53Z",
+      "sha256": "687a8c3870f078bd81b5c76dd48c5e22868435a950cd2685b72b2c46c6217cd6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4878764&Seguimiento=4878866"
+    }
+  ],
+  "tramites": {
+    "4878764": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar el plazo de veinticuatro horas de publicación anticipada del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 10,
+          "yes": 81
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 81 En contra: 10 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Juan José Paullada Figueroa, para ocupar el cargo de consejera independiente del consejo de administración de la empresa pública del estado Petróleos Mexicanos.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 10/04/2025",
+  "votaciones": [
+    "sil-4878764-1"
+  ]
+}

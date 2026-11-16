@@ -1,0 +1,41 @@
+{
+  "asunto": "5023249",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 101
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5022774",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5023249-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Con proyecto de decreto por el que declara el 27 de septiembre de cada año como el -Día Nacional de la Industria Eléctrica-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 101 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/ca/ca76973139063a5405dc682e02cb4541e7e53ff9046fd288e98dd4f98b2369e8.html",
+      "consultado": "2026-11-16T17:46:18Z",
+      "sha256": "ca76973139063a5405dc682e02cb4541e7e53ff9046fd288e98dd4f98b2369e8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5023249"
+    }
+  ],
+  "start_date": "2026-02-25",
+  "votes": [],
+  "votos_publicados": false
+}

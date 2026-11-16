@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4917802",
+      "denominacion": "Con el que remite el nombramiento a favor de Genaro Fausto Lozano Valencia, como Embajador Extraordinario y Plenipotenciario de México en la República Italiana y, en forma concurrente, sujeto a la recepción de los beneplácitos correspondientes ante las Repúblicas de Albania, Malta y San Marino.",
+      "estatus": "Toma de protesta 20/08/2025",
+      "fecha": "2025-08-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4917802_20250820_1755701933.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4918370",
+      "denominacion": "Por el que ratifica el nombramiento a favor de Genaro Fausto Lozano Valencia, como Embajador Extraordinario y Plenipotenciario de México en la República Italiana y, en forma concurrente, sujeto a la recepción de los beneplácitos correspondientes ante las Repúblicas de Albania, Malta y San Marino.",
+      "estatus": "Toma de protesta 20/08/2025",
+      "fecha": "2025-08-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4918370_20250820_1755710651.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-08-20"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-08-20"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-08-20"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-08-20"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-08-20"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento a favor de Genaro Fausto Lozano Valencia, como Embajador Extraordinario y Plenipotenciario de México en la República Italiana y, en forma concurrente, sujeto a la recepción de los beneplácitos correspondientes ante las Repúblicas de Albania, Malta y San Marino.",
+  "id": "sil-4918962",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4918962",
+  "sources": [
+    {
+      "archivo": "fuentes/62/62000037369fa878d60a2d795119a75f84a067fd89ea9e5b9fde0219ca1f9c4b.html",
+      "consultado": "2026-11-16T16:44:59Z",
+      "sha256": "62000037369fa878d60a2d795119a75f84a067fd89ea9e5b9fde0219ca1f9c4b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4918962&Asunto=4918370"
+    },
+    {
+      "archivo": "fuentes/2a/2ac3964ea3e7e10684a2021dddafc60d9ff143cf1a9c6846c77b087edf4abc57.html",
+      "consultado": "2026-11-16T16:45:03Z",
+      "sha256": "2ac3964ea3e7e10684a2021dddafc60d9ff143cf1a9c6846c77b087edf4abc57",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4918370&Seguimiento=4918962"
+    }
+  ],
+  "tramites": {
+    "4918370": [
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 9,
+          "yes": 25
+        },
+        "texto": "Aprobado A Favor: 25 En contra: 9 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "se designa comisión de cortesía.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 20/08/2025",
+  "votaciones": [
+    "sil-4918370-1"
+  ]
+}

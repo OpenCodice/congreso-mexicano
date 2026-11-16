@@ -1,0 +1,130 @@
+{
+  "asuntos": [
+    {
+      "clave": "4894785",
+      "denominacion": "Que reforma el artículo 7 de la Ley de Fomento para la Lectura y el Libro.",
+      "estatus": "Pendiente en comisión(es) de revisora 04/11/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894785_20250430_1744298575.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4899415",
+      "denominacion": "Que reforma y adiciona la Ley de Fomento para la Lectura y el Libro.",
+      "estatus": "Pendiente en comisión(es) de revisora 04/11/2025",
+      "fecha": "2025-05-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/05/asun_4899415_20250514_1747244831.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4960377",
+      "denominacion": "Con proyecto de decreto por el que adiciona la Ley de Fomento para la Lectura y el Libro.",
+      "estatus": "Pendiente en comisión(es) de revisora 04/11/2025",
+      "fecha": "2025-10-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4960377_20251028_1761673346.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4964141",
+      "denominacion": "Con proyecto de decreto por el que adiciona la Ley de Fomento para la Lectura y el Libro.",
+      "estatus": "Pendiente en comisión(es) de revisora 04/11/2025",
+      "fecha": "2025-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4964141_20251029_1761856885.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4965308",
+      "denominacion": "Que adiciona la Ley de Fomento para la Lectura y el Libro, en materia de promoción de la lectura en entornos digitales.",
+      "estatus": "Pendiente en comisión(es) de revisora 04/11/2025",
+      "fecha": "2025-11-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4965308_20251104_1762276589.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-10-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-04"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-04"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona la Ley de Fomento para la Lectura y el Libro.",
+  "id": "sil-4961529",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4961529",
+  "sources": [
+    {
+      "archivo": "fuentes/50/50a9794adfa64fd93bf0c84c180388e928aeba7069e94b6f5b5c03012da0db17.html",
+      "consultado": "2026-11-16T17:05:46Z",
+      "sha256": "50a9794adfa64fd93bf0c84c180388e928aeba7069e94b6f5b5c03012da0db17",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4961529&Asunto=4964141"
+    },
+    {
+      "archivo": "fuentes/cc/cc6b5a1b41e639ba9762f0b4c01f3e51e1dc245363b83cd78ef7a3b60adca803.html",
+      "consultado": "2026-11-16T17:05:50Z",
+      "sha256": "cc6b5a1b41e639ba9762f0b4c01f3e51e1dc245363b83cd78ef7a3b60adca803",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4964141&Seguimiento=4961529"
+    }
+  ],
+  "tramites": {
+    "4964141": [
+      {
+        "texto": "Aprobado para incorporarlo al orden del día.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 106
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 106 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Jorge Carlos Ramírez Marín (PVEM)",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 88
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 88 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 04/11/2025",
+  "votaciones": [
+    "sil-4964141-1",
+    "sil-4964141-2"
+  ]
+}

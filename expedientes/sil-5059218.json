@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "5047962",
+      "denominacion": "Con el que remite, solicitud de autorización para que se permita la salida del país a los 332 elementos que integran la tripulación a bordo del Buque Escuela ARM -Cuauhtémoc- (BE-01), para que participen en el crucero de instrucción -Pacífico Norte 2026- a bordo del Buque Escuela Arm -Cuauhtémoc- (BE-01), que se llevará a cabo del 15 de julio al 15 de octubre de 2026.",
+      "estatus": "Publicado en DOF 20/04/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5047962_20260324_1774367684.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "5058084",
+      "denominacion": "Relativo a la solicitud de autorización para que la titular del Ejecutivo Federal permita la salida de los límites del país a los 332 elementos que integran la tripulación a bordo del Buque Escuela ARM -Cuauhtémoc- (BE-01) para que participen en el crucero de instrucción -Pacífico Norte 2026- del 15 de julio al 15 de octubre de 2026.",
+      "estatus": "Publicado en DOF 20/04/2026",
+      "fecha": "2026-04-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5058084_20260407_1775589289.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5061495",
+      "denominacion": "Relativo a la solicitud de autorización para que la titular del Ejecutivo Federal permita la salida de los límites del país a los 332 elementos que integran la tripulación a bordo del Buque Escuela ARM -Cuauhtémoc- (BE-01) para que participen en el crucero de instrucción -Pacífico Norte 2026- del 15 de julio al 15 de octubre de 2026.",
+      "estatus": "Publicado en DOF 20/04/2026",
+      "fecha": "2026-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5061495_20260408_1775589290.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-04-08"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-04-20"
+    }
+  ],
+  "denominacion": "Relativo a la solicitud de autorización para que la titular del Ejecutivo Federal permita la salida de los límites del país a los 332 elementos que integran la tripulación a bordo del Buque Escuela ARM -Cuauhtémoc- (BE-01) para que participen en el crucero de instrucción -Pacífico Norte 2026- del 15 de julio al 15 de octubre de 2026.",
+  "id": "sil-5059218",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-04-20",
+  "seguimiento": "5059218",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed2cdfcacd3e5812e591bf109fb4e057853e18f482993bc7033a3ee2c50f3b8d.html",
+      "consultado": "2026-11-16T18:11:45Z",
+      "sha256": "ed2cdfcacd3e5812e591bf109fb4e057853e18f482993bc7033a3ee2c50f3b8d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5059218&Asunto=5061495"
+    },
+    {
+      "archivo": "fuentes/d4/d4f0f289c55c09d30be67d0c41be3b7032034e8dcc79d756ed413c531013cd60.html",
+      "consultado": "2026-11-16T18:11:49Z",
+      "sha256": "d4f0f289c55c09d30be67d0c41be3b7032034e8dcc79d756ed413c531013cd60",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5061495&Seguimiento=5059218"
+    }
+  ],
+  "tramites": {
+    "5061495": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 89
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 89 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 20/04/2026",
+  "votaciones": [
+    "sil-5061495-1"
+  ]
+}

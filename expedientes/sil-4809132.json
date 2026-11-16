@@ -1,0 +1,320 @@
+{
+  "asuntos": [
+    {
+      "clave": "4804764",
+      "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2025.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4804764_20241120_1732116145.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4808161",
+      "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4808161_20241126_1732634929.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4808747",
+      "denominacion": "Que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4808747_20241126_1732666254.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4811122",
+      "denominacion": "Con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-11-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4811122_20241127_1732741763.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4813457",
+      "denominacion": "Con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-11-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4813457_20241128_1732848389.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4815304",
+      "denominacion": "Con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+      "estatus": "Publicado en DOF 19/12/2024",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4815304_20241203_1733246540.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-12-03"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-12-19"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+  "id": "sil-4809132",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-12-19",
+  "seguimiento": "4809132",
+  "sources": [
+    {
+      "archivo": "fuentes/15/15c5c6a5775537936a418b53984fd0d7de566a33146d3c1e2d1474505d148604.html",
+      "consultado": "2026-11-16T15:44:44Z",
+      "sha256": "15c5c6a5775537936a418b53984fd0d7de566a33146d3c1e2d1474505d148604",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4809132&Asunto=4815304"
+    },
+    {
+      "archivo": "fuentes/85/8500e4b67a943f818dda2e13900b7802a11cfce3b18e988fd45acefcb99d3a02.html",
+      "consultado": "2026-11-16T15:44:48Z",
+      "sha256": "8500e4b67a943f818dda2e13900b7802a11cfce3b18e988fd45acefcb99d3a02",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4815304&Seguimiento=4809132"
+    }
+  ],
+  "tramites": {
+    "4808747": [
+      {
+        "texto": "La presidencia de la Mesa Directiva da cuenta del dictamen de la Comisión de Hacienda y Crédito Público por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "La presidencia de la Mesa Directiva informa a la Asamblea que se han presentado propuestas de modificación a los artículos 1, 2, 3, 6, 7, 10, 11, 12, 13, 16, 21, 22, 23, 24, 25 y 26; y los artículos transitorios Segundo, Tercero, Cuarto, Séptimo, Octavo, Décimo Primero, Décimo Segundo, Décimo Cuarto, Décimo Quinto, Décimo Séptimo, Décimo Noveno, Vigésimo, Vigésimo Primero, Vigésimo Segundo, Vigésimo Tercero, Vigésimo Cuarto, Vigésimo Quinto, Vigésimo Sexto, Vigésimo Séptimo, Vigésimo Octavo, Vigésimo Noveno, Trigésimo, Trigésimo Segundo, Trigésimo Tercero y Trigésimo Cuarto del dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 95,
+          "yes": 367
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 367 En contra: 95 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado aceptar la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025. Se reserva para su votación nominal la modificación aceptada por la Asamblea.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "autoriza a la secretaría dar lectura a la definición del término -mitómano- de acuerdo al Diccionario de la Real Academia Española, a petición del Dip. Miguel Ángel Monraz Ibarra (PAN).",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Diego Ángel Rodríguez Barroso (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Mario Íñiguez Franco (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Ernesto Sánchez Rodríguez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de los Dolores Padierna Luna (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 114,
+          "yes": 344
+        },
+        "texto": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 344 En contra: 114 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "4815304": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "para insertar el voto particular de la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "para integrar el voto particular de la Sen. María Martina Kantún Can (Morena) en el Diario de los Debates.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 36,
+          "yes": 84
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados Senador a favor sólo para el registro para el Diario de los Debates Sen. Manlio Fabio Beltrones Rivera (Sin Partido) A Favor: 84 En contra: 36 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos 1 y 16, formulada por el Sen. Manuel Añorve Baños (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 2° formulada por el Sen. Mario Humberto Vázquez Robles (PAN), a nombre de la Sen. Imelda Margarita Sanmiguel Sánchez (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos 2, 5 y 16, formulada por el Sen. Agustín Dorantes Lámbarri (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos 2, 16 y trigésimo quinto transitorio, formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos 2 y décimo octavo transitorio formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos 11 y 22, formulada por la Sen. Mely Romero Celis (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 12, formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Karen Michel González Márquez (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Laura Esquivel Torres (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por el Sen. Pablo Guillermo Angulo Briceño (PRI). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Lizeth Sánchez García (PT). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por el Sen. Francisco Javier Ramírez Acuña (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos décimo cuarto y décimo quinto transitorios formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva al artículo trigésimo quinto formulada por el Sen. Gustavo Sánchez Vásquez (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva a los artículos trigésimo sexto y trigésimo séptimo transitorios formulada por la Sen. Susana del Carmen Zataraín García (PAN). En consecuencia, el dictamen permanece en sus términos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 36,
+          "yes": 83
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados 1, 2, 5, 11, 12, 16, 22, décimo cuarto, décimo quinto, décimo octavo y trigésimo quinto transitorios, en términos del dictamen. A Favor: 83 En contra: 36 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 19/12/2024",
+  "votaciones": [
+    "sil-4808747-1",
+    "sil-4808747-2",
+    "sil-4815304-1",
+    "sil-4815304-2"
+  ]
+}

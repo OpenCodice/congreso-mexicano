@@ -1,0 +1,41 @@
+{
+  "asunto": "4927376",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 90
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 11
+    }
+  ],
+  "expediente_id": "sil-4927416",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4927376-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Por el que acuerda no otorgar a Irlanda Gabriela Pacheco Torres, Jueza de Distrito en Materia Penal, licencia sin goce de sueldo desde el 2 de septiembre de 2025 y hasta el 2 de marzo de 2026.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 11"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2dd3bbee1e859f7593b1fe59781a0383094a1dc6fd6e98727ca85e454881a9de.html",
+      "consultado": "2026-11-16T16:47:57Z",
+      "sha256": "2dd3bbee1e859f7593b1fe59781a0383094a1dc6fd6e98727ca85e454881a9de",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4927376"
+    }
+  ],
+  "start_date": "2025-09-17",
+  "votes": [],
+  "votos_publicados": false
+}

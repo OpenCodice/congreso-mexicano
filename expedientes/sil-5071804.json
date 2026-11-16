@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4943030",
+      "denominacion": "Que reforma el artículo 47 Bis de la Ley de Aviación Civil.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4943030_20251007_1759958659.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4943036",
+      "denominacion": "Que adiciona el artículo 47 Bis de la Ley de Aviación Civil.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4943036_20251007_1759874556.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067862",
+      "denominacion": "Que adiciona el artículo 47 Bis de la Ley de Aviación Civil.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067862_20260415_1776262599.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070174",
+      "denominacion": "Que adiciona el artículo 47 Bis de la Ley de Aviación Civil.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070174_20260415_1776262600.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072248",
+      "denominacion": "Con proyecto de decreto por el que adiciona el artículo 47 Bis de la Ley de Aviación Civil.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072248_20260421_1776790023.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 47 Bis de la Ley de Aviación Civil.",
+  "id": "sil-5071804",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071804",
+  "sources": [
+    {
+      "archivo": "fuentes/75/7548f85d88bbf06081013c872e391ea92370618c2712dddbe04dfff2b72a4471.html",
+      "consultado": "2026-11-16T18:18:31Z",
+      "sha256": "7548f85d88bbf06081013c872e391ea92370618c2712dddbe04dfff2b72a4471",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071804&Asunto=5070174"
+    },
+    {
+      "archivo": "fuentes/66/66cef6f6221ab71148347f37703d93d453d1aa6cf58db134e194a1b5be746fc4.html",
+      "consultado": "2026-11-16T18:18:34Z",
+      "sha256": "66cef6f6221ab71148347f37703d93d453d1aa6cf58db134e194a1b5be746fc4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070174&Seguimiento=5071804"
+    }
+  ],
+  "tramites": {
+    "5070174": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 435
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 435 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070174-1"
+  ]
+}

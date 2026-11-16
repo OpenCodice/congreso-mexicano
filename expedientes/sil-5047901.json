@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4972787",
+      "denominacion": "Que adiciona un artículo 73 Bis a la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2025-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4972787_20251112_1760457551.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5042782",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un artículo 73 Bis de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042782_20260319_1773943359.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5053260",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un artículo 73 Bis de la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5053260_20260325_1773943361.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5055057",
+      "denominacion": "Que adiciona un artículo 73 Bis a la Ley General de Educación.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5055057_20260325_1774509410.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se adiciona un artículo 73 Bis de la Ley General de Educación.",
+  "id": "sil-5047901",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5047901",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5feb4d9dcc030f8856b80ed738f532d803daa5c812a8395e86529d1103ab2a7b.html",
+      "consultado": "2026-11-16T18:04:28Z",
+      "sha256": "5feb4d9dcc030f8856b80ed738f532d803daa5c812a8395e86529d1103ab2a7b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5047901&Asunto=5053260"
+    },
+    {
+      "archivo": "fuentes/a0/a0b0f81c709eab2bd541eedec4e5461593d1978ec9a91e116d29038f9048e812.html",
+      "consultado": "2026-11-16T18:04:32Z",
+      "sha256": "a0b0f81c709eab2bd541eedec4e5461593d1978ec9a91e116d29038f9048e812",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5053260&Seguimiento=5047901"
+    }
+  ],
+  "tramites": {
+    "5053260": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 100
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 100 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/03/2026",
+  "votaciones": [
+    "sil-5053260-1"
+  ]
+}

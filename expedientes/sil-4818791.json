@@ -1,0 +1,130 @@
+{
+  "asuntos": [
+    {
+      "clave": "4774719",
+      "denominacion": "Que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de lenguaje inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/12/2024",
+      "fecha": "2024-09-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4774719_20240918_1725569574.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4817511",
+      "denominacion": "Con proyecto de decreto que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de lenguaje inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/12/2024",
+      "fecha": "2024-12-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4817511_20241204_1733364596.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4820037",
+      "denominacion": "Con proyecto de decreto que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de lenguaje inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/12/2024",
+      "fecha": "2024-12-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4820037_20241209_1733364598.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4821944",
+      "denominacion": "Que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de lenguaje inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 11/12/2024",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4821944_20241211_1733928962.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2024-12-10"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2024-12-11"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2024-12-11"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de lenguaje inclusivo.",
+  "id": "sil-4818791",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4818791",
+  "sources": [
+    {
+      "archivo": "fuentes/82/82c43a31eff6a2fe78029df27d4a5036d1a0815fce27ce4b9042f59e43039997.html",
+      "consultado": "2026-11-16T15:50:33Z",
+      "sha256": "82c43a31eff6a2fe78029df27d4a5036d1a0815fce27ce4b9042f59e43039997",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4818791&Asunto=4820037"
+    },
+    {
+      "archivo": "fuentes/67/67590d81507e04b6a4fe26d1b3cc45eadb8a7f411ab6b6b2f59e6c06801f6e63.html",
+      "consultado": "2026-11-16T15:50:37Z",
+      "sha256": "67590d81507e04b6a4fe26d1b3cc45eadb8a7f411ab6b6b2f59e6c06801f6e63",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4820037&Seguimiento=4818791"
+    }
+  ],
+  "tramites": {
+    "4820037": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 113
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados Senadora y senador a favor sólo para registro en el Diario de los Debates: Sen. Alberto Anaya Gutiérrez (PT) y Sen. Laura Itzel Castillo Juárez (Morena) A Favor: 113 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Aprobado admitir a discusión las propuestas de modificación presentadas por la Sen. Sasil Dora Luz De León Villard (Morena) al apartado de considerandos y, de los artículos 35, 73 y 89 del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado las modificaciones presentadas por la Sen. Sasil Dora Luz De León Villard (Morena) al apartado de considerandos y, de los artículos 35, 73 y 89 del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 112
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 112 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 11/12/2024",
+  "votaciones": [
+    "sil-4820037-1",
+    "sil-4820037-2"
+  ]
+}

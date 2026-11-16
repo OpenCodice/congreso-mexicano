@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4882690",
+      "denominacion": "Que adiciona una fracción VIII al artículo 25 de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4882690_20250423_1745342774.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5042788",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un último párrafo al artículo 25 de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042788_20260319_1773944373.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5053272",
+      "denominacion": "Con proyecto de decreto por el que se adiciona un último párrafo al artículo 25 de la Ley General de Responsabilidades Administrativas.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5053272_20260325_1773944375.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5055063",
+      "denominacion": "Que adiciona un último párrafo al artículo 25 de la Ley General de Responsabilidades Administrativas, en materia de política de integridad empresarial.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/03/2026",
+      "fecha": "2026-03-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5055063_20260325_1774509436.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se adiciona un último párrafo al artículo 25 de la Ley General de Responsabilidades Administrativas.",
+  "id": "sil-5047904",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5047904",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7099e395d9f57b2e973f09e86e769ae5d4a9fc5e27211d2a4e03b23d0589f1a.html",
+      "consultado": "2026-11-16T18:05:31Z",
+      "sha256": "b7099e395d9f57b2e973f09e86e769ae5d4a9fc5e27211d2a4e03b23d0589f1a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5047904&Asunto=5053272"
+    },
+    {
+      "archivo": "fuentes/27/275995407e979fed4f84b580f96ec24c10da80bb207d70aadf626890e285e6f8.html",
+      "consultado": "2026-11-16T18:05:35Z",
+      "sha256": "275995407e979fed4f84b580f96ec24c10da80bb207d70aadf626890e285e6f8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5053272&Seguimiento=5047904"
+    }
+  ],
+  "tramites": {
+    "5053272": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 107
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 107 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/03/2026",
+  "votaciones": [
+    "sil-5053272-1"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "asuntos": [
+    {
+      "clave": "4350515",
+      "denominacion": "Que deroga los artículos 132 de la Ley del Seguro Social y 136 de la Ley del Instituto de Seguridad y Servicio Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2022-04-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/04/asun_4350515_20220406_1649266704.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4472984",
+      "denominacion": "Que deroga diversas disposiciones de las Leyes del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2022-12-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/12/asun_4472984_20221214_1668528636.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4721874",
+      "denominacion": "Que deroga los artículos 132 de la Ley del Seguro Social y, el 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2024-03-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/03/asun_4721874_20240319_1708444415.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4746955",
+      "denominacion": "Con proyecto de decreto que deroga el artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2024-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/04/asun_4746955_20240423_1713881333.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5025135",
+      "denominacion": "Con proyecto de decreto por el que deroga el artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025135_20260303_1772563462.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5029760",
+      "denominacion": "Con proyecto de decreto por el que deroga el artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5029760_20260304_1772563463.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5032383",
+      "denominacion": "Que deroga el artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032383_20260310_1773171046.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-04"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que deroga el artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+  "id": "sil-4749353",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4749353",
+  "sources": [
+    {
+      "archivo": "fuentes/81/81b9422126ffc47cf3d0aff4692c6f8b33b52dc973d8a5148fb0fb7540ed5ec5.html",
+      "consultado": "2026-11-16T15:28:26Z",
+      "sha256": "81b9422126ffc47cf3d0aff4692c6f8b33b52dc973d8a5148fb0fb7540ed5ec5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4749353&Asunto=5029760"
+    },
+    {
+      "archivo": "fuentes/38/380944901f0dc5381a4a3d06901c3ee218fc66b1689dedafdee51398322bbc8e.html",
+      "consultado": "2026-11-16T15:28:30Z",
+      "sha256": "380944901f0dc5381a4a3d06901c3ee218fc66b1689dedafdee51398322bbc8e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5029760&Seguimiento=4749353"
+    }
+  ],
+  "tramites": {
+    "5029760": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 85
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 85 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5029760-1"
+  ]
+}

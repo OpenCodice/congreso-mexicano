@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4804269",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2024-11-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4804269_20241119_1731436207.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4981104",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4981104_20251125_1764095381.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4987838",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4987838_20251201_1764095384.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4995072",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.",
+      "estatus": "Pendiente en comisión(es) de revisora 03/12/2025",
+      "fecha": "2025-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995072_20251203_1765223398.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-03"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-03"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.",
+  "id": "sil-4983321",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4983321",
+  "sources": [
+    {
+      "archivo": "fuentes/17/17d955017861d10552003b9566e2576b99633a9aaf648daf56f466b561198269.html",
+      "consultado": "2026-11-16T17:18:44Z",
+      "sha256": "17d955017861d10552003b9566e2576b99633a9aaf648daf56f466b561198269",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983321&Asunto=4987838"
+    },
+    {
+      "archivo": "fuentes/d0/d05ad9be06081726fd7262796228fa20a6d2807cd21cac283e9708f769bfd8c5.html",
+      "consultado": "2026-11-16T17:18:48Z",
+      "sha256": "d05ad9be06081726fd7262796228fa20a6d2807cd21cac283e9708f769bfd8c5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987838&Seguimiento=4983321"
+    }
+  ],
+  "tramites": {
+    "4987838": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 91
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 91 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
+  "votaciones": [
+    "sil-4987838-1"
+  ]
+}

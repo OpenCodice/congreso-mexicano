@@ -1,0 +1,92 @@
+{
+  "asuntos": [
+    {
+      "clave": "4966568",
+      "denominacion": "Con el que comunica que dicha instancia acordó tener por recibida la renuncia de una persona jueza de distrito adscrita al Centro de Justicia Penal Federal en el estado de Jalisco, para los efectos de lo dispuesto en los artículos 76 fracción VIII y 98 primer párrafo de la Constitución Política de los Estados Unidos Mexicanos.",
+      "estatus": "Resuelto / Aprobado 19/11/2025",
+      "fecha": "2025-11-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4966568_20251104_1762294840.pdf",
+      "tipo": "Comunicado"
+    },
+    {
+      "clave": "4976223",
+      "denominacion": "En relación con la renuncia de Adrián Guadalupe Aguirre Hernández de forma inmediata e irrevocable, para los efectos del primer párrafo del artículo 98 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "estatus": "Resuelto / Aprobado 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4976223_20251119_1763582816.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-11-18"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Resuelto / Aprobado",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "En relación con la renuncia de Adrián Guadalupe Aguirre Hernández de forma inmediata e irrevocable, para los efectos del primer párrafo del artículo 98 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "id": "sil-4979680",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4979680",
+  "sources": [
+    {
+      "archivo": "fuentes/ad/ad6d631c01fb43eada0c57440de12810be919602bd60d48122f4c8edc1439b91.html",
+      "consultado": "2026-11-16T17:16:12Z",
+      "sha256": "ad6d631c01fb43eada0c57440de12810be919602bd60d48122f4c8edc1439b91",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4979680&Asunto=4976223"
+    },
+    {
+      "archivo": "fuentes/1f/1f5b074ebcaca38d999b8da1d2bd775ce6ed3ad428effae87f3647e08dad5d64.html",
+      "consultado": "2026-11-16T17:16:15Z",
+      "sha256": "1f5b074ebcaca38d999b8da1d2bd775ce6ed3ad428effae87f3647e08dad5d64",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4976223&Seguimiento=4979680"
+    }
+  ],
+  "tramites": {
+    "4976223": [
+      {
+        "texto": "Aprobado para dispensar el requisito de 24 horas y someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado Considerar suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 14,
+          "no": 0,
+          "yes": 94
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 0 Abstenciones 14",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Resuelto / Aprobado Aprobado 19/11/2025",
+  "votaciones": [
+    "sil-4976223-1"
+  ]
+}

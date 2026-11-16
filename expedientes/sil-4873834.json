@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4870688",
+      "denominacion": "Con el que remite solicitud de autorización para que se permita la salida de elementos de la Armada de México fuera de los límites del país, para que participen en el Ejercicio Multinacional -TRADEWINDS 2025-, a realizarse en Trinidad y Tobago del 26 de abril al 8 de mayo de 2025.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-04-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4870688_20250402_1743613266.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4872451",
+      "denominacion": "Con proyecto de decreto que autoriza a la titular del Ejecutivo Federal para que permita la salida de elementos de la Armada de México, fuera de los límites del país, a fin de que participen en el Ejercicio Multinacional -Tradewinds 2025-, que se llevará a cabo del 26 de abril al 8 de mayo de 2025, en Trinidad y Tobago.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4872451_20250408_1744117422.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4874318",
+      "denominacion": "Con proyecto de decreto que autoriza a la titular del Ejecutivo Federal para que permita la salida de elementos de la Armada de México, fuera de los límites del país, a fin de que participen en el Ejercicio Multinacional -Tradewinds 2025-, que se llevará a cabo del 26 de abril al 8 de mayo de 2025, en Trinidad y Tobago.",
+      "estatus": "Publicado en DOF 15/04/2025",
+      "fecha": "2025-04-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4874318_20250409_1744117423.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-09"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-09"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-09"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-04-15"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que autoriza a la titular del Ejecutivo Federal para que permita la salida de elementos de la Armada de México, fuera de los límites del país, a fin de que participen en el Ejercicio Multinacional -Tradewinds 2025-, que se llevará a cabo del 26 de abril al 8 de mayo de 2025, en Trinidad y Tobago.",
+  "id": "sil-4873834",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-04-15",
+  "seguimiento": "4873834",
+  "sources": [
+    {
+      "archivo": "fuentes/9b/9bd2964bb7d6a7f1ba72b6ac6a030a2e1d576ec13b3c8a7aa4f1ef73792f6b30.html",
+      "consultado": "2026-11-16T16:14:35Z",
+      "sha256": "9bd2964bb7d6a7f1ba72b6ac6a030a2e1d576ec13b3c8a7aa4f1ef73792f6b30",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4873834&Asunto=4874318"
+    },
+    {
+      "archivo": "fuentes/dd/ddf9d3fa7542d3ca62cbbb59cb954d8fe54f7cd5ed35da2aa1ee935b02b923f8.html",
+      "consultado": "2026-11-16T16:14:39Z",
+      "sha256": "ddf9d3fa7542d3ca62cbbb59cb954d8fe54f7cd5ed35da2aa1ee935b02b923f8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4874318&Seguimiento=4873834"
+    }
+  ],
+  "tramites": {
+    "4874318": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 117
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 117 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 15/04/2025",
+  "votaciones": [
+    "sil-4874318-1"
+  ]
+}

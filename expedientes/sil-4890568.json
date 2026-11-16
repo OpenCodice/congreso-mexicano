@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4885303",
+      "denominacion": "Con el que remite la solicitud de autorización para que permita el ingreso al territorio nacional de personal militar del Comando Norte del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominada -Ejercicio Especializado Conjunto 2025-, a realizarse en las instalaciones del Centro Nacional de Adiestramiento ubicado en Santa Gertrudis, Chihuahua, del 7 al 25 de julio de 2025.",
+      "estatus": "Publicado en DOF 29/05/2025",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4885303_20250423_1745446940.pdf",
+      "tipo": "Permiso al Ejecutivo"
+    },
+    {
+      "clave": "4890500",
+      "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita el ingreso a territorio nacional de personal militar del Comando Norte del Ejército de los Estados Unidos de América a efecto de que participen en la actividad de adiestramiento denominada -Ejercicio Especializado Conjunto 2025-.",
+      "estatus": "Publicado en DOF 29/05/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4890500_20250428_1745874741.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4891112",
+      "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita el ingreso a territorio nacional de personal militar del Comando Norte del Ejército de los Estados Unidos de América a efecto de que participen en la actividad de adiestramiento denominada -Ejercicio Especializado Conjunto 2025-.",
+      "estatus": "Publicado en DOF 29/05/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4891112_20250428_1745874742.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-05-29"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que concede autorización a la Titular del Ejecutivo Federal para que permita el ingreso a territorio nacional de personal militar del Comando Norte del Ejército de los Estados Unidos de América a efecto de que participen en la actividad de adiestramiento denominada -Ejercicio Especializado Conjunto 2025-.",
+  "id": "sil-4890568",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-05-29",
+  "seguimiento": "4890568",
+  "sources": [
+    {
+      "archivo": "fuentes/23/23334fc4868bcc33678b27eafe9432ec1fb26454c1178172e652500ba0acc22b.html",
+      "consultado": "2026-11-16T16:24:34Z",
+      "sha256": "23334fc4868bcc33678b27eafe9432ec1fb26454c1178172e652500ba0acc22b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890568&Asunto=4891112"
+    },
+    {
+      "archivo": "fuentes/7f/7f3b45938a8ecff784f95fa7cb8a9cd1192f99a27450883d6ab79adbd8d73c47.html",
+      "consultado": "2026-11-16T16:24:38Z",
+      "sha256": "7f3b45938a8ecff784f95fa7cb8a9cd1192f99a27450883d6ab79adbd8d73c47",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4891112&Seguimiento=4890568"
+    }
+  ],
+  "tramites": {
+    "4891112": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 96
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 96 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "para sus efectos constitucionales.",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 29/05/2025",
+  "votaciones": [
+    "sil-4891112-1"
+  ]
+}

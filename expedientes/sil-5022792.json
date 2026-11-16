@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4902918",
+      "denominacion": "Que declara el 22 de julio como el -Día Nacional del Cerebro-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-06-04",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4902918_20250604_1749049706.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020252",
+      "denominacion": "Con proyecto de decreto por el que declara el 22 de julio de cada año, como el -Día Nacional del Cerebro-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020252_20260224_1771957090.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5025166",
+      "denominacion": "Con proyecto de decreto por el que declara el 22 de julio de cada año, como el -Día Nacional del Cerebro-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025166_20260303_1771957092.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5032377",
+      "denominacion": "Que declara el 22 de julio de cada año como el -Día Nacional del Cerebro-.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032377_20260310_1773171015.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que declara el 22 de julio de cada año, como el -Día Nacional del Cerebro-.",
+  "id": "sil-5022792",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022792",
+  "sources": [
+    {
+      "archivo": "fuentes/67/67f40d12f49cf1d3800b20c9f990af9cfec29fdce137742685ace2ad3cc8601c.html",
+      "consultado": "2026-11-16T17:47:32Z",
+      "sha256": "67f40d12f49cf1d3800b20c9f990af9cfec29fdce137742685ace2ad3cc8601c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022792&Asunto=5025166"
+    },
+    {
+      "archivo": "fuentes/f2/f2043b9e83f23eb14d5ef55b09b8d551a907b1120dd69194106bb1ffeaa550a5.html",
+      "consultado": "2026-11-16T17:47:36Z",
+      "sha256": "f2043b9e83f23eb14d5ef55b09b8d551a907b1120dd69194106bb1ffeaa550a5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5025166&Seguimiento=5022792"
+    }
+  ],
+  "tramites": {
+    "5025166": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 84
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 84 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5025166-1"
+  ]
+}

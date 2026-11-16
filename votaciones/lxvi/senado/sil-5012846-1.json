@@ -1,0 +1,41 @@
+{
+  "asunto": "5012846",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 104
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5014523",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5012846-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Luz Elena Baños Rivas, como Embajadora Extraordinaria y Plenipotenciaria de México en la República de Guatemala.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 104 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/8d/8defbe95be446cce5c2e8b1fe907b5b8dd1aaa4e616155f066192f5258cf441e.html",
+      "consultado": "2026-11-16T17:38:49Z",
+      "sha256": "8defbe95be446cce5c2e8b1fe907b5b8dd1aaa4e616155f066192f5258cf441e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5012846"
+    }
+  ],
+  "start_date": "2026-02-11",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,234 @@
+{
+  "asuntos": [
+    {
+      "clave": "5098829",
+      "denominacion": "Que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+      "estatus": "Turnado al Ejecutivo 03/11/2026",
+      "fecha": "2026-06-01",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/06/asun_5098829_20260601_1780331794.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5153537",
+      "denominacion": "Que reforma el artículo 114 Octies y se adicionan los artículos 114 Nonies y 232 Septies a la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+      "estatus": "Turnado al Ejecutivo 03/11/2026",
+      "fecha": "2026-10-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5153537_20261006_1791310655.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5156358",
+      "denominacion": "Que reforma el artículo 114 Octies y se adicionan los artículos 114 Nonies y 232 Septies a la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+      "estatus": "Turnado al Ejecutivo 03/11/2026",
+      "fecha": "2026-10-07",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5156358_20261007_1791405873.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5159284",
+      "denominacion": "Con proyecto de decreto por el que se reforma el artículo 114 Octies, y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de Internet.",
+      "estatus": "Turnado al Ejecutivo 03/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5159284_20261013_1791910898.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5184484",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 114 Octies, y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de Internet.",
+      "estatus": "Turnado al Ejecutivo 03/11/2026",
+      "fecha": "2026-11-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5184484_20261103_1793758202.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-07"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-07"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-07"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-10-13"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-10-13"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-11-03"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-11-03"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 114 Octies y se adicionan los artículos 114 Nonies y 232 Septies a la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+  "id": "sil-5154795",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5154795",
+  "sources": [
+    {
+      "archivo": "fuentes/e8/e8d5b432c90c8fbaef913f7884f52966cc17932b136c89ac80bc5b7c8b133682.html",
+      "consultado": "2026-11-16T18:43:46Z",
+      "sha256": "e8d5b432c90c8fbaef913f7884f52966cc17932b136c89ac80bc5b7c8b133682",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5154795&Asunto=5156358"
+    },
+    {
+      "archivo": "fuentes/60/604f62f2acbe424c64ff2a6fe04ab159e448744027459a1aa9a1c736ec627d77.html",
+      "consultado": "2026-11-16T18:43:50Z",
+      "sha256": "604f62f2acbe424c64ff2a6fe04ab159e448744027459a1aa9a1c736ec627d77",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5156358&Seguimiento=5154795"
+    }
+  ],
+  "tramites": {
+    "5156358": [
+      {
+        "texto": "La presidencia de la Mesa Directiva da cuenta a la Asamblea de la discusión y votación del dictamen con proyecto de decreto que reforma el artículo 114 Octies y adiciona los artículos 114 Nonies y 232 Septies a la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Kenia López Rabadán (PAN) al dictamen que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC) al dictamen que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma el artículo 114 Octies y se adicionan los artículos 114 Nonies y 232 Septies a la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "114 Octies, 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor; y, los Artículos Transitorios Primero, Segundo y Tercero del dictamen.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 1,
+          "no": 114,
+          "yes": 325
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 325 En contra: 114 Abstenciones 1",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Hugo Manuel Luna Vázquez (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Gildardo Pérez Gabino (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Verónica Martínez García (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Adrián Martínez Terrazas (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. David Azuara Zúñiga (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Diana Estefanía Gutiérrez Valtierra (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Paulo Gonzalo Martínez López (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Roberto Sosa Pichardo (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 97,
+          "yes": 310
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 310 En contra: 97 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 03/11/2026",
+  "votaciones": [
+    "sil-5156358-1",
+    "sil-5156358-2"
+  ]
+}

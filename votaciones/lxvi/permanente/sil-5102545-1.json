@@ -1,0 +1,41 @@
+{
+  "asunto": "5102545",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 35
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5102731",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5102545-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que se ratifica el nombramiento expedido por la persona titular del Poder Ejecutivo Federal a favor de Alicia Guadalupe Buenrostro Massieu, como Embajadora Extraordinaria y Plenipotenciaria de México en el Reino de los Países Bajos, así como Representante Permanente de México ante la Organización para la Prohibición de las Armas Químicas (OPAQ).",
+    "text": "Aprobado en lo general y en lo particular A Favor: 35 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/27/27e920c5cd2a68dd20e00fe09420e1f4b0d8b03d72f7d091a36132a90d422f56.html",
+      "consultado": "2026-11-16T18:35:44Z",
+      "sha256": "27e920c5cd2a68dd20e00fe09420e1f4b0d8b03d72f7d091a36132a90d422f56",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5102545"
+    }
+  ],
+  "start_date": "2026-06-10",
+  "votes": [],
+  "votos_publicados": false
+}

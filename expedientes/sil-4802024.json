@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4800602",
+      "denominacion": "Con el que remite oficio por el que la Presidenta de la República, Claudia Sheinbaum Pardo, somete a la ratificación de la Cámara de Diputados el nombramiento de Rogelio Eduardo Ramírez de la O como secretario de Hacienda y Crédito Público.",
+      "estatus": "Toma de protesta 13/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800602_20241112_1731426569.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4800605",
+      "denominacion": "Con el que remite oficio por el que la Presidenta de la República, Claudia Sheinbaum Pardo, somete a la ratificación de la Cámara de Diputados el nombramiento de los ciudadanos Édgar Abraham Amador Zamora como subsecretario de Hacienda y Crédito Público; y de Antonio Martínez Dagnino como jefe del Servicio de Administración Tributaria.",
+      "estatus": "Toma de protesta 13/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800605_20241112_1731426593.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4800608",
+      "denominacion": "Con el que oficio por el que la Presidenta de la República, Claudia Sheinbaum Pardo, somete a la ratificación de la Cámara de Diputados el nombramiento de diversos ciudadanos en su carácter de empleados superiores de Hacienda.",
+      "estatus": "Toma de protesta 13/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800608_20241112_1731426607.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4800623",
+      "denominacion": "Que ratifica diversos nombramientos de funcionarios superiores de Hacienda, remitidos por la titular del Ejecutivo Federal a la Cámara de Diputados.",
+      "estatus": "Toma de protesta 13/11/2024",
+      "fecha": "2024-11-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800623_20241112_1731457153.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-11-12"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-11-12"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-11-12"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-11-12"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2024-11-13"
+    }
+  ],
+  "denominacion": "Que ratifica diversos nombramientos de funcionarios superiores de Hacienda, remitidos por la titular del Ejecutivo Federal a la Cámara de Diputados.",
+  "id": "sil-4802024",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4802024",
+  "sources": [
+    {
+      "archivo": "fuentes/4b/4ba294af087ab3df71381cf133e2dda1c3b23186300b4188135171e6afbcf2cb.html",
+      "consultado": "2026-11-16T15:43:23Z",
+      "sha256": "4ba294af087ab3df71381cf133e2dda1c3b23186300b4188135171e6afbcf2cb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4802024&Asunto=4800623"
+    },
+    {
+      "archivo": "fuentes/7a/7a7f20338fc80e181c1f5a38b7a02fc461b803f8b6a30711f25b293a5fb85fe6.html",
+      "consultado": "2026-11-16T15:43:27Z",
+      "sha256": "7a7f20338fc80e181c1f5a38b7a02fc461b803f8b6a30711f25b293a5fb85fe6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4800623&Seguimiento=4802024"
+    }
+  ],
+  "tramites": {
+    "4800623": [
+      {
+        "texto": "únicamente a los resolutivos.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que ratifica diversos nombramientos de funcionarios superiores de Hacienda, remitidos por la titular del Ejecutivo Federal a la Cámara de Diputados.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 89,
+          "yes": 362
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 362 En contra: 89 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 13/11/2024",
+  "votaciones": [
+    "sil-4800623-1"
+  ]
+}

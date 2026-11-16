@@ -1,0 +1,176 @@
+{
+  "asuntos": [
+    {
+      "clave": "4877283",
+      "denominacion": "Que adiciona dos fracciones al artículo 113 de la Ley Orgánica del Congreso de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 02/07/2025",
+      "fecha": "2025-04-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4877283_20250410_1744299398.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4889170",
+      "denominacion": "Con proyecto de decreto que adiciona dos incisos al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 02/07/2025",
+      "fecha": "2025-04-28",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4889170_20250428_1745861678.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4891064",
+      "denominacion": "Con proyecto de decreto que adiciona dos incisos al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 02/07/2025",
+      "fecha": "2025-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4891064_20250428_1745861679.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4895308",
+      "denominacion": "Que adiciona dos incisos al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+      "estatus": "Publicado en DOF 02/07/2025",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4895308_20250430_1746022601.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "4906614",
+      "denominacion": "Que adiciona dos incisos al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos (facultades de la Contraloría Interna del Senado de la República).",
+      "estatus": "Publicado en DOF 02/07/2025",
+      "fecha": "2025-06-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4906614_20250623_1750712012.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4906810",
+      "denominacion": "Que adiciona dos incisos al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos (facultades de la Contraloría Interna del Senado de la República).",
+      "estatus": "Publicado en DOF 02/07/2025",
+      "fecha": "2025-06-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4906810_20250623_1750729177.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-04-29"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-04-30"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-04-30"
+    },
+    {
+      "estatus": "Aprobado en comisión(es) revisora",
+      "fecha": "2025-06-12"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de revisora",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "De primera lectura en revisora",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-07-02"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que adiciona dos incisos al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
+  "id": "sil-4890547",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-07-02",
+  "seguimiento": "4890547",
+  "sources": [
+    {
+      "archivo": "fuentes/b0/b03af5187ae56afdca94003215e9f6bbfd3479cdf069f207f881c84554f0f792.html",
+      "consultado": "2026-11-16T16:23:17Z",
+      "sha256": "b03af5187ae56afdca94003215e9f6bbfd3479cdf069f207f881c84554f0f792",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890547&Asunto=4891064"
+    },
+    {
+      "archivo": "fuentes/71/7192a574a74611b86484d422ecbe83f63da47e27f42c5efc224a76e7c244a3e7.html",
+      "consultado": "2026-11-16T16:23:21Z",
+      "sha256": "7192a574a74611b86484d422ecbe83f63da47e27f42c5efc224a76e7c244a3e7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4891064&Seguimiento=4890547"
+    }
+  ],
+  "tramites": {
+    "4891064": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 100
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 100 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ],
+    "4906810": [
+      {
+        "texto": "Aprobado en lo general y en lo particular",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 442
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 442 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 02/07/2025",
+  "votaciones": [
+    "sil-4891064-1",
+    "sil-4906810-1"
+  ]
+}

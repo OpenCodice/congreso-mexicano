@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4792500",
+      "denominacion": "Que inscribe en el Muro de Honor del Senado de la República, la leyenda: -Vicente Guerrero. Consumador de la Independencia Nacional-.",
+      "estatus": "Publicado en DOF 20/03/2025",
+      "fecha": "2024-10-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4792500_20241029_1725382728.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4814550",
+      "denominacion": "Que inscribe en el Muro de Honor del Senado de la República la leyenda: -Vicente Guerrero, afromexicano, consumador de la independencia-.",
+      "estatus": "Publicado en DOF 20/03/2025",
+      "fecha": "2024-12-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4814550_20241203_1733250113.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4853088",
+      "denominacion": "Con proyecto de decreto que inscribe en el Muro de Honor del Senado de la República la leyenda: Vicente Guerrero, Afromexicano, consumador de la Independencia.",
+      "estatus": "Publicado en DOF 20/03/2025",
+      "fecha": "2025-03-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4853088_20250311_1741725257.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4853920",
+      "denominacion": "Con proyecto de decreto que inscribe en el Muro de Honor del Senado de la República la leyenda: Vicente Guerrero, Afromexicano, consumador de la Independencia.",
+      "estatus": "Publicado en DOF 20/03/2025",
+      "fecha": "2025-03-12",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4853920_20250312_1741725258.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2025-03-12"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2025-03-20"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que inscribe en el Muro de Honor del Senado de la República la leyenda: Vicente Guerrero, Afromexicano, consumador de la Independencia.",
+  "id": "sil-4879326",
+  "legislatura": "LXVI",
+  "publicado_dof": "2025-03-20",
+  "seguimiento": "4879326",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87c4860f63d2af2dc7914a6f374cf9e0b0995863dd7001d34f566ff85f82c58b.html",
+      "consultado": "2026-11-16T16:19:03Z",
+      "sha256": "87c4860f63d2af2dc7914a6f374cf9e0b0995863dd7001d34f566ff85f82c58b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4879326&Asunto=4853920"
+    },
+    {
+      "archivo": "fuentes/10/1002b8ae0c56851c6e53cf9a40a07f2cecc6334f81c203167c8e94e17f720dbe.html",
+      "consultado": "2026-11-16T16:19:07Z",
+      "sha256": "1002b8ae0c56851c6e53cf9a40a07f2cecc6334f81c203167c8e94e17f720dbe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4853920&Seguimiento=4879326"
+    }
+  ],
+  "tramites": {
+    "4853920": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 99
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 99 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 20/03/2025",
+  "votaciones": [
+    "sil-4853920-1"
+  ]
+}

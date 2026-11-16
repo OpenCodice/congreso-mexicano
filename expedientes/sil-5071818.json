@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4915908",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2025-08-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4915908_20250805_1753889566.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5067878",
+      "denominacion": "Que adiciona una fracción IX al artículo 2o. de la Ley General de Salud, en materia de prevención para la salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5067878_20260415_1776262662.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5070189",
+      "denominacion": "Que adiciona una fracción IX al artículo 2o. de la Ley General de Salud, en materia de prevención para la salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-15",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5070189_20260415_1776262663.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5072257",
+      "denominacion": "Con proyecto de decreto por el que adiciona una fracción IX al artículo 2o. de la Ley General de Salud, en materia de prevención para la salud.",
+      "estatus": "Pendiente en comisión(es) de revisora 21/04/2026",
+      "fecha": "2026-04-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5072257_20260421_1776791161.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-04-15"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-04-21"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-04-21"
+    }
+  ],
+  "denominacion": "Que adiciona una fracción IX al artículo 2o. de la Ley General de Salud, en materia de prevención para la salud.",
+  "id": "sil-5071818",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5071818",
+  "sources": [
+    {
+      "archivo": "fuentes/ca/ca99f4e080082c46d2ad065efe6be87954dcd03b61a4d9cd563cc224527099ea.html",
+      "consultado": "2026-11-16T18:21:36Z",
+      "sha256": "ca99f4e080082c46d2ad065efe6be87954dcd03b61a4d9cd563cc224527099ea",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5071818&Asunto=5070189"
+    },
+    {
+      "archivo": "fuentes/9b/9b229a5038d08b1fa6bc8c3c1c487eb6687e706ba2982305aa34a8ca6b9428ec.html",
+      "consultado": "2026-11-16T18:21:40Z",
+      "sha256": "9b229a5038d08b1fa6bc8c3c1c487eb6687e706ba2982305aa34a8ca6b9428ec",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5070189&Seguimiento=5071818"
+    }
+  ],
+  "tramites": {
+    "5070189": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 421
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 421 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/04/2026",
+  "votaciones": [
+    "sil-5070189-1"
+  ]
+}

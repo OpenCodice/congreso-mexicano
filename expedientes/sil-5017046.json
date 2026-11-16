@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4945329",
+      "denominacion": "Que adiciona al artículo 46 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de conservación, reproducción y reintroducción de especies.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2025-10-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4945329_20251008_1759431680.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5016121",
+      "denominacion": "Que adiciona un último párrafo al artículo 46 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de conservación, reproducción y reintroducción de especies.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016121_20260217_1771349631.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5016210",
+      "denominacion": "Que adiciona un último párrafo al artículo 46 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de conservación, reproducción y reintroducción de especies.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5016210_20260217_1771350959.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5017173",
+      "denominacion": "Con proyecto de decreto por el que adiciona un último párrafo al artículo 46 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de conservación, reproducción y reintroducción de especies.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/02/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017173_20260218_1771436182.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-02-17"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-02-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-02-18"
+    }
+  ],
+  "denominacion": "Que adiciona un último párrafo al artículo 46 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de conservación, reproducción y reintroducción de especies.",
+  "id": "sil-5017046",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5017046",
+  "sources": [
+    {
+      "archivo": "fuentes/86/86bafeb0803046a466bde533d563527295416d39f8ef327ec6ad31fffc3c3466.html",
+      "consultado": "2026-11-16T17:41:44Z",
+      "sha256": "86bafeb0803046a466bde533d563527295416d39f8ef327ec6ad31fffc3c3466",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017046&Asunto=5016210"
+    },
+    {
+      "archivo": "fuentes/0f/0f8ca44654a07ab75a2ff2c5c6e4b0766a27753052f8ea3430c776b1cf23d326.html",
+      "consultado": "2026-11-16T17:41:48Z",
+      "sha256": "0f8ca44654a07ab75a2ff2c5c6e4b0766a27753052f8ea3430c776b1cf23d326",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016210&Seguimiento=5017046"
+    }
+  ],
+  "tramites": {
+    "5016210": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona un último párrafo al artículo 46 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de conservación, reproducción y reintroducción de especies.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 448
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 448 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
+  "votaciones": [
+    "sil-5016210-1"
+  ]
+}

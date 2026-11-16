@@ -1,0 +1,132 @@
+{
+  "asuntos": [
+    {
+      "clave": "4760007",
+      "denominacion": "Que adiciona el artículo 116 Bis al Capítulo II del Título Quinto, de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2024-06-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/06/asun_4760007_20240606_1717691121.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4774794",
+      "denominacion": "Que reforma la fracción XXIV y se adiciona la fracción XXVI al artículo 13 de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2024-09-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4774794_20240918_1726678852.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4883248",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2025-04-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4883248_20250423_1745426996.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4953180",
+      "denominacion": "Que reforma el artículo 3º de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de origen 21/10/2025",
+      "fecha": "2025-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4953180_20251021_1761072926.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5020240",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XII del artículo 3 y se adiciona una fracción IX al artículo 21 de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-02-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5020240_20260224_1771955047.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5025154",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XII del artículo 3 y se adiciona una fracción IX al artículo 21 de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5025154_20260303_1771955049.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5032368",
+      "denominacion": "Que reforma la fracción XII del artículo 3 y se adiciona una fracción IX al artículo 21 de la Ley General de Desarrollo Forestal Sustentable.",
+      "estatus": "Pendiente en comisión(es) de revisora 10/03/2026",
+      "fecha": "2026-03-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5032368_20260310_1773170770.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-03-03"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-03-10"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-03-10"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma la fracción XII del artículo 3 y se adiciona una fracción IX al artículo 21 de la Ley General de Desarrollo Forestal Sustentable.",
+  "id": "sil-5022779",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5022779",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf3dbead99ea6df56ca4eabb23791e61bab2017022e8eda5718aaa128017a0b7.html",
+      "consultado": "2026-11-16T17:46:55Z",
+      "sha256": "cf3dbead99ea6df56ca4eabb23791e61bab2017022e8eda5718aaa128017a0b7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5022779&Asunto=5025154"
+    },
+    {
+      "archivo": "fuentes/b0/b04eb093a1d63b799b85d41cfd574b35ef3719de0bfa788d3c0d3763fd0b0022.html",
+      "consultado": "2026-11-16T17:46:59Z",
+      "sha256": "b04eb093a1d63b799b85d41cfd574b35ef3719de0bfa788d3c0d3763fd0b0022",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5025154&Seguimiento=5022779"
+    }
+  ],
+  "tramites": {
+    "5025154": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 94
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
+  "votaciones": [
+    "sil-5025154-1"
+  ]
+}

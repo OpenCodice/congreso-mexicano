@@ -1,0 +1,72 @@
+{
+  "asuntos": [
+    {
+      "clave": "4976217",
+      "denominacion": "Por el que se entregan los reconocimientos -Dr. Jesús Kumate Rodríguez- correspondientes a los años 2024 y 2025.",
+      "estatus": "Resuelto / Aprobado 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4976217_20251119_1763580791.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Resuelto / Aprobado",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Por el que se entregan los reconocimientos -Dr. Jesús Kumate Rodríguez- correspondientes a los años 2024 y 2025.",
+  "id": "sil-4979641",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4979641",
+  "sources": [
+    {
+      "archivo": "fuentes/3d/3dd31bd580d8222ade82b6ff2b757918e9046de796007dbfc27950fd26ef0b8c.html",
+      "consultado": "2026-11-16T17:15:46Z",
+      "sha256": "3dd31bd580d8222ade82b6ff2b757918e9046de796007dbfc27950fd26ef0b8c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4979641&Asunto=4976217"
+    },
+    {
+      "archivo": "fuentes/2b/2bc86876a871fc544fe72fa9313203ba4f48d1d431d2d215a56bd0f5b83bd895.html",
+      "consultado": "2026-11-16T17:15:50Z",
+      "sha256": "2bc86876a871fc544fe72fa9313203ba4f48d1d431d2d215a56bd0f5b83bd895",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4976217&Seguimiento=4979641"
+    }
+  ],
+  "tramites": {
+    "4976217": [
+      {
+        "texto": "Aprobado",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 27,
+          "no": 0,
+          "yes": 80
+        },
+        "texto": "Aprobado a favor de la la Dra. Gabriela Borrayo Sánchez para el reconocimiento 2024 y a favor del Dr. Simón Barquera Cervera para el reconocimiento 2025. A Favor: 80 En contra: 0 Abstenciones 27",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      }
+    ]
+  },
+  "ultimo_estatus": "Resuelto / Aprobado Aprobado 19/11/2025",
+  "votaciones": [
+    "sil-4976217-1"
+  ]
+}

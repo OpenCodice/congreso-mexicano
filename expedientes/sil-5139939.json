@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825799",
+      "denominacion": "Que reforma la fracción II y adiciona la fracción IV al artículo 26 de Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+      "estatus": "Pendiente en comisión(es) de revisora 20/10/2026",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825799_20241213_1732645640.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5138025",
+      "denominacion": "Con proyecto de decreto por el que adiciona la fracción IV del artículo 26 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 20/10/2026",
+      "fecha": "2026-09-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5138025_20260922_1790096097.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5162242",
+      "denominacion": "Con proyecto de decreto por el que adiciona la fracción IV del artículo 26 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 20/10/2026",
+      "fecha": "2026-10-13",
+      "pdf": null,
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5166290",
+      "denominacion": "Minuta que adiciona la fracción IV al artículo 26 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 20/10/2026",
+      "fecha": "2026-10-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5166290_20261020_1792511941.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-10-13"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-10-13"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-10-13"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-10-20"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-10-20"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que adiciona la fracción IV del artículo 26 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+  "id": "sil-5139939",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5139939",
+  "sources": [
+    {
+      "archivo": "fuentes/28/283e4f2a6079d4f815bd3fd193d26c6ce97ee07cdeb207d22dfa50a31d5a31a6.html",
+      "consultado": "2026-11-16T18:37:57Z",
+      "sha256": "283e4f2a6079d4f815bd3fd193d26c6ce97ee07cdeb207d22dfa50a31d5a31a6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5139939&Asunto=5162242"
+    },
+    {
+      "archivo": "fuentes/76/76ebd7a0f7ff74b308ca638ad94076801ed68a2adc12a9c21d24c3201e57c7bd.html",
+      "consultado": "2026-11-16T18:38:00Z",
+      "sha256": "76ebd7a0f7ff74b308ca638ad94076801ed68a2adc12a9c21d24c3201e57c7bd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5162242&Seguimiento=5139939"
+    }
+  ],
+  "tramites": {
+    "5162242": [
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 20/10/2026",
+  "votaciones": [
+    "sil-5162242-1"
+  ]
+}

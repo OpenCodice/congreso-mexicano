@@ -1,0 +1,41 @@
+{
+  "asunto": "5050110",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 462
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5050779",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5050110-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados En los términos del dictamen. A Favor: 462 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/8f/8fe1b99f0e1b03909f3f7e3f9290315b55e583049f415c9f7fa4014b6f598b54.html",
+      "consultado": "2026-11-16T18:06:15Z",
+      "sha256": "8fe1b99f0e1b03909f3f7e3f9290315b55e583049f415c9f7fa4014b6f598b54",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5050110"
+    }
+  ],
+  "start_date": "2026-03-24",
+  "votes": [],
+  "votos_publicados": false
+}

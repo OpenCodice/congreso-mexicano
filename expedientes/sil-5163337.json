@@ -1,0 +1,410 @@
+{
+  "asuntos": [
+    {
+      "clave": "5126678",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-09-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5126678_20260909_1788965018.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5159225",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5159225_20261013_1791905365.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5161808",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5161808_20261013_1791925415.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5164972",
+      "denominacion": "Con proyecto de decreto por el que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-14",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5164972_20261014_1791990609.pdf",
+      "tipo": "Minuta"
+    },
+    {
+      "clave": "5173828",
+      "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-21",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5173828_20261021_1792617132.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5175806",
+      "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+      "estatus": "Publicado en DOF 13/11/2026",
+      "fecha": "2026-10-27",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5175806_20261027_1792617133.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Aprobado en pleno revisora",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-13"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+  "id": "sil-5163337",
+  "legislatura": "LXVI",
+  "publicado_dof": "2026-11-13",
+  "seguimiento": "5163337",
+  "sources": [
+    {
+      "archivo": "fuentes/dd/dd8b4750ff0f85f25e662fb63a11b5cfe31865bd692988fe72be1c6fef9a234c.html",
+      "consultado": "2026-11-16T18:44:34Z",
+      "sha256": "dd8b4750ff0f85f25e662fb63a11b5cfe31865bd692988fe72be1c6fef9a234c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163337&Asunto=5175806"
+    },
+    {
+      "archivo": "fuentes/3b/3bd7f3a2cbc564fb2ab005c1e75c737a2f14ca5f8b5f242069290c919e6a445e.html",
+      "consultado": "2026-11-16T18:44:38Z",
+      "sha256": "3bd7f3a2cbc564fb2ab005c1e75c737a2f14ca5f8b5f242069290c919e6a445e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5175806&Seguimiento=5163337"
+    }
+  ],
+  "tramites": {
+    "5161808": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Hacienda y Crédito Público que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Se rechazó para tomar en consideración la moción suspensiva del Dip. José Elías Lixa Abimerhi (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado para considera suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "8, 18, 22, 25, 29 B, 31 B, 53, 86 A, 173 C, 174 M12, 174 M13, 192 E, 194 N, 194 N1, 194 N2, 194 2, 195, 195 A, 195 G, 195 I, 195 K2, 195 K9, 195 K10, 195 T, 195 Z 11 Bis, 195 Z 32, 225, 232 B, 232 C, 232 D, 236, 239, 244 I, 288, 288 A2 y 289; así como los Artículos Transitorios Primero, Segundo y Tercero del dictamen.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 117,
+          "yes": 329
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 329 En contra: 117 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Claudia Ruiz Massieu Salinas (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reservas presentadas por la Dip. Laura Hernández García (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Verónica Martínez García (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Tania Palacios Kuri (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Omar Antonio Borboa Becerra (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Noemi Berenice Luna Ayala (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Theodoros Kalionchiz De la Fuente (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Yerico Abramo Masso (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Armando Díaz (PT) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Nancy Aracely Olguín Díaz (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Paulo Gonzalo Martínez López (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Fernando Torres Graciano (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 2,
+          "no": 113,
+          "yes": 339
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 339 En contra: 113 Abstenciones 2",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ],
+    "5175806": [
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó la moción suspensiva a los dictámenes presentada por la Sen. Claudia Edith Anaya Mota (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido en lo general.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 34,
+          "yes": 79
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos no reservados A Favor: 79 En contra: 34 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Rolando Rodrigo Zapata Bello (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 29,
+          "yes": 58
+        },
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Mayuli Latifa Martínez Simón (PAN). A Favor: 58 En contra: 29 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Susana del Carmen Zatarain García (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Ángel García Yáñez (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Miguel Márquez Márquez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Amalia Dolores García Medina (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Jorge Carlos Ramírez Marín (PVEM).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Manuel Añorve Baños (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 51,
+          "yes": 24
+        },
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Alma Carolina Viggiano Austria (PRI). A Favor: 24 En contra: 51 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Enrique Vargas del Villar (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Gina Gerardina Campuzano González (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Claudia Edith Anaya Mota (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Karla Guadalupe Toledo Zamora (PRI).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Maki Esther Ortiz Domínguez (PVEM).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 48,
+          "yes": 24
+        },
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Geovanna del Carmen Bañuelos de la Torre (PT) A Favor: 24 En contra: 48 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Amalia Dolores García Medina (MC).",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Alejandro Carrillo Flores (Morena).",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 34,
+          "yes": 75
+        },
+        "texto": "Aprobado en lo general y en lo particular de los artículos reservados A Favor: 75 En contra: 34 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 13/11/2026",
+  "votaciones": [
+    "sil-5161808-1",
+    "sil-5161808-2",
+    "sil-5175806-1",
+    "sil-5175806-2",
+    "sil-5175806-3",
+    "sil-5175806-4",
+    "sil-5175806-5"
+  ]
+}

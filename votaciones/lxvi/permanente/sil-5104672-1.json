@@ -1,0 +1,41 @@
+{
+  "asunto": "5104672",
+  "camara": "permanente",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5104678",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5104672-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por el que se ratifica el nombramiento que la titular del Ejecutivo Federal hace a favor de Jennifer Krystel Castillo Madrid, como Administradora General de Grandes Contribuyentes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.",
+    "text": "Aprobado A Favor: 26 En contra: 8 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "comision-permanente",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/da/daa2b4ec48c977aa6dc1f360429f315ce74888befb64c74eb8a831d35d1a0a6d.html",
+      "consultado": "2026-11-16T18:36:03Z",
+      "sha256": "daa2b4ec48c977aa6dc1f360429f315ce74888befb64c74eb8a831d35d1a0a6d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5104672"
+    }
+  ],
+  "start_date": "2026-06-17",
+  "votes": [],
+  "votos_publicados": false
+}

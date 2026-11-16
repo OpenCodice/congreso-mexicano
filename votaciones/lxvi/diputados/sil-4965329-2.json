@@ -1,0 +1,41 @@
+{
+  "asunto": "4965329",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 355
+    },
+    {
+      "option": "no",
+      "value": 132
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4967115",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4965329-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 355 En contra: 132 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/4f/4f3f9166d91adb280bb0603ee81112b2c39d69455fd702e42858005df2a253d9.html",
+      "consultado": "2026-11-16T17:06:20Z",
+      "sha256": "4f3f9166d91adb280bb0603ee81112b2c39d69455fd702e42858005df2a253d9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4965329"
+    }
+  ],
+  "start_date": "2025-11-04",
+  "votes": [],
+  "votos_publicados": false
+}

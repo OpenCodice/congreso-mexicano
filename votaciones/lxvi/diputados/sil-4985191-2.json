@@ -1,0 +1,41 @@
+{
+  "asunto": "4985191",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 377
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 1
+    }
+  ],
+  "expediente_id": "sil-4878441",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4985191-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley de Desarrollo Sustentable de la Cafeticultura.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen y con las modificaciones aceptadas por la Asamblea. A Favor: 377 En contra: 0 Abstenciones 1"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f9/f91445df551d75c0fe3525e1c153e41c7035fb5eb03a166490d1c8694e1dba8d.html",
+      "consultado": "2026-11-16T16:15:35Z",
+      "sha256": "f91445df551d75c0fe3525e1c153e41c7035fb5eb03a166490d1c8694e1dba8d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4985191"
+    }
+  ],
+  "start_date": "2025-11-26",
+  "votes": [],
+  "votos_publicados": false
+}

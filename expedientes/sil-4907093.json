@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822306",
+      "denominacion": "Que reforma el artículo 191 de la Ley del Seguro Social.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822306_20241211_1733347565.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4906611",
+      "denominacion": "Que reforma el artículo 191 de la Ley del Seguro Social (retiro por desempleo).",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-06-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4906611_20250623_1750704387.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4906807",
+      "denominacion": "Que reforma el artículo 191 de la Ley del Seguro Social (retiro por desempleo).",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2025-06-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4906807_20250623_1750730438.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5120813",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 191 de la Ley del Seguro Social, en materia de seguro por desempleo.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/09/2026",
+      "fecha": "2026-09-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120813_20260902_1790628315.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-06-23"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-09-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-09-02"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 191 de la Ley del Seguro Social (retiro por desempleo).",
+  "id": "sil-4907093",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4907093",
+  "sources": [
+    {
+      "archivo": "fuentes/36/3691c0fbb79e7a37cf7078a4d94311464ff799fd6ec92dd2de8a5bcba3e759db.html",
+      "consultado": "2026-11-16T16:34:55Z",
+      "sha256": "3691c0fbb79e7a37cf7078a4d94311464ff799fd6ec92dd2de8a5bcba3e759db",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4907093&Asunto=4906807"
+    },
+    {
+      "archivo": "fuentes/cb/cba81cd8255ad7ccf32df41e6e5ed71c16e06f5cd64284a35e5c4fb129cd7ea4.html",
+      "consultado": "2026-11-16T16:34:59Z",
+      "sha256": "cba81cd8255ad7ccf32df41e6e5ed71c16e06f5cd64284a35e5c4fb129cd7ea4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4906807&Seguimiento=4907093"
+    }
+  ],
+  "tramites": {
+    "4906807": [
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Amancay González Franco (MC). Se reserva para su votación nominal en términos del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Éctor Jaime Ramírez Barba (PAN). Se reserva para su votación nominal en términos del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 476
+        },
+        "texto": "Aprobado en lo general y en lo particular por unanimidad. A Favor: 476 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
+  "votaciones": [
+    "sil-4906807-1"
+  ]
+}

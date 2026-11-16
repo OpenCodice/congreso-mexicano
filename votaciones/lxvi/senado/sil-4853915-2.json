@@ -1,0 +1,41 @@
+{
+  "asunto": "4853915",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 107
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4853258",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4853915-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 73, y Transitorio Tercero, en términos del dictamen. A favor solo para registro en el Diario de los Debates: Sen. Manlio Fabio Beltrones Rivera (Sin Partido) A Favor: 107 En contra: 3 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6ab355fde7ce7cba7b576034f52ed4a1a6004efbb1a8ca12fb63242d55abdc80.html",
+      "consultado": "2026-11-16T16:05:57Z",
+      "sha256": "6ab355fde7ce7cba7b576034f52ed4a1a6004efbb1a8ca12fb63242d55abdc80",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4853915"
+    }
+  ],
+  "start_date": "2025-03-12",
+  "votes": [],
+  "votos_publicados": false
+}

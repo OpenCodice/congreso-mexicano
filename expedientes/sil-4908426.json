@@ -1,0 +1,96 @@
+{
+  "asuntos": [
+    {
+      "clave": "4905759",
+      "denominacion": "Con el que remite de la titular del Ejecutivo Federal, Claudia Sheinbaum Pardo, los siguientes nombramientos en favor de personal diplomático.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4905759_20250620_1750434943.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4907678",
+      "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Luis Rodríguez Bucio, como Cónsul General de México en Dallas, Texas, Estados Unidos de América.",
+      "estatus": "Toma de protesta 25/06/2025",
+      "fecha": "2025-06-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/06/asun_4907678_20250625_1750867276.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-06-24"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-06-25"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-06-25"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento expedido en favor del ciudadano Luis Rodríguez Bucio, como Cónsul General de México en Dallas, Texas, Estados Unidos de América.",
+  "id": "sil-4908426",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4908426",
+  "sources": [
+    {
+      "archivo": "fuentes/f5/f5724c86e8e0bffca19c9815eac9378c8a9d3ae283a99f7f83bc9d6be3f1e529.html",
+      "consultado": "2026-11-16T16:38:49Z",
+      "sha256": "f5724c86e8e0bffca19c9815eac9378c8a9d3ae283a99f7f83bc9d6be3f1e529",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908426&Asunto=4907678"
+    },
+    {
+      "archivo": "fuentes/aa/aaf09c73493a7f1b07008f53a299b596be5cd59af6951259bf4c634f0e6ac831.html",
+      "consultado": "2026-11-16T16:38:52Z",
+      "sha256": "aaf09c73493a7f1b07008f53a299b596be5cd59af6951259bf4c634f0e6ac831",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907678&Seguimiento=4908426"
+    }
+  ],
+  "tramites": {
+    "4907678": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 5,
+          "no": 3,
+          "yes": 30
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 30 En contra: 3 Abstenciones 5",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "de Luis Rodríguez Bucio, como Cónsul General de México en Dallas, Texas, Estados Unidos de América.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
+  "votaciones": [
+    "sil-4907678-1"
+  ]
+}

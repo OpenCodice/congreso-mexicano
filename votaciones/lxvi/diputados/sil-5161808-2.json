@@ -1,0 +1,41 @@
+{
+  "asunto": "5161808",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 339
+    },
+    {
+      "option": "no",
+      "value": 113
+    },
+    {
+      "option": "abstain",
+      "value": 2
+    }
+  ],
+  "expediente_id": "sil-5163337",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5161808-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 339 En contra: 113 Abstenciones 2"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/94/9490f7299dee76c1245f7d1a11d4fc88fc3fa8e7caea81f06a63c65cc1f8e103.html",
+      "consultado": "2026-11-16T18:45:00Z",
+      "sha256": "9490f7299dee76c1245f7d1a11d4fc88fc3fa8e7caea81f06a63c65cc1f8e103",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5161808"
+    }
+  ],
+  "start_date": "2026-10-13",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,100 @@
+{
+  "asuntos": [
+    {
+      "clave": "4915790",
+      "denominacion": "Con el que remite, el nombramiento a favor de Claudia Artemiza Pavlovich Arellano, como Embajadora Extraordinaria y Plenipotenciaria de México ante la República de Panamá.",
+      "estatus": "Toma de protesta 06/08/2025",
+      "fecha": "2025-08-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4915790_20250806_1754488384.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4916223",
+      "denominacion": "Por el que ratifica el nombramiento a favor de Claudia Artemiza Pavlovich Arellano, como Embajadora Extraordinaria y Plenipotenciaria de México ante la República de Panamá.",
+      "estatus": "Toma de protesta 06/08/2025",
+      "fecha": "2025-08-06",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/08/asun_4916223_20250806_1754503059.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Comisión Permanente",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2025-08-06"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2025-08-06"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2025-08-06"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2025-08-06"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2025-08-06"
+    }
+  ],
+  "denominacion": "Por el que ratifica el nombramiento a favor de Claudia Artemiza Pavlovich Arellano, como Embajadora Extraordinaria y Plenipotenciaria de México ante la República de Panamá.",
+  "id": "sil-4916673",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4916673",
+  "sources": [
+    {
+      "archivo": "fuentes/c1/c1343573b396d8f992ca1066169ee73182ea35dbca8c95982235cbfc5bc6ca37.html",
+      "consultado": "2026-11-16T16:42:44Z",
+      "sha256": "c1343573b396d8f992ca1066169ee73182ea35dbca8c95982235cbfc5bc6ca37",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4916673&Asunto=4916223"
+    },
+    {
+      "archivo": "fuentes/ba/ba0275211b82330b14747ffa394e1fa84bee70d6eb9b0cf1e3fcf7aaa0a0c3d2.html",
+      "consultado": "2026-11-16T16:42:47Z",
+      "sha256": "ba0275211b82330b14747ffa394e1fa84bee70d6eb9b0cf1e3fcf7aaa0a0c3d2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4916223&Seguimiento=4916673"
+    }
+  ],
+  "tramites": {
+    "4916223": [
+      {
+        "texto": "Aprobado incorporarlo en el orden del día de la sesión.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado considerarse suficientemente discutido.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 10,
+          "yes": 25
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 25 En contra: 10 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Comuníquese"
+      },
+      {
+        "texto": "",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 06/08/2025",
+  "votaciones": [
+    "sil-4916223-1"
+  ]
+}

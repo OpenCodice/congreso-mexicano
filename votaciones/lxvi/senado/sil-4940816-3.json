@@ -1,0 +1,41 @@
+{
+  "asunto": "4940816",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 70
+    },
+    {
+      "option": "no",
+      "value": 39
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4940827",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4940816-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 70 En contra: 39 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04db24ad4419130cd58e602e6061a78f581bd371b29805ec2db667859c646cea.html",
+      "consultado": "2026-11-16T16:55:01Z",
+      "sha256": "04db24ad4419130cd58e602e6061a78f581bd371b29805ec2db667859c646cea",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4940816"
+    }
+  ],
+  "start_date": "2025-10-01",
+  "votes": [],
+  "votos_publicados": false
+}

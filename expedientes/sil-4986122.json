@@ -1,0 +1,104 @@
+{
+  "asuntos": [
+    {
+      "clave": "4931612",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de prevención y atención de la violencia en el deporte.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-09-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/09/asun_4931612_20250923_1758824155.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4983385",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4983385_20251126_1764183714.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4985215",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-11-26",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4985215_20251126_1764183726.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4988097",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte, en materia de prevención y atención de la violencia en el deporte.",
+      "estatus": "Pendiente en comisión(es) de revisora 02/12/2025",
+      "fecha": "2025-12-02",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4988097_20251202_1764721864.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-26"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-12-02"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-12-02"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte.",
+  "id": "sil-4986122",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4986122",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3cc4bf8ba512dadd3dc977d8590edd6abbedde1271714687d7ddc993a72fd206.html",
+      "consultado": "2026-11-16T17:21:50Z",
+      "sha256": "3cc4bf8ba512dadd3dc977d8590edd6abbedde1271714687d7ddc993a72fd206",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986122&Asunto=4985215"
+    },
+    {
+      "archivo": "fuentes/2f/2ffdce336b22e041cfc733f38df6de992eacfbb0f5235bc4c6c59ce2586d7a0f.html",
+      "consultado": "2026-11-16T17:21:54Z",
+      "sha256": "2ffdce336b22e041cfc733f38df6de992eacfbb0f5235bc4c6c59ce2586d7a0f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985215&Seguimiento=4986122"
+    }
+  ],
+  "tramites": {
+    "4985215": [
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 416
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 416 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
+  "votaciones": [
+    "sil-4985215-1"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "asuntos": [
+    {
+      "clave": "4822419",
+      "denominacion": "Que reforma los artículos 18 y 19 de la Ley General de Turismo, en materia de turismo inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2024-12-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4822419_20241211_1733860588.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4971208",
+      "denominacion": "Que reforma el artículo 18 de la Ley General de Turismo.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971208_20251111_1762881197.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4971449",
+      "denominacion": "Que reforma el artículo 18 de la Ley General de Turismo.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4971449_20251111_1762892275.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4975645",
+      "denominacion": "Con proyecto de decreto por el que reforma el artículo 18 de la Ley General de Turismo.",
+      "estatus": "Pendiente en comisión(es) de revisora 19/11/2025",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4975645_20251119_1763572950.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2025-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2025-11-19"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2025-11-19"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 18 de la Ley General de Turismo.",
+  "id": "sil-4972476",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4972476",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fd5d9c34278e9c6666241c2d17abbb3bbc88164432fc4374bed9f5792b4e183.html",
+      "consultado": "2026-11-16T17:11:29Z",
+      "sha256": "6fd5d9c34278e9c6666241c2d17abbb3bbc88164432fc4374bed9f5792b4e183",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972476&Asunto=4971449"
+    },
+    {
+      "archivo": "fuentes/76/76e50ddb7bc4a6bccf92959d7977e9c8e9293ccf83589594020f62f3bbf1312b.html",
+      "consultado": "2026-11-16T17:11:33Z",
+      "sha256": "76e50ddb7bc4a6bccf92959d7977e9c8e9293ccf83589594020f62f3bbf1312b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971449&Seguimiento=4972476"
+    }
+  ],
+  "tramites": {
+    "4971449": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Turismo, que reforma el artículo 18 de la Ley General de Turismo.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma el artículo 18 de la Ley General de Turismo.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 454
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 454 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Senadores para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
+  "votaciones": [
+    "sil-4971449-1"
+  ]
+}

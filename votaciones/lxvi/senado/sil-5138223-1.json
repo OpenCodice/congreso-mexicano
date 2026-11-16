@@ -1,0 +1,41 @@
+{
+  "asunto": "5138223",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 97
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5088490",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5138223-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que adiciona un segundo párrafo a la fracción XVI del artículo 30 de la Ley General de Educación, en materia de protección y trato digno y respetuoso a los animales.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 97 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/97/974c30215da04ec1e98dcccbd49bd75094b0fee66f001fab5e7766fee318f804.html",
+      "consultado": "2026-11-16T18:24:23Z",
+      "sha256": "974c30215da04ec1e98dcccbd49bd75094b0fee66f001fab5e7766fee318f804",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5138223"
+    }
+  ],
+  "start_date": "2026-09-22",
+  "votes": [],
+  "votos_publicados": false
+}

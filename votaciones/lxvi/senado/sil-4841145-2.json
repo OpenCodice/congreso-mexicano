@@ -1,0 +1,41 @@
+{
+  "asunto": "4841145",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 97
+    },
+    {
+      "option": "no",
+      "value": 26
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4840133",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4841145-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 55, 59, 82, 115, 116 y 122 y del artículo Transitorio Primero, en los términos del dictamen y, el artículo segundo transitorio, con las modificaciones admitidas por la asamblea. A Favor: 97 En contra: 26 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/39/390021930262e868219e14e35313cefd72835ff132d990dcff1dfc779b596633.html",
+      "consultado": "2026-11-16T15:59:08Z",
+      "sha256": "390021930262e868219e14e35313cefd72835ff132d990dcff1dfc779b596633",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4841145"
+    }
+  ],
+  "start_date": "2025-02-25",
+  "votes": [],
+  "votos_publicados": false
+}
