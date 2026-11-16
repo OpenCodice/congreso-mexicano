@@ -1,0 +1,88 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Administración (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-27",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Medalla Belisario Domínguez (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Frontera Sur (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ciencia, Humanidades, Tecnología e Innovación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Pueblos Indígenas y Afromexicanos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Derechos Humanos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-08-29",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Elvira Méndez Bautista",
+  "formula_referencia": "9229299",
+  "id": "sil-9229298",
+  "identifiers": [
+    {
+      "identifier": "9229298",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "edith-lopez-hernandez",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:20:59Z",
+      "sha256": "7eb00a4754aaa1bb53166da89d308bd3fd1eefa50ee8aa7748932283dff18369",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229298"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

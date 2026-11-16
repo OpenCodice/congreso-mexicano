@@ -1,0 +1,94 @@
+{
+  "area": {
+    "entidad": "tlaxcala"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Defensa Nacional (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Anticorrupción y Transparencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Rural (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Organismos Internacionales (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para el seguimiento a la Implementación de la agenda 2030. (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9229165",
+  "identifiers": [
+    {
+      "identifier": "9229165",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "erendira-olimpia-cova-brindis",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:14:20Z",
+      "sha256": "748381cf58f7f68e0d367d49903351fc93fd93b9ddc72798370683755bad8adc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229165"
+    }
+  ],
+  "start_date": "2026-07-01"
+}

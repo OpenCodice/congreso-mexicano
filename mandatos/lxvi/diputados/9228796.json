@@ -1,0 +1,89 @@
+{
+  "area": {
+    "entidad": "baja-california"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales. (07/01/2026-31/01/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-01-31",
+      "inicio": "2026-01-07",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Sección Instructora (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-09",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Jurisdiccional (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-08-31",
+      "inicio": "2024-10-09",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Edith Carolina Anda González",
+  "formula_id": "sil-9228797",
+  "id": "sil-9228796",
+  "identifiers": [
+    {
+      "identifier": "9228796",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-09-01",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "hugo-eric-flores-cervantes",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:07:15Z",
+      "sha256": "469219772fb202c9dd49b62382710ec9bd5f02613ceffde02c5aa7c8c84fa954",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228796"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,103 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para revisar y vigilar el proceso de quiebra de Altos Hornos de México, S. A. B. de C. V. (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-12-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para el Seguimiento a la Implementación de la Agenda 2030 (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-10-15",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Minería (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos Humanos (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-09-01",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Blanca Elizabeth Fiesco Díaz",
+  "formula_id": "sil-9229271",
+  "id": "sil-9229270",
+  "identifiers": [
+    {
+      "identifier": "9229270",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-09-02",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "laura-itzel-castillo-juarez",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:13:12Z",
+      "sha256": "d458aa4e194d77586c88ed6314da5d2c5e0225a414bca92f03badab65a9b2c3a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229270"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,82 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para el Seguimiento al Tratado Comercial entre México, Estados Unidos y Canadá (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-29",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Defensa Nacional (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Trabajo y Previsión Social (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Erik Ricardo Osornio Medina",
+  "formula_id": "sil-9228801",
+  "id": "sil-9228800",
+  "identifiers": [
+    {
+      "identifier": "9228800",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-02-10",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-02-09",
+      "inicio": "2025-02-05",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "pedro-miguel-haces-barba",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:53:37Z",
+      "sha256": "5263abd365436d379609e6cc9634b399fb543e74f8b04d1526907fb823d014e7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228800"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

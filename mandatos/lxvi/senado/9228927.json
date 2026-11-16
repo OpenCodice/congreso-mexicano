@@ -1,0 +1,80 @@
+{
+  "area": {
+    "entidad": "guanajuato"
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9228927",
+  "identifiers": [
+    {
+      "identifier": "9228927",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-06-30",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-28",
+      "tipo": "Toma de protesta"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-02-25",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-04-22",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-11-19",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2024-12-10",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "diego-sandoval-ventura",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:27:33Z",
+      "sha256": "9572f2f237f100d32f7438f8d6c681fd6f83b98b6328fc8d4bea01a544fce35f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228927"
+    }
+  ],
+  "start_date": "2024-11-28"
+}

@@ -1,0 +1,80 @@
+{
+  "area": {
+    "entidad": "michoacan"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-13",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Agricultura (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América Latina y el Caribe (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9229005",
+  "identifiers": [
+    {
+      "identifier": "9229005",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "luis-reyes-zavala",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:26:12Z",
+      "sha256": "07124041f3a10ffb0b96556f4c99e33b50a277abd924f67ed3a9530a0ac0025b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229005"
+    }
+  ],
+  "start_date": "2026-06-23"
+}

@@ -1,0 +1,116 @@
+{
+  "area": {
+    "entidad": "michoacan"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para la evaluación y seguimiento de la Fuerza Armada permanente en tareas de Seguridad Pública (H. Congreso de la Unión)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-11-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-02-18",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Innovación e Inteligencia Artificial (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ganadería (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-02-12",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para la Igualdad de Género (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Puertos e Infraestructura Marítima (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Verónica García Reyes",
+  "formula_referencia": "9229009",
+  "id": "sil-9229008",
+  "identifiers": [
+    {
+      "identifier": "9229008",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "araceli-saucedo-reyes",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:27:43Z",
+      "sha256": "f0689daeb6fc56e7fed58989c6fd23243411c56a7ae90b03646d977efa31bb22",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229008"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

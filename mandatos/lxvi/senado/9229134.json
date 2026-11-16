@@ -1,0 +1,110 @@
+{
+  "area": {
+    "entidad": "sonora"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-07-23",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Federalismo (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-07-23",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Municipal (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-16",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Erik Iván Jaimes Archundia",
+  "formula_id": "sil-9229135",
+  "id": "sil-9229134",
+  "identifiers": [
+    {
+      "identifier": "9229134",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-04-29",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-07-23",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-03-10",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-09-08",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": null,
+  "organization_id": "senado",
+  "partido_fuente": "Sin Partido",
+  "person_id": "manlio-fabio-beltrones-rivera",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:12:11Z",
+      "sha256": "b984019e46a590a9388c5bdecbde518691d85e0d2cad9df4f396e9b9e0932197",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229134"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

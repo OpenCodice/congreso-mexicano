@@ -1,0 +1,75 @@
+{
+  "area": {
+    "entidad": "baja-california"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Justicia (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-06-08",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Asuntos Migratorios (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-06-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Ciudadana (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-06-08",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "María Luisa Kato Meza",
+  "formula_id": "sil-9229043",
+  "id": "sil-9229042",
+  "identifiers": [
+    {
+      "identifier": "9229042",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-05-28",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-05-26",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PAN",
+  "person_id": "cesar-israel-damian-retes",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:03:18Z",
+      "sha256": "774f657469c09e91ec9bb6ca085bd1ea1b2034ee7def6892c5a7f4557a775527",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229042"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

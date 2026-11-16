@@ -1,0 +1,60 @@
+{
+  "area": {
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Derechos Humanos (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía Social y Fomento del Cooperativismo (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-16",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Martín Alejandro Flores Vázquez",
+  "formula_referencia": "9229107",
+  "id": "sil-9229106",
+  "identifiers": [
+    {
+      "identifier": "9229106",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PAN",
+  "person_id": "victor-manuel-perez-diaz",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:13:12Z",
+      "sha256": "64f409733dd9ecdf5a845b2d83e6b20401e16b9b9aa6b9648b72efd0ac170b68",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229106"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

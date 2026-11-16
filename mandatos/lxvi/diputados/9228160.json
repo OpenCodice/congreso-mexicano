@@ -1,0 +1,62 @@
+{
+  "area": {
+    "cabecera": "San Francisco de Campeche",
+    "distrito": 1,
+    "entidad": "campeche"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Educación (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Pesca (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Karina Guadalupe Graña Sandoval",
+  "formula_referencia": "9228161",
+  "id": "sil-9228160",
+  "identifiers": [
+    {
+      "identifier": "9228160",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "elda-esther-del-carmen-castillo-quintana",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:01:05Z",
+      "sha256": "bd192290236c3536594e0904a5a1381e28b2cdaf9cc4d8b13c1ae7fa4848cea1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228160"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

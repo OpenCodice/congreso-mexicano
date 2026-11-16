@@ -1,0 +1,37 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229225",
+  "identifiers": [
+    {
+      "identifier": "9229225",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "sixto-duarte-alvarez",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:15:12Z",
+      "sha256": "cb04d65d656a233de743d3e484a8c810a45fb5c65906c91d9582ae02ccaae471",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229225"
+    }
+  ],
+  "start_date": "2026-05-28"
+}

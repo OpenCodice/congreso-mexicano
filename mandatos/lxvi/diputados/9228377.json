@@ -1,0 +1,77 @@
+{
+  "area": {
+    "cabecera": "Linares",
+    "distrito": 9,
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ganadería (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José Miguel Medellín Amaya",
+  "formula_id": "sil-9228378",
+  "id": "sil-9228377",
+  "identifiers": [
+    {
+      "identifier": "9228377",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-06-23",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-07-03",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PRI",
+  "person_id": "juan-francisco-espinoza-eguia",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:06:03Z",
+      "sha256": "b552344afbc2793d9d881aa94058f0c335379d10e50b22e7d9cbef84260153ce",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228377"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

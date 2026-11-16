@@ -1,0 +1,166 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para el seguimiento a la Implementación de la agenda 2030. (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-18",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-06-27",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-08-31",
+      "inicio": "2025-05-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura Ferroviaria (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-19",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "De Seguimiento e Impulso al Corredor Interoceánico del Istmo de Tehuantepec (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-12",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-16",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para el Seguimiento a la Implementación de la Agenda 2030 (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-15",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, África (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América Latina y el Caribe (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, Asia-Pacífico (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Denisse Ortiz Pérez",
+  "formula_id": "sil-9229419",
+  "id": "sil-9229418",
+  "identifiers": [
+    {
+      "identifier": "9229418",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-03-26",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2026-03-26",
+      "inicio": "2026-03-25",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2024-11-13",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-11-12",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2024-12-06",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2024-12-05",
+      "inicio": "2024-12-04",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "senado",
+  "partido_fuente": "PT",
+  "person_id": "yeidckol-polevnsky-gurwitz",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:25:25Z",
+      "sha256": "743344bb7d7f418bb0e20825a447f326a31f879243586a66db9ae9bf6b5b5157",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229418"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

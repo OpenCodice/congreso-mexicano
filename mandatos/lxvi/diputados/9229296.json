@@ -1,0 +1,67 @@
+{
+  "area": {
+    "entidad": "edomex"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Relaciones Exteriores (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-17",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía, Comercio y Competitividad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Vigilancia de la Auditoría Superior de la Federación (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-17",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José Alberto Aguilar Iñárritu",
+  "formula_referencia": "9229297",
+  "id": "sil-9229296",
+  "identifiers": [
+    {
+      "identifier": "9229296",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PRI",
+  "person_id": "hugo-eduardo-gutierrez-arroyo",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:52:58Z",
+      "sha256": "5ce00847929bbed405d8899a1b89c597007981ba4793feb2b4948fdcc484ad09",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229296"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

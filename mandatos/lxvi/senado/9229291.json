@@ -1,0 +1,144 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Asuntos Migratorios (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Frontera Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Educación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura Ferroviaria (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reglamentos y Prácticas Parlamentarias (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Zonas Metropolitanas y Movilidad (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-10-01",
+      "inicio": "2026-09-29",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9229291",
+  "identifiers": [
+    {
+      "identifier": "9229291",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-29",
+      "tipo": "Toma de protesta"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-11-10",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "octavia-hernandez-farret",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:18:05Z",
+      "sha256": "f14f72cc1c3ddcb7f7c544e1b6e2bca84788c8ffa22ea2aa0c0dffb170006421",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229291"
+    }
+  ],
+  "start_date": "2026-09-29"
+}

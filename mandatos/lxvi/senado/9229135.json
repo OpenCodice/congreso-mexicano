@@ -1,0 +1,95 @@
+{
+  "area": {
+    "entidad": "sonora"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales. (07/01/2026-31/01/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-01-31",
+      "inicio": "2026-01-07",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2025-09-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2025-09-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2025-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Federalismo (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2025-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2025-09-24",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229135",
+  "identifiers": [
+    {
+      "identifier": "9229135",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-04-29",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-06-25",
+      "tipo": "Toma de protesta"
+    }
+  ],
+  "on_behalf_of_id": null,
+  "organization_id": "senado",
+  "partido_fuente": "Sin Partido",
+  "person_id": "erik-ivan-jaimes-archundia",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:20:13Z",
+      "sha256": "9c438e882c3f316b5f6c4fa4c82552c849f7ff4e9fef8a2ea1c8ba8aedbedddf",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229135"
+    }
+  ],
+  "start_date": "2025-06-25"
+}

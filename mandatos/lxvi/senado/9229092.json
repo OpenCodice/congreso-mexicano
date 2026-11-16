@@ -1,0 +1,124 @@
+{
+  "area": {
+    "entidad": "san-luis-potosi"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Ciberseguridad (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-22",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-20",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Trabajo y Previsión Social (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-10-07",
+      "inicio": "2024-10-08",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Juventud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Virginia Zúñiga Maldonado",
+  "formula_id": "sil-9229093",
+  "id": "sil-9229092",
+  "identifiers": [
+    {
+      "identifier": "9229092",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-05-30",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-10-29",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2026-05-29",
+      "inicio": "2026-05-28",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2026-10-28",
+      "inicio": "2026-10-27",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-04-23",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-04-25",
+      "inicio": "2025-04-10",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "senado",
+  "partido_fuente": "PVEM",
+  "person_id": "ruth-miriam-gonzalez-silva",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:17:18Z",
+      "sha256": "3d521039b154cf3adb5f8dd12db7f962f1053d08dbdf2bf9fa203751c841dd77",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229092"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

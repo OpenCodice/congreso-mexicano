@@ -1,0 +1,96 @@
+{
+  "area": {
+    "entidad": "michoacan"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Segunda Comisión de Trabajo: Asuntos Sociales (07/01/2026-31/01/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-01-31",
+      "inicio": "2026-01-07",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América Latina y el Caribe (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2025-02-18",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-11-12",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-08",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Educación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Luis Reyes Zavala",
+  "formula_id": "sil-9229005",
+  "id": "sil-9229004",
+  "identifiers": [
+    {
+      "identifier": "9229004",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-22",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "raul-moron-orozco",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:24:14Z",
+      "sha256": "228b6bbf95b3757c31e7a27fb970137f0f7a4b789a2dbcb469c9caeee43a520f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229004"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

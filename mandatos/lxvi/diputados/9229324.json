@@ -1,0 +1,60 @@
+{
+  "area": {
+    "entidad": "oaxaca"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Cultura y Cinematografía (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Vivienda (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-16",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Laura Susana Chia Pérez",
+  "formula_referencia": "9229325",
+  "id": "sil-9229324",
+  "identifiers": [
+    {
+      "identifier": "9229324",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PT",
+  "person_id": "maribel-martinez-ruiz",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:02:36Z",
+      "sha256": "85c509ca208d5be049d2d793391b12adb4b060877bf1ff338e4c33a5072528dc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229324"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

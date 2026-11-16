@@ -1,0 +1,131 @@
+{
+  "area": {
+    "entidad": "hidalgo"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-07",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-05-28",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-23",
+      "inicio": "2026-05-28",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-10-07",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Educación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Segunda (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-11-21",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, África (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Edna Geraldina García Gordillo",
+  "formula_id": "sil-9228961",
+  "id": "sil-9228960",
+  "identifiers": [
+    {
+      "identifier": "9228960",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-07-01",
+      "inicio": "2025-06-26",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-07-02",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "alma-carolina-viggiano-austria",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:29:13Z",
+      "sha256": "10d3f01efeac3722f87760484b5651870e9f620b3a12adec039b9d1d13b9109d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228960"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

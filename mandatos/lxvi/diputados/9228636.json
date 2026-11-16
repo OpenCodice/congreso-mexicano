@@ -1,0 +1,91 @@
+{
+  "area": {
+    "cabecera": "Huehuetán",
+    "distrito": 13,
+    "entidad": "chiapas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-20",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Asuntos Frontera Sur (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-07-01",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Transparencia y Anticorrupción (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-07-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Vigilancia de la Auditoría Superior de la Federación (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-04-20",
+      "inicio": "2025-07-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Vivienda (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-12",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José Roberto Ramírez Cruz",
+  "formula_id": "sil-9228637",
+  "id": "sil-9228636",
+  "identifiers": [
+    {
+      "identifier": "9228636",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-02-11",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-07-01",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "jorge-luis-villatoro-osorio",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:27:16Z",
+      "sha256": "07656981f144cfb201902ad87b4d7c93e69e3c375c07b11069aed8c4bbddf04c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228636"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

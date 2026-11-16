@@ -1,0 +1,138 @@
+{
+  "area": {
+    "entidad": "aguascalientes"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2026-04-28",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Educación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2025-04-28",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Guardia Nacional (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2025-03-19",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura Ferroviaria (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2025-03-19",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reglamentos y Prácticas Parlamentarias (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Relaciones Exteriores, África (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-05-28",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-22",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Jennifer Kristel Parra Salas",
+  "formula_id": "sil-9228723",
+  "id": "sil-9228722",
+  "identifiers": [
+    {
+      "identifier": "9228722",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-11-28",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": "2025-11-27",
+      "inicio": "2025-11-27",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-09-25",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": "2025-09-24",
+      "inicio": "2025-09-23",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-22",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "nora-ruvalcaba-gamez",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:26:55Z",
+      "sha256": "4771d9f302f8f26eedee6f78a0ab15f3cf6d48896ad3f627492bcb921069d849",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228722"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

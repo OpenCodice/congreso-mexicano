@@ -1,0 +1,81 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-08-31",
+      "inicio": "2026-06-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Trabajo y Previsión Social (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para la Igualdad de Género (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-24",
+      "inicio": "2024-09-03",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Ximena Escobedo Juárez",
+  "formula_referencia": "9229277",
+  "id": "sil-9229276",
+  "identifiers": [
+    {
+      "identifier": "9229276",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "martha-lucia-micher-camarena",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:23:32Z",
+      "sha256": "a2995ea85f8c62c3eec54469f9e591ec30bbac8bb266ed62189089bd4b0ccef9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229276"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,102 @@
+{
+  "area": {
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Administración (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ciudades Sostenibles (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229059",
+  "identifiers": [
+    {
+      "identifier": "9229059",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-20",
+      "tipo": "Toma de protesta"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-06-17",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "senado",
+  "partido_fuente": "PVEM",
+  "person_id": "carlos-humberto-suarez-flores",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:28:12Z",
+      "sha256": "52cb8a373a3710442334471bf23b55914d4756ea84e280ee20a103d7c11b6e15",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229059"
+    }
+  ],
+  "start_date": "2024-11-20"
+}

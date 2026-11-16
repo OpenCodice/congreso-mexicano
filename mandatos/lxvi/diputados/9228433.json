@@ -1,0 +1,76 @@
+{
+  "area": {
+    "cabecera": "H. Matamoros",
+    "distrito": 4,
+    "entidad": "tamaulipas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Hacienda y Crédito Público (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-05",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "En materia de Disciplina Financiera de las Entidades Federativas y de los Municipios (H. Congreso de la Unión)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Frontera Norte (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-02-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Presupuesto y Cuenta Pública (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-04",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Genoveva Hi González",
+  "formula_referencia": "9228434",
+  "id": "sil-9228433",
+  "identifiers": [
+    {
+      "identifier": "9228433",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "mario-alberto-lopez-hernandez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:00:34Z",
+      "sha256": "0d016923de577c355a747bb787c24ac476b94852b4f2d7243fbb949c50ee8a6b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228433"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

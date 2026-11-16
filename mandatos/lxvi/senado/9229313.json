@@ -1,0 +1,37 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229313",
+  "identifiers": [
+    {
+      "identifier": "9229313",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "senado",
+  "partido_fuente": "PVEM",
+  "person_id": "rogelio-hernandez-cazares",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:18:00Z",
+      "sha256": "047d37ec66cf5a8a0c56ddd2db5e35c48802725f789e0c5b6353a7290c9cea9a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229313"
+    }
+  ],
+  "start_date": "2025-04-09"
+}

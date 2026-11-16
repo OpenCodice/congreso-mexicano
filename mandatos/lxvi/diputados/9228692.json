@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Zumpango de Ocampo",
+    "distrito": 28,
+    "entidad": "edomex"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Salud (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-04-11",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Gobernación y Población (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Medio Ambiente y Recursos Naturales (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-04-11",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Pedro Eduardo Pineda Delgado",
+  "formula_referencia": "9228693",
+  "id": "sil-9228692",
+  "identifiers": [
+    {
+      "identifier": "9228692",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "roberto-angel-dominguez-rodriguez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:04:57Z",
+      "sha256": "e9a64b626c610a39d9a66a575d05273b4e135693e76e167516179652dd6b0a02",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228692"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

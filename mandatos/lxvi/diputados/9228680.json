@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Naucalpan de Juárez",
+    "distrito": 22,
+    "entidad": "edomex"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "En materia de Inteligencia Artificial (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa Nacional (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Derechos Humanos (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Protección Civil y Prevención de Desastres (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Kennya Joseline Oropeza Peña",
+  "formula_referencia": "9228681",
+  "id": "sil-9228680",
+  "identifiers": [
+    {
+      "identifier": "9228680",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PAN",
+  "person_id": "martha-amalia-moya-baston",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:06:14Z",
+      "sha256": "63dc4af185c4384c5a89bda60fd31d598245f76c3ed140c08e3a9c5642195133",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228680"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,75 @@
+{
+  "area": {
+    "entidad": "jalisco"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Relaciones Exteriores (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-26",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Transparencia y Anticorrupción (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-26",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Economía, Comercio y Competitividad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-26",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Claudia Selene Ávila Flores",
+  "formula_id": "sil-9228809",
+  "id": "sil-9228808",
+  "identifiers": [
+    {
+      "identifier": "9228808",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-10-21",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-10-02",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "carlos-alfonso-candelaria-lopez",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T15:05:30Z",
+      "sha256": "e76058db469d302aaab7d6a64c8e829db5e003175b7550eeec7afeedea9e6ed2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228808"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

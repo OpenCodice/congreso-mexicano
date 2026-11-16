@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Salinas Victoria",
+    "distrito": 13,
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "En materia de Inteligencia Artificial (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ciencia, Tecnología e Innovación (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Energía (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Raúl Alejandro Zúñiga Dávila",
+  "formula_referencia": "9228386",
+  "id": "sil-9228385",
+  "identifiers": [
+    {
+      "identifier": "9228385",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "luis-orlando-quiroga-trevino",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:14:33Z",
+      "sha256": "971feb6e969aaaf7e8d316f5f890a5603b4d2ce575aece6107adbb5bbb02e8c6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228385"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

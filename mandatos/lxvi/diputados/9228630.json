@@ -1,0 +1,76 @@
+{
+  "area": {
+    "cabecera": "Villaflores",
+    "distrito": 10,
+    "entidad": "chiapas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Justicia (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "De Concordia y Pacificación del Congreso de la Unión (H. Congreso de la Unión)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Migratorios (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Asuntos Frontera Sur (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Carolina Guadalupe Cruz Chávez",
+  "formula_referencia": "9228631",
+  "id": "sil-9228630",
+  "identifiers": [
+    {
+      "identifier": "9228630",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "deliamaria-gonzalez-flandez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:51:25Z",
+      "sha256": "f87e7e8920e7eb32c8e1f8dfa45b47070ab26d8f174ccd1bfd72235adb743873",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228630"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

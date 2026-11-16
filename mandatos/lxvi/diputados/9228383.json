@@ -1,0 +1,126 @@
+{
+  "area": {
+    "cabecera": "Benito Juárez",
+    "distrito": 12,
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Bienestar (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Asuntos Frontera Norte (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-12-09",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Energía (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-12-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación y Población (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2025-12-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa Nacional (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2024-11-27",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2024-11-27",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José Adalberto Vega Regalado",
+  "formula_id": "sil-9228384",
+  "id": "sil-9228383",
+  "identifiers": [
+    {
+      "identifier": "9228383",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-07-31",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-11-30",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-09-30",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-07-31",
+      "inicio": "2024-11-20",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-11-30",
+      "inicio": "2025-11-11",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-09-30",
+      "inicio": "2025-08-06",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "hector-alfonso-de-la-garza-villarreal",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:03:28Z",
+      "sha256": "a2b4de51781892c603ae30a03bab1d99b5a845db910c3ac4f3ab912b32dd8fbc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228383"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

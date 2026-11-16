@@ -1,0 +1,77 @@
+{
+  "area": {
+    "cabecera": "Palenque",
+    "distrito": 1,
+    "entidad": "chiapas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Asuntos Frontera Sur (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-06-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ganadería (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-06-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-06-03",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José Miguel Alegría Gómez",
+  "formula_id": "sil-9228279",
+  "id": "sil-9228278",
+  "identifiers": [
+    {
+      "identifier": "9228278",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-05-16",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-03-01",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PT",
+  "person_id": "carlos-morelos-rodriguez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:05:36Z",
+      "sha256": "ec095b5a75c0b0170fcb829a08d9b30a54c719a0cf21a68be68865fceb9e54db",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228278"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

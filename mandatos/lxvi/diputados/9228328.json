@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Soledad de Graciano Sánchez",
+    "distrito": 2,
+    "entidad": "san-luis-potosi"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Zonas Metropolitanas (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ganadería (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-03-03",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Raúl Iván López Guzmán",
+  "formula_referencia": "9228329",
+  "id": "sil-9228328",
+  "identifiers": [
+    {
+      "identifier": "9228328",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "jose-luis-fernandez-martinez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:06:41Z",
+      "sha256": "a823035d7cb90b25ea338e4ad17fd97c2e02b075a445046da6b242866dcde5a0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228328"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

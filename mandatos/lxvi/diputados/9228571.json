@@ -1,0 +1,62 @@
+{
+  "area": {
+    "cabecera": "San Francisco del Rincón",
+    "distrito": 7,
+    "entidad": "guanajuato"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Medio Ambiente y Recursos Naturales (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-01",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-01",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Vigilancia de la Auditoría Superior de la Federación (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-01",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Selene Anahí Ruiz Ortega",
+  "formula_referencia": "9228572",
+  "id": "sil-9228571",
+  "identifiers": [
+    {
+      "identifier": "9228571",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PAN",
+  "person_id": "diana-estefania-gutierrez-valtierra",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:53:23Z",
+      "sha256": "6e626408f16f7e4e0a2689b67db650ed20bb27c558c1f7c5f0483ceb5a344e57",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228571"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

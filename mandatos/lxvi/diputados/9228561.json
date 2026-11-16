@@ -1,0 +1,83 @@
+{
+  "area": {
+    "cabecera": "San Miguel de Allende",
+    "distrito": 2,
+    "entidad": "guanajuato"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Economía Social y Fomento del Cooperativismo (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-14",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-14",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-08-31",
+      "inicio": "2026-06-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-03-31",
+      "inicio": "2025-03-25",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Diversidad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-10-14",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Paola Pamela Laguna Pérez",
+  "formula_referencia": "9228562",
+  "id": "sil-9228561",
+  "identifiers": [
+    {
+      "identifier": "9228561",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "alma-rosa-de-la-vega-vargas",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:03:56Z",
+      "sha256": "837c49e2666778c4f5d9faa48891232d64dc8a6f196b4d01bea1723a5f5f7cbc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228561"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

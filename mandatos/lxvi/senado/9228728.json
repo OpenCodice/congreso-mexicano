@@ -1,0 +1,96 @@
+{
+  "area": {
+    "entidad": "baja-california"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Administración (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-02-11",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Frontera Norte (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-02-11",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-02-11",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-02-11",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-02-11",
+      "inicio": "2024-09-03",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja por deceso(a)",
+  "formula": "José Máximo García López",
+  "formula_id": "sil-9228729",
+  "id": "sil-9228728",
+  "identifiers": [
+    {
+      "identifier": "9228728",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2024-11-22",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-11-19",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja por deceso",
+      "fin": null,
+      "inicio": "2026-02-01",
+      "tipo": "Baja por deceso"
+    }
+  ],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "senado",
+  "partido_fuente": "PAN",
+  "person_id": "gustavo-sanchez-vasquez",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:27:19Z",
+      "sha256": "65c3f44f76ec467dd1c39e36672c30fc73d22b4f9bdcdf76d193319f27e9a5fd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228728"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Victoria de Durango",
+    "distrito": 4,
+    "entidad": "durango"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Segunda Comisión de Trabajo: Asuntos Sociales (07/01/2026-31/01/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-01-31",
+      "inicio": "2026-01-07",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Atención a Grupos Vulnerables (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Infraestructura (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Presupuesto y Cuenta Pública (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Margarita Sofía Durán Rodarte",
+  "formula_referencia": "9228520",
+  "id": "sil-9228519",
+  "identifiers": [
+    {
+      "identifier": "9228519",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PAN",
+  "person_id": "silvia-patricia-jimenez-delgado",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:57:15Z",
+      "sha256": "770ca0547f0ac04711de309225a6cac5d6c4edd38b609383acb0bd97ca5a8d08",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228519"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

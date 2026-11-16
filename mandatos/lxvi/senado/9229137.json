@@ -1,0 +1,115 @@
+{
+  "area": {
+    "entidad": "tabasco"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-03-11",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ciberseguridad (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-11-03",
+      "inicio": "2025-10-22",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-15",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Frontera Sur (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-10-07",
+      "inicio": "2025-03-05",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para la Igualdad de Género (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Administración (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-11-27",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Deporte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Juventud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa de los Consumidores (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-11-26",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9229137",
+  "identifiers": [
+    {
+      "identifier": "9229137",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "alejandra-berenice-arias-trevilla",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:11:23Z",
+      "sha256": "7a38a3516a7a7e0d3ff46e35b9f6da0195d0b295cf407024f571dcee1cf79a57",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229137"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,110 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-07",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-06",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-09-09",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Jurisdiccional (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Anticorrupción y Transparencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-09-24",
+      "inicio": "2024-09-03",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Sixto Duarte Álvarez",
+  "formula_id": "sil-9229225",
+  "id": "sil-9229224",
+  "identifiers": [
+    {
+      "identifier": "9229224",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-05-31",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2026-05-30",
+      "inicio": "2026-05-28",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "pablo-guillermo-angulo-briceno",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:11:13Z",
+      "sha256": "013cbf43ebdcfe520776b54403e3c7e9fa7419c6aa29af961790c109202f2022",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229224"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

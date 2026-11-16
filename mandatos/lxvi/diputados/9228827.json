@@ -1,0 +1,37 @@
+{
+  "area": {
+    "entidad": "aguascalientes"
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228827",
+  "identifiers": [
+    {
+      "identifier": "9228827",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "uriel-kislev-oliva-nunez",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:10:50Z",
+      "sha256": "d3e5b02bef044105613b3cc59c7c1e3ade4952b5bb1a3703be36a53151f968a2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228827"
+    }
+  ],
+  "start_date": "2026-11-09"
+}

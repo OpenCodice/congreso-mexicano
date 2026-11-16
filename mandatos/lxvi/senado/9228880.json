@@ -1,0 +1,131 @@
+{
+  "area": {
+    "entidad": "coahuila"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Ciberseguridad (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-22",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos Digitales (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Deporte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Minería (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-11-03",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ciencia, Humanidades, Tecnología e Innovación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para la Igualdad de Género (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Rocío Guadalupe De Aguinaga Peraza",
+  "formula_id": "sil-9228881",
+  "id": "sil-9228880",
+  "identifiers": [
+    {
+      "identifier": "9228880",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2026-09-30",
+      "inicio": "2026-09-29",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-10-01",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "cecilia-guadalupe-guadiana-mandujano",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:17:28Z",
+      "sha256": "a1c68b849c2ed85083990dce2b745849f7fe6cbe56150bad2c541110e06fee8c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228880"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

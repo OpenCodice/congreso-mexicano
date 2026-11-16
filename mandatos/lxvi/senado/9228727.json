@@ -1,0 +1,80 @@
+{
+  "area": {
+    "entidad": "baja-california"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Asuntos Frontera Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Municipal (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Rural (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reforma Agraria (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Zonas Metropolitanas y Movilidad (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-08",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228727",
+  "identifiers": [
+    {
+      "identifier": "9228727",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "juan-melendrez-espinoza",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:23:12Z",
+      "sha256": "bdf31371c57855adaf49f3e238b13711492765ec06af38dec428a6a35da75e70",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228727"
+    }
+  ],
+  "start_date": "2026-06-23"
+}

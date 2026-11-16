@@ -1,0 +1,62 @@
+{
+  "area": {
+    "cabecera": "Aguascalientes",
+    "distrito": 3,
+    "entidad": "aguascalientes"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Presupuesto y Cuenta Pública (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ganadería (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Francisco Emmanuel Muñoz Sánchez",
+  "formula_referencia": "9228120",
+  "id": "sil-9228119",
+  "identifiers": [
+    {
+      "identifier": "9228119",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PAN",
+  "person_id": "paulo-gonzalo-martinez-lopez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:02:27Z",
+      "sha256": "7fc79181bbe7d8a5b952110bd3a0922cfbd9d19606f888c69a0d0f5fec8995e5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228119"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,110 @@
+{
+  "area": {
+    "entidad": "sonora"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Infraestructura Ferroviaria (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2025-03-19",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-10-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, África (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-29",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Minería (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Lizeth Teresita Vásquez Ochoa",
+  "formula_id": "sil-9229131",
+  "id": "sil-9229130",
+  "identifiers": [
+    {
+      "identifier": "9229130",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-22",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "lorenia-iveth-valles-sampedro",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:28:45Z",
+      "sha256": "4cb86c4c77173b516e4879001e8b019307754c1d9a72dc2be89f5322c000c223",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229130"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

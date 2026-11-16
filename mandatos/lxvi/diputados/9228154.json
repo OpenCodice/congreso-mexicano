@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "San José del Cabo",
+    "distrito": 2,
+    "entidad": "baja-california-sur"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para la evaluación y seguimiento de la Fuerza Armada permanente en tareas de Seguridad Pública (H. Congreso de la Unión)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Pesca (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "María Verónica Olvera Guevara",
+  "formula_referencia": "9228155",
+  "id": "sil-9228154",
+  "identifiers": [
+    {
+      "identifier": "9228154",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PT",
+  "person_id": "luis-armando-diaz",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:04:33Z",
+      "sha256": "b81855c444c2e0446897181d6bafba78215f5b963bef1e4f8751eccafe4dd63f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228154"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

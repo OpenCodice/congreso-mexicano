@@ -1,0 +1,88 @@
+{
+  "area": {
+    "entidad": "colima"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para el seguimiento a la Implementación de la agenda 2030. (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-18",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para el Seguimiento a la Implementación de la Agenda 2030 (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-06",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Participación Ciudadana (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reordenamiento Urbano y Vivienda (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para la Igualdad de Género (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Rural (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Martha Leticia Sosa Govea",
+  "formula_referencia": "9228889",
+  "id": "sil-9228888",
+  "identifiers": [
+    {
+      "identifier": "9228888",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "mely-romero-celis",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:26:40Z",
+      "sha256": "2f4e8ded460af9cbbc3194531adff4e8152da95b9d563a434400624058648123",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228888"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

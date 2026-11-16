@@ -1,0 +1,37 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229251",
+  "identifiers": [
+    {
+      "identifier": "9229251",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-mc",
+  "organization_id": "senado",
+  "partido_fuente": "MC",
+  "person_id": "carmen-julieta-macias-rabago",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:21:08Z",
+      "sha256": "60f749b216f7b084d371fa8c81a91a1935582f2f81781d5e4fa224e8a209c80d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229251"
+    }
+  ],
+  "start_date": "2024-11-28"
+}

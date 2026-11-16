@@ -1,0 +1,130 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-08-31",
+      "inicio": "2026-06-01",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Economía Circular y Desarrollo Empresarial (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-12-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para el seguimiento a la Implementación de la agenda 2030. (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-18",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-20",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura Ferroviaria (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-19",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Fomento Económico y al Emprendimiento (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-02-13",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para el Seguimiento a la Implementación de la Agenda 2030 (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-15",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Regional (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reordenamiento Urbano y Vivienda (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-05",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Armando Contreras Castillo",
+  "formula_referencia": "9229295",
+  "id": "sil-9229294",
+  "identifiers": [
+    {
+      "identifier": "9229294",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "alejandro-ismael-murat-hinojosa",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:24:19Z",
+      "sha256": "02d369b418a192b56198bfce695479b5f67d4d4d7ce0be7c9859c601569bad62",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229294"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

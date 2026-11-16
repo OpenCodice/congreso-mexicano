@@ -1,0 +1,61 @@
+{
+  "area": {
+    "cabecera": "Córdoba",
+    "distrito": 16,
+    "entidad": "veracruz"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Cambio Climático y Sostenibilidad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Marina (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Economía, Comercio y Competitividad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228241",
+  "identifiers": [
+    {
+      "identifier": "9228241",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "angel-etiem-jimenez-castaneda",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:57:10Z",
+      "sha256": "32b3f93d511b38529a7c63cf289aa8d614e09a890ac71b9a7aed391d47d0a90d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228241"
+    }
+  ],
+  "start_date": "2026-09-14"
+}

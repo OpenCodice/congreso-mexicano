@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Navojoa",
+    "distrito": 7,
+    "entidad": "sonora"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Transparencia y Anticorrupción (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-27",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Pueblos Indígenas y Afromexicanos (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-03-27",
+      "inicio": "2025-03-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Igualdad de Género (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Gricelda Lorena Soto Almada",
+  "formula_referencia": "9228311",
+  "id": "sil-9228310",
+  "identifiers": [
+    {
+      "identifier": "9228310",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "alma-manuela-higuera-esquer",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:54:57Z",
+      "sha256": "47e4a351710f13bb94b34555e9283ed82803e856da3066cec47a4a8e42502604",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228310"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

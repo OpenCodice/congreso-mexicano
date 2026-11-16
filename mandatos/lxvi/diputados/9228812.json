@@ -1,0 +1,81 @@
+{
+  "area": {
+    "entidad": "jalisco"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Hacienda y Crédito Público (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025 - 31/01/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-01-31",
+      "inicio": "2025-01-21",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Tercera Comisión de Trabajo: Hacienda y Crédito Público; Agricultura y Fomento; Comunicaciones y Obras Públicas (21/01/2025 - 31/01/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-01-31",
+      "inicio": "2025-01-21",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ganadería (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Turismo (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguridad Ciudadana (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-09-26",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José Ignacio Aguado Hernández",
+  "formula_referencia": "9228813",
+  "id": "sil-9228812",
+  "identifiers": [
+    {
+      "identifier": "9228812",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "carlos-ventura-palacios-rodriguez",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:12:16Z",
+      "sha256": "f13e230d993e2884148b8f2944e60884f461efb7e16b261999b460c5e5f5170e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228812"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

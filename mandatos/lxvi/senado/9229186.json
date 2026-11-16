@@ -1,0 +1,117 @@
+{
+  "area": {
+    "entidad": "yucatan"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-10-07",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Social (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-10-07",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Innovación e Inteligencia Artificial (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Relaciones Exteriores, Asia-Pacífico (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ciencia, Humanidades, Tecnología e Innovación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Carlos Hernando Sobrino Argaez",
+  "formula_id": "sil-9229187",
+  "id": "sil-9229186",
+  "identifiers": [
+    {
+      "identifier": "9229186",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-06-30",
+      "inicio": "2025-06-23",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-07-02",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-07-01",
+      "inicio": "2025-07-01",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "rolando-rodrigo-zapata-bello",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:31:07Z",
+      "sha256": "062a58f8e95e0a4b6f2b3b7e65fb51faf089a2c6a050d3769017f3a950252647",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229186"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

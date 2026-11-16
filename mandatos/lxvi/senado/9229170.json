@@ -1,0 +1,130 @@
+{
+  "area": {
+    "entidad": "veracruz"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-03",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-08-31",
+      "inicio": "2026-06-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Agricultura (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-14",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura Ferroviaria (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-19",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-12-05",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "De Seguimiento e Impulso al Corredor Interoceánico del Istmo de Tehuantepec (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-06",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Segunda (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Puertos e Infraestructura Marítima (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-08",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-05",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Ricardo Francisco Exsome Zapata",
+  "formula_referencia": "9229171",
+  "id": "sil-9229170",
+  "identifiers": [
+    {
+      "identifier": "9229170",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "manuel-rafael-huerta-ladron-de-guevara",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:18:28Z",
+      "sha256": "e72748e80763cd9264dde18c9027fcad5fef34942aa3211ea779b5a26b094bf2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229170"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

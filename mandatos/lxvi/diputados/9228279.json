@@ -1,0 +1,61 @@
+{
+  "area": {
+    "cabecera": "Palenque",
+    "distrito": 1,
+    "entidad": "chiapas"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Asuntos Frontera Sur (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-06-03",
+      "inicio": "2026-03-05",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Ganadería (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-06-03",
+      "inicio": "2026-03-05",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-06-03",
+      "inicio": "2026-03-05",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9228279",
+  "identifiers": [
+    {
+      "identifier": "9228279",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PT",
+  "person_id": "jose-miguel-alegria-gomez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T15:02:08Z",
+      "sha256": "df90cdc93d47886c381f3d6f807b52d56130d279e7594909b3ea24a380a99df6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228279"
+    }
+  ],
+  "start_date": "2026-03-03"
+}

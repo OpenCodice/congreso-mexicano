@@ -1,0 +1,96 @@
+{
+  "area": {
+    "entidad": "chiapas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-15",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Turismo (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-12-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-20",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reordenamiento Urbano y Vivienda (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Erasmo Catarino González Delgado",
+  "formula_id": "sil-9228895",
+  "id": "sil-9228894",
+  "identifiers": [
+    {
+      "identifier": "9228894",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-06-30",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-06-29",
+      "inicio": "2025-06-25",
+      "tipo": "Licencia por tiempo definido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "senado",
+  "partido_fuente": "PVEM",
+  "person_id": "luis-armando-melgar-bravo",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:23:17Z",
+      "sha256": "a0ac34ae97df962542c94e5f874a257ade4f64f933eed149c3b539c8af01269e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228894"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

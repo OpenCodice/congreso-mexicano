@@ -1,0 +1,66 @@
+{
+  "area": {
+    "entidad": "campeche"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Anticorrupción y Transparencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Desarrollo Municipal (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228755",
+  "identifiers": [
+    {
+      "identifier": "9228755",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-mc",
+  "organization_id": "senado",
+  "partido_fuente": "MC",
+  "person_id": "francisco-daniel-barreda-pavon",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:12:06Z",
+      "sha256": "51ba30544d867d0cc5cef0538c1973b7860f6a2ead6d47235a9ef5e5d715b3a8",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228755"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

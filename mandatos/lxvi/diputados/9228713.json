@@ -1,0 +1,39 @@
+{
+  "area": {
+    "cabecera": "Texcoco de Mora",
+    "distrito": 38,
+    "entidad": "edomex"
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9228713",
+  "identifiers": [
+    {
+      "identifier": "9228713",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "jose-alejandro-rodriguez-salgado",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:16:22Z",
+      "sha256": "a39bbb5119003c691a96023b5f41bb636d1f01ee8dddf3043d91a1113bf90da2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228713"
+    }
+  ],
+  "start_date": "2025-06-23"
+}

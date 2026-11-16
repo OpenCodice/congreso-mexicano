@@ -1,0 +1,62 @@
+{
+  "area": {
+    "cabecera": "Guaymas",
+    "distrito": 4,
+    "entidad": "sonora"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Energía (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Marina (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Pesca (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Griselda Ilian López Martínez",
+  "formula_referencia": "9228305",
+  "id": "sil-9228304",
+  "identifiers": [
+    {
+      "identifier": "9228304",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PT",
+  "person_id": "ramon-angel-flores-robles",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:07:29Z",
+      "sha256": "47b1edfa5a0b75685f28d7d42429ae94d98df23b305feb1a01511933cc458010",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228304"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

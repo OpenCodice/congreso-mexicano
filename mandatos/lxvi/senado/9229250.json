@@ -1,0 +1,124 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Ciudades Sostenibles (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-21",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-08-31",
+      "inicio": "2025-05-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa Nacional (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Estudios Legislativos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-05",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-08-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reordenamiento Urbano y Vivienda (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-08-29",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Carmen Julieta Macías Rábago",
+  "formula_id": "sil-9229251",
+  "id": "sil-9229250",
+  "identifiers": [
+    {
+      "identifier": "9229250",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2024-11-29",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-11-28",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-mc",
+  "organization_id": "senado",
+  "partido_fuente": "MC",
+  "person_id": "maria-alejandra-barrales-magdaleno",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:12:01Z",
+      "sha256": "4d7ba1693cae1a52bc95e2504f8b5575415873e72e79c8f6a0319996f97757c0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229250"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

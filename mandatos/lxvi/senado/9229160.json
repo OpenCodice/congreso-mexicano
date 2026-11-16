@@ -1,0 +1,95 @@
+{
+  "area": {
+    "entidad": "tamaulipas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Asuntos Frontera Norte (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Comunicaciones y Transportes (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Municipal (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América Latina y el Caribe (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Asuntos Migratorios (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-09",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Gloria Ivett Bermea Vázquez",
+  "formula_referencia": "9229161",
+  "id": "sil-9229160",
+  "identifiers": [
+    {
+      "identifier": "9229160",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "senado",
+  "partido_fuente": "PAN",
+  "person_id": "imelda-margarita-sanmiguel-sanchez",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:27:38Z",
+      "sha256": "b55f88db81579df8fe039a23a05e69c153ce3d6a733bdace224c9c49e7bd26b9",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229160"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

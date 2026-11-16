@@ -1,0 +1,82 @@
+{
+  "area": {
+    "cabecera": "Coyoacán",
+    "distrito": 8,
+    "entidad": "cdmx"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-03-19",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Sección Instructora (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-10",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Jurisdiccional (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Deporte (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-09-09",
+      "inicio": "2025-03-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-03-10",
+      "inicio": "2025-03-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Cambio Climático y Sostenibilidad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228197",
+  "identifiers": [
+    {
+      "identifier": "9228197",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "ruth-maricela-silva-andraca",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:23:05Z",
+      "sha256": "3a9363164b24096160f42b99a64cea730d83c5fb4e6ef22b7df4743435d67e74",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228197"
+    }
+  ],
+  "start_date": "2024-10-16"
+}

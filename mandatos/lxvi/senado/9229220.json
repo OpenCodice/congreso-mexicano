@@ -1,0 +1,95 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Ciberseguridad (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-21",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Derechos Humanos (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-14",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "De Seguimiento e Impulso al Corredor Interoceánico del Istmo de Tehuantepec (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-06",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa Nacional (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Marina (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-09-18",
+      "inicio": "2024-09-24",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-09-24",
+      "inicio": "2024-09-03",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Augusto Gómez Villanueva",
+  "formula_referencia": "9229221",
+  "id": "sil-9229220",
+  "identifiers": [
+    {
+      "identifier": "9229220",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "rafael-alejandro-moreno-cardenas",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:24:09Z",
+      "sha256": "42de367218e57c013aee5ef1ee55fa1a2f0fa1d67c4bfbaa69c6cee77b54890b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229220"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

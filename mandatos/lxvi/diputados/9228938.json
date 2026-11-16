@@ -1,0 +1,67 @@
+{
+  "area": {
+    "entidad": "cdmx"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Presupuesto y Cuenta Pública (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-02-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Salud (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos Humanos (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-02-26",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Diversidad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-16",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Marco Antonio Temístocles Villanueva Ramos",
+  "formula_referencia": "9228939",
+  "id": "sil-9228938",
+  "identifiers": [
+    {
+      "identifier": "9228938",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "jaime-genaro-lopez-vela",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:01:02Z",
+      "sha256": "83c4e47cf839362d49b8160cf5cbd480c779c6e3cec268d7d13f2544574a50e7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228938"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

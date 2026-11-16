@@ -1,0 +1,62 @@
+{
+  "area": {
+    "cabecera": "Tuxtla Gutiérrez",
+    "distrito": 9,
+    "entidad": "chiapas"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Justicia (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-05",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Raúl Eduardo Bonifaz Moedano",
+  "formula_referencia": "9228629",
+  "id": "sil-9228628",
+  "identifiers": [
+    {
+      "identifier": "9228628",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "guillermo-rafael-santiago-rodriguez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:21:02Z",
+      "sha256": "46e121dcac3ebcb01849aab6c1454390a136bbcb563c146689294f9b7a8f759e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228628"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

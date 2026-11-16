@@ -1,0 +1,54 @@
+{
+  "area": {
+    "entidad": "nayarit"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Desarrollo Rural (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-29",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Angélica Montes Rentería",
+  "formula_id": "sil-9229025",
+  "id": "sil-9229024",
+  "identifiers": [
+    {
+      "identifier": "9229024",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-17",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "senado",
+  "partido_fuente": "PVEM",
+  "person_id": "jasmine-maria-bugarin-rodriguez",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:12:25Z",
+      "sha256": "f6d8066d22c5b75fd79eaa434b7c77be4a930a7db4f0f9d91bb3efa940d83d53",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229024"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

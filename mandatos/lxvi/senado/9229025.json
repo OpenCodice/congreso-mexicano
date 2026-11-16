@@ -1,0 +1,59 @@
+{
+  "area": {
+    "entidad": "nayarit"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Desarrollo Rural (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Ganadería (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9229025",
+  "identifiers": [
+    {
+      "identifier": "9229025",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "senado",
+  "partido_fuente": "PVEM",
+  "person_id": "angelica-montes-renteria",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:24:00Z",
+      "sha256": "6b482b55dc4d7b14b66dd1beaa435faa0b8cd679b612da9b978fbfe0d51c44da",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229025"
+    }
+  ],
+  "start_date": "2026-06-17"
+}

@@ -1,0 +1,54 @@
+{
+  "area": {
+    "entidad": "sinaloa"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2025-09-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Ana Francis Chiquete Elizalde",
+  "formula_id": "sil-9229125",
+  "id": "sil-9229124",
+  "identifiers": [
+    {
+      "identifier": "9229124",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-22",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "imelda-castro-castro",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:13:22Z",
+      "sha256": "fea1d9dd1db2780e842afbabf342db02bd24bba842dd73fa16c92091269c91b4",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229124"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

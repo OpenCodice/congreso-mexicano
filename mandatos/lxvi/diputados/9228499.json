@@ -1,0 +1,83 @@
+{
+  "area": {
+    "cabecera": "Juárez",
+    "distrito": 3,
+    "entidad": "chihuahua"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-08-31",
+      "inicio": "2025-05-01",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-08-31",
+      "inicio": "2025-05-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Vivienda (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Jurisdiccional (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Justicia (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-09",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Jessica Irene Ríos Ortega",
+  "formula_referencia": "9228500",
+  "id": "sil-9228499",
+  "identifiers": [
+    {
+      "identifier": "9228499",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pt",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PT",
+  "person_id": "lilia-aguilar-gil",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T15:01:47Z",
+      "sha256": "735b57b289c77a11ef4994c61aeeaa85c19ec6703d54bf65a5b29371c1e75931",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228499"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

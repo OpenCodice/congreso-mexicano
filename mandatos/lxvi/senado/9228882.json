@@ -1,0 +1,110 @@
+{
+  "area": {
+    "entidad": "coahuila"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para la evaluación y seguimiento de la Fuerza Armada permanente en tareas de Seguridad Pública (H. Congreso de la Unión)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2026-04-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para revisar y vigilar el proceso de quiebra de Altos Hornos de México, S. A. B. de C. V. (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-12-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Regional (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-11-21",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América del Norte (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-11-06",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-10-03",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo Municipal (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Energía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Federalismo (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-07-01",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Gabriel Elizondo Pérez",
+  "formula_id": "sil-9228883",
+  "id": "sil-9228882",
+  "identifiers": [
+    {
+      "identifier": "9228882",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-30",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "miguel-angel-riquelme-solis",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:26:17Z",
+      "sha256": "41cd8002b7daed2f504e8233ab99bbec977dcca7e28ad74529f3ca36664670ca",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228882"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

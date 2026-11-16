@@ -1,0 +1,95 @@
+{
+  "area": {
+    "entidad": "guerrero"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Economía (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-28",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-10-14",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2025-08-31",
+      "inicio": "2025-05-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-08",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Minería (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Radio, Televisión y Cinematografía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-09-25",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa Nacional (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-09",
+      "inicio": "2024-09-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2024-09-03",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Juan José Castro Justo",
+  "formula_referencia": "9228947",
+  "id": "sil-9228946",
+  "identifiers": [
+    {
+      "identifier": "9228946",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "senado",
+  "partido_fuente": "PRI",
+  "person_id": "manuel-anorve-banos",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:11:18Z",
+      "sha256": "e0850527a617575719855607304295c2b247ac2c0238633f6ee420fce63618fe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228946"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

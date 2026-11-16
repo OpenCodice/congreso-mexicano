@@ -1,0 +1,83 @@
+{
+  "area": {
+    "cabecera": "Tepic",
+    "distrito": 2,
+    "entidad": "nayarit"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-08-31",
+      "inicio": "2026-06-01",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía Social y Fomento del Cooperativismo (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-09-05",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Federalismo y Desarrollo Municipal (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-04-28",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-04-22",
+      "inicio": "2025-02-20",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Presupuesto y Cuenta Pública (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Igualdad de Género (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-20",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Irma Graciana Arjona Crespo",
+  "formula_referencia": "9228394",
+  "id": "sil-9228393",
+  "identifiers": [
+    {
+      "identifier": "9228393",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "beatriz-andrea-navarro-perez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:08:42Z",
+      "sha256": "08b3d7663706e5fceb4f6758ae0ae16b9f65b5cb958e002a555cb34405bd8905",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228393"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

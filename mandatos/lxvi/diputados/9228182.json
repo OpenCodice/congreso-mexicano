@@ -1,0 +1,70 @@
+{
+  "area": {
+    "cabecera": "Tlalpan",
+    "distrito": 5,
+    "entidad": "cdmx"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-03-25",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Vivienda (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-19",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Hacienda y Crédito Público (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-09-03",
+      "inicio": "2024-10-09",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Jesús Irugami Perea Cruz",
+  "formula_id": "sil-9228183",
+  "id": "sil-9228182",
+  "identifiers": [
+    {
+      "identifier": "9228182",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-03-19",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "carlos-alberto-ulloa-perez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:24:26Z",
+      "sha256": "33a6f70eb16db041762f7b0f71878f5a4836bb615ffeed91ef96089fd3fd4b50",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228182"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

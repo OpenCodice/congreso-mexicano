@@ -1,0 +1,74 @@
+{
+  "area": {
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Educación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-24",
+      "inicio": "2024-10-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-24",
+      "inicio": "2024-10-24",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-24",
+      "inicio": "2024-10-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2024-10-24",
+      "inicio": "2024-10-24",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229063",
+  "identifiers": [
+    {
+      "identifier": "9229063",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-06-23",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-mc",
+  "organization_id": "senado",
+  "partido_fuente": "MC",
+  "person_id": "tabita-ortiz-hernandez",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:24:52Z",
+      "sha256": "8217f672d3f6da0260595e0e923e4b0f6ba2f64015237cf4dde8bbd619d09829",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229063"
+    }
+  ],
+  "start_date": "2024-10-16"
+}

@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Monclova",
+    "distrito": 3,
+    "entidad": "coahuila"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Energía (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía, Comercio y Competitividad (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Trabajo y Previsión Social (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-09-02",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-08-27",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Arnulfo Ignacio Guajardo Flores",
+  "formula_id": "sil-9229428",
+  "id": "sil-9228258",
+  "identifiers": [
+    {
+      "identifier": "9228258",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PRI",
+  "person_id": "theodoros-kalionchiz-de-la-fuente",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:59:19Z",
+      "sha256": "5702ff0821c1460868eb79232bc01bbc5452bfebe1a4a510fcb5f90206e91345",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228258"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,75 @@
+{
+  "area": {
+    "entidad": "baja-california"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Asuntos Frontera Norte (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Radio, Televisión y Cinematografía (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-06-23",
+      "inicio": "2024-09-03",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Juan Meléndrez Espinoza",
+  "formula_id": "sil-9228727",
+  "id": "sil-9228726",
+  "identifiers": [
+    {
+      "identifier": "9228726",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-06-19",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "armando-ayala-robles",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:11:42Z",
+      "sha256": "630a38a1695d3480ec64fa34e1f97755307f6d51ba457974d5810949bbfeb962",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228726"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

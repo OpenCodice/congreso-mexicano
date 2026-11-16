@@ -1,0 +1,48 @@
+{
+  "area": {
+    "cabecera": "Coyoacán",
+    "distrito": 8,
+    "entidad": "cdmx"
+  },
+  "calidad": "propietario",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": "Ruth Maricela Silva Andraca",
+  "formula_id": "sil-9228197",
+  "id": "sil-9228196",
+  "identifiers": [
+    {
+      "identifier": "9228196",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-10-16",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "ana-maria-lomeli-robles",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:00:06Z",
+      "sha256": "f13d6f9e83c7ec843f95d7a1e54d915ce49992011a5abde915260a027b92d04a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228196"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

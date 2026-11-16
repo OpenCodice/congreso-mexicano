@@ -1,0 +1,83 @@
+{
+  "area": {
+    "cabecera": "Benito Juárez",
+    "distrito": 12,
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Asuntos Frontera Norte (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-12-08",
+      "inicio": "2025-11-21",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Defensa Nacional (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-12-02",
+      "inicio": "2025-11-21",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-12-02",
+      "inicio": "2025-11-21",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9228384",
+  "identifiers": [
+    {
+      "identifier": "9228384",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-20",
+      "tipo": "Toma de protesta"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-11-11",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-08-06",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "jose-adalberto-vega-regalado",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:26:11Z",
+      "sha256": "86801e67633e03f70fd6fef241b2749012e60783af6ad7a1375f2bbf2d50a93e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228384"
+    }
+  ],
+  "start_date": "2024-11-20"
+}

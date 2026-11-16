@@ -1,0 +1,70 @@
+{
+  "area": {
+    "cabecera": "Gómez Palacio",
+    "distrito": 2,
+    "entidad": "durango"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Derechos de la Niñez y de la Adolescencia (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-20",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Igualdad de Género (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-20",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Presupuesto y Cuenta Pública (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-02-20",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Alejandra Del Valle Ramírez",
+  "formula_id": "sil-9228516",
+  "id": "sil-9228515",
+  "identifiers": [
+    {
+      "identifier": "9228515",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-02-20",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "betzabe-martinez-arango",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:02:12Z",
+      "sha256": "958d1e5f0312c5e820f3368a2aa570f47e081381a10e89b6f36f1b0a2bcb1ca3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228515"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

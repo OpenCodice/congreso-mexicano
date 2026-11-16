@@ -1,0 +1,88 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Hacienda y Crédito Público (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-05-30",
+      "inicio": "2025-09-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Bienestar (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-05-30",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Primera (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-05-30",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Juventud (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-05-30",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América Latina y el Caribe (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-05-30",
+      "inicio": "2025-09-09",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229436",
+  "identifiers": [
+    {
+      "identifier": "9229436",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-08-29",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-05-26",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pan",
+  "organization_id": "senado",
+  "partido_fuente": "PAN",
+  "person_id": "raymundo-bolanos-azocar",
+  "principio": "representacion-proporcional",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:12:15Z",
+      "sha256": "0e17c9f83265784ba6eaeb0744e103eaa5d98c41c1dad681e0940272136462ac",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229436"
+    }
+  ],
+  "start_date": "2025-06-26"
+}

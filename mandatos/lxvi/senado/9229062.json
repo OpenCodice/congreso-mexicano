@@ -1,0 +1,145 @@
+{
+  "area": {
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Puntos Constitucionales (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-03-24",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Fomento Económico y al Emprendimiento (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-02-13",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para revisar y vigilar el proceso de quiebra de Altos Hornos de México, S. A. B. de C. V. (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-12-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Innovación e Inteligencia Artificial (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Para la Igualdad de Género (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-26",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-11-12",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Educación (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-29",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-29",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Derechos Digitales (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-09-29",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Tabita Ortiz Hernández",
+  "formula_id": "sil-9229063",
+  "id": "sil-9229062",
+  "identifiers": [
+    {
+      "identifier": "9229062",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2024-10-24",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": "2025-07-03",
+      "inicio": "2025-06-23",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-10-16",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-07-04",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-mc",
+  "organization_id": "senado",
+  "partido_fuente": "MC",
+  "person_id": "luis-donaldo-colosio-riojas",
+  "principio": "primera-minoria",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:13:56Z",
+      "sha256": "1bc91326ea57a2361930497186c18e5412934bf5680c7c4831f7dfab220e4b1e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229062"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

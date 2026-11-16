@@ -1,0 +1,69 @@
+{
+  "area": {
+    "cabecera": "Acapulco",
+    "distrito": 4,
+    "entidad": "guerrero"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Transparencia y Anticorrupción (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-03-25",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Infraestructura (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Gobernación y Población (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Turismo (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-03-25",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "José de Jesús Herrera Pintos",
+  "formula_referencia": "9228596",
+  "id": "sil-9228595",
+  "identifiers": [
+    {
+      "identifier": "9228595",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "javier-taja-ramirez",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:23:34Z",
+      "sha256": "312355af9639ec0326e6860dffb75dbe415a8895f37b18a8ee6d777d70b73988",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228595"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

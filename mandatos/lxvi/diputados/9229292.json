@@ -1,0 +1,82 @@
+{
+  "area": {
+    "entidad": "edomex"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Economía Social y Fomento del Cooperativismo (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-06-27",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2025-05-19",
+      "inicio": "2025-02-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-09",
+      "puesto": "Presidente"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Emma Mondragón Navarrete",
+  "formula_id": "sil-9229293",
+  "id": "sil-9229292",
+  "identifiers": [
+    {
+      "identifier": "9229292",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-06-25",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-06-23",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PRI",
+  "person_id": "leticia-barrera-maldonado",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T15:03:56Z",
+      "sha256": "a9fe188ab3b838e6d1b174c5a281381cf14ec11255b4cae9da748fe28e09ec7a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229292"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

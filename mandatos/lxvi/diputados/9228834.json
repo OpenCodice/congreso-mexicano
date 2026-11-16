@@ -1,0 +1,46 @@
+{
+  "area": {
+    "entidad": "nuevo-leon"
+  },
+  "calidad": "propietario",
+  "comisiones": [],
+  "estatus": "Baja(a)",
+  "formula": "José Narro Céspedes",
+  "formula_id": "sil-9228835",
+  "id": "sil-9228834",
+  "identifiers": [
+    {
+      "identifier": "9228834",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2024-09-09",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "jorge-alberto-mendoza-sanchez",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:03:52Z",
+      "sha256": "ae669d5754964f10c5057b7c73e6f944819446ffc52d603c8a508a70a2f35a96",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228834"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

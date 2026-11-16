@@ -1,0 +1,70 @@
+{
+  "area": {
+    "cabecera": "La Paz",
+    "distrito": 1,
+    "entidad": "baja-california-sur"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Vivienda (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-04-29",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Medio Ambiente y Recursos Naturales (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-04-29",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Turismo (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-04-29",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": "Juan Carlos González Bareño",
+  "formula_id": "sil-9228151",
+  "id": "sil-9228150",
+  "identifiers": [
+    {
+      "identifier": "9228150",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2026-04-29",
+      "tipo": "Licencia por tiempo indefinido"
+    }
+  ],
+  "on_behalf_of_id": "partido-pvem",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PVEM",
+  "person_id": "manuel-alejandro-cota-cardenas",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:02:36Z",
+      "sha256": "af670e37c79d37981077a893a56f89ce580179a46ca4a021ad299df7945f7436",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228150"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

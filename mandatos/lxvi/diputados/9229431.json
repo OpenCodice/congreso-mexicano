@@ -1,0 +1,39 @@
+{
+  "area": {
+    "cabecera": "Los Pilares",
+    "distrito": 4,
+    "entidad": "morelos"
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "(a)",
+  "formula": null,
+  "id": "sil-9229431",
+  "identifiers": [
+    {
+      "identifier": "9229431",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "fidel-demedicis-hidalgo",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:04:29Z",
+      "sha256": "b55c94e4ba4f2898928c48a4ea3e2debeb1490fd0125153eff238515af387a88",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229431"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

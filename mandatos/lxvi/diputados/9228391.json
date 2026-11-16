@@ -1,0 +1,76 @@
+{
+  "area": {
+    "cabecera": "Santiago Ixcuintla",
+    "distrito": 1,
+    "entidad": "nayarit"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Puntos Constitucionales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-04-20",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Tercera Comisión de Trabajo: Asuntos Económicos (07/01/2026-31/01/2026) (Com. Perm.)",
+      "estatus": "Activo",
+      "fin": "2026-01-31",
+      "inicio": "2026-01-07",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Igualdad de Género (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Pesca (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-04-20",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Elisa Maley Woo Barajas",
+  "formula_referencia": "9228392",
+  "id": "sil-9228391",
+  "identifiers": [
+    {
+      "identifier": "9228391",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "any-marilu-porras-baylon",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:14:04Z",
+      "sha256": "4598f63dd821681cafafd3797053cc0497df4e4957f0a6fe03ed1dfd8ce32220",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228391"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,61 @@
+{
+  "area": {
+    "cabecera": "La Magdalena Contreras",
+    "distrito": 6,
+    "entidad": "cdmx"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Deporte (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-07-14",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Medio Ambiente y Recursos Naturales (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-07-14",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-07-14",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228185",
+  "identifiers": [
+    {
+      "identifier": "9228185",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "rosa-alejandra-rodriguez-diaz-de-leon",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:16:08Z",
+      "sha256": "2dc219de666abfa8ac11628ecb07252454549b7fcb320cc437e94af6b48e8192",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228185"
+    }
+  ],
+  "start_date": "2026-07-13"
+}

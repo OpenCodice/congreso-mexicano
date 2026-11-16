@@ -1,0 +1,74 @@
+{
+  "area": {
+    "entidad": null
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Trabajo y Previsión Social (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2026-02-27",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Economía, Comercio y Competitividad (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2026-02-27",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-03-10",
+      "inicio": "2026-02-27",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9229241",
+  "identifiers": [
+    {
+      "identifier": "9229241",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-04-30",
+      "tipo": "Toma de protesta"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-02-25",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-pri",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "PRI",
+  "person_id": "oscar-fernando-torres-castaneda",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:23:58Z",
+      "sha256": "f8a9a24be47d3dd718a253cd8e6a7099aeda9bf7df00b936b695bc60ac553f60",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229241"
+    }
+  ],
+  "start_date": "2025-04-30"
+}

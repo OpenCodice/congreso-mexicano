@@ -1,0 +1,102 @@
+{
+  "area": {
+    "entidad": "jalisco"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Defensa de los Consumidores (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-04",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Salud (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-04",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Administración (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Estudios Legislativos, Segunda (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-04",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Relaciones Exteriores, América Latina y el Caribe (C. Senadores)",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2026-11-04",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228965",
+  "identifiers": [
+    {
+      "identifier": "9228965",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-04-28",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": "2027-08-31",
+      "inicio": "2025-11-27",
+      "tipo": "Toma de protesta"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-10-20",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2025-12-10",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "jose-hiram-torres-salcedo",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:28:30Z",
+      "sha256": "c2b15ec7d62ff6df8d0bd1e63bc8003ad6f486e601bfff01aa7d7a6a882aa54b",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228965"
+    }
+  ],
+  "start_date": "2025-11-27"
+}

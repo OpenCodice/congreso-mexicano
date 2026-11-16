@@ -1,0 +1,70 @@
+{
+  "area": {
+    "cabecera": "Tultitlán de Mariano Escobedo",
+    "distrito": 8,
+    "entidad": "edomex"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Derechos Humanos (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-17",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-17",
+      "inicio": "2024-10-30",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Reforma Política-Electoral (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-17",
+      "inicio": "2024-10-30",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja por deceso(a)",
+  "formula": "Yessica Juárez García",
+  "formula_id": "sil-9228653",
+  "id": "sil-9228652",
+  "identifiers": [
+    {
+      "identifier": "9228652",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Suplente",
+      "estatus": "Baja por deceso",
+      "fin": null,
+      "inicio": "2026-09-17",
+      "tipo": "Baja por deceso"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "anay-beltran-reyes",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T15:04:21Z",
+      "sha256": "10c4c555ab655a652e389323d95e3965428d1907b1a43a234cd7dea970fc726d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228652"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

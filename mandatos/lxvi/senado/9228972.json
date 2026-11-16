@@ -1,0 +1,110 @@
+{
+  "area": {
+    "entidad": "edomex"
+  },
+  "calidad": "propietario",
+  "comisiones": [
+    {
+      "comision": "Para la evaluación y seguimiento de la Fuerza Armada permanente en tareas de Seguridad Pública (H. Congreso de la Unión)",
+      "estatus": "Baja",
+      "fin": "2026-09-08",
+      "inicio": "2026-04-08",
+      "puesto": "Presidente"
+    },
+    {
+      "comision": "Relaciones Exteriores (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-08",
+      "inicio": "2026-02-18",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Defensa Nacional (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-08",
+      "inicio": "2026-02-10",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Federalismo (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-08",
+      "inicio": "2026-02-10",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Anticorrupción y Transparencia (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-08",
+      "inicio": "2026-02-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Gobernación (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2026-09-08",
+      "inicio": "2026-02-10",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Seguridad Pública (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-02-17",
+      "inicio": "2024-10-03",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Jurisdiccional (C. Senadores)",
+      "estatus": "Baja",
+      "fin": "2025-02-17",
+      "inicio": "2024-09-24",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Activo(a)",
+  "formula": "Sandra Luz Falcón Venegas",
+  "formula_id": "sil-9228973",
+  "id": "sil-9228972",
+  "identifiers": [
+    {
+      "identifier": "9228972",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Baja",
+      "fin": null,
+      "inicio": "2025-02-17",
+      "tipo": "Licencia por tiempo indefinido"
+    },
+    {
+      "en_funciones": "Propietario",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-02-01",
+      "tipo": "Reincorporación"
+    }
+  ],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "senado",
+  "partido_fuente": "Morena",
+  "person_id": "higinio-martinez-miranda",
+  "principio": "mayoria-relativa",
+  "role": "senador",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:24:23Z",
+      "sha256": "1b28ffc1b63101e22d768ccaaf71b14e1691c09efa8f50f42d6666eb114c5178",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T19:23:03Z",
+      "sha256": "5fa7385e53e5c952830fd5a0abb65f0295b9ac1e967bda2ae511171718606cff",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228972"
+    }
+  ],
+  "start_date": "2024-08-29"
+}

@@ -1,0 +1,61 @@
+{
+  "area": {
+    "cabecera": "Cadereyta de Montes",
+    "distrito": 1,
+    "entidad": "queretaro"
+  },
+  "calidad": "suplente",
+  "comisiones": [
+    {
+      "comision": "Ciencia, Tecnología e Innovación (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2026-07-14",
+      "puesto": "Secretario"
+    },
+    {
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2026-07-14",
+      "puesto": "Integrante"
+    },
+    {
+      "comision": "Economía Social y Fomento del Cooperativismo (C. Diputados)",
+      "estatus": "Baja",
+      "fin": "2026-09-02",
+      "inicio": "2026-07-14",
+      "puesto": "Integrante"
+    }
+  ],
+  "estatus": "Baja(a)",
+  "formula": null,
+  "id": "sil-9228350",
+  "identifiers": [
+    {
+      "identifier": "9228350",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "maria-rebeca-del-rocio-peniche-vera",
+  "principio": "mayoria-relativa",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-16T15:01:28Z",
+      "sha256": "832c6e8c81fb6f7957b0b59fb94a4ff348ee6f6ea35176005e00580900d7745e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-16T20:12:53Z",
+      "sha256": "b6fdaafdd291b20ea12e12b20ef875b18a05d5c5aea29208a34f2bd53d7ce1fb",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228350"
+    }
+  ],
+  "start_date": "2026-07-13"
+}
