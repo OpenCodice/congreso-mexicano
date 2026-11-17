@@ -13,6 +13,12 @@ Diputados.
 **No edites a mano nada de este repo.** Si un dato está mal, el arreglo va en
 el extractor.
 
+Este repo no tiene workflows: solo datos. A `main` se llega solo por PR (con
+historial lineal, también para los administradores). Los PR de datos los
+abre la actualización semanal del extractor y los valida y fusiona su
+`revisar-pr.yml`, que corre `congreso validar` y revisa que cada commit lleve
+un `Tipo` y solo toque sus carpetas.
+
 ## Modelo
 
 [Popolo](https://www.popoloproject.com/specs/) para personas, organizaciones,
