@@ -1,0 +1,109 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5120545",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SEP y a la SHCP a garantizar y resolver de manera prioritaria el rezago en el pago de la gratificación por jubilación (concepto 63) a las y los trabajadores jubilados del subsistema de educación media superior.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 02-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-02",
+  "id": "sil-5120545",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228382",
+      "nombre_fuente": "Dip. Samantha Margarita Garza De la Garza",
+      "person_id": "samantha-margarita-garza-de-la-garza",
+      "referencia_sil": "9228382",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228549",
+      "nombre_fuente": "Dip. Alonso de Jesús Vázquez Jiménez",
+      "person_id": "alonso-de-jesus-vazquez-jimenez",
+      "referencia_sil": "9228549",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229414",
+      "nombre_fuente": "Dip. María Del Rosario Guzmán Avilés",
+      "person_id": "maria-del-rosario-guzman-aviles",
+      "referencia_sil": "9229414",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229148",
+      "nombre_fuente": "Dip. Liliana Ortiz Pérez",
+      "person_id": "liliana-ortiz-perez",
+      "referencia_sil": "9229148",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229112",
+      "nombre_fuente": "Dip. Noemi Berenice Luna Ayala",
+      "person_id": "noemi-berenice-luna-ayala",
+      "referencia_sil": "9229112",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229116",
+      "nombre_fuente": "Dip. Claudia Quiñones Garrido",
+      "person_id": "claudia-quinones-garrido",
+      "referencia_sil": "9229116",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228569",
+      "nombre_fuente": "Dip. Laura Cristina Márquez Alcalá",
+      "person_id": "laura-cristina-marquez-alcala",
+      "referencia_sil": "9228569",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5122283",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4844189",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica",
+      "referencia": "2085508",
+      "texto": "1.-Senado -Recursos Hídricos e Infraestructura Hidráulica .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Ing. José Pío X. Salgado Tovar, Secretario de Desarrollo Urbano y Obras Públicas del Gobierno del estado de Querétaro; al Lic. Josué David Guerrero Trápala, Presidente Municipal de Corregidora, Querétaro y a las instancias que correspondan a sus encargos; y al Lic. Luis Alberto Vega Ricoy, Vocal Ejecutivo de la Comisión Estatal de Aguas; a que resuelvan lo más pronto posible, y según sus posibilidades, la problemática relacionada con la red de alcantarillado y agua potable de -El Pueblito-, Corregidora, Querétaro, debido a que dicha situación está generando no sólo un mal olor en la comunidad; sino que, atenta contra la salud e integridad de sus pobladores.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-26",
+  "id": "sil-4844189",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229080",
+      "nombre_fuente": "Sen. Beatriz Silvia Robles Gutiérrez",
+      "person_id": "beatriz-silvia-robles-gutierrez",
+      "referencia_sil": "9229080",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850995",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

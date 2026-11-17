@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4893258",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025)",
+      "referencia": "2231",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Jucopo de esta Soberanía a acordar la realización de una Sesión Solemne, el día 1 de septiembre de 2025, con motivo del centenario de la fundación del Banco de México, extendiendo invitación formal a las y los integrantes de su Junta de Gobierno.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2025-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 29-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-29",
+  "id": "sil-4893258",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229296",
+      "nombre_fuente": "Dip. Hugo Eduardo Gutiérrez Arroyo",
+      "person_id": "hugo-eduardo-gutierrez-arroyo",
+      "referencia_sil": "9229296",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4897686",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

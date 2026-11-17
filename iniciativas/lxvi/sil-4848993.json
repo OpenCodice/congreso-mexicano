@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4848993",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que declara el 27 de septiembre como el Día que se conmemora la Nacionalización de la Industria Eléctrica.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-03-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 03-MAR-2026"
+  },
+  "expediente_id": "sil-5022774",
+  "fecha_presentacion": "2025-03-05",
+  "id": "sil-4848993",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229194",
+      "nombre_fuente": "Sen. Claudia Edith Anaya Mota",
+      "person_id": "claudia-edith-anaya-mota",
+      "referencia_sil": "9229194",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5022774",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115.html.gz",
+      "consultado": "2026-11-17T07:54:29Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

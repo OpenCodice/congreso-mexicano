@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4860022",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Congreso del estado de Coahuila, a fin de homologar el Código Penal del estado de Coahuila, con relación al Código Penal Federal, relativo al delito de feminicidio.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-20",
+  "id": "sil-4860022",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228880",
+      "nombre_fuente": "Sen. Cecilia Guadalupe Guadiana Mandujano",
+      "person_id": "cecilia-guadalupe-guadiana-mandujano",
+      "referencia_sil": "9228880",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4866618",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4973263",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Deporte",
+      "referencia": "2085547",
+      "texto": "1.-Diputados -Deporte .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "2.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Cultura Física y Deporte y del Código Penal Federal, con el propósito prevenir y castigar la violencia en estadios donde acontecen espectáculos deportivos.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-03-10",
+    "resultado": "retirado",
+    "texto": "Retirada el 10-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-12",
+  "id": "sil-4973263",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229244",
+      "nombre_fuente": "Dip. Lorena Piñón Rivera",
+      "person_id": "lorena-pinon-rivera",
+      "referencia_sil": "9229244",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4974700",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

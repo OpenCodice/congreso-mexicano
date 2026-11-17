@@ -1,0 +1,73 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4900613",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reordenamiento Urbano y Vivienda",
+      "referencia": "2085534",
+      "texto": "1.-Senado -Reordenamiento Urbano y Vivienda.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción XII del artículo 8; se reforma el segundo párrafo del artículo 61; se reforma la fracción I del artículo 62; se reforman las fracciones I y II del artículo 65; se reforma el artículo 66; se reforma el artículo 67; se adiciona una fracción XI al artículo 6 recorriendo las subsecuentes de la Ley de Vivienda.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-05-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-21",
+  "id": "sil-4900613",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4902566",
+  "sources": [
+    {
+      "archivo": "fuentes/7e/7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab.html.gz",
+      "consultado": "2026-11-17T07:55:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Vivienda"
+  ],
+  "tipo": "Iniciativa"
+}

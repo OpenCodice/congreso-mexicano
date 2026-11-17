@@ -1,0 +1,82 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5190893",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "3.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-09",
+  "id": "sil-5190893",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228527",
+      "nombre_fuente": "Dip. Raúl Álvarez Villaseñor",
+      "person_id": "raul-alvarez-villasenor",
+      "referencia_sil": "9228527",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5196124",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2.html.gz",
+      "consultado": "2026-11-17T07:59:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Laboral",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

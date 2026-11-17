@@ -1,0 +1,319 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5033498",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 96 y 98 de Ley del Impuesto sobre la Renta, en materia de tarifa diferenciada del ISR para madres solteras y madres cuidadoras.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-10",
+  "id": "sil-5033498",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229206",
+      "nombre_fuente": "Dip. Mario Zamora Gastélum",
+      "person_id": "mario-zamora-gastelum",
+      "referencia_sil": "9229206",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229200",
+      "nombre_fuente": "Dip. Arturo Yáñez Cuéllar",
+      "person_id": "arturo-yanez-cuellar",
+      "referencia_sil": "9229200",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229302",
+      "nombre_fuente": "Dip. Emilio Suárez Licona",
+      "person_id": "emilio-suarez-licona",
+      "referencia_sil": "9229302",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228136",
+      "nombre_fuente": "Dip. Luis Gerardo Sánchez Sánchez",
+      "person_id": "luis-gerardo-sanchez-sanchez",
+      "referencia_sil": "9228136",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229304",
+      "nombre_fuente": "Dip. Laura Ivonne Ruiz Moreno",
+      "person_id": "laura-ivonne-ruiz-moreno",
+      "referencia_sil": "9229304",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229244",
+      "nombre_fuente": "Dip. Lorena Piñón Rivera",
+      "person_id": "lorena-pinon-rivera",
+      "referencia_sil": "9229244",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229288",
+      "nombre_fuente": "Dip. Víctor Samuel Palma César",
+      "person_id": "victor-samuel-palma-cesar",
+      "referencia_sil": "9229288",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229202",
+      "nombre_fuente": "Dip. Graciela Ortiz González",
+      "person_id": "graciela-ortiz-gonzalez",
+      "referencia_sil": "9229202",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229278",
+      "nombre_fuente": "Dip. Nadia Navarro Acevedo",
+      "person_id": "nadia-navarro-acevedo",
+      "referencia_sil": "9229278",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229219",
+      "nombre_fuente": "Dip. Juan Moreno De Haro",
+      "person_id": "juan-moreno-de-haro",
+      "referencia_sil": "9229219",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228503",
+      "nombre_fuente": "Dip. Juan Antonio Meléndez Ortega",
+      "person_id": "juan-antonio-melendez-ortega",
+      "referencia_sil": "9228503",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229235",
+      "nombre_fuente": "Dip. Luvianka Guadalupe Partida Chávez",
+      "person_id": "luvianka-guadalupe-partida-chavez",
+      "referencia_sil": "9229235",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229260",
+      "nombre_fuente": "Dip. Emilio Lara Calderón",
+      "person_id": "emilio-lara-calderon",
+      "referencia_sil": "9229260",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229410",
+      "nombre_fuente": "Dip. Ofelia Socorro Jasso Nieto",
+      "person_id": "ofelia-socorro-jasso-nieto",
+      "referencia_sil": "9229410",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229282",
+      "nombre_fuente": "Dip. Carlos Eduardo Gutiérrez Mancilla",
+      "person_id": "carlos-eduardo-gutierrez-mancilla",
+      "referencia_sil": "9229282",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229296",
+      "nombre_fuente": "Dip. Hugo Eduardo Gutiérrez Arroyo",
+      "person_id": "hugo-eduardo-gutierrez-arroyo",
+      "referencia_sil": "9229296",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229242",
+      "nombre_fuente": "Dip. Fuensanta Guadalupe Guerrero Esquivel",
+      "person_id": "fuensanta-guadalupe-guerrero-esquivel",
+      "referencia_sil": "9229242",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229226",
+      "nombre_fuente": "Dip. Marcela Guerra Castillo",
+      "person_id": "marcela-guerra-castillo",
+      "referencia_sil": "9229226",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228377",
+      "nombre_fuente": "Dip. Juan Francisco Espinoza Eguia",
+      "person_id": "juan-francisco-espinoza-eguia",
+      "referencia_sil": "9228377",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229211",
+      "nombre_fuente": "Dip. Paloma Domínguez Ugarte",
+      "person_id": "paloma-dominguez-ugarte",
+      "referencia_sil": "9229211",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228509",
+      "nombre_fuente": "Dip. César Alejandro Domínguez Domínguez",
+      "person_id": "cesar-alejandro-dominguez-dominguez",
+      "referencia_sil": "9228509",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228511",
+      "nombre_fuente": "Dip. Noel Chávez Velázquez",
+      "person_id": "noel-chavez-velazquez",
+      "referencia_sil": "9228511",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229266",
+      "nombre_fuente": "Dip. Xitlalic Ceja García",
+      "person_id": "xitlalic-ceja-garcia",
+      "referencia_sil": "9229266",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229246",
+      "nombre_fuente": "Dip. Christian Mishel Castro Bello",
+      "person_id": "christian-mishel-castro-bello",
+      "referencia_sil": "9229246",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228363",
+      "nombre_fuente": "Dip. Andrés Mauricio Cantú Ramírez",
+      "person_id": "andres-mauricio-cantu-ramirez",
+      "referencia_sil": "9228363",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228357",
+      "nombre_fuente": "Dip. Mario Calzada Mercado",
+      "person_id": "mario-calzada-mercado",
+      "referencia_sil": "9228357",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229272",
+      "nombre_fuente": "Dip. Israel Betanzos Cortés",
+      "person_id": "israel-betanzos-cortes",
+      "referencia_sil": "9229272",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229292",
+      "nombre_fuente": "Dip. Leticia Barrera Maldonado",
+      "person_id": "leticia-barrera-maldonado",
+      "referencia_sil": "9229292",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229300",
+      "nombre_fuente": "Dip. Abigail Arredondo Ramos",
+      "person_id": "abigail-arredondo-ramos",
+      "referencia_sil": "9229300",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228115",
+      "nombre_fuente": "Dip. Humberto Ambriz Delgadillo",
+      "person_id": "humberto-ambriz-delgadillo",
+      "referencia_sil": "9228115",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229230",
+      "nombre_fuente": "Dip. Miguel Alejandro Alonso Reyes",
+      "person_id": "miguel-alejandro-alonso-reyes",
+      "referencia_sil": "9229230",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229240",
+      "nombre_fuente": "Dip. Erubiel Lorenzo Alonso Que",
+      "person_id": "erubiel-lorenzo-alonso-que",
+      "referencia_sil": "9229240",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228260",
+      "nombre_fuente": "Dip. Yerico Abramo Masso",
+      "person_id": "yerico-abramo-masso",
+      "referencia_sil": "9228260",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229256",
+      "nombre_fuente": "Dip. Ariana del Rocío Rejón Lara",
+      "person_id": "ariana-del-rocio-rejon-lara",
+      "referencia_sil": "9229256",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5034384",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

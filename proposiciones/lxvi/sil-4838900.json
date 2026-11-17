@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4838900",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Energía",
+      "referencia": "2085519",
+      "texto": "1.-Senado -Energía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a las personas titulares de las Secretarías de Hacienda y Crédito Público y de Energía, así como de la Comisión Federal de Electricidad, a que en el marco de la Estrategia Nacional del Sector Eléctrico, en su eje -justicia energética-, diseñen un plan tarifario por emergencia climática, a fin de establecer tarifas eléctricas subsidiadas excepcionales o se decrete la exención de pago temporal, para los municipios afectados temperaturas extremas en las temporadas de calor y de invierno.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4838900",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228882",
+      "nombre_fuente": "Sen. Miguel Ángel Riquelme Solís",
+      "person_id": "miguel-angel-riquelme-solis",
+      "referencia_sil": "9228882",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4845828",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

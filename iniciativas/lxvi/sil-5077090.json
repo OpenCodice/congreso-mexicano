@@ -1,0 +1,150 @@
+{
+  "camara_origen": "senado",
+  "clave": "5077090",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Economía",
+      "referencia": "2085515",
+      "texto": "1.-Senado -Economía.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones del Código Penal Federal, del Código Federal de Procedimientos Civiles, de la Ley del Sector Eléctrico, de la Ley del Sector Hidrocarburos, de la Ley Federal de Protección al Consumidor, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, del Código Fiscal de La Federación, de la Ley de Aeropuertos, de la Ley de Asociaciones Público Privadas, de la Ley de Aviación Civil, de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley de Infraestructura de la Calidad, de la Ley de Instituciones de Crédito, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley de Navegación y Comercio Marítimos y de la Ley para Regular las Instituciones de Tecnología Financiera.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-22",
+  "id": "sil-5077090",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229312",
+      "nombre_fuente": "Sen. Luis Alfonso Silva Romo",
+      "person_id": "luis-alfonso-silva-romo",
+      "referencia_sil": "9229312",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229182",
+      "nombre_fuente": "Sen. Jorge Carlos Ramírez Marín",
+      "person_id": "jorge-carlos-ramirez-marin",
+      "referencia_sil": "9229182",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229397",
+      "nombre_fuente": "Sen. Maki Esther Ortiz Domínguez",
+      "person_id": "maki-esther-ortiz-dominguez",
+      "referencia_sil": "9229397",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228884",
+      "nombre_fuente": "Sen. Virgilio Mendoza Amezcua",
+      "person_id": "virgilio-mendoza-amezcua",
+      "referencia_sil": "9228884",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228894",
+      "nombre_fuente": "Sen. Luis Armando Melgar Bravo",
+      "person_id": "luis-armando-melgar-bravo",
+      "referencia_sil": "9228894",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228930",
+      "nombre_fuente": "Sen. Virginia Marie Magaña Fonseca",
+      "person_id": "virginia-marie-magana-fonseca",
+      "referencia_sil": "9228930",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229092",
+      "nombre_fuente": "Sen. Ruth Miriam González Silva",
+      "person_id": "ruth-miriam-gonzalez-silva",
+      "referencia_sil": "9229092",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229058",
+      "nombre_fuente": "Sen. Waldo Fernández González",
+      "person_id": "waldo-fernandez-gonzalez",
+      "referencia_sil": "9229058",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228966",
+      "nombre_fuente": "Sen. María del Rocío Corona Nakamura",
+      "person_id": "maria-del-rocio-corona-nakamura",
+      "referencia_sil": "9228966",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229024",
+      "nombre_fuente": "Sen. Jasmine María Bugarín Rodríguez",
+      "person_id": "jasmine-maria-bugarin-rodriguez",
+      "referencia_sil": "9229024",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228913",
+      "nombre_fuente": "Sen. Karen Castrejón Trujillo",
+      "person_id": "karen-castrejon-trujillo",
+      "referencia_sil": "9228913",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090492",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a.html.gz",
+      "consultado": "2026-11-17T07:57:42Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "23/04/2026",
+        "FECHA_INIC": "16/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Poder Ejecutivo"
+  ],
+  "tipo": "Iniciativa"
+}

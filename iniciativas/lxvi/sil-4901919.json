@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4901919",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos Humanos",
+      "referencia": "2085548",
+      "texto": "1.-Diputados -Derechos Humanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el párrafo 13 del artículo 2° de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-05-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-27",
+  "id": "sil-4901919",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228252",
+      "nombre_fuente": "Dip. Brígido Ramiro Moreno Hernández",
+      "person_id": "brigido-ramiro-moreno-hernandez",
+      "referencia_sil": "9228252",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4902347",
+  "sources": [
+    {
+      "archivo": "fuentes/7e/7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab.html.gz",
+      "consultado": "2026-11-17T07:55:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

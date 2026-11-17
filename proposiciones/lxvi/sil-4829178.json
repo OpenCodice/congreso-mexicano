@@ -1,0 +1,59 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829178",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta a la Secretaría de Relaciones Exteriores a solicitar un informe al gobierno de los Estados Unidos de América sobre las medidas, acciones e indicadores de rendición de cuentas para detectar, reducir y prevenir el tráfico ilícito de armas, municiones y artefactos explosivos en el Marco del Entendimiento Bicentenario sobre seguridad, salud pública y comunidades seguras.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-01-21",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4829178",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229275",
+      "nombre_fuente": "Sen. Emmanuel Reyes Carmona",
+      "person_id": "emmanuel-reyes-carmona",
+      "referencia_sil": "9229275",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829264",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores",
+    "Seguridad Nacional"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

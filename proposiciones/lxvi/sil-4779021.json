@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4779021",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025)",
+      "referencia": "2231",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la Jucopo de esta Soberanía a considerar la realización de una Sesión Solemne con motivo del inicio de las celebraciones del 200 Aniversario de la Constitución Federal de 1824.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2024-10-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 02-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-02",
+  "id": "sil-4779021",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228202",
+      "nombre_fuente": "Dip. Margarita Ester Zavala Gómez del Campo",
+      "person_id": "margarita-ester-zavala-gomez-del-campo",
+      "referencia_sil": "9228202",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4780290",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

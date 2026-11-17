@@ -1,0 +1,158 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5063176",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Transparencia y Anticorrupción",
+      "referencia": "2085591",
+      "texto": "1.-Diputados -Transparencia y Anticorrupción .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "2.-Diputados -Hacienda y Crédito Público .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación, de la Ley General de Contabilidad Gubernamental y de la Ley de Coordinación Fiscal, en materia de efectividad, cooperación interinstitucional, legalidad e innovación tecnológica de la fiscalización superior.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-05-15",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 15-MAY-2026"
+  },
+  "expediente_id": "sil-5071820",
+  "fecha_presentacion": "2026-04-09",
+  "id": "sil-5063176",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228756",
+      "nombre_fuente": "Dip. Irais Virginia Reyes De la Torre",
+      "person_id": "irais-virginia-reyes-de-la-torre",
+      "referencia_sil": "9228756",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228734",
+      "nombre_fuente": "Dip. Claudia Gabriela Salas Rodríguez",
+      "person_id": "claudia-gabriela-salas-rodriguez",
+      "referencia_sil": "9228734",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229282",
+      "nombre_fuente": "Dip. Carlos Eduardo Gutiérrez Mancilla",
+      "person_id": "carlos-eduardo-gutierrez-mancilla",
+      "referencia_sil": "9229282",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229200",
+      "nombre_fuente": "Dip. Arturo Yáñez Cuéllar",
+      "person_id": "arturo-yanez-cuellar",
+      "referencia_sil": "9229200",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229318",
+      "nombre_fuente": "Dip. Ricardo Sóstenes Mejía Berdeja",
+      "person_id": "ricardo-sostenes-mejia-berdeja",
+      "referencia_sil": "9229318",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228463",
+      "nombre_fuente": "Dip. Nora Yessica Merino Escamilla",
+      "person_id": "nora-yessica-merino-escamilla",
+      "referencia_sil": "9228463",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228453",
+      "nombre_fuente": "Dip. Claudia Rivera Vivanco",
+      "person_id": "claudia-rivera-vivanco",
+      "referencia_sil": "9228453",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228314",
+      "nombre_fuente": "Dip. Ana Elizabeth Ayala Leyva",
+      "person_id": "ana-elizabeth-ayala-leyva",
+      "referencia_sil": "9228314",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228541",
+      "nombre_fuente": "Dip. Merilyn Gómez Pozos",
+      "person_id": "merilyn-gomez-pozos",
+      "referencia_sil": "9228541",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229352",
+      "nombre_fuente": "Dip. Julio Javier Scherer Pareyón",
+      "person_id": "julio-javier-scherer-pareyon",
+      "referencia_sil": "9229352",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229364",
+      "nombre_fuente": "Dip. Ricardo Madrid Pérez",
+      "person_id": "ricardo-madrid-perez",
+      "referencia_sil": "9229364",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229424",
+      "nombre_fuente": "Dip. Celia Esther Fonseca Galicia",
+      "person_id": "celia-esther-fonseca-galicia",
+      "referencia_sil": "9229424",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229356",
+      "nombre_fuente": "Dip. Javier Octavio Herrera Borunda",
+      "person_id": "javier-octavio-herrera-borunda",
+      "referencia_sil": "9229356",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071820",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

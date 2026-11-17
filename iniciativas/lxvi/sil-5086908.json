@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5086908",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Marina",
+      "referencia": "2085556",
+      "texto": "1.-Diputados -Marina .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 8°, fracción VII y 19, fracción IX, inciso b) de la Ley de Vertimientos en las Zonas Marinas Mexicanas, en materia de actualización de facultades de la Secretaría de Marina como autoridad marítima nacional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5086908",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228858",
+      "nombre_fuente": "Dip. Humberto Coss y León Zúñiga",
+      "person_id": "humberto-coss-y-leon-zuniga",
+      "referencia_sil": "9228858",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5091833",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5169228",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades, a atender las condiciones laborales y de seguridad de las personas trabajadoras vinculadas con la construcción del tren México - Querétaro, así como a elaborar y publicar un informe sobre las condiciones laborales detectadas y las acciones implementadas para garantizar el respeto y la protección de sus derechos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-20",
+  "id": "sil-5169228",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228782",
+      "nombre_fuente": "Dip. Laura Irais Ballesteros Mancilla",
+      "person_id": "laura-irais-ballesteros-mancilla",
+      "referencia_sil": "9228782",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5174587",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

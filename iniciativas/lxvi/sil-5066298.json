@@ -1,0 +1,81 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5066298",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Vivienda",
+      "referencia": "2085592",
+      "texto": "2.-Diputados -Vivienda .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Transparencia y Anticorrupción",
+      "referencia": "2085591",
+      "texto": "3.-Diputados -Transparencia y Anticorrupción .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal de Protección al Consumidor, de la Ley de Vivienda y de la Ley Nacional para Eliminar Trámites Burocráticos, en materia de transparencia en las operaciones de compraventa inmobiliaria y fortalecimiento de la intermediación inmobiliaria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5066298",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228336",
+      "nombre_fuente": "Dip. Juan Carlos Valladares Eichelmann",
+      "person_id": "juan-carlos-valladares-eichelmann",
+      "referencia_sil": "9228336",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5072001",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Vivienda",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

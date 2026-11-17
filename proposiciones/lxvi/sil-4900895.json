@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4900895",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Coordinación Nacional de Protección Civil a establecer una coordinación prioritaria y permanente con los gobiernos municipales de las regiones que registran las temperaturas más altas del país, a fin de garantizar la aplicación inmediata de medidas de prevención, atención médica y protección comunitaria que salvaguarden la vida e integridad de las personas más expuestas a los efectos del calor extremo.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-21",
+  "id": "sil-4900895",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229174",
+      "nombre_fuente": "Sen. Miguel Ángel Yunes Márquez",
+      "person_id": "miguel-angel-yunes-marquez",
+      "referencia_sil": "9229174",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914564",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Protección Civil",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

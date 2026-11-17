@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5002284",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 50 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de enfermedades crónico-degenerativas.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-03-19",
+    "resultado": "retirado",
+    "texto": "Retirada el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-17",
+  "id": "sil-5002284",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229420",
+      "nombre_fuente": "Dip. María Graciela Gaitán Díaz",
+      "person_id": "maria-graciela-gaitan-diaz",
+      "referencia_sil": "9229420",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5003993",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

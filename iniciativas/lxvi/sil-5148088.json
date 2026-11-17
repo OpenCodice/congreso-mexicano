@@ -1,0 +1,186 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5148088",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "2.-Diputados -Educación.-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley General de Salud, de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y de la Ley General de Educación, en materia de promoción, sensibilización y fortalecimiento de políticas enfocadas en el desarrollo integral de la primera infancia.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-30",
+  "id": "sil-5148088",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228276",
+      "nombre_fuente": "Dip. Irma Yordana Garay Loredo",
+      "person_id": "irma-yordana-garay-loredo",
+      "referencia_sil": "9228276",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229340",
+      "nombre_fuente": "Dip. Ana Erika Santana González",
+      "person_id": "ana-erika-santana-gonzalez",
+      "referencia_sil": "9229340",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229100",
+      "nombre_fuente": "Dip. Elizabeth Martínez Álvarez",
+      "person_id": "elizabeth-martinez-alvarez",
+      "referencia_sil": "9229100",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228236",
+      "nombre_fuente": "Dip. Dulce María Corina Villegas Guarneros",
+      "person_id": "dulce-maria-corina-villegas-guarneros",
+      "referencia_sil": "9228236",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228445",
+      "nombre_fuente": "Dip. María de los Ángeles Ballesteros García",
+      "person_id": "maria-de-los-angeles-ballesteros-garcia",
+      "referencia_sil": "9228445",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229211",
+      "nombre_fuente": "Dip. Paloma Domínguez Ugarte",
+      "person_id": "paloma-dominguez-ugarte",
+      "referencia_sil": "9229211",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229292",
+      "nombre_fuente": "Dip. Leticia Barrera Maldonado",
+      "person_id": "leticia-barrera-maldonado",
+      "referencia_sil": "9229292",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229256",
+      "nombre_fuente": "Dip. Ariana del Rocío Rejón Lara",
+      "person_id": "ariana-del-rocio-rejon-lara",
+      "referencia_sil": "9229256",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229304",
+      "nombre_fuente": "Dip. Laura Ivonne Ruiz Moreno",
+      "person_id": "laura-ivonne-ruiz-moreno",
+      "referencia_sil": "9229304",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229266",
+      "nombre_fuente": "Dip. Xitlalic Ceja García",
+      "person_id": "xitlalic-ceja-garcia",
+      "referencia_sil": "9229266",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229234",
+      "nombre_fuente": "Dip. Verónica Martínez García",
+      "person_id": "veronica-martinez-garcia",
+      "referencia_sil": "9229234",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229244",
+      "nombre_fuente": "Dip. Lorena Piñón Rivera",
+      "person_id": "lorena-pinon-rivera",
+      "referencia_sil": "9229244",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229300",
+      "nombre_fuente": "Dip. Abigail Arredondo Ramos",
+      "person_id": "abigail-arredondo-ramos",
+      "referencia_sil": "9229300",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229226",
+      "nombre_fuente": "Dip. Marcela Guerra Castillo",
+      "person_id": "marcela-guerra-castillo",
+      "referencia_sil": "9229226",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229410",
+      "nombre_fuente": "Dip. Ofelia Socorro Jasso Nieto",
+      "person_id": "ofelia-socorro-jasso-nieto",
+      "referencia_sil": "9229410",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229202",
+      "nombre_fuente": "Dip. Graciela Ortiz González",
+      "person_id": "graciela-ortiz-gonzalez",
+      "referencia_sil": "9229202",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5150895",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

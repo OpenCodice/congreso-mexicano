@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003263",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cambio Climático y Sostenibilidad",
+      "referencia": "2085565",
+      "texto": "1.-Diputados -Cambio Climático y Sostenibilidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 90 Bis a la Ley General de Cambio Climático.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003263",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "nuevo-leon",
+      "nombre_fuente": "Congreso de Nuevo León",
+      "organization_id": "congreso-nuevo-leon",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5003750",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

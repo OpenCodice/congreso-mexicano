@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5007950",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados, LXVI (02/09/2025-31/08/2026)",
+      "referencia": "2240",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados, LXVI (02/09/2025-31/08/2026).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las dos Jucopo del Congreso de la Unión a designar a las personas legisladoras integrantes de la Comisión Bicameral de Seguridad Nacional, en cumplimiento a lo establecido en el artículo 56 de la Ley de Seguridad Nacional, y de la Comisión Bicameral para la Evaluación y Seguimiento de la Fuerza Armada Permanente en Tareas de Seguridad Pública, en cumplimiento a lo dispuesto en el artículo Quinto Transitorio del decreto publicado en el DOF el 18 de noviembre de 2022.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2026-02-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 02-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-02",
+  "id": "sil-5007950",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5009421",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Creación de comisiones o grupos de trabajo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

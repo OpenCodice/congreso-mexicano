@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4944732",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Agricultura y Desarrollo Rural, a la Secretaría de Salud, y a la Secretaría de Medio Ambiente y Recursos Naturales para que, en coordinación con los gobiernos de las entidades federativas y los organismos auxiliares de sanidad animal, fortalezcan e implementen lineamientos para el manejo, control y disposición final de objetos punzocortantes y residuos biológico-infecciosos generados en campañas zoosanitarias, conforme a la legislación y normas aplicables.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-11-12",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 12-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-08",
+  "id": "sil-4944732",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229397",
+      "nombre_fuente": "Sen. Maki Esther Ortiz Domínguez",
+      "person_id": "maki-esther-ortiz-dominguez",
+      "referencia_sil": "9229397",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4975455",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

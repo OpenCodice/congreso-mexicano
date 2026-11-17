@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5013688",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ganadería",
+      "referencia": "2085575",
+      "texto": "1.-Diputados -Ganadería .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal, a través de la Sader, del SENASICA, de la SRE, de la Semarnat, de la Segob y de la SHCP, a instrumentar una negociación bilateral formal para reactivar o establecer un mecanismo binacional, tomando como referencia el modelo de la Comisión México-Americana para la Erradicación del Gusano Barrenador del Ganado (COMEXA).",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-11",
+  "id": "sil-5013688",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229046",
+      "nombre_fuente": "Dip. Luis Agustín Rodríguez Torres",
+      "person_id": "luis-agustin-rodriguez-torres",
+      "referencia_sil": "9229046",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5014540",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

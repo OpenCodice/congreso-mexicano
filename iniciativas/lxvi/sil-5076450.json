@@ -1,0 +1,102 @@
+{
+  "camara_origen": "senado",
+  "clave": "5076450",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Derechos Digitales",
+      "referencia": "2085506",
+      "texto": "1.-Senado -Derechos Digitales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un segundo párrafo al artículo 101 Bis 3; se adiciona un artículo 101 Bis 4; ambos de la Ley General de los Derechos de Niñas, Niños y Adolescentes; se reforma la fracción L al artículo 3; se adiciona una fracción LXX al artículo 3; se adiciona un nuevo Capítulo I Bis De los Derechos de los Usuarios Menores de Edad que contiene los artículos 191 Bis, 191 Ter, 191 Quáter y 191 Quinquies de la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-22",
+  "id": "sil-5076450",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229418",
+      "nombre_fuente": "Sen. Yeidckol Polevnsky Gurwitz",
+      "person_id": "yeidckol-polevnsky-gurwitz",
+      "referencia_sil": "9229418",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090457",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a.html.gz",
+      "consultado": "2026-11-17T07:57:42Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "23/04/2026",
+        "FECHA_INIC": "16/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

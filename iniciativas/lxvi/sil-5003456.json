@@ -1,0 +1,81 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003456",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085532",
+      "texto": "2.-Senado -Trabajo y Previsión Social.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de 40 horas laborales.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-03-03",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 03-MAR-2026"
+  },
+  "expediente_id": "sil-5012470",
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003456",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228960",
+      "nombre_fuente": "Sen. Alma Carolina Viggiano Austria",
+      "person_id": "alma-carolina-viggiano-austria",
+      "referencia_sil": "9228960",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5012470",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Laboral",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

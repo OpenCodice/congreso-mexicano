@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5162115",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta, a la SEMARNAT, a la SHCP y a PEMEX a implementar de manera urgente acciones de infraestructura, normativas y fiscales para erradicar la quema de gas en antorcha (flaring) en plataformas marinas y redirigir dicho recurso al abastecimiento de las plantas de ciclo combinado de la comisión federal de electricidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-13",
+  "id": "sil-5162115",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228768",
+      "nombre_fuente": "Dip. Ivonne Aracely Ortega Pacheco",
+      "person_id": "ivonne-aracely-ortega-pacheco",
+      "referencia_sil": "9228768",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5165970",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía",
+    "Hacienda Pública",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

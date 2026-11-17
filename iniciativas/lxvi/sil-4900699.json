@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4900699",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 139 de la Ley de la Industria Eléctrica.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-05-30",
+    "resultado": "retirado",
+    "texto": "Retirada el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-21",
+  "id": "sil-4900699",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228133",
+      "nombre_fuente": "Dip. José Armando Fernández Samaniego",
+      "person_id": "jose-armando-fernandez-samaniego",
+      "referencia_sil": "9228133",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4902594",
+  "sources": [
+    {
+      "archivo": "fuentes/7e/7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab.html.gz",
+      "consultado": "2026-11-17T07:55:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Iniciativa"
+}

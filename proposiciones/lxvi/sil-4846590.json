@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4846590",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Pesca y Acuacultura",
+      "referencia": "2085500",
+      "texto": "1.-Senado -Pesca y Acuacultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la titular del Poder Ejecutivo Federal a implementar estrategias y acciones necesarias para detener el ingreso del camarón ecuatoriano en nuestro país.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-03-25",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 25-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-04",
+  "id": "sil-4846590",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229128",
+      "nombre_fuente": "Sen. Paloma Sánchez Ramos",
+      "person_id": "paloma-sanchez-ramos",
+      "referencia_sil": "9229128",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4864246",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

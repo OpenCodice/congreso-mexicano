@@ -1,0 +1,62 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4903148",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que se solicita a la titular del Ejecutivo Federal la destitución del Director General del Centro Nacional de Control del Gas Natural, Cuitláhuac García Jiménez, para enfrentar el proceso derivado de las denuncias en su contra interpuestas por la gobernadora de Veracruz, Rocío Nahle García por el presunto desfalco de 1,600 millones de pesos, a través de contratos otorgados a empresas fantasma.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-04",
+  "id": "sil-4903148",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PAN",
+      "organization_id": "partido-pan",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4905490",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Transparencia y Rendición de Cuentas",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

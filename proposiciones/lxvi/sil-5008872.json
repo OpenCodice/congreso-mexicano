@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "5008872",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Coordinación Nacional de Protección Civil, a la Secretaría de Bienestar y al gobierno del estado de Guerrero a realizar un censo real, completo y transparente, así como a garantizar la entrega inmediata y sin discrecionalidad de los apoyos a las personas damnificadas por el sismo ocurrido en el municipio de San Marcos, Guerrero.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-03",
+  "id": "sil-5008872",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228946",
+      "nombre_fuente": "Sen. Manuel Añorve Baños",
+      "person_id": "manuel-anorve-banos",
+      "referencia_sil": "9228946",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

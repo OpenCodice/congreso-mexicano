@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "5194783",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Deporte",
+      "referencia": "2085501",
+      "texto": "1.-Senado -Deporte .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 88 de la Ley General de Cultura Física y Deporte.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-11",
+  "id": "sil-5194783",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228714",
+      "nombre_fuente": "Sen. Juan Antonio Martín del Campo Martín del Campo",
+      "person_id": "juan-antonio-martin-del-campo-martin-del-campo",
+      "referencia_sil": "9228714",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2.html.gz",
+      "consultado": "2026-11-17T07:59:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

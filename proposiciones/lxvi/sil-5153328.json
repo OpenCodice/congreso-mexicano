@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5153328",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Energía",
+      "referencia": "2085519",
+      "texto": "1.-Senado -Energía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las autoridades competentes a implementar medidas urgentes para garantizar la continuidad, confiabilidad y seguridad del suministro eléctrico en Baja California Sur, así como a fortalecer y dar mantenimiento a la infraestructura eléctrica de la entidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-06",
+  "id": "sil-5153328",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228748",
+      "nombre_fuente": "Sen. Susana del Carmen Zatarain García",
+      "person_id": "susana-del-carmen-zatarain-garcia",
+      "referencia_sil": "9228748",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5190682",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4953356",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Coordinadora Nacional de Protección Civil, al Director General del Centro Nacional de Prevención de Desastres (CENAPRED) y al Director General de la Comisión Nacional del Agua (CONAGUA), a comparecer ante esta Soberanía, a fin de informar sobre las afectaciones ocasionadas por el huracán Priscilla y la tormenta tropical Raymond, que impactaron a los estados de Baja California Sur, Sinaloa, Nayarit, Veracruz, Puebla, Hidalgo, San Luis Potosí y Querétaro; así como sobre las acciones emprendidas para atender a la población afectada.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-11-25",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 25-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-21",
+  "id": "sil-4953356",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5009444",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Medio Ambiente",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

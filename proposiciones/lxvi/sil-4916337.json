@@ -1,0 +1,58 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4916337",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta al senador Adán Augusto López Hernández, coordinador del Grupo Parlamentario de Morena y presidente de la Junta de Coordinación Política del Senado de la República, a que solicite licencia inmediata a su cargo y se separe de toda función parlamentaria, a fin de ponerse a disposición de las autoridades competentes y enfrentar, con plena transparencia y responsabilidad, las denuncias y señalamientos en su contra ante la Fiscalía General de la República.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-06",
+    "resultado": "desechado",
+    "texto": "Desechado el 06-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-06",
+  "id": "sil-4916337",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4916609",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

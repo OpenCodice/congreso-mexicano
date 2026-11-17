@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911080",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Comisión Nacional de Acuacultura y Pesca, a la Secretaría de Marina y a la Procuraduría Federal de Protección al Ambiente, para realizar las inspecciones para preservar y proteger la vida silvestre, mamíferos marinos y especies acuáticas en riesgo en los mares y océanos de México, con énfasis en las costas de Baja California Sur.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-13",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-03",
+  "id": "sil-4911080",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229397",
+      "nombre_fuente": "Sen. Maki Esther Ortiz Domínguez",
+      "person_id": "maki-esther-ortiz-dominguez",
+      "referencia_sil": "9229397",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917598",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Seguridad Nacional",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4895327",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno del estado de Chihuahua a cumplir con su obligación constitucional establecida en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y suscriba, a la mayor brevedad posible, el Convenio para la Universalización de la Pensión para el Bienestar de las Personas con Discapacidad Permanente, a fin de garantizar que las personas con discapacidad, de entre 30 y 64 años, tengan acceso a este apoyo social indispensable en la entidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4895327",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228898",
+      "nombre_fuente": "Sen. Andrea Chávez Treviño",
+      "person_id": "andrea-chavez-trevino",
+      "referencia_sil": "9228898",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898858",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

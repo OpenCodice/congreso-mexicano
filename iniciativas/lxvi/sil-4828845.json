@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828845",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Protección Civil y Prevención de Desastres",
+      "referencia": "2085581",
+      "texto": "1.-Diputados -Protección Civil y Prevención de Desastres.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Defensa Nacional",
+      "referencia": "2085546",
+      "texto": "2.-Diputados -Defensa Nacional .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de la Ley General de Protección Civil y de la Ley Federal de Armas de Fuego y Explosivos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4828845",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229344",
+      "nombre_fuente": "Dip. Mayra Espino Suárez",
+      "person_id": "mayra-espino-suarez",
+      "referencia_sil": "9229344",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829451",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional",
+    "Protección Civil"
+  ],
+  "tipo": "Iniciativa"
+}

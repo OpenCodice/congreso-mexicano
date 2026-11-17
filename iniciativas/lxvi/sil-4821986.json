@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4821986",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 6° y reforma el artículo 139 de la Ley de la Industria Eléctrica.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-11",
+  "id": "sil-4821986",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228284",
+      "nombre_fuente": "Dip. Joaquín Zebadúa Alva",
+      "person_id": "joaquin-zebadua-alva",
+      "referencia_sil": "9228284",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4826420",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Iniciativa"
+}

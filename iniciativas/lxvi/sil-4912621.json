@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4912621",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085512",
+      "texto": "1.-Senado -Reglamentos y Prácticas Parlamentarias.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Para inscribir con letras de oro en el Patio del Federalismo del Senado de la República la leyenda -Sinaloa, El Granero de México-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-16",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 16-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-16",
+  "id": "sil-4912621",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229128",
+      "nombre_fuente": "Sen. Paloma Sánchez Ramos",
+      "person_id": "paloma-sanchez-ramos",
+      "referencia_sil": "9229128",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914634",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

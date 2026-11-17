@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829062",
+  "comisiones": [
+    {
+      "camara": "Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085600",
+      "texto": "1.-Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Gobierno Federal, a través de la STPS, a implementar acciones que solucionen el problema del aumento creciente del desempleo de las trabajadoras y los trabajadores que están afiliados al IMSS.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4829062",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229151",
+      "nombre_fuente": "Dip. Miguel Ángel Guevara Rodríguez",
+      "person_id": "miguel-angel-guevara-rodriguez",
+      "referencia_sil": "9229151",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829524",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

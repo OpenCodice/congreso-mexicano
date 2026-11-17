@@ -1,0 +1,80 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5115624",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Bienestar",
+      "referencia": "2085545",
+      "texto": "1.-Diputados -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "2.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley General para la Prevención y Erradicación de la Pobreza de Tiempo; se reforman diversas disposiciones de la Ley Federal del Trabajo, de la Ley General de Desarrollo Social, de la Ley General de Movilidad y Seguridad Vial y de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-12",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 12-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-12",
+  "id": "sil-5115624",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228435",
+      "nombre_fuente": "Dip. José Braña Mojica",
+      "person_id": "jose-brana-mojica",
+      "referencia_sil": "9228435",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5119503",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
+      "consultado": "2026-11-17T07:58:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

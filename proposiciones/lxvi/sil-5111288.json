@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5111288",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la persona titular de la Secretaría de Salud del estado de Nuevo León a remitir un informe pormenorizado sobre el padrón, las visitas de verificación sanitaria y el cumplimiento de la NOM-028-SSA2-2009 en los Centros de Rehabilitación de la entidad, así como las acciones coordinadas ante los hechos de violencia registrados en 2026, a fin de erradicar el enfoque discriminatorio e indolente en la atención a las adicciones.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-22",
+  "id": "sil-5111288",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229059",
+      "nombre_fuente": "Sen. Carlos Humberto Suárez Flores",
+      "person_id": "carlos-humberto-suarez-flores",
+      "referencia_sil": "9229059",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115236",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

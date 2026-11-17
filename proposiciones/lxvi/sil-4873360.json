@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4873360",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los gobiernos de las entidades federativas y de la Ciudad de México a diseñar e instrumentar acciones de política pública dirigidas a combatir y erradicar la violencia familiar; asimismo, a los congresos estatales y al de la Ciudad de México a incorporar o reforzar las disposiciones necesarias en sus marcos legales que permitan a las autoridades actuar eficazmente en contra de los delitos de abuso de menores de edad y el feminicidio.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-08",
+  "id": "sil-4873360",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228355",
+      "nombre_fuente": "Dip. Ma. Lorena García Jimeno Alcocer",
+      "person_id": "ma-lorena-garcia-jimeno-alcocer",
+      "referencia_sil": "9228355",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4876063",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

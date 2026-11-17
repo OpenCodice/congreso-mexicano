@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5186056",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Consejo Técnico y a la Dirección General del IMSS a suspender la aplicación de las restricciones impuestas a la Modalidad 40 mediante el acuerdo ACDO.AS2.HCT.101026/302.P.DG, respetar los derechos que la Ley del Seguro Social reconoce a las personas trabajadoras próximas a su retiro y protegerlas frente a los esquemas de fraude en materia de pensiones.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 03-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5186056",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229256",
+      "nombre_fuente": "Dip. Ariana del Rocío Rejón Lara",
+      "person_id": "ariana-del-rocio-rejon-lara",
+      "referencia_sil": "9229256",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229242",
+      "nombre_fuente": "Dip. Fuensanta Guadalupe Guerrero Esquivel",
+      "person_id": "fuensanta-guadalupe-guerrero-esquivel",
+      "referencia_sil": "9229242",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5190548",
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

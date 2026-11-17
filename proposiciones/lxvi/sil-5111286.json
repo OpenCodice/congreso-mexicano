@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5111286",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Mtra. Emilia Esther Calleja Alor, directora general de la Comisión Federal de Electricidad, para que comparezca ante esta Comisión Permanente para que explique por qué se están generando los más de 731 apagones en Querétaro y para que exponga un plan de atención para resolver esta crisis en la entidad y en todo el país.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-19",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 19-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-22",
+  "id": "sil-5111286",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229078",
+      "nombre_fuente": "Sen. Agustín Dorantes Lámbarri",
+      "person_id": "agustin-dorantes-lambarri",
+      "referencia_sil": "9229078",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118666",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

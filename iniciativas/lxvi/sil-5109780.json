@@ -1,0 +1,81 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5109780",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "2.-Diputados -Medio Ambiente y Recursos Naturales .-Para opinión",
+      "turno": "Para opinión"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley de los Derechos de las Personas Usuarias de Perros Guía, de Asistencia Médica y otros Animales de Servicio.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-15",
+  "id": "sil-5109780",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228212",
+      "nombre_fuente": "Dip. Federico Döring Casar",
+      "person_id": "federico-doring-casar",
+      "referencia_sil": "9228212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5113686",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
+      "consultado": "2026-11-17T07:58:26Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

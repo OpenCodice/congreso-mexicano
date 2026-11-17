@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4844800",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Sader a extender el registro al Programa Especial de Energía para el Campo, en el ámbito de la energía eléctrica de uso agrícola (PEUA), hasta el 31 de marzo de 2025.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-26",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 26-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-26",
+  "id": "sil-4844800",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228330",
+      "nombre_fuente": "Dip. Oscar Bautista Villegas",
+      "person_id": "oscar-bautista-villegas",
+      "referencia_sil": "9228330",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4845797",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

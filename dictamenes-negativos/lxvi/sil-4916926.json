@@ -1,0 +1,56 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4916926",
+  "comisiones": [],
+  "denominacion": "Por la que desecha por haber quedado sin materia relativa al cierre de museos.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-08-13",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-13",
+  "id": "sil-4916926",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Comisión Permanente: Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025)",
+      "referencias_comision": [
+        "2085605"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4917609",
+  "sources": [
+    {
+      "archivo": "fuentes/1f/1f7a68a6bf2354a45e5b442460b63ce7fb1ab236550f9406c17f1a053d679dc8.html.gz",
+      "consultado": "2026-11-17T08:08:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1f7a68a6bf2354a45e5b442460b63ce7fb1ab236550f9406c17f1a053d679dc8",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

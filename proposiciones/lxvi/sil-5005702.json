@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005702",
+  "comisiones": [
+    {
+      "referencia": "2085613",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita respetuosamente a la SE, en coordinación con la Secretaría de Economía e Innovación del gobierno de Baja California, fortalezcan acciones de fomento a la productividad, competitividad y permanencia de las micro, pequeñas y medianas empresas en la entidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005702",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228804",
+      "nombre_fuente": "Dip. Fernando Jorge Castro Trenti",
+      "person_id": "fernando-jorge-castro-trenti",
+      "referencia_sil": "9228804",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5006392",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

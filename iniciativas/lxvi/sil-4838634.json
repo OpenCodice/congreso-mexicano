@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4838634",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Desarrollo Rural",
+      "referencia": "2085513",
+      "texto": "1.-Senado -Desarrollo Rural .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 178 y 183 de la Ley de Desarrollo Rural Sustentable.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 29-SEP-2026"
+  },
+  "expediente_id": "sil-5051283",
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4838634",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229224",
+      "nombre_fuente": "Sen. Pablo Guillermo Angulo Briceño",
+      "person_id": "pablo-guillermo-angulo-briceno",
+      "referencia_sil": "9229224",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5051283",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

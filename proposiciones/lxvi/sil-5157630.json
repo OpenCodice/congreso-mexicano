@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5157630",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a establecer un mecanismo nacional para prevenir y detectar el ingreso de armas blancas y de fuego a las escuelas públicas y privadas del país, y diseñe e implemente campañas nacionales de concientización dirigidas a madres y padres de familia, niñas, niños y adolescentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-07",
+  "id": "sil-5157630",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229242",
+      "nombre_fuente": "Dip. Fuensanta Guadalupe Guerrero Esquivel",
+      "person_id": "fuensanta-guadalupe-guerrero-esquivel",
+      "referencia_sil": "9229242",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5159055",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

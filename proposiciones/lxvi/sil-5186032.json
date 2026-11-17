@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5186032",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "1.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los titulares de la SSPC, de la SSC y de la Dirección de Seguridad Ciudadana y Movilidad de la Alcaldía Magdalena Contreras, a fortalecer acciones de prevención y persecución del delito de extorsión vial conocida como -montachoques- que se lleva a cabo diariamente en diversas vialidades de dicha Alcaldía, con la finalidad de prevenir la comisión de dicho ilícito y proteger la integridad y patrimonio de las personas que transitan diariamente por dicha zona.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 03-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5186032",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229151",
+      "nombre_fuente": "Dip. Miguel Ángel Guevara Rodríguez",
+      "person_id": "miguel-angel-guevara-rodriguez",
+      "referencia_sil": "9229151",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5190535",
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

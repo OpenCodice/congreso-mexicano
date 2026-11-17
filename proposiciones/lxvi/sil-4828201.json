@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828201",
+  "comisiones": [
+    {
+      "camara": "Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085600",
+      "texto": "1.-Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que se exhorta al titular del Gobierno de Guanajuato y a la Secretaría de Seguridad Pública y a la Fiscalía General, ambas de dicha entidad, a implementar acciones tendientes a erradicar los homicidios de niñas, niños y adolescentes guanajuatenses y se imparta justicia pronta y expedita a las familias de las víctimas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-15",
+  "id": "sil-4828201",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228176",
+      "nombre_fuente": "Dip. María de los Dolores Padierna Luna",
+      "person_id": "maria-de-los-dolores-padierna-luna",
+      "referencia_sil": "9228176",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4828692",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

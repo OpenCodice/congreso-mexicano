@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4898349",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Gobernación para que destine tiempos oficiales en radio y televisión como lo son los medios públicos de Congreso de la Unión como Canal del Congreso y del Gobierno Federal como Canal 11 TV, Canal 22, Televisión y Radio Educación y el Sistema Público de Radiodifusión del Estado Mexicano, para realizar jornadas de difusión y divulgación acerca de la elección del próximo 1° de junio, donde se elegirán ministros, magistrados y jueces del Poder Judicial, con la finalidad de que la ciudadanía conozca sobre dicho proceso, se informe y logre ejercer su derecho al voto.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-08-20",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-07",
+  "id": "sil-4898349",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919090",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Electoral",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

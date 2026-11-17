@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4933985",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Cámara de Diputados del Honorable Congreso de la Unión para que, en el marco de la discusión del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026, contemple y asigne recursos económicos extraordinarios destinados al fortalecimiento de la ganadería y la pesca en el estado de Guerrero.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-24",
+  "id": "sil-4933985",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228946",
+      "nombre_fuente": "Sen. Manuel Añorve Baños",
+      "person_id": "manuel-anorve-banos",
+      "referencia_sil": "9228946",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4934973",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

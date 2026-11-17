@@ -1,0 +1,116 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5087995",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "2.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Salud y del Código Penal Federal, en materia del derecho a la muerte digna.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5087995",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228730",
+      "nombre_fuente": "Dip. Patricia Mercado Castro",
+      "person_id": "patricia-mercado-castro",
+      "referencia_sil": "9228730",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228710",
+      "nombre_fuente": "Dip. Pedro Mario Zenteno Santaella",
+      "person_id": "pedro-mario-zenteno-santaella",
+      "referencia_sil": "9228710",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228190",
+      "nombre_fuente": "Dip. Juan Guillermo Rendón Gómez",
+      "person_id": "juan-guillermo-rendon-gomez",
+      "referencia_sil": "9228190",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228660",
+      "nombre_fuente": "Dip. Armando Corona Arvizu",
+      "person_id": "armando-corona-arvizu",
+      "referencia_sil": "9228660",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228171",
+      "nombre_fuente": "Dip. Jesús Emiliano Álvarez López",
+      "person_id": "jesus-emiliano-alvarez-lopez",
+      "referencia_sil": "9228171",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228970",
+      "nombre_fuente": "Dip. Carlos Alonso Castillo Pérez",
+      "person_id": "carlos-alonso-castillo-perez",
+      "referencia_sil": "9228970",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228216",
+      "nombre_fuente": "Dip. Estela Carina Piceno Navarro",
+      "person_id": "estela-carina-piceno-navarro",
+      "referencia_sil": "9228216",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5092359",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

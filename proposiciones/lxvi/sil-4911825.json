@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911825",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a los Poderes Ejecutivos de Baja California, Baja California Sur, Campeche, Chiapas, Colima, Ciudad de México, Durango, Guanajuato, Hidalgo, Jalisco, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, Sinaloa y Veracruz, a efecto de que evalúen la posible eliminación del requisito de apostilla en las actas de nacimiento nacionales, a fin de garantizar el derecho a la identidad y reducir la carga burocrática para las mexicanas y mexicanos migrantes en retorno.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-09",
+  "id": "sil-4911825",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229290",
+      "nombre_fuente": "Sen. Karina Isabel Ruiz Ruiz",
+      "person_id": "karina-isabel-ruiz-ruiz",
+      "referencia_sil": "9229290",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914586",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Migración",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

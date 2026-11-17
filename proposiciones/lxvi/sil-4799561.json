@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4799561",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Cultura, en coordinación con el Instituto Nacional del Derecho de Autor a que implementen las acciones correspondientes de protección jurídica y administración del patrimonio cultural del pueblo Mixe, ante la posible apropiación indebida en la que incurre la C. Paola Rojas Hinojosa, con su producto mezcal artesanal -Mixes-.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-02-18",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 18-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-06",
+  "id": "sil-4799561",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229064",
+      "nombre_fuente": "Sen. Antonino Morales Toledo",
+      "person_id": "antonino-morales-toledo",
+      "referencia_sil": "9229064",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4838384",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

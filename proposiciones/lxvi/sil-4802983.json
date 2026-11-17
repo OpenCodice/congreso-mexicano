@@ -1,0 +1,58 @@
+{
+  "camara_origen": "senado",
+  "clave": "4802983",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta de a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, para que dentro de sus atribuciones se integre el -Proyecto de Reencarpetamiento y Reconstrucción de Carretera en los municipios de Valparaíso, Zacatecas; Huejuquilla el Alto, Jalisco y Mezquital, Durango-, en el próximo Presupuesto de Egresos de la Federación 2025.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-13",
+  "id": "sil-4802983",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228964",
+      "nombre_fuente": "Sen. Carlos Lomelí Bolaños",
+      "person_id": "carlos-lomeli-bolanos",
+      "referencia_sil": "9228964",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4807466",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,56 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4913063",
+  "comisiones": [],
+  "denominacion": "Por el que se desechan diversas proposiciones relativas al consumo durante el Día de la Madre, telecomunicaciones y emergencias por inundaciones en la Ciudad de México y el estado de México, por haber quedado sin materia.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-07-16",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 16-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-16",
+  "id": "sil-4913063",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Comisión Permanente: Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025)",
+      "referencias_comision": [
+        "2085606"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4913273",
+  "sources": [
+    {
+      "archivo": "fuentes/ce/ce8864f636ee96cc163ea9d1a9c06c18bc275aa3e751a7ec4de43a4ed4402444.html.gz",
+      "consultado": "2026-11-17T08:08:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ce8864f636ee96cc163ea9d1a9c06c18bc275aa3e751a7ec4de43a4ed4402444",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

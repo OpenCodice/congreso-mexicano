@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5177506",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "1.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita respetuosamente al gobierno del estado de Puebla, para que por medio de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, así como a la Secretaría de Infraestructura, realicen la revisión y diagnóstico para conocer el estado que guardan las instalaciones del módulo de información del Rio Atoyac, y con base en ello, diseñen un programa de rehabilitación para su óptimo funcionamiento y así contar con una herramienta de alto valor educativo que coadyuve a la socialización y concientización respecto a la importancia del aprovechamiento y uso responsable del agua.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5177506",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228874",
+      "nombre_fuente": "Dip. Juan Carlos Natale López",
+      "person_id": "juan-carlos-natale-lopez",
+      "referencia_sil": "9228874",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5182957",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

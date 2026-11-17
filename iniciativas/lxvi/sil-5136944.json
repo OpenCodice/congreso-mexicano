@@ -1,0 +1,72 @@
+{
+  "camara_origen": "senado",
+  "clave": "5136944",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085532",
+      "texto": "1.-Senado -Trabajo y Previsión Social.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones del artículo 74 de la Ley Federal del Trabajo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-22",
+  "id": "sil-5136944",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "chihuahua",
+      "nombre_fuente": "Congreso de Chihuahua",
+      "organization_id": "congreso-chihuahua",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5137074",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

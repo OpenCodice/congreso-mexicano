@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4980803",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Comisión Nacional de Seguros y Fianzas y a la Comisión Nacional para la Protección y Defensa de los usuarios de Servicios Financieros para que refuercen la supervisión y verificación del pago oportuno, íntegro y transparente de las obligaciones de indemnización por parte de las instituciones aseguradoras a las personas titulares de pólizas afectadas por las recientes lluvias e inundaciones en Veracruz, Puebla, Hidalgo, San Luis Potosí y Querétaro.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-25",
+  "id": "sil-4980803",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229174",
+      "nombre_fuente": "Sen. Miguel Ángel Yunes Márquez",
+      "person_id": "miguel-angel-yunes-marquez",
+      "referencia_sil": "9229174",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4995342",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Sistema Financiero"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

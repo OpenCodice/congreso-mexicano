@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5107240",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al titular de la Secretaría de Relaciones Exteriores; a la titular de la Secretaría de Gobernación, y al titular de la Secretaría de Hacienda y Crédito Público, para que en usos de las facultades que les confieren las leyes mexicanas, exploren la posibilidad de atender los efectos negativos que pueda tener la Orden Ejecutiva del Presidente de los Estados Unidos América, Donald Trump, que firmó el 19 de mayo de 2026 en materia de remesas, y que puede afectar sensiblemente a miles de migrantes mexicanos y la economía de nuestro país.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-01",
+  "id": "sil-5107240",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228744",
+      "nombre_fuente": "Sen. Homero Davis Castro",
+      "person_id": "homero-davis-castro",
+      "referencia_sil": "9228744",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5109486",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Relaciones exteriores",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

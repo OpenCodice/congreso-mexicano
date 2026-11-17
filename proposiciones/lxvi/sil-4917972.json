@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4917972",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Hacienda y Crédito Público, a la Secretaría de Cultura del Gobierno de México, al Instituto Mexicano de Cinematografía y a las instancias que deban participar para que de manera conjunta establezcan un Museo de Historia del Cine Mexicano.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-09-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-20",
+  "id": "sil-4917972",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229270",
+      "nombre_fuente": "Sen. Laura Itzel Castillo Juárez",
+      "person_id": "laura-itzel-castillo-juarez",
+      "referencia_sil": "9229270",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4932508",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,59 @@
+{
+  "camara_origen": "senado",
+  "clave": "4806694",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta a la Secretaría de Infraestructura, Comunicaciones y Transportes y a la Secretaría de Hacienda y Crédito Público para que, de manera urgente, destinen en este ejercicio fiscal 2024, recursos humanos, materiales y presupuestales para reparar y dar mantenimiento a las carreteras federales que cruzan el estado de Querétaro, especialmente a la carretera federal 120, San Juan del Río - Xilitla, así como para que en el Proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2025, se contemplen recursos presupuestales para un programa de mantenimiento y rehabilitación integral de las carreteras federales en el estado de Querétaro.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-11-21",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 21-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-21",
+  "id": "sil-4806694",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229078",
+      "nombre_fuente": "Sen. Agustín Dorantes Lámbarri",
+      "person_id": "agustin-dorantes-lambarri",
+      "referencia_sil": "9229078",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4807440",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

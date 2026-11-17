@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "4928343",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud para que, en coordinación con el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, fortalezcan las campañas de información, diagnóstico oportuno y atención del linfoma.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-09",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 09-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-18",
+  "id": "sil-4928343",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PVEM",
+      "organization_id": "partido-pvem",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "5010223",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

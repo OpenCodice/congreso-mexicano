@@ -1,0 +1,82 @@
+{
+  "camara_origen": "senado",
+  "clave": "4856121",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "2.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el segundo y tercer párrafo del artículo 343 Bis; el primer párrafo del artículo 343 Quáter y adiciona los artículos 343 Bis 2 y 343 Bis 3, del Código Penal Federal; adiciona un último párrafo al artículo 30; adiciona el artículo 74 Bis y un último párrafo al artículo 115 de la Ley General de Educación; adiciona el artículo 49 Bis a la Ley General de los Derechos de las Niñas, Niños y Adolescentes; adiciona los artículos 98 bis y el capítulo VIII con el artículo 127 Quáter a la Ley General del Sistema Nacional de Seguridad Pública; reforma el artículo 444 Bis y adiciona el artículo 323 Quintus, del Código Civil Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-19",
+  "id": "sil-4856121",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229004",
+      "nombre_fuente": "Sen. Raúl Morón Orozco",
+      "person_id": "raul-moron-orozco",
+      "referencia_sil": "9229004",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4858880",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115.html.gz",
+      "consultado": "2026-11-17T07:54:29Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

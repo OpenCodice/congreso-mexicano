@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4916017",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Presidenta de México, Claudia Sheinbaum Pardo, a fin de que instruya a la Secretaría de Bienestar para que, en coordinación con la Secretaría de Hacienda y Crédito Público, concreten una estrategia fiscal dentro del paquete económico para el Ejercicio Fiscal 2026, que permita destinar mayores apoyos económicos a: madres solteras sin empleo; el fortalecimiento de centros de atención para mujeres víctimas de violencia; así como la ampliación de la oferta de escuelas primarias de tiempo completo y de estancias infantiles.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-06",
+  "id": "sil-4916017",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229054",
+      "nombre_fuente": "Dip. Miguel Ángel Monraz Ibarra",
+      "person_id": "miguel-angel-monraz-ibarra",
+      "referencia_sil": "9229054",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917683",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

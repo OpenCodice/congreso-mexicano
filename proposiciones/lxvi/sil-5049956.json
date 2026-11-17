@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5049956",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085560",
+      "texto": "1.-Diputados -Relaciones Exteriores .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta SRE y a la SSPC a establecer mecanismos de colaboración obligatoria con plataformas digitales que operan en México, a fin de garantizar el cumplimiento inmediato de órdenes de protección en materia de violencia digital, eliminar obstáculos derivados de la asistencia jurídica internacional y establecer sanciones a aquellas empresas que incumplan con la protección de la integridad de las personas usuarias.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-24",
+  "id": "sil-5049956",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229348",
+      "nombre_fuente": "Dip. Ma. Leonor Noyola Cervantes",
+      "person_id": "ma-leonor-noyola-cervantes",
+      "referencia_sil": "9229348",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055333",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

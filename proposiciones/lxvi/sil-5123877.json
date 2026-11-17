@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5123877",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al Ayuntamiento de San José Iturbide, Guanajuato, a priorizar y ejecutar las acciones necesarias para atender de manera inmediata la problemática de baches y socavones en las vialidades del municipio.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-08",
+  "id": "sil-5123877",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228561",
+      "nombre_fuente": "Dip. Alma Rosa De la Vega Vargas",
+      "person_id": "alma-rosa-de-la-vega-vargas",
+      "referencia_sil": "9228561",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5128718",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

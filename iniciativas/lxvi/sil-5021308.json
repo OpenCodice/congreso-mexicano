@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5021308",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Vivienda",
+      "referencia": "2085592",
+      "texto": "1.-Diputados -Vivienda .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 2° y adiciona la fracción II Bis al artículo 4° de la Ley de Vivienda.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-04-29",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 29-ABR-2026"
+  },
+  "expediente_id": "sil-5051177",
+  "fecha_presentacion": "2026-02-24",
+  "id": "sil-5021308",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228469",
+      "nombre_fuente": "Dip. María del Rosario Orozco Caballero",
+      "person_id": "maria-del-rosario-orozco-caballero",
+      "referencia_sil": "9228469",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5051177",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Vivienda"
+  ],
+  "tipo": "Iniciativa"
+}

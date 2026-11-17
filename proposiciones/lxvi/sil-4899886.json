@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4899886",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud, a la Secretaría de Hacienda y Crédito Público, a la Secretaría de Educación Pública y a la Secretaría de Gobernación para que, con la participación del Poder Legislativo, así como de organismos internacionales y organizaciones de la sociedad civil, se instale una Comisión de Trabajo interinstitucional para la revisión integral de la Estrategia Nacional de Vacunación, con el objetivo de revisar la restitución de los recursos presupuestales en el sector salud que permitan garantizar una cobertura nacional completa de vacunación.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-14",
+  "id": "sil-4899886",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4916094",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Salud",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

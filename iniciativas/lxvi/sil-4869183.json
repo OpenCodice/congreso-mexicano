@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4869183",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Derechos Digitales",
+      "referencia": "2085506",
+      "texto": "1.-Senado -Derechos Digitales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que declara el 18 de mayo de cada año como el -Día Nacional del Gobierno Digital-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2025-11-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 11-NOV-2025"
+  },
+  "expediente_id": "sil-4896680",
+  "fecha_presentacion": "2025-04-02",
+  "id": "sil-4869183",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229092",
+      "nombre_fuente": "Sen. Ruth Miriam González Silva",
+      "person_id": "ruth-miriam-gonzalez-silva",
+      "referencia_sil": "9229092",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4896680",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

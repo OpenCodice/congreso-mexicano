@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4904366",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Salud.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-06-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-11",
+  "id": "sil-4904366",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228302",
+      "nombre_fuente": "Dip. Diana Karina Barreras Samaniego",
+      "person_id": "diana-karina-barreras-samaniego",
+      "referencia_sil": "9228302",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4905593",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400.html.gz",
+      "consultado": "2026-11-17T07:55:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

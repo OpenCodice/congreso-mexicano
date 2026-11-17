@@ -1,0 +1,59 @@
+{
+  "camara_origen": "senado",
+  "clave": "4970023",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta a la Cámara de Diputados del Congreso de la Unión, a fin de que consideren una reasignación en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026, con el propósito de incrementar el gasto destinado al Ramo d Agricultura y Desarrollo Rural.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-11-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-11",
+  "id": "sil-4970023",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229142",
+      "nombre_fuente": "Sen. Olga Patricia Sosa Ruíz",
+      "person_id": "olga-patricia-sosa-ruiz",
+      "referencia_sil": "9229142",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4977542",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Campo",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

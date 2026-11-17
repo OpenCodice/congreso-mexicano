@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5123883",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas dependencias, así como al gobierno de Oaxaca a implementar de manera coordinada con los municipios con carácter urgente, un plan emergente de atención al campo oaxaqueño ante las condiciones de sequía, insuficiencia de lluvias y afectaciones agropecuarias registradas durante el presente ciclo agrícola.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-08",
+  "id": "sil-5123883",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228485",
+      "nombre_fuente": "Dip. José Alejandro López Sánchez",
+      "person_id": "jose-alejandro-lopez-sanchez",
+      "referencia_sil": "9228485",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5128724",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Medio Ambiente",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

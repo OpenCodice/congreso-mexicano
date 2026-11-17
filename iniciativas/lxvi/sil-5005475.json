@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005475",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 29 Bis a la Ley General de Sociedades Cooperativas, en materia de fomento de la cultura organizacional de pueblos indígenas y afromexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-04-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 21-ABR-2026"
+  },
+  "expediente_id": "sil-5071794",
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005475",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228393",
+      "nombre_fuente": "Dip. Beatriz Andrea Navarro Pérez",
+      "person_id": "beatriz-andrea-navarro-perez",
+      "referencia_sil": "9228393",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071794",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía",
+    "Indígenas"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4776653",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085532",
+      "texto": "1.-Senado -Trabajo y Previsión Social.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona los párrafos quinto y sexto al artículo 357 de la Ley Federal del Trabajo, se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-12-15",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 15-DIC-2025"
+  },
+  "expediente_id": "sil-4968530",
+  "fecha_presentacion": "2024-09-24",
+  "id": "sil-4776653",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229286",
+      "nombre_fuente": "Sen. Alfonso Cepeda Salas",
+      "person_id": "alfonso-cepeda-salas",
+      "referencia_sil": "9229286",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4968530",
+  "sources": [
+    {
+      "archivo": "fuentes/27/273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6.html.gz",
+      "consultado": "2026-11-17T07:53:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

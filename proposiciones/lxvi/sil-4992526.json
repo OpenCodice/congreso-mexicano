@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4992526",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial",
+      "referencia": "2085570",
+      "texto": "1.-Diputados -Desarrollo Urbano y Ordenamiento Territorial.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SEDATU, a través del INSUS, a realizar un análisis de expedientes técnicos, delimitación de predios y validación de propiedades de las colonias Ampliación Márquez de León, Lagunitas, Vista Hermosa, Las Granjas, Laguna Azul, Villas de Guadalupe y Paredones, todas de la Subdelegación De La Fortuna de la Ciudad de La Paz, Baja California Sur.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-03",
+  "id": "sil-4992526",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228150",
+      "nombre_fuente": "Dip. Manuel Alejandro Cota Cárdenas",
+      "person_id": "manuel-alejandro-cota-cardenas",
+      "referencia_sil": "9228150",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4995320",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

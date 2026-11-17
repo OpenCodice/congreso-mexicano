@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4918278",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a las secretarías de Salud y de Educación Pública, al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, en coordinación con sus homólogas de las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, dentro del ámbito de sus respectivas competencias y con la participación de los sectores social y privado, a fin de que difundan la importancia de prevenir y detectar oportunamente la escoliosis e implementen acciones y programas para fortalecer su tratamiento e intervenciones quirúrgicas, con especial atención en niñas, niños y adolescentes; a la Universidad Nacional Autónoma de México, al Instituto Politécnico Nacional, a la Universidad Autónoma Metropolitana y a las demás universidades públicas y privadas, para que en coordinación con la Comisión Interinstitucional para la Formación de Recursos Humanos para la Salud, impulsen el establecimiento de estudios de posgrado especializados en la atención de esta enfermedad; así como a la Secretaría de Gobernación para que declare el 25 de junio como el Día Nacional de la Concientización sobre la Escoliosis.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-08-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-20",
+  "id": "sil-4918278",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229100",
+      "nombre_fuente": "Dip. Elizabeth Martínez Álvarez",
+      "person_id": "elizabeth-martinez-alvarez",
+      "referencia_sil": "9229100",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920053",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Salud",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

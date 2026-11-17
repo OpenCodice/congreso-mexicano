@@ -1,0 +1,63 @@
+{
+  "camara_origen": "senado",
+  "clave": "4894256",
+  "comisiones": [],
+  "denominacion": "Por el que se desecha tres iniciativas con proyecto de Decreto por las que se reforman y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en plataformas digitales.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-04-29",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 29-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-29",
+  "id": "sil-4894256",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos, Primera",
+      "referencias_comision": [
+        "2085523"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Derechos Digitales",
+      "referencias_comision": [
+        "2085506"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4894374",
+  "sources": [
+    {
+      "archivo": "fuentes/f8/f82edfdb7c321839a43fdfe794ee0f7da7f4498fb376bf408f06a1849a071754.html.gz",
+      "consultado": "2026-11-17T08:08:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f82edfdb7c321839a43fdfe794ee0f7da7f4498fb376bf408f06a1849a071754",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

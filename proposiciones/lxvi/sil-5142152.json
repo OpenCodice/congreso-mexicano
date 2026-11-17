@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5142152",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a implementar una política de justicia energética para Baja California Sur para que se establezca de manera permanente en Baja California Sur la tarifa eléctrica 1F de manera general; se actualicen y fortalezcan los mecanismos de medición de las condiciones climáticas; y se implementen acciones para reducir estructuralmente el costo degeneración de electricidad en la entidad, que compense los sobrecostos derivados de su aislamiento geográfico y logístico.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-23",
+  "id": "sil-5142152",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229050",
+      "nombre_fuente": "Dip. Francisco Pelayo Covarrubias",
+      "person_id": "francisco-pelayo-covarrubias",
+      "referencia_sil": "9229050",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143657",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

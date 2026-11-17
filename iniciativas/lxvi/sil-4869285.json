@@ -1,0 +1,82 @@
+{
+  "camara_origen": "senado",
+  "clave": "4869285",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085532",
+      "texto": "2.-Senado -Trabajo y Previsión Social.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un tercer párrafo al inciso f) de la fracción XI, del Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 02-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-02",
+  "id": "sil-4869285",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229096",
+      "nombre_fuente": "Sen. Verónica Rodríguez Hernández",
+      "person_id": "veronica-rodriguez-hernandez",
+      "referencia_sil": "9229096",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871114",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Laboral",
+    "Reformas constitucionales",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

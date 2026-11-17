@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4856347",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno federal, a través de la Secretaría de Hacienda y Crédito Público, a destinar recursos extraordinarios para atender el problema de sequía en el estado de Chihuahua, así como a fortalecer las estrategias y los programas de apoyo a cargo de la Secretaría de Agricultura y Desarrollo Rural, de la Secretaría de Medio Ambiente y Recursos Naturales y de la Comisión Nacional del Agua, para mitigar las afectaciones al patrimonio de los productores ante la probable restricción del ciclo agrícola 2025 y dar a conocer cuáles serán las acciones a emprender para garantizar la seguridad hídrica en la entidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-19",
+  "id": "sil-4856347",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228906",
+      "nombre_fuente": "Sen. Mario Humberto Vázquez Robles",
+      "person_id": "mario-humberto-vazquez-robles",
+      "referencia_sil": "9228906",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4866607",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

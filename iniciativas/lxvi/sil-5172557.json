@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5172557",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 2o.-A y deroga la fracción III del artículo 9° de la Ley del Impuesto al Valor Agregado, en materia de estímulos fiscales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5172557",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228611",
+      "nombre_fuente": "Dip. Alma Lidia De la Vega Sánchez",
+      "person_id": "alma-lidia-de-la-vega-sanchez",
+      "referencia_sil": "9228611",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5177206",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078.html.gz",
+      "consultado": "2026-11-17T07:59:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

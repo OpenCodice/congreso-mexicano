@@ -1,0 +1,68 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4904256",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un párrafo vigesimotercero y se recorre los subsecuentes, al artículo 4 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-04-01",
+    "resultado": "desechado",
+    "texto": "Desechado el 01-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-11",
+  "id": "sil-4904256",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228776",
+      "nombre_fuente": "Dip. Juan Ignacio Zavala Gutiérrez",
+      "person_id": "juan-ignacio-zavala-gutierrez",
+      "referencia_sil": "9228776",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4905609",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400.html.gz",
+      "consultado": "2026-11-17T07:55:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Derechos Humanos",
+    "Reformas constitucionales",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

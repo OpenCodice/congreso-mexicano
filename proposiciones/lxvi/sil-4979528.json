@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4979528",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados, LXVI (02/09/2025-31/08/2026)",
+      "referencia": "2240",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados, LXVI (02/09/2025-31/08/2026).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Jucopo de esta Soberanía a realizar los trámites necesarios para la creación de la Comisión Especial para el seguimiento, análisis, fortalecimiento y resultados de la seguridad en el estado de Michoacán, denominada Comisión Especial del Plan Michoacán por la Paz y la Justicia.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2025-11-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 20-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-20",
+  "id": "sil-4979528",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229196",
+      "nombre_fuente": "Dip. Armando Tejeda Cid",
+      "person_id": "armando-tejeda-cid",
+      "referencia_sil": "9229196",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4980132",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Creación de comisiones o grupos de trabajo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,193 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5040787",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto para inscribir con letras de oro en el muro de Honor del Salón de Sesiones de la Cámara de Diputados del H. Congreso de la Unión la leyenda -Malintzin-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-18",
+  "id": "sil-5040787",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228770",
+      "nombre_fuente": "Dip. Francisco Javier Farias Bailón",
+      "person_id": "francisco-javier-farias-bailon",
+      "referencia_sil": "9228770",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228523",
+      "nombre_fuente": "Dip. Tecutli José Guadalupe Gómez Villalobos",
+      "person_id": "tecutli-jose-guadalupe-gomez-villalobos",
+      "referencia_sil": "9228523",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228780",
+      "nombre_fuente": "Dip. Gildardo Pérez Gabino",
+      "person_id": "gildardo-perez-gabino",
+      "referencia_sil": "9228780",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228763",
+      "nombre_fuente": "Dip. Eduardo Gaona Domínguez",
+      "person_id": "eduardo-gaona-dominguez",
+      "referencia_sil": "9228763",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228776",
+      "nombre_fuente": "Dip. Juan Ignacio Zavala Gutiérrez",
+      "person_id": "juan-ignacio-zavala-gutierrez",
+      "referencia_sil": "9228776",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228734",
+      "nombre_fuente": "Dip. Claudia Gabriela Salas Rodríguez",
+      "person_id": "claudia-gabriela-salas-rodriguez",
+      "referencia_sil": "9228734",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228768",
+      "nombre_fuente": "Dip. Ivonne Aracely Ortega Pacheco",
+      "person_id": "ivonne-aracely-ortega-pacheco",
+      "referencia_sil": "9228768",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228788",
+      "nombre_fuente": "Dip. Juan Armando Ruiz Hernández",
+      "person_id": "juan-armando-ruiz-hernandez",
+      "referencia_sil": "9228788",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228738",
+      "nombre_fuente": "Dip. Patricia Flores Elizondo",
+      "person_id": "patricia-flores-elizondo",
+      "referencia_sil": "9228738",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228756",
+      "nombre_fuente": "Dip. Irais Virginia Reyes De la Torre",
+      "person_id": "irais-virginia-reyes-de-la-torre",
+      "referencia_sil": "9228756",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228746",
+      "nombre_fuente": "Dip. Gloria Elizabeth Núñez Sánchez",
+      "person_id": "gloria-elizabeth-nunez-sanchez",
+      "referencia_sil": "9228746",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228742",
+      "nombre_fuente": "Dip. Jorge Alfredo Lozoya Santillán",
+      "person_id": "jorge-alfredo-lozoya-santillan",
+      "referencia_sil": "9228742",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228758",
+      "nombre_fuente": "Dip. Miguel Ángel Sánchez Rivera",
+      "person_id": "miguel-angel-sanchez-rivera",
+      "referencia_sil": "9228758",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228774",
+      "nombre_fuente": "Dip. Claudia Ruiz Massieu Salinas",
+      "person_id": "claudia-ruiz-massieu-salinas",
+      "referencia_sil": "9228774",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229156",
+      "nombre_fuente": "Dip. Mariana Guadalupe Jiménez Zamora",
+      "person_id": "mariana-guadalupe-jimenez-zamora",
+      "referencia_sil": "9229156",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228782",
+      "nombre_fuente": "Dip. Laura Irais Ballesteros Mancilla",
+      "person_id": "laura-irais-ballesteros-mancilla",
+      "referencia_sil": "9228782",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228766",
+      "nombre_fuente": "Dip. Sergio Gil Rullán",
+      "person_id": "sergio-gil-rullan",
+      "referencia_sil": "9228766",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229404",
+      "nombre_fuente": "Dip. Gibrán Ramírez Reyes",
+      "person_id": "gibran-ramirez-reyes",
+      "referencia_sil": "9229404",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5045584",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

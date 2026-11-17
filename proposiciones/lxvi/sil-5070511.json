@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "5070511",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que expresa preocupación por las sentencias emitidas en los casos PES-420/2025 y SG-JDC-17/2026, al considerar que establecen criterios que restringen desproporcionadamente la libertad de expresión y vulneran la privacidad de las comunicaciones protegidas por los artículos 6° y 16 de la Constitución. Asimismo, se solicita a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que, al resolver los medios de impugnación correspondientes y otros casos que involucren conflictos entre derechos fundamentales, privilegie una interpretación que salvaguarde la libertad de expresión y el derecho a la privacidad conforme a la Constitución y a los estándares más protectores de derechos humanos, evitando su uso como mecanismo de censura, y exhorta a las autoridades electorales a aplicar el test de proporcionalidad y un escrutinio más estricto tratándose de expresiones dirigidas a personas que ejercen o aspiran a funciones públicas.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-15",
+  "id": "sil-5070511",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Judicial",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

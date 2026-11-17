@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4818622",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta al Congreso del estado de Chihuahua a que, a la mayor brevedad posible, legisle en materia de violencia vicaria, a fin de garantizar la protección integral de las mujeres, niñas, niños y adolescentes víctimas de este tipo de violencia en la entidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-05",
+  "id": "sil-4818622",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228898",
+      "nombre_fuente": "Sen. Andrea Chávez Treviño",
+      "person_id": "andrea-chavez-trevino",
+      "referencia_sil": "9228898",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871668",
+  "sources": [
+    {
+      "archivo": "fuentes/f1/f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d.html.gz",
+      "consultado": "2026-11-17T08:00:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

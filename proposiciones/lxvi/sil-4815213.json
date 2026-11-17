@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4815213",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Sader a cumplir con la entrega de los apoyos pendientes del programa Producción para el Bienestar, los cuales fueron presupuestados y comprometidos conforme a las reglas de operación respectivas, en beneficio de las y los productores agrícolas y apícolas de pequeña y mediana escala.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-03",
+  "id": "sil-4815213",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229292",
+      "nombre_fuente": "Dip. Leticia Barrera Maldonado",
+      "person_id": "leticia-barrera-maldonado",
+      "referencia_sil": "9229292",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4816415",
+  "sources": [
+    {
+      "archivo": "fuentes/f1/f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d.html.gz",
+      "consultado": "2026-11-17T08:00:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

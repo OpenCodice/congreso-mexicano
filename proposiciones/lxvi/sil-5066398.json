@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5066398",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial",
+      "referencia": "2085570",
+      "texto": "1.-Diputados -Desarrollo Urbano y Ordenamiento Territorial.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la Sedatu a realizar y emitir dictámenes técnicos, normas y documentos de planeación, enfocados en ordenamiento territorial, desarrollo urbano, habitabilidad de vivienda y gestión de riesgos, en las colonias irregulares de la Alcaldía Tláhuac, con el objeto de asegurar a la población la protección de sus derechos a un patrimonio habitacional digno, a la no discriminación y a la convivencia en condiciones de equidad e inclusión social.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5066398",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228199",
+      "nombre_fuente": "Dip. Roberto Mejía Méndez",
+      "person_id": "roberto-mejia-mendez",
+      "referencia_sil": "9228199",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5072131",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

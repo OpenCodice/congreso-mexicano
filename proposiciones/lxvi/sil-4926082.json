@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4926082",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que el Senado de la República reconoce la valentía, entrega y profesionalismo de las y los profesionales de la salud de los hospitales y Cruz Roja que brindaron la atención a las personas afectadas por los hechos ocurridos el día 10 de septiembre en el puente de la Concordia de la delegación Iztapalapa de la Ciudad de México.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-17",
+  "id": "sil-4926082",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229066",
+      "nombre_fuente": "Sen. Luisa Cortés García",
+      "person_id": "luisa-cortes-garcia",
+      "referencia_sil": "9229066",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4929714",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,158 @@
+{
+  "camara_origen": "senado",
+  "clave": "5126023",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 66 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-09",
+  "id": "sil-5126023",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229385",
+      "nombre_fuente": "Sen. Karla Guadalupe Toledo Zamora",
+      "person_id": "karla-guadalupe-toledo-zamora",
+      "referencia_sil": "9229385",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229018",
+      "nombre_fuente": "Sen. Ángel García Yáñez",
+      "person_id": "angel-garcia-yanez",
+      "referencia_sil": "9229018",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229128",
+      "nombre_fuente": "Sen. Paloma Sánchez Ramos",
+      "person_id": "paloma-sanchez-ramos",
+      "referencia_sil": "9229128",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228888",
+      "nombre_fuente": "Sen. Mely Romero Celis",
+      "person_id": "mely-romero-celis",
+      "referencia_sil": "9228888",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228883",
+      "nombre_fuente": "Sen. Gabriel Elizondo Pérez",
+      "person_id": "gabriel-elizondo-perez",
+      "referencia_sil": "9228883",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229194",
+      "nombre_fuente": "Sen. Claudia Edith Anaya Mota",
+      "person_id": "claudia-edith-anaya-mota",
+      "referencia_sil": "9229194",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229186",
+      "nombre_fuente": "Sen. Rolando Rodrigo Zapata Bello",
+      "person_id": "rolando-rodrigo-zapata-bello",
+      "referencia_sil": "9229186",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229228",
+      "nombre_fuente": "Sen. Cristina Ruíz Sandoval",
+      "person_id": "cristina-ruiz-sandoval",
+      "referencia_sil": "9229228",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229224",
+      "nombre_fuente": "Sen. Pablo Guillermo Angulo Briceño",
+      "person_id": "pablo-guillermo-angulo-briceno",
+      "referencia_sil": "9229224",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228960",
+      "nombre_fuente": "Sen. Alma Carolina Viggiano Austria",
+      "person_id": "alma-carolina-viggiano-austria",
+      "referencia_sil": "9228960",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228946",
+      "nombre_fuente": "Sen. Manuel Añorve Baños",
+      "person_id": "manuel-anorve-banos",
+      "referencia_sil": "9228946",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5135514",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Poder Legislativo",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

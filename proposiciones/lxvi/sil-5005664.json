@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005664",
+  "comisiones": [
+    {
+      "referencia": "2085613",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta a la Sectur, en coordinación con sus homólogas de las entidades federativas, a considerar convocar a las y los artesanos mexicanos, a que produzcan sus artesanías 100% auténticas con enfoque hacia el turismo del Mundial de Futbol 2026, a que se coordinen en un catálogo publicitario de piezas y consideren habilitar espacios de venta temporal en aeropuertos, tren maya y demás sitios de contacto turístico, para que también conozcan a México por medio de sus artesanías.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-04-15",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005664",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229082",
+      "nombre_fuente": "Sen. Alma Anahí González Hernández",
+      "person_id": "alma-anahi-gonzalez-hernandez",
+      "referencia_sil": "9229082",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071826",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

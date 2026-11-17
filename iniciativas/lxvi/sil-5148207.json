@@ -1,0 +1,178 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5148207",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Pesca",
+      "referencia": "2085580",
+      "texto": "1.-Diputados -Pesca.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma las fracciones XIV, XVII y XXIV del artículo 4º de Ley General de Pesca y Acuacultura Sustentables, en materia de homologación de definiciones sobre embarcaciones menores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-30",
+  "id": "sil-5148207",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228770",
+      "nombre_fuente": "Dip. Francisco Javier Farias Bailón",
+      "person_id": "francisco-javier-farias-bailon",
+      "referencia_sil": "9228770",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228431",
+      "nombre_fuente": "Dip. Casandra Prisilla De los Santos Flores",
+      "person_id": "casandra-prisilla-de-los-santos-flores",
+      "referencia_sil": "9228431",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228593",
+      "nombre_fuente": "Dip. Ma. del Carmen Cabrera Lagunas",
+      "person_id": "ma-del-carmen-cabrera-lagunas",
+      "referencia_sil": "9228593",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228316",
+      "nombre_fuente": "Dip. Jesús Fernando García Hernández",
+      "person_id": "jesus-fernando-garcia-hernandez",
+      "referencia_sil": "9228316",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228304",
+      "nombre_fuente": "Dip. Ramón Ángel Flores Robles",
+      "person_id": "ramon-angel-flores-robles",
+      "referencia_sil": "9228304",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228154",
+      "nombre_fuente": "Dip. Luis Armando Díaz",
+      "person_id": "luis-armando-diaz",
+      "referencia_sil": "9228154",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228391",
+      "nombre_fuente": "Dip. Any Marilú Porras Baylón",
+      "person_id": "any-marilu-porras-baylon",
+      "referencia_sil": "9228391",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228313",
+      "nombre_fuente": "Dip. Sara Jaime Ontiveros",
+      "person_id": "sara-jaime-ontiveros",
+      "referencia_sil": "9228313",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228802",
+      "nombre_fuente": "Dip. Dora Alicia Moreno Méndez",
+      "person_id": "dora-alicia-moreno-mendez",
+      "referencia_sil": "9228802",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228872",
+      "nombre_fuente": "Dip. Karen Yaiti Calcaneo Constantino",
+      "person_id": "karen-yaiti-calcaneo-constantino",
+      "referencia_sil": "9228872",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228160",
+      "nombre_fuente": "Dip. Elda Esther del Carmen Castillo Quintana",
+      "person_id": "elda-esther-del-carmen-castillo-quintana",
+      "referencia_sil": "9228160",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228127",
+      "nombre_fuente": "Dip. Rocío López Gorosave",
+      "person_id": "rocio-lopez-gorosave",
+      "referencia_sil": "9228127",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228250",
+      "nombre_fuente": "Dip. Paola Tenorio Adame",
+      "person_id": "paola-tenorio-adame",
+      "referencia_sil": "9228250",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228156",
+      "nombre_fuente": "Dip. Jorge Luis Sánchez Reyes",
+      "person_id": "jorge-luis-sanchez-reyes",
+      "referencia_sil": "9228156",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228487",
+      "nombre_fuente": "Dip. Gloria Sánchez López",
+      "person_id": "gloria-sanchez-lopez",
+      "referencia_sil": "9228487",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228585",
+      "nombre_fuente": "Dip. Juana Acosta Trujillo",
+      "person_id": "juana-acosta-trujillo",
+      "referencia_sil": "9228585",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228624",
+      "nombre_fuente": "Dip. Azucena Arreola Trinidad",
+      "person_id": "azucena-arreola-trinidad",
+      "referencia_sil": "9228624",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5150900",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

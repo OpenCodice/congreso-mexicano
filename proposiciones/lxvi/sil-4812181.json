@@ -1,0 +1,60 @@
+{
+  "camara_origen": "senado",
+  "clave": "4812181",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados para que, dentro del análisis, discusión y aprobación del Presupuesto de Egresos 2025, se incrementen los recursos en materia de educación básica y superior, con la finalidad de abatir el regazo y la brecha en materia educativa que permea en nuestro país.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-11-28",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 28-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-28",
+  "id": "sil-4812181",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229160",
+      "nombre_fuente": "Sen. Imelda Margarita Sanmiguel Sánchez",
+      "person_id": "imelda-margarita-sanmiguel-sanchez",
+      "referencia_sil": "9229160",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4813566",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Educación y Cultura",
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

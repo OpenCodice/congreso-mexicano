@@ -1,0 +1,214 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5043897",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un cuarto párrafo al artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección de neuroderechos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5043897",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228786",
+      "nombre_fuente": "Dip. Laura Hernández García",
+      "person_id": "laura-hernandez-garcia",
+      "referencia_sil": "9228786",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229420",
+      "nombre_fuente": "Dip. María Graciela Gaitán Díaz",
+      "person_id": "maria-graciela-gaitan-diaz",
+      "referencia_sil": "9229420",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229348",
+      "nombre_fuente": "Dip. Ma. Leonor Noyola Cervantes",
+      "person_id": "ma-leonor-noyola-cervantes",
+      "referencia_sil": "9229348",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228642",
+      "nombre_fuente": "Dip. Diana Castillo Gabino",
+      "person_id": "diana-castillo-gabino",
+      "referencia_sil": "9228642",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229211",
+      "nombre_fuente": "Dip. Paloma Domínguez Ugarte",
+      "person_id": "paloma-dominguez-ugarte",
+      "referencia_sil": "9229211",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228423",
+      "nombre_fuente": "Dip. David Alejandro Cortés Mendoza",
+      "person_id": "david-alejandro-cortes-mendoza",
+      "referencia_sil": "9228423",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228246",
+      "nombre_fuente": "Dip. Marisela Zúñiga Cerón",
+      "person_id": "marisela-zuniga-ceron",
+      "referencia_sil": "9228246",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228848",
+      "nombre_fuente": "Dip. Rosa María Castro Salinas",
+      "person_id": "rosa-maria-castro-salinas",
+      "referencia_sil": "9228848",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228938",
+      "nombre_fuente": "Dip. Jaime Genaro López Vela",
+      "person_id": "jaime-genaro-lopez-vela",
+      "referencia_sil": "9228938",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228129",
+      "nombre_fuente": "Dip. Evangelina Moreno Guerra",
+      "person_id": "evangelina-moreno-guerra",
+      "referencia_sil": "9228129",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228640",
+      "nombre_fuente": "Dip. Dionicia Vázquez García",
+      "person_id": "dionicia-vazquez-garcia",
+      "referencia_sil": "9228640",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228674",
+      "nombre_fuente": "Dip. Gabriela Valdepeñas González",
+      "person_id": "gabriela-valdepenas-gonzalez",
+      "referencia_sil": "9228674",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228652",
+      "nombre_fuente": "Dip. Anay Beltrán Reyes",
+      "person_id": "anay-beltran-reyes",
+      "referencia_sil": "9228652",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228577",
+      "nombre_fuente": "Dip. Alejandro Calderón Díaz",
+      "person_id": "alejandro-calderon-diaz",
+      "referencia_sil": "9228577",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228166",
+      "nombre_fuente": "Dip. Jazmín Yaneli Villanueva Moo",
+      "person_id": "jazmin-yaneli-villanueva-moo",
+      "referencia_sil": "9228166",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228982",
+      "nombre_fuente": "Dip. Manuel Vázquez Arellano",
+      "person_id": "manuel-vazquez-arellano",
+      "referencia_sil": "9228982",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228347",
+      "nombre_fuente": "Dip. Mildred Concepción Ávila Vera",
+      "person_id": "mildred-concepcion-avila-vera",
+      "referencia_sil": "9228347",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228956",
+      "nombre_fuente": "Dip. Julio César Moreno Rivera",
+      "person_id": "julio-cesar-moreno-rivera",
+      "referencia_sil": "9228956",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228958",
+      "nombre_fuente": "Dip. Olga María del Carmen Sánchez Cordero Dávila",
+      "person_id": "olga-maria-del-carmen-sanchez-cordero-davila",
+      "referencia_sil": "9228958",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228591",
+      "nombre_fuente": "Dip. Yoloczin Lizbeth Domínguez Serna",
+      "person_id": "yoloczin-lizbeth-dominguez-serna",
+      "referencia_sil": "9228591",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228998",
+      "nombre_fuente": "Dip. Alfonso Ramírez Cuéllar",
+      "person_id": "alfonso-ramirez-cuellar",
+      "referencia_sil": "9228998",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228822",
+      "nombre_fuente": "Dip. Ricardo Monreal Ávila",
+      "person_id": "ricardo-monreal-avila",
+      "referencia_sil": "9228822",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5044589",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Derechos Humanos",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

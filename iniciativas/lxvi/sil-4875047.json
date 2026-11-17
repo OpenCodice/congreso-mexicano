@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4875047",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un numeral 18 a la fracción I, recorriéndose los subsecuentes del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-09",
+  "id": "sil-4875047",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "tamaulipas",
+      "nombre_fuente": "Congreso de Tamaulipas",
+      "organization_id": "congreso-tamaulipas",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "4875903",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Democrático",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

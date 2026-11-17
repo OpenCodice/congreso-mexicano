@@ -1,0 +1,103 @@
+{
+  "camara_origen": "senado",
+  "clave": "5172981",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que el Senado de la República cita a comparecer a las personas titulares de la Secretaría de Salud, Instituto Mexicano del Seguro Social y del IMSS-Bienestar, para que informen y expliquen las acciones que están implementando para atender la crisis de desabasto de medicamentos y de insumos médicos, así como de la situación del personal de dichas dependencias que exigen mejores condiciones laborales como un salario digno.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5172981",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229248",
+      "nombre_fuente": "Sen. José Clemente Castañeda Hoeflich",
+      "person_id": "jose-clemente-castaneda-hoeflich",
+      "referencia_sil": "9229248",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229074",
+      "nombre_fuente": "Sen. Néstor Camarillo Medina",
+      "person_id": "nestor-camarillo-medina",
+      "referencia_sil": "9229074",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228755",
+      "nombre_fuente": "Sen. Francisco Daniel Barreda Pavón",
+      "person_id": "francisco-daniel-barreda-pavon",
+      "referencia_sil": "9228755",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229252",
+      "nombre_fuente": "Sen. Amalia Dolores García Medina",
+      "person_id": "amalia-dolores-garcia-medina",
+      "referencia_sil": "9229252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229250",
+      "nombre_fuente": "Sen. María Alejandra Barrales Magdaleno",
+      "person_id": "maria-alejandra-barrales-magdaleno",
+      "referencia_sil": "9229250",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195921",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Poder Legislativo",
+    "Salud",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

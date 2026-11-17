@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4774055",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el primer párrafo del artículo 18-A de la Ley Federal de Derechos.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2024-12-19",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 19-DIC-2024"
+  },
+  "expediente_id": "sil-4809131",
+  "fecha_presentacion": "2024-09-18",
+  "id": "sil-4774055",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "4809131",
+  "sources": [
+    {
+      "archivo": "fuentes/27/273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6.html.gz",
+      "consultado": "2026-11-17T07:53:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Seguridad Nacional"
+  ],
+  "tipo": "Iniciativa"
+}

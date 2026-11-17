@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5190913",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, en materia de reconocimiento y redistribución de las cargas de cuidado derivadas de la desaparición de personas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-09",
+  "id": "sil-5190913",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229172",
+      "nombre_fuente": "Dip. Tania Palacios Kuri",
+      "person_id": "tania-palacios-kuri",
+      "referencia_sil": "9229172",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5196130",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2.html.gz",
+      "consultado": "2026-11-17T07:59:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

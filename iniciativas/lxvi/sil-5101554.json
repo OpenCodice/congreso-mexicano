@@ -1,0 +1,129 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5101554",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ganadería",
+      "referencia": "2085575",
+      "texto": "1.-Diputados -Ganadería .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 47 Bis Ley Federal de Sanidad Animal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-10",
+  "id": "sil-5101554",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228503",
+      "nombre_fuente": "Dip. Juan Antonio Meléndez Ortega",
+      "person_id": "juan-antonio-melendez-ortega",
+      "referencia_sil": "9228503",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228523",
+      "nombre_fuente": "Dip. Tecutli José Guadalupe Gómez Villalobos",
+      "person_id": "tecutli-jose-guadalupe-gomez-villalobos",
+      "referencia_sil": "9228523",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228279",
+      "nombre_fuente": "Dip. José Miguel Alegría Gómez",
+      "person_id": "jose-miguel-alegria-gomez",
+      "referencia_sil": "9228279",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229414",
+      "nombre_fuente": "Dip. María Del Rosario Guzmán Avilés",
+      "person_id": "maria-del-rosario-guzman-aviles",
+      "referencia_sil": "9229414",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229046",
+      "nombre_fuente": "Dip. Luis Agustín Rodríguez Torres",
+      "person_id": "luis-agustin-rodriguez-torres",
+      "referencia_sil": "9229046",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228549",
+      "nombre_fuente": "Dip. Alonso de Jesús Vázquez Jiménez",
+      "person_id": "alonso-de-jesus-vazquez-jimenez",
+      "referencia_sil": "9228549",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228256",
+      "nombre_fuente": "Dip. Francisco Javier Borrego Adame",
+      "person_id": "francisco-javier-borrego-adame",
+      "referencia_sil": "9228256",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228119",
+      "nombre_fuente": "Dip. Paulo Gonzalo Martínez López",
+      "person_id": "paulo-gonzalo-martinez-lopez",
+      "referencia_sil": "9228119",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229351",
+      "nombre_fuente": "Dip. Ricardo Gallardo Juárez",
+      "person_id": "ricardo-gallardo-juarez",
+      "referencia_sil": "9229351",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229116",
+      "nombre_fuente": "Dip. Claudia Quiñones Garrido",
+      "person_id": "claudia-quinones-garrido",
+      "referencia_sil": "9229116",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5105944",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0.html.gz",
+      "consultado": "2026-11-17T07:58:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

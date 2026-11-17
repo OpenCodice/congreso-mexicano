@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4852056",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de la Ley Federal del Trabajo para otorgar dos días de licencia a las mujeres trabajadoras menstruantes, con goce de sueldo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-11",
+  "id": "sil-4852056",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4855567",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115.html.gz",
+      "consultado": "2026-11-17T07:54:29Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

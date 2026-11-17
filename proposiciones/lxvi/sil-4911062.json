@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911062",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Fiscalía General de Veracruz, al Consejo de la Judicatura de Veracruz, a la Comisión Estatal de Derechos Humanos de Veracruz y a la Comisión de Derechos Humanos de la Ciudad de México para que atiendan el caso de tortura de Diego Fernando Bonilla, en el marco del protocolo de Estambul.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-03",
+  "id": "sil-4911062",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229170",
+      "nombre_fuente": "Sen. Manuel Rafael Huerta Ladrón de Guevara",
+      "person_id": "manuel-rafael-huerta-ladron-de-guevara",
+      "referencia_sil": "9229170",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914561",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

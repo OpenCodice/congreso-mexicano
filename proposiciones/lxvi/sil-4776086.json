@@ -1,0 +1,59 @@
+{
+  "camara_origen": "senado",
+  "clave": "4776086",
+  "comisiones": [],
+  "denominacion": "Por el que exhorta a la Secretaría de Hacienda y Crédito Público y a la Cámara de Diputados del Congreso de la Unión para que, en el Proyecto de Presupuesto de Egresos de la Federación del Ejercicio Fiscal 2025, asignen mayores recursos para el estado de Nuevo León con relación al 2024, en atención a su significativa aportación al PIB nacional y a las necesidades crecientes de su población.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-09-24",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 24-SEP-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-09-24",
+  "id": "sil-4776086",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4788347",
+  "sources": [
+    {
+      "archivo": "fuentes/1a/1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f.html.gz",
+      "consultado": "2026-11-17T08:00:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5091063",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la Secretaría de Salud que garantice que los certificados de discapacidad se expidan bajo criterios homologados y mediante un diseño único de alcance nacional, a fin de asegurar su reconocimiento, validez y aceptación en todas las dependencias y entidades públicas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-06",
+  "id": "sil-5091063",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228850",
+      "nombre_fuente": "Dip. Kenia Gisell Muñiz Cabrera",
+      "person_id": "kenia-gisell-muniz-cabrera",
+      "referencia_sil": "9228850",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5101310",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

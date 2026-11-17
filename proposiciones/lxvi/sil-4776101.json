@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4776101",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las autoridades federales y locales de Chiapas a trabajar coordinadamente para reducir la brecha salarial de género en el estado.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-09-24",
+  "id": "sil-4776101",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228890",
+      "nombre_fuente": "Sen. Sasil Dora Luz De León Villard",
+      "person_id": "sasil-dora-luz-de-leon-villard",
+      "referencia_sil": "9228890",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4788342",
+  "sources": [
+    {
+      "archivo": "fuentes/1a/1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f.html.gz",
+      "consultado": "2026-11-17T08:00:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

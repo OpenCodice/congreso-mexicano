@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4844129",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085487",
+      "texto": "1.-Senado -Asuntos Migratorios .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a las entidades federativas en el país, a que implementen políticas públicas y ejecuten acciones coordinadas con la Estrategia Nacional de Migración, para atender y dar seguimiento al retorno migratorio en sus respectivos estados, garantizando sus derechos humanos y se brinde la seguridad necesaria.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-26",
+  "id": "sil-4844129",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229008",
+      "nombre_fuente": "Sen. Araceli Saucedo Reyes",
+      "person_id": "araceli-saucedo-reyes",
+      "referencia_sil": "9229008",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850982",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Migración"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4930084",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Guardia Nacional",
+      "referencia": "2085595",
+      "texto": "1.-Senado -Guardia Nacional .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el segundo párrafo de la fracción XXV del artículo 9 de la Ley de la Guardia Nacional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-03-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 18-MAR-2026"
+  },
+  "expediente_id": "sil-5034968",
+  "fecha_presentacion": "2025-09-23",
+  "id": "sil-4930084",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229024",
+      "nombre_fuente": "Sen. Jasmine María Bugarín Rodríguez",
+      "person_id": "jasmine-maria-bugarin-rodriguez",
+      "referencia_sil": "9229024",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5034968",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

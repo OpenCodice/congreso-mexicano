@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4973037",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos Humanos",
+      "referencia": "2085548",
+      "texto": "1.-Diputados -Derechos Humanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 29 de la Ley de la Comisión Nacional de los Derechos Humanos para garantizar el acceso a intérpretes certificados en quejas de personas con discapacidad y hablantes de lenguas indígenas.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-01-22",
+    "resultado": "retirado",
+    "texto": "Retirada el 22-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-12",
+  "id": "sil-4973037",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228826",
+      "nombre_fuente": "Dip. Arturo Ávila Anaya",
+      "person_id": "arturo-avila-anaya",
+      "referencia_sil": "9228826",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4975382",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Indígenas"
+  ],
+  "tipo": "Iniciativa"
+}

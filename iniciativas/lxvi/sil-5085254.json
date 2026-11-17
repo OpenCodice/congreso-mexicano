@@ -1,0 +1,157 @@
+{
+  "camara_origen": "senado",
+  "clave": "5085254",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que expide la Ley General de Salud Mental.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5085254",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228755",
+      "nombre_fuente": "Sen. Francisco Daniel Barreda Pavón",
+      "person_id": "francisco-daniel-barreda-pavon",
+      "referencia_sil": "9228755",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229018",
+      "nombre_fuente": "Sen. Ángel García Yáñez",
+      "person_id": "angel-garcia-yanez",
+      "referencia_sil": "9229018",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229385",
+      "nombre_fuente": "Sen. Karla Guadalupe Toledo Zamora",
+      "person_id": "karla-guadalupe-toledo-zamora",
+      "referencia_sil": "9229385",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229397",
+      "nombre_fuente": "Sen. Maki Esther Ortiz Domínguez",
+      "person_id": "maki-esther-ortiz-dominguez",
+      "referencia_sil": "9229397",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228714",
+      "nombre_fuente": "Sen. Juan Antonio Martín del Campo Martín del Campo",
+      "person_id": "juan-antonio-martin-del-campo-martin-del-campo",
+      "referencia_sil": "9228714",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229076",
+      "nombre_fuente": "Sen. María Guadalupe Murguía Gutiérrez",
+      "person_id": "maria-guadalupe-murguia-gutierrez",
+      "referencia_sil": "9229076",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228744",
+      "nombre_fuente": "Sen. Homero Davis Castro",
+      "person_id": "homero-davis-castro",
+      "referencia_sil": "9228744",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229275",
+      "nombre_fuente": "Sen. Emmanuel Reyes Carmona",
+      "person_id": "emmanuel-reyes-carmona",
+      "referencia_sil": "9229275",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229004",
+      "nombre_fuente": "Sen. Raúl Morón Orozco",
+      "person_id": "raul-moron-orozco",
+      "referencia_sil": "9229004",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229066",
+      "nombre_fuente": "Sen. Luisa Cortés García",
+      "person_id": "luisa-cortes-garcia",
+      "referencia_sil": "9229066",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5092344",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

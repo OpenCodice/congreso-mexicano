@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5123913",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la LOTENAL y al Servicio Postal Mexicano a realizar la emisión de un billete de lotería y una estampilla postal conmemorativos dedicados a Francisco González Bocanegra, Francisco Eppens Helguera y Julián Carrillo Trujillo, en reconocimiento a sus contribuciones a la identidad cívica de México.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-08",
+  "id": "sil-5123913",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228336",
+      "nombre_fuente": "Dip. Juan Carlos Valladares Eichelmann",
+      "person_id": "juan-carlos-valladares-eichelmann",
+      "referencia_sil": "9228336",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5128700",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

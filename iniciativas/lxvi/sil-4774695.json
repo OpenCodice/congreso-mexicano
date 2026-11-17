@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4774695",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085512",
+      "texto": "2.-Senado -Reglamentos y Prácticas Parlamentarias.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que inscribe en letras doradas en el Muro de Honor del Salón de Sesiones del Senado de la República: -2024, Bicentenario de la Federación de Chiapas a México-.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-04-29",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 29-ABR-2025"
+  },
+  "expediente_id": "sil-4864238",
+  "fecha_presentacion": "2024-09-18",
+  "id": "sil-4774695",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228890",
+      "nombre_fuente": "Sen. Sasil Dora Luz De León Villard",
+      "person_id": "sasil-dora-luz-de-leon-villard",
+      "referencia_sil": "9228890",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4864238",
+  "sources": [
+    {
+      "archivo": "fuentes/27/273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6.html.gz",
+      "consultado": "2026-11-17T07:53:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

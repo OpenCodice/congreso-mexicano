@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911075",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Bienestar, a la Delegación Estatal de Bienestar en Chihuahua, al Gobierno de Chihuahua y a la Coordinación Estatal de Protección Civil a implementar acciones inmediatas para la atención de zonas afectadas por las recientes precipitaciones pluviales, así como para la realización y seguimiento del censo de zonas de riesgo en dicho municipio, con el objetivo de salvaguardar la vida y el patrimonio de la población y prevenir daños mayores.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-27",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-03",
+  "id": "sil-4911075",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228900",
+      "nombre_fuente": "Sen. Juan Carlos Loera De La Rosa",
+      "person_id": "juan-carlos-loera-de-la-rosa",
+      "referencia_sil": "9228900",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919954",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5153254",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Pesca y Acuacultura",
+      "referencia": "2085500",
+      "texto": "1.-Senado -Pesca y Acuacultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Agricultura y Desarrollo Rural, a la Comisión Nacional de Acuacultura y Pesca y a los gobiernos de los estados de Baja California Sur, Sonora, Sinaloa, Nayarit, Jalisco, Colima, Michoacán, Guerrero y Oaxaca para que, en el ámbito de sus respectivas atribuciones y de manera coordinada, implementen de manera urgente un programa de apoyo emergente y de inspección de daños dirigido a las pescadoras y los pescadores ribereños, las ostioneras y los ostioneros, y las acuicultoras y los acuicultores de los municipios costeros afectados por el paso sucesivo de los fenómenos meteorológicos -Polo- y -Rachel-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-06",
+  "id": "sil-5153254",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Pesca y Acuacultura",
+      "referencias_comision": [
+        "2085500"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "5190693",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

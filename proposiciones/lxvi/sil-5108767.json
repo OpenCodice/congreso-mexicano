@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5108767",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Hacienda y Crédito Público y a la Secretaría de Educación Pública a reincorporar recursos presupuestarios para la implementación de un programa de jornada escolar ampliada con servicio de alimentación en las escuelas públicas de educación básica.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-08",
+  "id": "sil-5108767",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228509",
+      "nombre_fuente": "Dip. César Alejandro Domínguez Domínguez",
+      "person_id": "cesar-alejandro-dominguez-dominguez",
+      "referencia_sil": "9228509",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5116514",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

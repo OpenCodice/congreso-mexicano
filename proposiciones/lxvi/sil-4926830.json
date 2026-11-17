@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4926830",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la FGR y al Consejo de la Judicatura Federal a implementar la entrevista única forense en la Cámara de Gesell como medida para prevenir la revictimización de niñas, niños y adolescentes víctimas de delitos sexuales.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-12-09",
+    "resultado": "retirado",
+    "texto": "Retirada el 09-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-17",
+  "id": "sil-4926830",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228772",
+      "nombre_fuente": "Dip. María de Fátima García León",
+      "person_id": "maria-de-fatima-garcia-leon",
+      "referencia_sil": "9228772",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4929640",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

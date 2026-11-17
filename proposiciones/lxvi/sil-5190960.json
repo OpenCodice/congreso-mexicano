@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5190960",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los ayuntamientos de los 51 municipios del estado de Nuevo León, a implementar programas para el retiro de cableado aéreo en desuso conforme a la legislación aplicable en el estado.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-09",
+  "id": "sil-5190960",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228371",
+      "nombre_fuente": "Dip. Annia Sarahí Gómez Cárdenas",
+      "person_id": "annia-sarahi-gomez-cardenas",
+      "referencia_sil": "9228371",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5196151",
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

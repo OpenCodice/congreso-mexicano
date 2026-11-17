@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4945158",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Protección Civil y Prevención de Desastres",
+      "referencia": "2085581",
+      "texto": "1.-Diputados -Protección Civil y Prevención de Desastres.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción VI del artículo 43 de la Ley General de Protección Civil.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-10-21",
+    "resultado": "retirado",
+    "texto": "Retirada el 21-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-08",
+  "id": "sil-4945158",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228549",
+      "nombre_fuente": "Dip. Alonso de Jesús Vázquez Jiménez",
+      "person_id": "alonso-de-jesus-vazquez-jimenez",
+      "referencia_sil": "9228549",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4946451",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Protección Civil"
+  ],
+  "tipo": "Iniciativa"
+}

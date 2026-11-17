@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4798291",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "2.-Diputados -Igualdad de Género .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 4° y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia del Sistema Nacional de Cuidados.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-11-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-06",
+  "id": "sil-4798291",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228762",
+      "nombre_fuente": "Dip. Raúl Lozano Caballero",
+      "person_id": "raul-lozano-caballero",
+      "referencia_sil": "9228762",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4798652",
+  "sources": [
+    {
+      "archivo": "fuentes/9c/9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9.html.gz",
+      "consultado": "2026-11-17T07:53:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

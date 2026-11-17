@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4912714",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno de Coahuila a realizar el pago inmediato y completo de los adeudos pendientes con la Universidad Autónoma de Coahuila, correspondientes a la aportación estatal del subsidio ordinario convenido, a fin de garantizar la continuidad operativa y financiera de dicha institución educativa y que se respete el principio de concurrencia financiera establecido en los convenios de coordinación con la Secretaría de Educación Pública, y que se asegure la suficiencia presupuestal para el ejercicio fiscal en curso y los subsecuentes.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-16",
+  "id": "sil-4912714",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228256",
+      "nombre_fuente": "Dip. Francisco Javier Borrego Adame",
+      "person_id": "francisco-javier-borrego-adame",
+      "referencia_sil": "9228256",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914657",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura",
+    "Hacienda Pública",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

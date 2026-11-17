@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4857639",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción XVIII del artículo 3° recorriéndose la subsecuente, se adiciona una fracción X Ter al artículo 7º, un Capítulo III Ter y el artículo 161 Ter de la Ley General de Salud, en materia de enfermedades autoinmunes.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-07-01",
+    "resultado": "retirado",
+    "texto": "Retirada el 01-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-19",
+  "id": "sil-4857639",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228794",
+      "nombre_fuente": "Dip. Alma Marina Vitela Rodríguez",
+      "person_id": "alma-marina-vitela-rodriguez",
+      "referencia_sil": "9228794",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4859115",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115.html.gz",
+      "consultado": "2026-11-17T07:54:29Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

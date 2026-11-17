@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4825764",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que modifica la fracción VIII del artículo 9, las fracciones III y IV del artículo 12, el párrafo quinto del artículo 23, el artículo 26, el artículo 118, adiciona una fracción al artículo 114 y adiciona 3 artículos transitorios a la Ley General de Educación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-13",
+  "id": "sil-4825764",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229174",
+      "nombre_fuente": "Sen. Miguel Ángel Yunes Márquez",
+      "person_id": "miguel-angel-yunes-marquez",
+      "referencia_sil": "9229174",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4827055",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

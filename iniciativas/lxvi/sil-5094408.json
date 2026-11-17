@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5094408",
+  "comisiones": [],
+  "denominacion": "Que convoca a las Cámaras del Congreso de la Unión a celebrar un Primer Periodo de Sesiones Extraordinarias durante el Segundo Receso del Segundo Año de Ejercicio de la Sexagésima Sexta Legislatura.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-05-22",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 22-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-21",
+  "id": "sil-5094408",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228822",
+      "nombre_fuente": "Dip. Ricardo Monreal Ávila",
+      "person_id": "ricardo-monreal-avila",
+      "referencia_sil": "9228822",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229070",
+      "nombre_fuente": "Sen. Moisés Ignacio Mier Velazco",
+      "person_id": "moises-ignacio-mier-velazco",
+      "referencia_sil": "9229070",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5095460",
+  "sources": [
+    {
+      "archivo": "fuentes/1f/1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3.html.gz",
+      "consultado": "2026-11-17T07:58:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

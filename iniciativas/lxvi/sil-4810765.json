@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4810765",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que declara el 9 de abril de cada año, como -Día Nacional del Teatro-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2025-10-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 29-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-27",
+  "id": "sil-4810765",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228950",
+      "nombre_fuente": "Sen. Sandra Simey Olvera Bautista",
+      "person_id": "sandra-simey-olvera-bautista",
+      "referencia_sil": "9228950",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4961169",
+  "sources": [
+    {
+      "archivo": "fuentes/9c/9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9.html.gz",
+      "consultado": "2026-11-17T07:53:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

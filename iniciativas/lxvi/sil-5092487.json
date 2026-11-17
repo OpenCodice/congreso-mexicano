@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5092487",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Radio y Televisión",
+      "referencia": "2085583",
+      "texto": "1.-Diputados -Radio y Televisión .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 191 Bis a la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-13",
+  "id": "sil-5092487",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "nuevo-leon",
+      "nombre_fuente": "Congreso de Nuevo León",
+      "organization_id": "congreso-nuevo-leon",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5093312",
+  "sources": [
+    {
+      "archivo": "fuentes/1f/1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3.html.gz",
+      "consultado": "2026-11-17T07:58:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

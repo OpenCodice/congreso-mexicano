@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4782539",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 381 Ter y 381 Quáter del Código Penal Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-09",
+  "id": "sil-4782539",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229234",
+      "nombre_fuente": "Dip. Verónica Martínez García",
+      "person_id": "veronica-martinez-garcia",
+      "referencia_sil": "9229234",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4784238",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

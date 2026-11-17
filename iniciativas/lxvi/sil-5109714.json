@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5109714",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona los párrafos tercero a séptimo al artículo 74 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, se adicionan los párrafos 2 a 4 al artículo 22 de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, se adicionan los párrafos segundo al sexto al artículo 68 del Código Nacional de Procedimientos Penales, se adicionan un párrafo segundo al octavo al artículo 167 del Código Nacional de Procedimientos Civiles y Familiares, se adicionan los párrafos segundo a cuarto al artículo 1324 del Código de Comercio, se adicionan los párrafos segundo a cuarto al artículo 837 de la Ley Federal del Trabajo, se adicionan los párrafos tercero a quinto al artículo 146 de la Ley Federal de Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional, se adicionan los párrafos segundo a cuarto al artículo 189 de la Ley Agraria y se adiciona un artículo 56-A a la Ley Federal del Procedimiento Contencioso Administrativo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-15",
+  "id": "sil-5109714",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228216",
+      "nombre_fuente": "Dip. Estela Carina Piceno Navarro",
+      "person_id": "estela-carina-piceno-navarro",
+      "referencia_sil": "9228216",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5113597",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
+      "consultado": "2026-11-17T07:58:26Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Electoral",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

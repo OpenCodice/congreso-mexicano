@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5092916",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Educación Pública, para que a través de la Dirección General de Acreditación, Incorporación y Revalidación y la Dirección General de Profesiones, Secretaría de Gobernación, para que a través del Instituto Nacional de Migración; Secretaría de Relaciones Exteriores del Gobierno Federal, a la Secretaría de Salud y a la Comisión Federal para la Protección Contra Riesgos Sanitarios, para que fortalezcan los mecanismos de verificación, coordinación interinstitucional y vigilancia relativos a la revalidación, registro y ejercicio de especialidades médicas obtenidas en el extranjero.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-05",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-13",
+  "id": "sil-5092916",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229275",
+      "nombre_fuente": "Sen. Emmanuel Reyes Carmona",
+      "person_id": "emmanuel-reyes-carmona",
+      "referencia_sil": "9229275",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115082",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Salud",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

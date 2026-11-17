@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4962816",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Movilidad",
+      "referencia": "2085579",
+      "texto": "2.-Diputados -Movilidad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Caminos, Puentes y Autotransporte Federal y de la Ley General de Movilidad y Seguridad Vial, en materia de regulación y seguridad en la circulación de tractocamiones doblemente articulados.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-29",
+  "id": "sil-4962816",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228716",
+      "nombre_fuente": "Dip. José Luis Montalvo Luna",
+      "person_id": "jose-luis-montalvo-luna",
+      "referencia_sil": "9228716",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4964256",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4824242",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, a convocar a la Reunión Nacional de Funcionarios Fiscales con el propósito de proponer las medidas que se emiten convenientes para actualizar y mejorar el Sistema Nacional de Coordinación Fiscal en cuanto a los criterios de distribución de los recursos recaudados para garantizar una adecuada y justa distribución del Gasto Federalizado entre las entidades federativas.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-12",
+  "id": "sil-4824242",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229248",
+      "nombre_fuente": "Sen. José Clemente Castañeda Hoeflich",
+      "person_id": "jose-clemente-castaneda-hoeflich",
+      "referencia_sil": "9229248",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4826749",
+  "sources": [
+    {
+      "archivo": "fuentes/f1/f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d.html.gz",
+      "consultado": "2026-11-17T08:00:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

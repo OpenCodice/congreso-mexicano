@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5092788",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el articulo 15 y se adiciona un párrafo segundo recorriéndose los subsecuentes en su orden, al artículo 16 de la Ley General de Educación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-13",
+  "id": "sil-5092788",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5097187",
+  "sources": [
+    {
+      "archivo": "fuentes/1f/1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3.html.gz",
+      "consultado": "2026-11-17T07:58:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

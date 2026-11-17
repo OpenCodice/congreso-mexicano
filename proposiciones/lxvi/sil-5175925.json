@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "5175925",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085514",
+      "texto": "1.-Senado -Relaciones Exteriores.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Gobernación y la Agencia de Transformación Digital y Telecomunicaciones, celebre convenios de coordinación con las 32 entidades federativas que permitan tramitar, a través de las oficinas consulares de México, la aclaración y corrección administrativa de actas del estado civil de las personas mexicanas que residen en el exterior.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5175925",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229290",
+      "nombre_fuente": "Sen. Karina Isabel Ruiz Ruiz",
+      "person_id": "karina-isabel-ruiz-ruiz",
+      "referencia_sil": "9229290",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195954",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003308",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción IX) del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en materia de homologación de derechos y dignificación del magisterio de la educación media superior.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-10-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003308",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228306",
+      "nombre_fuente": "Dip. Jacobo Mendoza Ruiz",
+      "person_id": "jacobo-mendoza-ruiz",
+      "referencia_sil": "9228306",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004088",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Educación y Cultura",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

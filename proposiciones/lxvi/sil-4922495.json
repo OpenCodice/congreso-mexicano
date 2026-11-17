@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4922495",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Junta Directiva del ISSSTE, a revisar, supervisar y actualizar sus instrumentos normativos y lineamientos y a la integración en su Comisión de Vigilancia a miembros de la Comisión de Salud de la Cámara de Diputados.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-09",
+  "id": "sil-4922495",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228581",
+      "nombre_fuente": "Dip. María Magdalena Rosales Cruz",
+      "person_id": "maria-magdalena-rosales-cruz",
+      "referencia_sil": "9228581",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4925267",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

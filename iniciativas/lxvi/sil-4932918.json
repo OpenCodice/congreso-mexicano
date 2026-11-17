@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4932918",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto para inscribir con letras de oro en el Muro de Honor de la Cámara de Diputados del Congreso de la Unión la leyenda -Bandera Siera de Zongolica-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-24",
+  "id": "sil-4932918",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228249",
+      "nombre_fuente": "Dip. Jonathan Puertos Chimalhua",
+      "person_id": "jonathan-puertos-chimalhua",
+      "referencia_sil": "9228249",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4934899",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [],
+  "tipo": "Iniciativa"
+}

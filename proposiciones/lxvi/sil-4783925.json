@@ -1,0 +1,68 @@
+{
+  "camara_origen": "senado",
+  "clave": "4783925",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que el Senado de la República solicita a los titulares de las secretarías de Seguridad Pública y Protección Ciudadana, de Defensa Nacional y de Marina, así como a la Guardia Nacional y al gobierno de Tlaxcala, un informe detallado sobre el incremento de la violencia en la entidad y de las acciones realizadas para prevenir y atender los delitos cometidos en lo que va del 2024, en particular respecto de los homicidios dolosos y su vinculación con el crimen organizado; así como en conjunto implementen una estrategia emergente de seguridad.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-12-04",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 04-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-10",
+  "id": "sil-4783925",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4817567",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Nacional",
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

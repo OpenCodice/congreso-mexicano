@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4920435",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que establece las características de una moneda conmemorativa de los Doscientos Años de Relaciones Diplomáticas entre los Estados Unidos Mexicanos y la República Francesa.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de Cámara de Origen",
+    "fecha": "2025-11-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de Cámara de Origen el 11-NOV-2025"
+  },
+  "expediente_id": "sil-4923106",
+  "fecha_presentacion": "2025-09-01",
+  "id": "sil-4920435",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229294",
+      "nombre_fuente": "Sen. Alejandro Ismael Murat Hinojosa",
+      "person_id": "alejandro-ismael-murat-hinojosa",
+      "referencia_sil": "9229294",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4923106",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

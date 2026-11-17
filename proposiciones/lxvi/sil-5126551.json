@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5126551",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Medio Ambiente y Recursos Naturales, a la Procuraduría Federal de Protección al Ambiente, a la Secretaría de Desarrollo Sustentable del estado de Morelos, y al Ayuntamiento de Cuernavaca, para que atiendan de manera prioritaria, coordinada y oportuna la problemática generada por el proyecto inmobiliario proyectado en el predio conocido como La Cazahuatera, en el municipio de Cuernavaca, Morelos, a fin de garantizar el pleno ejercicio del derecho humano a un medio ambiente sano, la protección de los servicios ambientales esenciales y la observancia estricta de la normatividad en materia de impacto ambiental y ordenamiento ecológico del territorio.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-09",
+  "id": "sil-5126551",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229018",
+      "nombre_fuente": "Sen. Ángel García Yáñez",
+      "person_id": "angel-garcia-yanez",
+      "referencia_sil": "9229018",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143534",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

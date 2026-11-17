@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4839751",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto para que se inscriba en letras de oro en el Muro de Honor del Salón de Sesiones del Palacio Legislativo de San Lázaro, la frase -A la Comunidad Mexicana Migrante-.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-03-03",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 03-MAR-2025"
+  },
+  "expediente_id": "sil-4843228",
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4839751",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229226",
+      "nombre_fuente": "Dip. Marcela Guerra Castillo",
+      "person_id": "marcela-guerra-castillo",
+      "referencia_sil": "9229226",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4843228",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

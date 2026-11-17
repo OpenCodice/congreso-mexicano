@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5112602",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Comisión Nacional del Agua, a diversas dependencias del gobierno de la Ciudad de México y a la Alcaldía la Magdalena Contreras a intervenir de manera inmediata ante los riesgos sanitarios, de protección civil y delitos ambientales derivados del deterioro del muro de contención del Deportivo -Casa Popular-, las descargas de aguas negras provenientes de dichas instalaciones públicas y el consecuente taponamiento en el canal a cielo abierto denominado Río Chico, en la colonia San Jerónimo Lídice, así como por la reiterada omisión de la Alcaldía en la atención de dicha problemática.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-29",
+  "id": "sil-5112602",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229151",
+      "nombre_fuente": "Dip. Miguel Ángel Guevara Rodríguez",
+      "person_id": "miguel-angel-guevara-rodriguez",
+      "referencia_sil": "9229151",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5116327",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

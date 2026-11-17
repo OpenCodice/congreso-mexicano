@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4887343",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica",
+      "referencia": "2085508",
+      "texto": "1.-Senado -Recursos Hídricos e Infraestructura Hidráulica .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al titular de la Coordinación Nacional de Protección Civil, a emitir la Declaratoria de Sequía Emergente para el estado de Baja California Sur, a las Secretarías de Hacienda y Crédito Público, de Agricultura y Desarrollo Rural y a la Comisión Nacional del Agua, a coordinarse para brindar respaldo técnico, movilizar recursos extraordinarios, establecer programas de apoyo integral a productores agropecuarios y familias ganaderas, priorizando a los más vulnerables, impulsar infraestructura hídrica sostenible y sistemas de captación, asegurando el acceso sostenible al agua.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-24",
+  "id": "sil-4887343",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228748",
+      "nombre_fuente": "Sen. Susana del Carmen Zatarain García",
+      "person_id": "susana-del-carmen-zatarain-garcia",
+      "referencia_sil": "9228748",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898102",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5011586",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al gobierno de Baja California Sur a respetar lo dispuesto en la Ley de Aeropuertos y de la Ley de Caminos, Puentes y Autotransporte Federal, a no invadir la competencia federal y no coartar el derecho del transporte turístico en la entidad con permisos federales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-10",
+  "id": "sil-5011586",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228256",
+      "nombre_fuente": "Dip. Francisco Javier Borrego Adame",
+      "person_id": "francisco-javier-borrego-adame",
+      "referencia_sil": "9228256",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5014485",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

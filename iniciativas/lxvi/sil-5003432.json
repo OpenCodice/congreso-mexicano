@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003432",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona el artículo 66 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de uso seguro y responsable de dispositivos digitales.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-04-07",
+    "resultado": "retirado",
+    "texto": "Retirada el 07-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003432",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228385",
+      "nombre_fuente": "Dip. Luis Orlando Quiroga Treviño",
+      "person_id": "luis-orlando-quiroga-trevino",
+      "referencia_sil": "9228385",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004037",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

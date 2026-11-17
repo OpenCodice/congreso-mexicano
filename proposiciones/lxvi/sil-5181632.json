@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5181632",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que el que el Senado de la República solicita información sobre los hechos de violencia que afectan al personal y a los establecimientos de salud, y exhorta a las autoridades competentes a diseñar e implementar un Mecanismo Nacional de Prevención y Protección para el Personal de Salud que labora en zonas rurales, apartadas, de difícil acceso o con condiciones especiales de riesgo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-28",
+  "id": "sil-5181632",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228883",
+      "nombre_fuente": "Sen. Gabriel Elizondo Pérez",
+      "person_id": "gabriel-elizondo-perez",
+      "referencia_sil": "9228883",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195986",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

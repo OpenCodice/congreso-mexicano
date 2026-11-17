@@ -1,0 +1,58 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5117977",
+  "comisiones": [],
+  "denominacion": "Por el que exhortaba a la Secretaría de Gobernación a informar sobre la operación de casinos en el país.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2026-08-19",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 19-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-19",
+  "id": "sil-5117977",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Comisión Permanente: Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026)",
+      "referencias_comision": [
+        "2085622"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "5118667",
+  "sources": [
+    {
+      "archivo": "fuentes/bb/bb107f7a570fdd8114b958cc023fa1f62af57a68d695f5ac20bc9c33fb68b133.html.gz",
+      "consultado": "2026-11-17T08:10:46Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "bb107f7a570fdd8114b958cc023fa1f62af57a68d695f5ac20bc9c33fb68b133",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [
+    "Gobernación"
+  ],
+  "tipo": "Dictamen en sentido negativo"
+}

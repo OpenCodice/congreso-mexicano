@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4926638",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 390 del Código Penal Federal, en materia de extorsión.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-11-28",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 28-NOV-2025"
+  },
+  "expediente_id": "sil-4961172",
+  "fecha_presentacion": "2025-09-17",
+  "id": "sil-4926638",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228208",
+      "nombre_fuente": "Dip. Francisco Javier Sánchez Cervantes",
+      "person_id": "francisco-javier-sanchez-cervantes",
+      "referencia_sil": "9228208",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4961172",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

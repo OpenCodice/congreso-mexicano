@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4923361",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General de Partidos Políticos, de la Ley General de Comunicación Social, Ley en Materia de Telecomunicaciones y Radiodifusión, Ley Federal de Protección al Consumidor.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-10",
+  "id": "sil-4923361",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "tamaulipas",
+      "nombre_fuente": "Congreso de Tamaulipas",
+      "organization_id": "congreso-tamaulipas",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "4924550",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Electoral",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

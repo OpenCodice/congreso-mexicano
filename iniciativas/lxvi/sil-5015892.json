@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5015892",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Transparencia y Anticorrupción",
+      "referencia": "2085591",
+      "texto": "1.-Diputados -Transparencia y Anticorrupción .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General del Sistema Nacional Anticorrupción, en materia de armonización y participación ciudadana.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-17",
+  "id": "sil-5015892",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228696",
+      "nombre_fuente": "Dip. César Agustín Hernández Pérez",
+      "person_id": "cesar-agustin-hernandez-perez",
+      "referencia_sil": "9228696",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5019529",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Transparencia y Rendición de Cuentas",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

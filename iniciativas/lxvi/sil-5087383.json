@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5087383",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ciencia, Tecnología e Innovación",
+      "referencia": "2085566",
+      "texto": "1.-Diputados -Ciencia, Tecnología e Innovación .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma las fraccion XXVI y XXVII y adiciona las fracciones XXVIII, XXIX y XXX del artículo 4°, reforma la fracción XXV y XXVI y adiciona las fracciones XXVII y XXVIII del artículo 11, se reforma el primer párrafo del artículo 16, se reforma la fracción V, VI y adiciona la fracción VII del artículo 17, reforma la fracción XIII, XIV y adiciona la fracción XV del artículo 22, se adiciona un artículo 29 Bis, se reforma la fracción VI del artículo 33, se adiciona un párrafo al artículo 50, reforma el primer párrafo y adiciona un párrafo final al artículo 54 de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación, en materia de promoción de coinversión estratégica empresarial.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5087383",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228349",
+      "nombre_fuente": "Dip. Gilberto Herrera Ruiz",
+      "person_id": "gilberto-herrera-ruiz",
+      "referencia_sil": "9228349",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5092055",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

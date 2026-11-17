@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4785374",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Energía",
+      "referencia": "2085519",
+      "texto": "1.-Senado -Energía.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción XVII del artículo 35 de la Ley Orgánica de la Administración Pública Federal; adiciona el primer párrafo del artículo 4, y el primer, segundo y cuarto párrafos del artículo 5 de la Ley de Energía para el Campo; y adiciona la fracción VII del artículo 32 de la Ley del Desarrollo Rural Sustentable.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-15",
+  "id": "sil-4785374",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229385",
+      "nombre_fuente": "Sen. Karla Guadalupe Toledo Zamora",
+      "person_id": "karla-guadalupe-toledo-zamora",
+      "referencia_sil": "9229385",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4785465",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo",
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

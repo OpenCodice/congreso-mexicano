@@ -1,0 +1,58 @@
+{
+  "camara_origen": "senado",
+  "clave": "5190137",
+  "comisiones": [],
+  "denominacion": "Por el que exhorta a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, a la Secretaría de Hacienda y Crédito Público, a la Secretaría de Medio Ambiente y Recursos Naturales y a la Comisión Nacional de Áreas Naturales Protegidas, a fin de fortalecer, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027, los recursos destinados a la conservación, vigilancia y manejo de las áreas naturales protegidas de competencia federal ubicadas en el estado de San Luis Potosí.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-04",
+  "id": "sil-5190137",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229096",
+      "nombre_fuente": "Sen. Verónica Rodríguez Hernández",
+      "person_id": "veronica-rodriguez-hernandez",
+      "referencia_sil": "9229096",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

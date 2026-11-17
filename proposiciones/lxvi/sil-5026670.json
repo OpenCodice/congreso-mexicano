@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5026670",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SADER, al SEGALMEX, a actualizar el Acuerdo por el que se dan a conocer las Reglas de Operación del Programa de Comercio Justo, para el Ejercicio Fiscal 2026, a efecto de establecer el precio de garantía para el maíz y el frijol en beneficio de los pequeños y medianos productores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 03-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-03",
+  "id": "sil-5026670",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229048",
+      "nombre_fuente": "Dip. Carmen Rocío González Alonso",
+      "person_id": "carmen-rocio-gonzalez-alonso",
+      "referencia_sil": "9229048",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5030961",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

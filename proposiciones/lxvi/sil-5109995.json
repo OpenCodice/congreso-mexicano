@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5109995",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, a la Secretaría de Gobernación, al Gobierno del Estado de Veracruz, a la Fiscalía General del Estado de Veracruz y a la Comisión Ejecutiva de Atención a Víctimas a realizar las diligencias necesarias para ejercer acción penal y castigar a los autores intelectuales y partícipes de los delitos cometidos en contra de Roxana Berenice Guzmán Ramírez, y a fortalecer las acciones de prevención, protección, investigación, acceso a la justicia y atención integral a favor de las personas periodistas, en garantía del ejercicio de la libertad de expresión y el combate a la impunidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-15",
+  "id": "sil-5109995",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5113632",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Gobernación",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

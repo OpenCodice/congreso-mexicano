@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4901089",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Comisión Nacional Bancaria y de Valores y a la Asociación de Bancos de México revisar y modificar sus protocolos de atención a las personas adultas mayores, usuarias de la banca, al tiempo de implementar mecanismos más accesibles para validar su identidad, sin comprometer la seguridad de sus operaciones ni su bienestar.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-08-20",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-21",
+  "id": "sil-4901089",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229296",
+      "nombre_fuente": "Dip. Hugo Eduardo Gutiérrez Arroyo",
+      "person_id": "hugo-eduardo-gutierrez-arroyo",
+      "referencia_sil": "9229296",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4918971",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Sistema Financiero"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

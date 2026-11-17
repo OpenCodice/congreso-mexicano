@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "5001374",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Agricultura",
+      "referencia": "2085477",
+      "texto": "1.-Senado -Agricultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta a la Secretaría de Agricultura y Desarrollo Rural y a la Secretaría de Economía, ambas dependencias del gobierno federal, para que, en el ámbito de sus competencias, brinden el asesoramiento técnico, así como el acompañamiento y reforzamiento de las acciones en favor de los productores del aguacate del Estado de México, a fin de eliminar las barreras fitosanitarias y administrativas que impiden su comercialización en los Estados Unidos de América.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-5001374",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228976",
+      "nombre_fuente": "Sen. Mariela Gutiérrez Escalante",
+      "person_id": "mariela-gutierrez-escalante",
+      "referencia_sil": "9228976",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5002726",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,234 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5110960",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un Capítulo XIII, al Título VII de la Ley del Impuesto sobre la Renta y se adiciona un Capítulo X a la Ley del Impuesto al Valor Agregado.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-22",
+  "id": "sil-5110960",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228258",
+      "nombre_fuente": "Dip. Theodoros Kalionchiz De la Fuente",
+      "person_id": "theodoros-kalionchiz-de-la-fuente",
+      "referencia_sil": "9228258",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228439",
+      "nombre_fuente": "Dip. Olga Juliana Elizondo Guerra",
+      "person_id": "olga-juliana-elizondo-guerra",
+      "referencia_sil": "9228439",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228499",
+      "nombre_fuente": "Dip. Lilia Aguilar Gil",
+      "person_id": "lilia-aguilar-gil",
+      "referencia_sil": "9228499",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228252",
+      "nombre_fuente": "Dip. Brígido Ramiro Moreno Hernández",
+      "person_id": "brigido-ramiro-moreno-hernandez",
+      "referencia_sil": "9228252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228433",
+      "nombre_fuente": "Dip. Mario Alberto López Hernández",
+      "person_id": "mario-alberto-lopez-hernandez",
+      "referencia_sil": "9228433",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229340",
+      "nombre_fuente": "Dip. Ana Erika Santana González",
+      "person_id": "ana-erika-santana-gonzalez",
+      "referencia_sil": "9229340",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228138",
+      "nombre_fuente": "Dip. Fausto Gallardo García",
+      "person_id": "fausto-gallardo-garcia",
+      "referencia_sil": "9228138",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228998",
+      "nombre_fuente": "Dip. Alfonso Ramírez Cuéllar",
+      "person_id": "alfonso-ramirez-cuellar",
+      "referencia_sil": "9228998",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228497",
+      "nombre_fuente": "Dip. Teresita de Jesús Vargas Meraz",
+      "person_id": "teresita-de-jesus-vargas-meraz",
+      "referencia_sil": "9228497",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228942",
+      "nombre_fuente": "Dip. Maribel Solache González",
+      "person_id": "maribel-solache-gonzalez",
+      "referencia_sil": "9228942",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228256",
+      "nombre_fuente": "Dip. Francisco Javier Borrego Adame",
+      "person_id": "francisco-javier-borrego-adame",
+      "referencia_sil": "9228256",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228300",
+      "nombre_fuente": "Dip. Jesús Antonio Pujol Irastorza",
+      "person_id": "jesus-antonio-pujol-irastorza",
+      "referencia_sil": "9228300",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228828",
+      "nombre_fuente": "Dip. Petra Romero Gómez",
+      "person_id": "petra-romero-gomez",
+      "referencia_sil": "9228828",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228266",
+      "nombre_fuente": "Dip. Antonio Lorenzo Castro Villarreal",
+      "person_id": "antonio-lorenzo-castro-villarreal",
+      "referencia_sil": "9228266",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228135",
+      "nombre_fuente": "Dip. Karla Patricia Sánchez Rodelo",
+      "person_id": "karla-patricia-sanchez-rodelo",
+      "referencia_sil": "9228135",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228133",
+      "nombre_fuente": "Dip. José Armando Fernández Samaniego",
+      "person_id": "jose-armando-fernandez-samaniego",
+      "referencia_sil": "9228133",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228123",
+      "nombre_fuente": "Dip. Nancy Guadalupe Sánchez Arredondo",
+      "person_id": "nancy-guadalupe-sanchez-arredondo",
+      "referencia_sil": "9228123",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228125",
+      "nombre_fuente": "Dip. Claudia Lisbeth Moreno Ramírez",
+      "person_id": "claudia-lisbeth-moreno-ramirez",
+      "referencia_sil": "9228125",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228121",
+      "nombre_fuente": "Dip. Alma Laura Ruiz López",
+      "person_id": "alma-laura-ruiz-lopez",
+      "referencia_sil": "9228121",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228140",
+      "nombre_fuente": "Dip. Hilda Araceli Brown Figueredo",
+      "person_id": "hilda-araceli-brown-figueredo",
+      "referencia_sil": "9228140",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228298",
+      "nombre_fuente": "Dip. Manuel de Jesús Baldenebro Arredondo",
+      "person_id": "manuel-de-jesus-baldenebro-arredondo",
+      "referencia_sil": "9228298",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228127",
+      "nombre_fuente": "Dip. Rocío López Gorosave",
+      "person_id": "rocio-lopez-gorosave",
+      "referencia_sil": "9228127",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228495",
+      "nombre_fuente": "Dip. Daniel Murguía Lardizabal",
+      "person_id": "daniel-murguia-lardizabal",
+      "referencia_sil": "9228495",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228429",
+      "nombre_fuente": "Dip. Claudia Alejandra Hernández Sáenz",
+      "person_id": "claudia-alejandra-hernandez-saenz",
+      "referencia_sil": "9228429",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228131",
+      "nombre_fuente": "Dip. Gilberto Herrera Solórzano",
+      "person_id": "gilberto-herrera-solorzano",
+      "referencia_sil": "9228131",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115147",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
+      "consultado": "2026-11-17T07:58:26Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

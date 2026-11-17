@@ -1,0 +1,80 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5123659",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de los artículos 183, 185, 201 y 202, y reforma la fracción IX del artículo 467 del Código Nacional de Procedimientos Penales, en materia de improcedencia del procedimiento abreviado en los delitos de feminicidio y violación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-08",
+  "id": "sil-5123659",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228344",
+      "nombre_fuente": "Dip. Luis Humberto Aldana Navarro",
+      "person_id": "luis-humberto-aldana-navarro",
+      "referencia_sil": "9228344",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228702",
+      "nombre_fuente": "Dip. Anaís Miriam Burgos Hernández",
+      "person_id": "anais-miriam-burgos-hernandez",
+      "referencia_sil": "9228702",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228347",
+      "nombre_fuente": "Dip. Mildred Concepción Ávila Vera",
+      "person_id": "mildred-concepcion-avila-vera",
+      "referencia_sil": "9228347",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5128651",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

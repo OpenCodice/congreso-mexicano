@@ -1,0 +1,80 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5087028",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona una fracción y se recorre la subsecuente al artículo 72 de la Ley General de Educación, en materia de uniforme escolar neutro para estudiantes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5087028",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228702",
+      "nombre_fuente": "Dip. Anaís Miriam Burgos Hernández",
+      "person_id": "anais-miriam-burgos-hernandez",
+      "referencia_sil": "9228702",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228938",
+      "nombre_fuente": "Dip. Jaime Genaro López Vela",
+      "person_id": "jaime-genaro-lopez-vela",
+      "referencia_sil": "9228938",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228359",
+      "nombre_fuente": "Dip. Luis Humberto Fernández Fuentes",
+      "person_id": "luis-humberto-fernandez-fuentes",
+      "referencia_sil": "9228359",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5091917",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

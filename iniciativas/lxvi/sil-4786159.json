@@ -1,0 +1,93 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4786159",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Reforma Política-Electoral",
+      "referencia": "2085585",
+      "texto": "1.-Diputados -Reforma Política-Electoral .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 156 y se adiciona un artículo 156 Bis a la Ley General de Instituciones y Procedimientos Electorales, en materia de donación de órganos, tejidos y células.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-16",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 16-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-16",
+  "id": "sil-4786159",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "nombre_fuente": "PT",
+      "organization_id": "partido-pt",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PRI",
+      "organization_id": "partido-pri",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "Morena",
+      "organization_id": "partido-morena",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "MC",
+      "organization_id": "partido-mc",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PVEM",
+      "organization_id": "partido-pvem",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "mandato_id": "sil-9229144",
+      "nombre_fuente": "Dip. Kenia López Rabadán",
+      "person_id": "kenia-lopez-rabadan",
+      "referencia_sil": "9229144",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4787736",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Electoral",
+    "Salud",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

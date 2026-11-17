@@ -1,0 +1,395 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5149516",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en materia de reclutamiento forzado de persona.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 21-OCT-2026"
+  },
+  "expediente_id": "sil-5170402",
+  "fecha_presentacion": "2026-09-30",
+  "id": "sil-5149516",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229230",
+      "nombre_fuente": "Dip. Miguel Alejandro Alonso Reyes",
+      "person_id": "miguel-alejandro-alonso-reyes",
+      "referencia_sil": "9229230",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229410",
+      "nombre_fuente": "Dip. Ofelia Socorro Jasso Nieto",
+      "person_id": "ofelia-socorro-jasso-nieto",
+      "referencia_sil": "9229410",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229172",
+      "nombre_fuente": "Dip. Tania Palacios Kuri",
+      "person_id": "tania-palacios-kuri",
+      "referencia_sil": "9229172",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229144",
+      "nombre_fuente": "Dip. Kenia López Rabadán",
+      "person_id": "kenia-lopez-rabadan",
+      "referencia_sil": "9229144",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228371",
+      "nombre_fuente": "Dip. Annia Sarahí Gómez Cárdenas",
+      "person_id": "annia-sarahi-gomez-cardenas",
+      "referencia_sil": "9228371",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229352",
+      "nombre_fuente": "Dip. Julio Javier Scherer Pareyón",
+      "person_id": "julio-javier-scherer-pareyon",
+      "referencia_sil": "9229352",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228419",
+      "nombre_fuente": "Dip. Ernesto Núñez Aguilar",
+      "person_id": "ernesto-nunez-aguilar",
+      "referencia_sil": "9228419",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228340",
+      "nombre_fuente": "Dip. Juan Luis Carrillo Soberanis",
+      "person_id": "juan-luis-carrillo-soberanis",
+      "referencia_sil": "9228340",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229330",
+      "nombre_fuente": "Dip. Reginaldo Sandoval Flores",
+      "person_id": "reginaldo-sandoval-flores",
+      "referencia_sil": "9229330",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228776",
+      "nombre_fuente": "Dip. Juan Ignacio Zavala Gutiérrez",
+      "person_id": "juan-ignacio-zavala-gutierrez",
+      "referencia_sil": "9228776",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229200",
+      "nombre_fuente": "Dip. Arturo Yáñez Cuéllar",
+      "person_id": "arturo-yanez-cuellar",
+      "referencia_sil": "9229200",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228509",
+      "nombre_fuente": "Dip. César Alejandro Domínguez Domínguez",
+      "person_id": "cesar-alejandro-dominguez-dominguez",
+      "referencia_sil": "9228509",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229302",
+      "nombre_fuente": "Dip. Emilio Suárez Licona",
+      "person_id": "emilio-suarez-licona",
+      "referencia_sil": "9229302",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229318",
+      "nombre_fuente": "Dip. Ricardo Sóstenes Mejía Berdeja",
+      "person_id": "ricardo-sostenes-mejia-berdeja",
+      "referencia_sil": "9229318",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228302",
+      "nombre_fuente": "Dip. Diana Karina Barreras Samaniego",
+      "person_id": "diana-karina-barreras-samaniego",
+      "referencia_sil": "9228302",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228499",
+      "nombre_fuente": "Dip. Lilia Aguilar Gil",
+      "person_id": "lilia-aguilar-gil",
+      "referencia_sil": "9228499",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228409",
+      "nombre_fuente": "Dip. Mary Carmen Bernal Martínez",
+      "person_id": "mary-carmen-bernal-martinez",
+      "referencia_sil": "9228409",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228220",
+      "nombre_fuente": "Dip. Carlos Arturo Madrazo Silva",
+      "person_id": "carlos-arturo-madrazo-silva",
+      "referencia_sil": "9228220",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229360",
+      "nombre_fuente": "Dip. Felipe Miguel Delgado Carrillo",
+      "person_id": "felipe-miguel-delgado-carrillo",
+      "referencia_sil": "9229360",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228443",
+      "nombre_fuente": "Dip. Fátima Almendra Cruz Peláez",
+      "person_id": "fatima-almendra-cruz-pelaez",
+      "referencia_sil": "9228443",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228638",
+      "nombre_fuente": "Dip. María Luisa Mendoza Mondragón",
+      "person_id": "maria-luisa-mendoza-mondragon",
+      "referencia_sil": "9228638",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229370",
+      "nombre_fuente": "Dip. Liliana Carbajal Méndez",
+      "person_id": "liliana-carbajal-mendez",
+      "referencia_sil": "9229370",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229099",
+      "nombre_fuente": "Dip. José Alfonso Rubalcava Jiménez",
+      "person_id": "jose-alfonso-rubalcava-jimenez",
+      "referencia_sil": "9229099",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229042",
+      "nombre_fuente": "Dip. César Israel Damián Retes",
+      "person_id": "cesar-israel-damian-retes",
+      "referencia_sil": "9229042",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228262",
+      "nombre_fuente": "Dip. José Guillermo Anaya Llamas",
+      "person_id": "jose-guillermo-anaya-llamas",
+      "referencia_sil": "9228262",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229044",
+      "nombre_fuente": "Dip. Paulina Rubio Fernández",
+      "person_id": "paulina-rubio-fernandez",
+      "referencia_sil": "9229044",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228202",
+      "nombre_fuente": "Dip. Margarita Ester Zavala Gómez del Campo",
+      "person_id": "margarita-ester-zavala-gomez-del-campo",
+      "referencia_sil": "9228202",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228694",
+      "nombre_fuente": "Dip. Gerardo Ulloa Pérez",
+      "person_id": "gerardo-ulloa-perez",
+      "referencia_sil": "9228694",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228628",
+      "nombre_fuente": "Dip. Guillermo Rafael Santiago Rodríguez",
+      "person_id": "guillermo-rafael-santiago-rodriguez",
+      "referencia_sil": "9228628",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228573",
+      "nombre_fuente": "Dip. Ernesto Alejandro Prieto Gallardo",
+      "person_id": "ernesto-alejandro-prieto-gallardo",
+      "referencia_sil": "9228573",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228405",
+      "nombre_fuente": "Dip. Leonel Godoy Rangel",
+      "person_id": "leonel-godoy-rangel",
+      "referencia_sil": "9228405",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228158",
+      "nombre_fuente": "Dip. Óscar Iván Brito Zapata",
+      "person_id": "oscar-ivan-brito-zapata",
+      "referencia_sil": "9228158",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228551",
+      "nombre_fuente": "Dip. Alberto Maldonado Chavarín",
+      "person_id": "alberto-maldonado-chavarin",
+      "referencia_sil": "9228551",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228958",
+      "nombre_fuente": "Dip. Olga María del Carmen Sánchez Cordero Dávila",
+      "person_id": "olga-maria-del-carmen-sanchez-cordero-davila",
+      "referencia_sil": "9228958",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228980",
+      "nombre_fuente": "Dip. María de Jesús Rosete Sánchez",
+      "person_id": "maria-de-jesus-rosete-sanchez",
+      "referencia_sil": "9228980",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228174",
+      "nombre_fuente": "Dip. Gabriela Georgina Jiménez Godoy",
+      "person_id": "gabriela-georgina-jimenez-godoy",
+      "referencia_sil": "9228174",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228449",
+      "nombre_fuente": "Dip. Rafaela Vianey García Romero",
+      "person_id": "rafaela-vianey-garcia-romero",
+      "referencia_sil": "9228449",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229401",
+      "nombre_fuente": "Dip. María Teresa Ealy Díaz",
+      "person_id": "maria-teresa-ealy-diaz",
+      "referencia_sil": "9229401",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228624",
+      "nombre_fuente": "Dip. Azucena Arreola Trinidad",
+      "person_id": "azucena-arreola-trinidad",
+      "referencia_sil": "9228624",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228934",
+      "nombre_fuente": "Dip. Julieta Kristal Vences Valencia",
+      "person_id": "julieta-kristal-vences-valencia",
+      "referencia_sil": "9228934",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228204",
+      "nombre_fuente": "Dip. Elena Edith Segura Trejo",
+      "person_id": "elena-edith-segura-trejo",
+      "referencia_sil": "9228204",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228216",
+      "nombre_fuente": "Dip. Estela Carina Piceno Navarro",
+      "person_id": "estela-carina-piceno-navarro",
+      "referencia_sil": "9228216",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228613",
+      "nombre_fuente": "Dip. Astrit Viridiana Cornejo Gómez",
+      "person_id": "astrit-viridiana-cornejo-gomez",
+      "referencia_sil": "9228613",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229026",
+      "nombre_fuente": "Dip. Mariana Benítez Tiburcio",
+      "person_id": "mariana-benitez-tiburcio",
+      "referencia_sil": "9229026",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228956",
+      "nombre_fuente": "Dip. Julio César Moreno Rivera",
+      "person_id": "julio-cesar-moreno-rivera",
+      "referencia_sil": "9228956",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5170402",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

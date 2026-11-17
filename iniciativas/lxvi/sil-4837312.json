@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4837312",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De Decreto para realizar inscripción de Honor en el Recinto de la Cámara de Diputados la frase: -Mexicanas y Mexicanos Migrantes, Héroes de la Patria-.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-03-03",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 03-MAR-2025"
+  },
+  "expediente_id": "sil-4843228",
+  "fecha_presentacion": "2025-02-18",
+  "id": "sil-4837312",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229010",
+      "nombre_fuente": "Dip. Roselia Suárez Montes de Oca",
+      "person_id": "roselia-suarez-montes-de-oca",
+      "referencia_sil": "9229010",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4843228",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

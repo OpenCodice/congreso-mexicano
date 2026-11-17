@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5096685",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las entidades federativas, a través de sus Secretarías de Educación y Seguridad Pública, para que refuercen en los planteles educativos públicos y privados protocolos de prevención de cualquier tipo de violencia escolar, incluyendo la ejercida por personas ajenas a la institución; así como la capacitación del personal docente y directivo para la detección de conductas de riesgo y en su caso atención.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-05",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-25",
+  "id": "sil-5096685",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229008",
+      "nombre_fuente": "Sen. Araceli Saucedo Reyes",
+      "person_id": "araceli-saucedo-reyes",
+      "referencia_sil": "9229008",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115095",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

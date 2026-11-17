@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4944677",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Marina",
+      "referencia": "2085486",
+      "texto": "1.-Senado -Marina.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Agencia Nacional de Aduanas y a la Secretaría de Cultura del Gobierno de la República, a fin de que intervengan y den celeridad al trámite aduanal de un embarque de 50 instrumentos musicales que se encuentra retenido en el recinto aduanal de Veracruz y que fueron donados por la Musikschule Bantiger, de Suiza a la Youth Sinfonietta Chiapas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-08",
+  "id": "sil-4944677",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4946518",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

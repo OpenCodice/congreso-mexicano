@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4792437",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Movilidad",
+      "referencia": "2085579",
+      "texto": "1.-Diputados -Movilidad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los congresos locales de diversas entidades federativas a dar cumplimiento a lo establecido en el Segundo Artículo Transitorio de la Ley General de Movilidad y Seguridad Vial.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-29",
+  "id": "sil-4792437",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229326",
+      "nombre_fuente": "Dip. Pedro Vázquez González",
+      "person_id": "pedro-vazquez-gonzalez",
+      "referencia_sil": "9229326",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4813658",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

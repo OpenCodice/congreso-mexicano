@@ -1,0 +1,63 @@
+{
+  "camara_origen": "senado",
+  "clave": "5070347",
+  "comisiones": [],
+  "denominacion": "Por el que desecha siete iniciativas presentadas durante las Sexagésima Cuarta y Sexagésima Quinta Legislatura.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2026-04-15",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-15",
+  "id": "sil-5070347",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos",
+      "referencias_comision": [
+        "2085521"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Educación",
+      "referencias_comision": [
+        "2085517"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "5071974",
+  "sources": [
+    {
+      "archivo": "fuentes/1a/1afeb512e312a86c3482f2d0120827c4c8738868e87d0bc56dde932fe59ae85a.html.gz",
+      "consultado": "2026-11-17T08:09:28Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1afeb512e312a86c3482f2d0120827c4c8738868e87d0bc56dde932fe59ae85a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

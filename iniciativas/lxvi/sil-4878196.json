@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4878196",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones a la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de violencia a través de interpósita persona.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-10",
+  "id": "sil-4878196",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228630",
+      "nombre_fuente": "Dip. Deliamaría González Flandez",
+      "person_id": "deliamaria-gonzalez-flandez",
+      "referencia_sil": "9228630",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4879288",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

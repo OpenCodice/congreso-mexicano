@@ -1,0 +1,138 @@
+{
+  "camara_origen": "senado",
+  "clave": "5173066",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica",
+      "referencia": "2085508",
+      "texto": "1.-Senado -Recursos Hídricos e Infraestructura Hidráulica .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que crear una Comisión Especial del Senado para el seguimiento integral de la calidad y el abastecimiento del agua en el área Metropolitana de Guadalajara.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5173066",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229385",
+      "nombre_fuente": "Sen. Karla Guadalupe Toledo Zamora",
+      "person_id": "karla-guadalupe-toledo-zamora",
+      "referencia_sil": "9229385",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229018",
+      "nombre_fuente": "Sen. Ángel García Yáñez",
+      "person_id": "angel-garcia-yanez",
+      "referencia_sil": "9229018",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229128",
+      "nombre_fuente": "Sen. Paloma Sánchez Ramos",
+      "person_id": "paloma-sanchez-ramos",
+      "referencia_sil": "9229128",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228888",
+      "nombre_fuente": "Sen. Mely Romero Celis",
+      "person_id": "mely-romero-celis",
+      "referencia_sil": "9228888",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228883",
+      "nombre_fuente": "Sen. Gabriel Elizondo Pérez",
+      "person_id": "gabriel-elizondo-perez",
+      "referencia_sil": "9228883",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229228",
+      "nombre_fuente": "Sen. Cristina Ruíz Sandoval",
+      "person_id": "cristina-ruiz-sandoval",
+      "referencia_sil": "9229228",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229194",
+      "nombre_fuente": "Sen. Claudia Edith Anaya Mota",
+      "person_id": "claudia-edith-anaya-mota",
+      "referencia_sil": "9229194",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229186",
+      "nombre_fuente": "Sen. Rolando Rodrigo Zapata Bello",
+      "person_id": "rolando-rodrigo-zapata-bello",
+      "referencia_sil": "9229186",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228946",
+      "nombre_fuente": "Sen. Manuel Añorve Baños",
+      "person_id": "manuel-anorve-banos",
+      "referencia_sil": "9228946",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195931",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Creación de comisiones o grupos de trabajo",
+  "temas": [
+    "Poder Legislativo",
+    "Medio Ambiente",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

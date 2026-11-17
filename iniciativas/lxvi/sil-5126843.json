@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5126843",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "2.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un segundo párrafo al artículo 59 de Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; adiciona la fracción VII al artículo 86 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; se reforma la fracción XI del artículo 12 de la Ley General de Víctimas, en materia de delitos de índole sexual en niñas, niños o adolescentes para que la recepción del testimonio de la víctima pueda usarse herramientas tecnológicas, con la finalidad de proteger sus derechos fundamentales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-09",
+  "id": "sil-5126843",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228836",
+      "nombre_fuente": "Dip. Olga Leticia Chávez Rojas",
+      "person_id": "olga-leticia-chavez-rojas",
+      "referencia_sil": "9228836",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5128730",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

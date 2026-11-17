@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5074522",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la ASEA, a través de la Semarnat; a la CRE, a través de la Sener; al Instituto de Verificación Administrativa del Estado de México; a la Coordinación General de Protección Civil y Gestión Integral del Riesgo; a la Dirección General de Operación y Control Urbano; a la Dirección General para el Territorio Sostenible; a la Dirección General de Vialidad; a la Comisión de Agua del Estado de México; así como a las Direcciones de Desarrollo Urbano y de Protección Civil de los Ayuntamientos Mexiquenses, para que dentro del ámbito de sus respectivas competencias, fortalezcan la coordinación, supervisión y verificación conjunta respecto de la instalación y operación de expendios de combustible, gaseras, gasoneras y gasolineras, con el fin de constatar el cumplimiento de los requisitos legales, técnicos y administrativos, así como las normas oficiales mexicanas aplicables en materia de seguridad industrial, protección civil, impacto ambiental y desarrollo urbano sustentable.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-21",
+  "id": "sil-5074522",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228678",
+      "nombre_fuente": "Dip. Iván Millán Contreras",
+      "person_id": "ivan-millan-contreras",
+      "referencia_sil": "9228678",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5080436",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía",
+    "Medio Ambiente",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

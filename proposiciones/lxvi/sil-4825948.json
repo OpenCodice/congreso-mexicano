@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4825948",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta a la Secretaría de Bienestar a llevar a cabo las modificaciones necesarias en las Reglas de Operación del Programa Pensión para el Bienestar de las Personas Adultas Mayores para que, el Programa de Adultos Mayores garantice a las personas residentes en territorio mexicano, así como a las personas que viven fuera de territorio nacional, ser beneficiadas de la pensión no contributiva, estipulada constitucionalmente.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-13",
+  "id": "sil-4825948",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229290",
+      "nombre_fuente": "Sen. Karina Isabel Ruiz Ruiz",
+      "person_id": "karina-isabel-ruiz-ruiz",
+      "referencia_sil": "9229290",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4827200",
+  "sources": [
+    {
+      "archivo": "fuentes/f1/f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d.html.gz",
+      "consultado": "2026-11-17T08:00:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f10dae9fa12492940252c4efd373283d1bae16b52b3f38d22cce52e9adc97e4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

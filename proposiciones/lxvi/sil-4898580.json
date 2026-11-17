@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4898580",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno de Tabasco para que, en coordinación con Pemex, acelere las labores de limpieza del derrame de hidrocarburos registrado en la región; y para que diseñen e implementen esquemas de prevención ante este tipo de situaciones.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-07-23",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-07",
+  "id": "sil-4898580",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229256",
+      "nombre_fuente": "Dip. Ariana del Rocío Rejón Lara",
+      "person_id": "ariana-del-rocio-rejon-lara",
+      "referencia_sil": "9229256",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914578",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Energía",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

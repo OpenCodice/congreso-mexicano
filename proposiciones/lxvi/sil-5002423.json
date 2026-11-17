@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5002423",
+  "comisiones": [
+    {
+      "referencia": "2085612",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la STPS y la Secretaría de Salud, a tomar las medidas pertinentes para garantizar la salud física y mental, y condiciones de trabajo dignas para las y los médicos residentes de todo el país.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-17",
+  "id": "sil-5002423",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228966",
+      "nombre_fuente": "Sen. María del Rocío Corona Nakamura",
+      "person_id": "maria-del-rocio-corona-nakamura",
+      "referencia_sil": "9228966",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004022",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,71 @@
+{
+  "camara_origen": "senado",
+  "clave": "4825341",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reordenamiento Urbano y Vivienda",
+      "referencia": "2085534",
+      "texto": "1.-Senado -Reordenamiento Urbano y Vivienda.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley Federal del Trabajo, en materia de vivienda con orientación social.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-02-21",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 21-FEB-2025"
+  },
+  "expediente_id": "sil-4826387",
+  "fecha_presentacion": "2024-12-12",
+  "id": "sil-4825341",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "4826387",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Vivienda"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4869689",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita a la titular de la Secretaría de Medio Ambiente y Recursos Naturales del gobierno federal a que informe a esta soberanía sobre los avances en los compromisos sobre la mitigación del cambio climático, referente a las nuevas contribuciones determinadas a nivel nacional, que debieron presentarse, a mas tardar, el 10 de febrero de 2025, ante la Convención Marco de las Naciones Unidas sobre el cambio climático, como parte del Acuerdo de Paris, firmado y ratificado por el Estado Mexicano.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-04-24",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 24-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-02",
+  "id": "sil-4869689",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4888358",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4979029",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "1.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Pueblos Indígenas y Afromexicanos",
+      "referencia": "2085582",
+      "texto": "2.-Diputados -Pueblos Indígenas y Afromexicanos .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que adiciona un párrafo al artículo 4° de la Ley de Aguas Nacionales, en materia de consulta previa, libre, informada y culturalmente adecuada a pueblos y comunidades indígenas y afromexicanas, antes del otorgamiento de concesiones, permisos, asignaciones o prórrogas que involucren la explotación, uso o aprovechamiento de aguas nacionales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-11-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-20",
+  "id": "sil-4979029",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228617",
+      "nombre_fuente": "Dip. Mirna María de la Luz Rubio Sánchez",
+      "person_id": "mirna-maria-de-la-luz-rubio-sanchez",
+      "referencia_sil": "9228617",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4980135",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

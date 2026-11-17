@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4943102",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que hace la atenta y respetuosa invitación a los Tribunales Locales de Justicia de las diversas entidades de la república para que en los procesos de designación y/o relevo de quienes presidan, ya sea como Presidentas, Magistradas o Magistradas Presidentas, o en su caso titulares de los poderes judiciales locales, se priorice la designación y el nombramiento de mujeres como representantes y titulares de dichos poderes judiciales a nivel local, con el objetivo de avanzar en la igualdad sustantiva y la paridad de género en la función jurisdiccional.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-07",
+  "id": "sil-4943102",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229401",
+      "nombre_fuente": "Dip. María Teresa Ealy Díaz",
+      "person_id": "maria-teresa-ealy-diaz",
+      "referencia_sil": "9229401",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4946439",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

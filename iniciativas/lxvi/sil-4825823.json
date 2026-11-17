@@ -1,0 +1,81 @@
+{
+  "camara_origen": "senado",
+  "clave": "4825823",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Social",
+      "referencia": "2085530",
+      "texto": "1.-Senado -Seguridad Social.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Defensa Nacional",
+      "referencia": "2085499",
+      "texto": "2.-Senado -Defensa Nacional.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "3.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y modifica los artículos 1368 párrafo V y 1635 primer párrafo del Código Civil Federal; así como los artículos 65, 66 modificando el tercer párrafo, suprimiendo el cuarto párrafo; 84 párrafo III, 130, 133 modificando el primer párrafo y suprimiendo el segundo párrafo, todos ellos de la Ley del Seguro Social; los artículos 131 párrafo II, artículo 135 párrafo II suprimiendo el texto actual y recorriendo el párrafo III de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y; artículos 38, 52 párrafo IV, suprimiendo el texto actual y recorriendo los párrafos V a VII y artículo 112 párrafo IV, de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-13",
+  "id": "sil-4825823",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228950",
+      "nombre_fuente": "Sen. Sandra Simey Olvera Bautista",
+      "person_id": "sandra-simey-olvera-bautista",
+      "referencia_sil": "9228950",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4827073",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005613",
+  "comisiones": [
+    {
+      "referencia": "2085613",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la SEMARNAT, a la CONABIO y a la PROFEPA, a fortalecer las acciones de monitoreo, investigación, conservación y educación ambiental relacionadas con los marsupiales en México, particularmente del tlacuache, y se evalué la pertinencia de incluirlo como especie sujeta a protección especial en zonas donde existan evidencias de afectación poblacional.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-04-15",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005613",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229142",
+      "nombre_fuente": "Sen. Olga Patricia Sosa Ruíz",
+      "person_id": "olga-patricia-sosa-ruiz",
+      "referencia_sil": "9229142",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071809",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

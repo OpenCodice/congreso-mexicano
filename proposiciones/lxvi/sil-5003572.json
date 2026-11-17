@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003572",
+  "comisiones": [
+    {
+      "referencia": "2085613",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Sader, a ampliar el plazo para el registro de productores rurales al programa especial de energía para el campo en materia de energía eléctrica de uso agrícola (PEUA) 2026, hasta el 30 de abril de 2026.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003572",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228330",
+      "nombre_fuente": "Dip. Oscar Bautista Villegas",
+      "person_id": "oscar-bautista-villegas",
+      "referencia_sil": "9228330",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004064",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

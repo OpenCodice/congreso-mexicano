@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003503",
+  "comisiones": [
+    {
+      "referencia": "2085611",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales. (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la CNDH, a promover acción de inconstitucionalidad en contra de la Ley General de Aguas, por la falta de consulta previa, libre e informada a pueblos y comunidades indígenas y por diversas violaciones al proceso legislativo, así como por la afectación al derecho humano al agua y al patrimonio de millones de familias mexicanas, en especial productores agropecuarios y usuarios rurales del recurso hídrico.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003503",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228119",
+      "nombre_fuente": "Dip. Paulo Gonzalo Martínez López",
+      "person_id": "paulo-gonzalo-martinez-lopez",
+      "referencia_sil": "9228119",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004051",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4880221",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Zonas Metropolitanas y Movilidad",
+      "referencia": "2085535",
+      "texto": "1.-Senado -Zonas Metropolitanas y Movilidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "por la que exhorta respetuosamente al Ejecutivo del Estado de Morelos y a la Coordinación General de Movilidad y Transporte del Estado de Morelos, a atender de manera prioritaria la rehabilitación de las carreteras dañadas en la entidad.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-02-24",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 24-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-22",
+  "id": "sil-4880221",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229018",
+      "nombre_fuente": "Sen. Ángel García Yáñez",
+      "person_id": "angel-garcia-yanez",
+      "referencia_sil": "9229018",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5022628",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

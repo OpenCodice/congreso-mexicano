@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5133486",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Relaciones Exteriores y a la Secretaría de Medio Ambiente y Recursos Naturales a reforzar las acciones de coordinación con el gobierno de Estados Unidos de América, para continuar con la protección del Lobo Mexicano (CANIS LUPUS BAILEYI).",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-14",
+  "id": "sil-5133486",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228913",
+      "nombre_fuente": "Sen. Karen Castrejón Trujillo",
+      "person_id": "karen-castrejon-trujillo",
+      "referencia_sil": "9228913",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5150955",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

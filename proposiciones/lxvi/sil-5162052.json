@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5162052",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la Secretaría de Bienestar que, en el ámbito de sus atribuciones y en coordinación con la Secretaría de Salud, garantice que las personas servidoras de la salud que participan en el Programa Salud Casa por Casa cuenten con los medios, insumos y condiciones necesarios para desarrollar con éxito y profesionalismo su labor.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-13",
+  "id": "sil-5162052",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228952",
+      "nombre_fuente": "Dip. Eunice Abigail Mendoza Ramírez",
+      "person_id": "eunice-abigail-mendoza-ramirez",
+      "referencia_sil": "9228952",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5166062",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

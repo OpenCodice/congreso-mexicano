@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4838742",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 1 párrafos primero y segundo, las fracciones IV y VI inciso a) del artículo 200 y adiciona el artículo 18 bis, ter y quater; el artículo 24 bis y ter; la sección I bis con los artículos del 143.1 al 143.10; la fracción IV bis y los incisos c), d), e), f) de la fracción VI del artículo 200; todos ellos de la Ley de Instituciones de Seguros y Fianzas. Asimismo, reforma: el artículo 7 y adiciona el segundo párrafo al artículo 1; el artículo 1 bis y 1 ter; un segundo y tercer párrafos al artículo 7; el artículo 18 bis y un segundo párrafo al artículo 21 recorriéndose las fracciones subsecuentes; todos ellos de la Ley sobre el Contrato de Seguro.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4838742",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229004",
+      "nombre_fuente": "Sen. Raúl Morón Orozco",
+      "person_id": "raul-moron-orozco",
+      "referencia_sil": "9229004",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4840420",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Sistema Financiero"
+  ],
+  "tipo": "Iniciativa"
+}

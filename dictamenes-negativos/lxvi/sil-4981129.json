@@ -1,0 +1,63 @@
+{
+  "camara_origen": "senado",
+  "clave": "4981129",
+  "comisiones": [],
+  "denominacion": "Por el que desecha la iniciativa con proyecto de decreto por el que se reforma la denominación del Capítulo I del Título Tercero; y se adiciona el artículo 39 Bis a la Ley General del Sistema Nacional de Seguridad Pública.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-11-12",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 12-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-25",
+  "id": "sil-4981129",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos, Primera",
+      "referencias_comision": [
+        "2085523"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Seguridad Pública",
+      "referencias_comision": [
+        "2085528"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "5116532",
+  "sources": [
+    {
+      "archivo": "fuentes/7d/7d6ccca7d564662ed3eeca83264293121c6645c9aee5b5905610b167c1f2c192.html.gz",
+      "consultado": "2026-11-17T08:09:07Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7d6ccca7d564662ed3eeca83264293121c6645c9aee5b5905610b167c1f2c192",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

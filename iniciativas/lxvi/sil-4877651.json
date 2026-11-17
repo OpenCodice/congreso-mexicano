@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4877651",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Movilidad",
+      "referencia": "2085579",
+      "texto": "2.-Diputados -Movilidad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 390 Ter del Código Penal Federal y se adiciona un artículo 69 Bis a la Ley General de Movilidad y Seguridad Vial, en materia de -monta choques- o fraude por colisión vehicular.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-10",
+  "id": "sil-4877651",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228668",
+      "nombre_fuente": "Dip. Emilio Manzanilla Téllez",
+      "person_id": "emilio-manzanilla-tellez",
+      "referencia_sil": "9228668",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4879284",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

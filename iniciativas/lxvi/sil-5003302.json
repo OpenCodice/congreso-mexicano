@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003302",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Pueblos Indígenas y Afromexicanos",
+      "referencia": "2085582",
+      "texto": "1.-Diputados -Pueblos Indígenas y Afromexicanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 4°, 7°, 9° y 11; y adiciona los artículos 7 Bis, 9 Bis, 13 Bis y 14 Bis a la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, a fin de armonizar la Ley con el artículo 2º Constitucional, la Ley General de Educación y con la Ley General de Pueblos y Comunidades Indígenas y Afromexicanas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003302",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228338",
+      "nombre_fuente": "Dip. Briceyda García Antonio",
+      "person_id": "briceyda-garcia-antonio",
+      "referencia_sil": "9228338",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004086",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Indígenas"
+  ],
+  "tipo": "Iniciativa"
+}

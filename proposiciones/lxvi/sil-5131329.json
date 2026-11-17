@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5131329",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la ASEA, a la CNE, a la Fiscalía General de Morelos, al Gobierno de Morelos y al Ayuntamiento de Cuernavaca para revisar los protocolos de verificación y autorización de transporte de Gas LP., se determinen de manera pronta las sanciones administrativas y penales contra la empresa Tomza Gas Titanium S.A. de C.V., tras el siniestro en la Colonia Las Granjas de la Ciudad de Cuernavaca, Morelos; así como garantizar que los acuerdos reparatorios realizados por la Fiscalía del Estado no eximan de responsabilidad penal a los responsables; así como revisar la operación de las unidades de distribución de GAS LP en todo el Estado de Morelos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-14",
+  "id": "sil-5131329",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228840",
+      "nombre_fuente": "Dip. Magda Erika Salgado Ponce",
+      "person_id": "magda-erika-salgado-ponce",
+      "referencia_sil": "9228840",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5135422",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

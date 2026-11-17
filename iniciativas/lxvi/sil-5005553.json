@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005553",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Turismo",
+      "referencia": "2085561",
+      "texto": "1.-Diputados -Turismo .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona los artículos 59 Bis y 73 Bis de la Ley General de Turismo, en materia de registro obligatorio de niñas, niños y adolescentes en servicios de hospedaje, para garantizar su seguridad y el respeto al interés superior del menor.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005553",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229122",
+      "nombre_fuente": "Dip. Ernesto Sánchez Rodríguez",
+      "person_id": "ernesto-sanchez-rodriguez",
+      "referencia_sil": "9229122",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5006319",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4888419",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un numeral siete al artículo 29 del Reglamento de la Cámara de Diputados, en materia de comisiones de cortesía representativas.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-05-07",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 07-MAY-2025"
+  },
+  "expediente_id": "sil-4894202",
+  "fecha_presentacion": "2025-04-24",
+  "id": "sil-4888419",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229148",
+      "nombre_fuente": "Dip. Liliana Ortiz Pérez",
+      "person_id": "liliana-ortiz-perez",
+      "referencia_sil": "9229148",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4894202",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

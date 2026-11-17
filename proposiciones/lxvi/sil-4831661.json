@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4831661",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085544",
+      "texto": "1.-Diputados -Asuntos Migratorios.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal, a la Segob y a la SRE a hacer públicas las acciones que emprenderán para garantizar las oportunidades laborales y de reinserción para las personas que ingresen al país derivado de las deportaciones masivas de los Estados Unidos de América, así como hacer público el origen y destino de los recursos otorgados a los programas de -Apoyo para las y los mexicanos en Estados Unidos- y -México te Abraza-.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-05",
+  "id": "sil-4831661",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229112",
+      "nombre_fuente": "Dip. Noemi Berenice Luna Ayala",
+      "person_id": "noemi-berenice-luna-ayala",
+      "referencia_sil": "9229112",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4832746",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Migración",
+    "Relaciones exteriores",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

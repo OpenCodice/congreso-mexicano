@@ -1,0 +1,57 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005326",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta al Congreso de la Unión, para que por conducto de las comisiones que estimen pertinente, se elabora un proyecto de ley que permita garantizar que las personas que son víctimas de delitos como el robo de dinero de las cuentas bancarias, y la asignación de créditos no solicitados y cobrados por terceros (estafadores), puedan acceder a la información necesaria para verificar quien recibió el dinero y quien realizó los trámites, como medida lógica y apegada a principios elementales del derecho para poder demostrar su inocencia y afectación legal a su patrimonio.",
+  "estatus": {
+    "estado": "Presentado en origen",
+    "fecha": "2026-01-21",
+    "resultado": "pendiente",
+    "texto": "Presentado en origen el 21-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005326",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "coahuila",
+      "nombre_fuente": "Congreso de Coahuila",
+      "organization_id": "congreso-coahuila",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5005985",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Sistema Financiero"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

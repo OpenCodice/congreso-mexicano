@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4936306",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085544",
+      "texto": "1.-Diputados -Asuntos Migratorios.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 2° de la Ley de Migración, en materia de derecho de mexicanos en retorno al acceso a la información permanente, clara, oportuna y accesible.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 02-SEP-2026"
+  },
+  "expediente_id": "sil-5090376",
+  "fecha_presentacion": "2025-09-30",
+  "id": "sil-4936306",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229226",
+      "nombre_fuente": "Dip. Marcela Guerra Castillo",
+      "person_id": "marcela-guerra-castillo",
+      "referencia_sil": "9229226",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090376",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Migración",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

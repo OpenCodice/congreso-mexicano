@@ -1,0 +1,59 @@
+{
+  "camara_origen": "senado",
+  "clave": "5186189",
+  "comisiones": [],
+  "denominacion": "Por el que exhorta a la Cámara de Diputados del Congreso de la Unión a que, en el marco de la discusión y aprobación del Presupuesto de Egresos de la Federación para el ejercicio fiscal 2027, conceda prioridad presupuestal al gasto público en educación, para ampliar la cobertura educativa en todos los niveles, mejorar la infraestructura en todos los planteles escolares, brindar las mejores condiciones salariales y de formación a maestras y maestros, revertir el rezago educativo, y elevar las capacidades de los estudiantes en matemáticas, comprensión lectora y ciencias.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5186189",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229212",
+      "nombre_fuente": "Sen. Ricardo Anaya Cortés",
+      "person_id": "ricardo-anaya-cortes",
+      "referencia_sil": "9229212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

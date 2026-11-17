@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5110903",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "1.-Diputados -Presupuesto y Cuenta Pública .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Congreso de la Unión, a efecto de que, en el marco de la discusión y aprobación del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027, incluyan una partida presupuestaria etiquetada que garantice de manera específica los recursos necesarios para la elaboración del Proyecto Ejecutivo y la construcción de un nuevo Hospital Regional de tercer nivel del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) con residencia en Hermosillo, Sonora.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-22",
+  "id": "sil-5110903",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "sonora",
+      "nombre_fuente": "Congreso de Sonora",
+      "organization_id": "congreso-sonora",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5111492",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

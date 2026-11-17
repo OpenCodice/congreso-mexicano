@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5106075",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados para que, durante el proceso de análisis, discusión y aprobación del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027, incluya una asignación inicial de 2,500 millones de pesos para el -Proyecto Integral de Sustitución de la Red de Distribución de Agua Potable y del Drenaje Sanitario de los municipios de Torreón, Francisco I. Madero, Matamoros, San Pedro, Viesca, Lerdo, Gómez Palacio, Tlahualilo y Mapimí, situados en la Comarca Lagunera-, a fin de maximizar los beneficios sociales, ambientales y económicos derivados de la inversión federal realizada mediante el proyecto -Agua Saludable para La Laguna-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-23",
+  "id": "sil-5106075",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229110",
+      "nombre_fuente": "Dip. Marcelo de Jesús Torres Cofiño",
+      "person_id": "marcelo-de-jesus-torres-cofino",
+      "referencia_sil": "9229110",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5108039",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

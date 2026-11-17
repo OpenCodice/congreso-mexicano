@@ -1,0 +1,57 @@
+{
+  "camara_origen": "senado",
+  "clave": "4933982",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados para que, en el marco del proceso de análisis del Paquete Económico 2026, realice ajustes o reasignaciones para incrementar el presupuesto al Programa de Conservación y manejo de Áreas Naturales Protegidas, para garantizar el derecho a un medio ambiente sano, su conservación y manejo y nuestras metas en la agenda 2030.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-24",
+  "id": "sil-4933982",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PVEM",
+      "organization_id": "partido-pvem",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4942126",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

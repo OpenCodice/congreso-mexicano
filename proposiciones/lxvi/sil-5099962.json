@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5099962",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, al gobierno de Baja California y al Ayuntamiento de Tijuana, para que, en el ámbito de sus funciones y facultades, hagan del conocimiento público de forma consolidada, desagregada y actualizada toda la información referente a los subsidios federales que se transfirieron para destinarse a acciones de pavimentación en los municipios de dicha entidad federativa, principalmente al municipio de Tijuana, derivado de los aprovechamientos que se generaron con motivo de la regularización de vehículos usados de procedencia extranjera.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-01",
+  "id": "sil-5099962",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229042",
+      "nombre_fuente": "Dip. César Israel Damián Retes",
+      "person_id": "cesar-israel-damian-retes",
+      "referencia_sil": "9229042",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5103352",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

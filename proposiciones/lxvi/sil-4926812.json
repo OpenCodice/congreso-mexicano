@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4926812",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SICT, a la SEGOB y a la Coordinación Nacional de Protección Civil, a rehabilitar autopista Mitla-Tehuantepec 190D.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-17",
+  "id": "sil-4926812",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229422",
+      "nombre_fuente": "Dip. Alejandro Avilés Álvarez",
+      "person_id": "alejandro-aviles-alvarez",
+      "referencia_sil": "9229422",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4929629",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}
