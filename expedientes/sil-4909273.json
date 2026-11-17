@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/41/410b3cf549d7e71483a695ee8e5c3a039d86d99c479eb1de1aca3d6e021bd62c.html",
-      "consultado": "2026-11-16T16:41:20Z",
+      "consultado": "2026-11-17T07:19:34Z",
       "sha256": "410b3cf549d7e71483a695ee8e5c3a039d86d99c479eb1de1aca3d6e021bd62c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4909273&Asunto=4909278"
     },
     {
       "archivo": "fuentes/de/defd6814874302a66c9d91a26dcb2ead8f4f1c769e0503c85296af65bf757a8c.html",
-      "consultado": "2026-11-16T16:41:23Z",
+      "consultado": "2026-11-17T07:19:37Z",
       "sha256": "defd6814874302a66c9d91a26dcb2ead8f4f1c769e0503c85296af65bf757a8c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909278&Seguimiento=4909273"
     }
@@ -216,5 +216,161 @@
     "sil-4909278-1",
     "sil-4909278-2",
     "sil-4909278-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Raymundo Bolaños Azocar (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Marko Antonio Cortés Mendoza (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Maki Esther Ortiz Domínguez (PVEM) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. María Guadalupe Murguía Gutiérrez (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. María del Rocío Corona Nakamura (PVEM) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. David Novoa Toscano (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Ivideliza Reyes Hernández (PAN) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ángel García Yáñez (PRI) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Erik Iván Jaimes Archundia (PRI) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Mely Romero Celis (PRI) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Miguel Ángel Riquelme Solís (PRI) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Anabell Ávalos Zempoalteca (PRI) a la Ley General de Población. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Edna Geraldina García Gordillo (PRI) a la Ley General de Población. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Francisco Daniel Barreda Pavón (MC) a la Ley General de Población. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión las reservas presentadas por la Sen. Lilia Margarita Valdez Martínez (Morena) a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "pass",
+      "texto": "Aprobado las reservas presentadas por la Sen. Lilia Margarita Valdez Martínez (Morena) a los artículos Sexto y Octavo transitorios para establecer plazos de 180 días para la armonización de la normativa que regula los espacios para disposición final de cuerpos y un plazo de 90 días para que el Ejecutivo federal emita el reglamento correspondiente de la legislación."
+    },
+    {
+      "asunto": "4909278",
+      "camara": "senado",
+      "fecha": "2025-06-27",
+      "result": "pass",
+      "texto": "Aprobado qure en el apartado de las -Consideraciones- del dictamen, se haga referencia al proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley General en Materia de Desaparición Forzada de personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley General de Víctimas, de la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, del Código Penal Federal, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal contra la Delincuencia Organizada. Se instruye al área técnica a realizar lo conducente."
+    }
   ]
 }

@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/a1/a1ca6c6b16e13f77227406b3548da5dd60fa16551d2131eaa8db9052091a0f0f.html",
-      "consultado": "2026-11-16T16:13:36Z",
+      "consultado": "2026-11-17T06:52:04Z",
       "sha256": "a1ca6c6b16e13f77227406b3548da5dd60fa16551d2131eaa8db9052091a0f0f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4870976&Asunto=4877250"
     },
     {
       "archivo": "fuentes/55/554b7afa92bd38a2c7c278aafbd39a252d93cdb170eefd6774a93e46975bc4fa.html",
-      "consultado": "2026-11-16T16:13:40Z",
+      "consultado": "2026-11-17T06:52:07Z",
       "sha256": "554b7afa92bd38a2c7c278aafbd39a252d93cdb170eefd6774a93e46975bc4fa",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4877250&Seguimiento=4870976"
     }
@@ -252,5 +252,175 @@
     "sil-4869979-2",
     "sil-4877250-1",
     "sil-4877250-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4877250",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4877250",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 1 y 55 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4877250",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 32, 38, 53 y 60 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, formulada por la Sen. María Alejandra Barrales Magdaleno (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4877250",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 38 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, formulada por el Sen. Enrique Vargas del Villar (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4877250",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 38 y tercero transitorio de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Carmen Rocío González Alonso (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por la Dip. Claudia Rivera Vivanco (Morena) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, la propuesta de modificación presentada por la Dip. Claudia Rivera Vivanco (Morena) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Claudia Rivera Vivanco (Morena) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Asael Hernández Cerón (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Alan Sahir Márquez Becerra (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Diana Estefanía Gutiérrez Valtierra (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Cristina Márquez Alcalá (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    },
+    {
+      "asunto": "4869979",
+      "camara": "diputados",
+      "fecha": "2025-04-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana, de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    }
   ]
 }

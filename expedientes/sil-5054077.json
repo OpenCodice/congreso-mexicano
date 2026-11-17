@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/d0/d078c7119e5c6f26e0a04fec63f74d7cb0cd30cd36f6b5aca4dbbfaf8b6ed8ae.html",
-      "consultado": "2026-11-16T18:08:39Z",
+      "consultado": "2026-11-17T08:59:10Z",
       "sha256": "d078c7119e5c6f26e0a04fec63f74d7cb0cd30cd36f6b5aca4dbbfaf8b6ed8ae",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5054077&Asunto=5053554"
     },
     {
       "archivo": "fuentes/f9/f97994d01e103f3b69c05d7a7f894ec8adcd5d168dee18e520792d2d0a1e5adc.html",
-      "consultado": "2026-11-16T18:08:42Z",
+      "consultado": "2026-11-17T08:59:14Z",
       "sha256": "f97994d01e103f3b69c05d7a7f894ec8adcd5d168dee18e520792d2d0a1e5adc",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5053554&Seguimiento=5054077"
     }
@@ -140,5 +140,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 09/04/2026",
   "votaciones": [
     "sil-5053554-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5053554",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado Para considerar suficientemente discutido, en lo general y en lo particular."
+    }
   ]
 }

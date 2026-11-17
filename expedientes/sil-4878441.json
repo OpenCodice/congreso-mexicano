@@ -125,13 +125,13 @@
   "sources": [
     {
       "archivo": "fuentes/58/5825cdf73bc770eec6f0205b000e19ccf4880151c42ac608382446e2276dcb24.html",
-      "consultado": "2026-11-16T16:15:27Z",
+      "consultado": "2026-11-17T06:53:41Z",
       "sha256": "5825cdf73bc770eec6f0205b000e19ccf4880151c42ac608382446e2276dcb24",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4878441&Asunto=4985191"
     },
     {
       "archivo": "fuentes/9e/9e413768d66aac959dc24ed3d90bf34f73bc4da9b8ca08b9b2e9c05699902255.html",
-      "consultado": "2026-11-16T16:15:31Z",
+      "consultado": "2026-11-17T06:53:44Z",
       "sha256": "9e413768d66aac959dc24ed3d90bf34f73bc4da9b8ca08b9b2e9c05699902255",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985191&Seguimiento=4878441"
     }
@@ -214,5 +214,56 @@
     "sil-4985191-1",
     "sil-4985191-2",
     "sil-4991242-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4985191",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general el dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura."
+    },
+    {
+      "asunto": "4985191",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura."
+    },
+    {
+      "asunto": "4985191",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura."
+    },
+    {
+      "asunto": "4985191",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura."
+    },
+    {
+      "asunto": "4985191",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Desarrollo Sustentable de la Cafeticultura."
+    },
+    {
+      "asunto": "4991242",
+      "camara": "senado",
+      "fecha": "2025-12-03",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4991242",
+      "camara": "senado",
+      "fecha": "2025-12-03",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
   ]
 }

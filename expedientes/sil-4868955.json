@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/5a/5ac864ba045436e1bd85e16deb0cd8de5ad58e5bcb56ea1e81b4bd5d0ed4cab1.html",
-      "consultado": "2026-11-16T16:13:07Z",
+      "consultado": "2026-11-17T06:51:39Z",
       "sha256": "5ac864ba045436e1bd85e16deb0cd8de5ad58e5bcb56ea1e81b4bd5d0ed4cab1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4868955&Asunto=4868263"
     },
     {
       "archivo": "fuentes/f2/f295dd4d857154b6c90115750486f30c5ff6c9a74df3c907d6a3cc95e858628c.html",
-      "consultado": "2026-11-16T16:13:11Z",
+      "consultado": "2026-11-17T06:51:43Z",
       "sha256": "f295dd4d857154b6c90115750486f30c5ff6c9a74df3c907d6a3cc95e858628c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4868263&Seguimiento=4868955"
     }
@@ -206,5 +206,112 @@
   "votaciones": [
     "sil-4868263-1",
     "sil-4868263-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Salim Alle (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Samperio Montaño (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Roberto Sosa Pichardo (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Amancay González Franco (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    },
+    {
+      "asunto": "4868263",
+      "camara": "diputados",
+      "fecha": "2025-04-01",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Sánchez Rivera (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas."
+    }
   ]
 }

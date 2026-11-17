@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/15/15c5c6a5775537936a418b53984fd0d7de566a33146d3c1e2d1474505d148604.html",
-      "consultado": "2026-11-16T15:44:44Z",
+      "consultado": "2026-11-17T06:18:06Z",
       "sha256": "15c5c6a5775537936a418b53984fd0d7de566a33146d3c1e2d1474505d148604",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4809132&Asunto=4815304"
     },
     {
       "archivo": "fuentes/85/8500e4b67a943f818dda2e13900b7802a11cfce3b18e988fd45acefcb99d3a02.html",
-      "consultado": "2026-11-16T15:44:48Z",
+      "consultado": "2026-11-17T06:18:09Z",
       "sha256": "8500e4b67a943f818dda2e13900b7802a11cfce3b18e988fd45acefcb99d3a02",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4815304&Seguimiento=4809132"
     }
@@ -316,5 +316,266 @@
     "sil-4808747-2",
     "sil-4815304-1",
     "sil-4815304-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 1 y 16, formulada por el Sen. Manuel Añorve Baños (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 2° formulada por el Sen. Mario Humberto Vázquez Robles (PAN), a nombre de la Sen. Imelda Margarita Sanmiguel Sánchez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 2, 5 y 16, formulada por el Sen. Agustín Dorantes Lámbarri (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 2, 16 y trigésimo quinto transitorio, formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 2 y décimo octavo transitorio formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 11 y 22, formulada por la Sen. Mely Romero Celis (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 12, formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Karen Michel González Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Laura Esquivel Torres (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por el Sen. Pablo Guillermo Angulo Briceño (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Lizeth Sánchez García (PT). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por el Sen. Francisco Javier Ramírez Acuña (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 16, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos décimo cuarto y décimo quinto transitorios formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo trigésimo quinto formulada por el Sen. Gustavo Sánchez Vásquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815304",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos trigésimo sexto y trigésimo séptimo transitorios formulada por la Sen. Susana del Carmen Zataraín García (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado aceptar la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025. Se reserva para su votación nominal la modificación aceptada por la Asamblea."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Diego Ángel Rodríguez Barroso (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Mario Íñiguez Franco (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Ernesto Sánchez Rodríguez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    },
+    {
+      "asunto": "4808747",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de los Dolores Padierna Luna (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2025."
+    }
   ]
 }

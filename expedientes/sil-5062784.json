@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/67/67e78ada0ceeef1e61430d0005315b55f4a40effc24397aec2df09c4ec2000e6.html",
-      "consultado": "2026-11-16T18:13:41Z",
+      "consultado": "2026-11-17T09:02:50Z",
       "sha256": "67e78ada0ceeef1e61430d0005315b55f4a40effc24397aec2df09c4ec2000e6",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5062784&Asunto=5065793"
     },
     {
       "archivo": "fuentes/aa/aa0b7dbec0517d61b0fa96c867769e902f81241828ae08543567e6a4de450f3f.html",
-      "consultado": "2026-11-16T18:13:45Z",
+      "consultado": "2026-11-17T09:02:53Z",
       "sha256": "aa0b7dbec0517d61b0fa96c867769e902f81241828ae08543567e6a4de450f3f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5065793&Seguimiento=5062784"
     }
@@ -244,5 +244,98 @@
   "votaciones": [
     "sil-5065793-1",
     "sil-5074743-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5065793",
+      "camara": "senado",
+      "fecha": "2026-04-14",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "5065793",
+      "camara": "senado",
+      "fecha": "2026-04-14",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "5065793",
+      "camara": "senado",
+      "fecha": "2026-04-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación de la Sen. Mely Romero Celis (PRI)."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana María Balderas Trejo (PAN) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Cristina Márquez Alcalá (PAN) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    },
+    {
+      "asunto": "5074743",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Zavala Gómez del Campo Margarita Ester (PAN) al dictamen que reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de feminicidio."
+    }
   ]
 }

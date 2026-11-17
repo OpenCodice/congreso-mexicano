@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/ae/ae42d19a6842e587299be34a96a86476989f6dc4dd529b8a1b86e302b602524a.html",
-      "consultado": "2026-11-16T17:43:46Z",
+      "consultado": "2026-11-17T08:33:48Z",
       "sha256": "ae42d19a6842e587299be34a96a86476989f6dc4dd529b8a1b86e302b602524a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017049&Asunto=5016219"
     },
     {
       "archivo": "fuentes/f7/f748f09af71ca02119080b8ba6145e20cc6c1b2fac9749c0613611415967eb12.html",
-      "consultado": "2026-11-16T17:43:50Z",
+      "consultado": "2026-11-17T08:33:52Z",
       "sha256": "f748f09af71ca02119080b8ba6145e20cc6c1b2fac9749c0613611415967eb12",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016219&Seguimiento=5017049"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
   "votaciones": [
     "sil-5016219-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5016219",
+      "camara": "diputados",
+      "fecha": "2026-02-17",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma los artículos 33 y 102 de la Ley General de Cambio Climático, en materia de armonización con la Ley General de Movilidad y Seguridad Vial."
+    }
   ]
 }

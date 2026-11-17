@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/cf/cfc4449c3db8e4623e05ff3f71cd5d13ae5317cf228f9b071e05651eb61db88d.html",
-      "consultado": "2026-11-16T17:10:30Z",
+      "consultado": "2026-11-17T08:01:41Z",
       "sha256": "cfc4449c3db8e4623e05ff3f71cd5d13ae5317cf228f9b071e05651eb61db88d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972468&Asunto=4971443"
     },
     {
       "archivo": "fuentes/8d/8db4c57f02fd3ec65997072d4b60b87e43ae4ef5ce94824b59276848d1aa80c2.html",
-      "consultado": "2026-11-16T17:10:34Z",
+      "consultado": "2026-11-17T08:01:44Z",
       "sha256": "8db4c57f02fd3ec65997072d4b60b87e43ae4ef5ce94824b59276848d1aa80c2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971443&Seguimiento=4972468"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
   "votaciones": [
     "sil-4971443-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4971443",
+      "camara": "diputados",
+      "fecha": "2025-11-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma el artículo 15 de la Ley de Desarrollo Rural Sostenible."
+    }
   ]
 }

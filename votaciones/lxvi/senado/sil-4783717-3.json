@@ -1,0 +1,41 @@
+{
+  "asunto": "4783717",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 79
+    },
+    {
+      "option": "no",
+      "value": 39
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4782817",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4783717-3",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en materia de elección de personas juzgadoras del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados con las modificaciones admitidas por la asamblea a los artículos reservados 1, 48, 476, 499, 500 y tercero transitorio y, la adición de un artículo noveno transitorio al dictamen A Favor: 79 En contra: 39 Abstenciones 0"
+  },
+  "orden": 3,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/74/74cd84b5b8a70c9e7c14d52421ebbe1590cd765c977617828601d58a155950f5.html",
+      "consultado": "2026-11-17T06:06:32Z",
+      "sha256": "74cd84b5b8a70c9e7c14d52421ebbe1590cd765c977617828601d58a155950f5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4783717"
+    }
+  ],
+  "start_date": "2024-10-10",
+  "votes": [],
+  "votos_publicados": false
+}

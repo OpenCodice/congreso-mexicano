@@ -53,13 +53,13 @@
   "sources": [
     {
       "archivo": "fuentes/23/23334fc4868bcc33678b27eafe9432ec1fb26454c1178172e652500ba0acc22b.html",
-      "consultado": "2026-11-16T16:24:34Z",
+      "consultado": "2026-11-17T07:03:56Z",
       "sha256": "23334fc4868bcc33678b27eafe9432ec1fb26454c1178172e652500ba0acc22b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890568&Asunto=4891112"
     },
     {
       "archivo": "fuentes/7f/7f3b45938a8ecff784f95fa7cb8a9cd1192f99a27450883d6ab79adbd8d73c47.html",
-      "consultado": "2026-11-16T16:24:38Z",
+      "consultado": "2026-11-17T07:03:59Z",
       "sha256": "7f3b45938a8ecff784f95fa7cb8a9cd1192f99a27450883d6ab79adbd8d73c47",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4891112&Seguimiento=4890568"
     }
@@ -96,5 +96,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 29/05/2025",
   "votaciones": [
     "sil-4891112-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4891112",
+      "camara": "senado",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
   ]
 }

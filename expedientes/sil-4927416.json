@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/34/3498dceeacb38ab928e27fac1947cee510e7ad28afbe0d789f2fb678937da935.html",
-      "consultado": "2026-11-16T16:47:49Z",
+      "consultado": "2026-11-17T07:26:25Z",
       "sha256": "3498dceeacb38ab928e27fac1947cee510e7ad28afbe0d789f2fb678937da935",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4927416&Asunto=4927376"
     },
     {
       "archivo": "fuentes/da/daf317a03b29a60fa550d1fcaca3680eb83630c8bc2c7eb1e70e2e516ac42f2c.html",
-      "consultado": "2026-11-16T16:47:53Z",
+      "consultado": "2026-11-17T07:26:28Z",
       "sha256": "daf317a03b29a60fa550d1fcaca3680eb83630c8bc2c7eb1e70e2e516ac42f2c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4927376&Seguimiento=4927416"
     }
@@ -92,5 +92,21 @@
   "ultimo_estatus": "Resuelto / Aprobado Aprobado 17/09/2025",
   "votaciones": [
     "sil-4927376-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4927376",
+      "camara": "senado",
+      "fecha": "2025-09-17",
+      "result": "pass",
+      "texto": "Aprobado para incorporar el dictamen en el orden del día."
+    },
+    {
+      "asunto": "4927376",
+      "camara": "senado",
+      "fecha": "2025-09-17",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido."
+    }
   ]
 }

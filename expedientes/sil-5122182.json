@@ -57,13 +57,13 @@
   "sources": [
     {
       "archivo": "fuentes/6c/6c083cd286aaaceb8677f4642125fbec9033452228b1ced3a02679c15c4e50bd.html",
-      "consultado": "2026-11-16T18:36:51Z",
+      "consultado": "2026-11-17T09:38:18Z",
       "sha256": "6c083cd286aaaceb8677f4642125fbec9033452228b1ced3a02679c15c4e50bd",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5122182&Asunto=5121181"
     },
     {
       "archivo": "fuentes/ff/ff983e082d5695cec05409ea20098afc5d91a37d2d50b7bcd24b271daafbc282.html",
-      "consultado": "2026-11-16T18:36:55Z",
+      "consultado": "2026-11-17T09:38:21Z",
       "sha256": "ff983e082d5695cec05409ea20098afc5d91a37d2d50b7bcd24b271daafbc282",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5121181&Seguimiento=5122182"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 02/09/2026",
   "votaciones": [
     "sil-5121181-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5121181",
+      "camara": "senado",
+      "fecha": "2026-09-02",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido el dictamen."
+    }
   ]
 }

@@ -137,13 +137,13 @@
   "sources": [
     {
       "archivo": "fuentes/0f/0f6b9af959fee827e24081ba7640cba394d54026ae8d3476c02fc1730258571b.html",
-      "consultado": "2026-11-16T16:05:49Z",
+      "consultado": "2026-11-17T06:44:38Z",
       "sha256": "0f6b9af959fee827e24081ba7640cba394d54026ae8d3476c02fc1730258571b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4853258&Asunto=4853915"
     },
     {
       "archivo": "fuentes/1d/1d33e007136ccac5422ceedaa7f461088995de13a4246d702f4ce83844c9c054.html",
-      "consultado": "2026-11-16T16:05:53Z",
+      "consultado": "2026-11-17T06:44:41Z",
       "sha256": "1d33e007136ccac5422ceedaa7f461088995de13a4246d702f4ce83844c9c054",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4853915&Seguimiento=4853258"
     }
@@ -272,5 +272,112 @@
     "sil-4853915-2",
     "sil-4857363-1",
     "sil-4857363-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4853915",
+      "camara": "senado",
+      "fecha": "2025-03-12",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4853915",
+      "camara": "senado",
+      "fecha": "2025-03-12",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general."
+    },
+    {
+      "asunto": "4853915",
+      "camara": "senado",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 73 formulada por la María Alejandra Barrales Magdaleno (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Noemi Berenice Luna Ayala (PAN) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paola Michell Longoria López (MC) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Omar Antonio Borboa Becerra (PAN) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Julia Licet Jiménez Angulo (PAN) al dictamen en materia de simplificación administrativa y digitalización."
+    },
+    {
+      "asunto": "4857363",
+      "camara": "diputados",
+      "fecha": "2025-03-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen en materia de simplificación administrativa y digitalización."
+    }
   ]
 }

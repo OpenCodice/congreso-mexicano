@@ -165,13 +165,13 @@
   "sources": [
     {
       "archivo": "fuentes/d8/d863400edaf31a435d92dae2a8f1b4681737285bc714563e6ace3ca65c543833.html",
-      "consultado": "2026-11-16T18:06:37Z",
+      "consultado": "2026-11-17T08:56:23Z",
       "sha256": "d863400edaf31a435d92dae2a8f1b4681737285bc714563e6ace3ca65c543833",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5051107&Asunto=5055680"
     },
     {
       "archivo": "fuentes/6a/6a86482a926e0412c8ebb55794468c94dc3eea1a734cb49f79087eeaff417b91.html",
-      "consultado": "2026-11-16T18:06:41Z",
+      "consultado": "2026-11-17T08:56:27Z",
       "sha256": "6a86482a926e0412c8ebb55794468c94dc3eea1a734cb49f79087eeaff417b91",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5055680&Seguimiento=5051107"
     }
@@ -270,5 +270,105 @@
   "votaciones": [
     "sil-5055680-1",
     "sil-5055680-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó Tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó Tomar en consideración, para su discusión, la moción suspensiva del Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "pass",
+      "texto": "Aprobado aceptar la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Martha Amalia Moya Bastón (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Ana Erika Santana González (PVEM) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó aceptar la propuesta de modificación presentada por el Dip. Jesús Fernando García Hernández (PT) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó aceptar la propuesta de modificación presentada por el Dip. Sergio Gil Rullán (MC) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó aceptar la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    },
+    {
+      "asunto": "5055680",
+      "camara": "diputados",
+      "fecha": "2026-04-07",
+      "result": "fail",
+      "texto": "Se rechazó aceptar la propuesta de modificación presentada por la Dip. Lilia Aguilar Gil (PT) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes."
+    }
   ]
 }

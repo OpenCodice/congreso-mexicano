@@ -1,0 +1,41 @@
+{
+  "asunto": "4908066",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 74
+    },
+    {
+      "option": "no",
+      "value": 13
+    },
+    {
+      "option": "abstain",
+      "value": 20
+    }
+  ],
+  "expediente_id": "sil-4907052",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4908066-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y reforma los artículos 11 bis y 400 bis del Código Penal Federal.",
+    "text": "Aprobado en lo general y en lo particular con las modificaciones propuestas A Favor: 74 En contra: 13 Abstenciones 20"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f21b4d58f48070e808650b951111c93d8d4b068965b563effd8e44ce048b778d.html",
+      "consultado": "2026-11-17T07:12:29Z",
+      "sha256": "f21b4d58f48070e808650b951111c93d8d4b068965b563effd8e44ce048b778d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4908066"
+    }
+  ],
+  "start_date": "2025-06-25",
+  "votes": [],
+  "votos_publicados": false
+}

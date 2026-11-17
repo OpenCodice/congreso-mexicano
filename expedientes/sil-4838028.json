@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/ba/ba3428946088085555974b45f2fc26e35d561c6a6868322b5e0eee6090adbdfb.html",
-      "consultado": "2026-11-16T15:57:54Z",
+      "consultado": "2026-11-17T06:33:43Z",
       "sha256": "ba3428946088085555974b45f2fc26e35d561c6a6868322b5e0eee6090adbdfb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4838028&Asunto=4867148"
     },
     {
       "archivo": "fuentes/30/3024eea909b9b53e819e7d4426951e97c10fb4c070ca885aafd290dbc8317336.html",
-      "consultado": "2026-11-16T15:57:58Z",
+      "consultado": "2026-11-17T06:33:46Z",
       "sha256": "3024eea909b9b53e819e7d4426951e97c10fb4c070ca885aafd290dbc8317336",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4867148&Seguimiento=4838028"
     }
@@ -136,5 +136,21 @@
   "votaciones": [
     "sil-4837661-1",
     "sil-4867148-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4867148",
+      "camara": "senado",
+      "fecha": "2025-04-01",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4837661",
+      "camara": "diputados",
+      "fecha": "2025-02-18",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos."
+    }
   ]
 }

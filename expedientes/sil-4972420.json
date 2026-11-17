@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/50/50f9bee29768757678461dd52f00b15c72a453bf3381d3b2c34873e6be5b4b13.html",
-      "consultado": "2026-11-16T17:07:38Z",
+      "consultado": "2026-11-17T07:58:12Z",
       "sha256": "50f9bee29768757678461dd52f00b15c72a453bf3381d3b2c34873e6be5b4b13",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972420&Asunto=4971431"
     },
     {
       "archivo": "fuentes/6d/6d05ac5265e58e484e9c667cba1b712e0cedc7398c7a12182b8f715b66ff4dec.html",
-      "consultado": "2026-11-16T17:07:42Z",
+      "consultado": "2026-11-17T07:58:15Z",
       "sha256": "6d05ac5265e58e484e9c667cba1b712e0cedc7398c7a12182b8f715b66ff4dec",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971431&Seguimiento=4972420"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
   "votaciones": [
     "sil-4971431-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4971431",
+      "camara": "diputados",
+      "fecha": "2025-11-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que declara el 11 de diciembre de cada año como el -Día Nacional de la Talavera-."
+    }
   ]
 }

@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/f8/f8e8d3b678d7e818c847f8f930fac9ea8754c6586ca9ef70d59d367df137950c.html",
-      "consultado": "2026-11-16T16:04:10Z",
+      "consultado": "2026-11-17T06:42:01Z",
       "sha256": "f8e8d3b678d7e818c847f8f930fac9ea8754c6586ca9ef70d59d367df137950c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4851001&Asunto=4851568"
     },
     {
       "archivo": "fuentes/0d/0d97a779cb1181c024a4436a7a725c3947eb1cfead99159025bf35777e26dac3.html",
-      "consultado": "2026-11-16T16:04:14Z",
+      "consultado": "2026-11-17T06:42:04Z",
       "sha256": "0d97a779cb1181c024a4436a7a725c3947eb1cfead99159025bf35777e26dac3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4851568&Seguimiento=4851001"
     }
@@ -176,5 +176,35 @@
   "votaciones": [
     "sil-4851568-1",
     "sil-4887453-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4851568",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado tramitar de manera conjunta los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público, y Estudios Legislativos, Primera."
+    },
+    {
+      "asunto": "4851568",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura de los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público y, de Estudios Legislativos, Primera, con el objeto de someterlos a discusión de inmediato."
+    },
+    {
+      "asunto": "4851568",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular."
+    },
+    {
+      "asunto": "4887453",
+      "camara": "diputados",
+      "fecha": "2025-04-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que establece las características de una moneda conmemorativa alusiva al Centenario de la fundación del Banco de México."
+    }
   ]
 }

@@ -89,13 +89,13 @@
   "sources": [
     {
       "archivo": "fuentes/34/34d4b5ca8d1b8a134504bdb2a3bd250305a3eddba32f95ca04840c73a2a980f8.html",
-      "consultado": "2026-11-16T17:20:35Z",
+      "consultado": "2026-11-17T08:11:30Z",
       "sha256": "34d4b5ca8d1b8a134504bdb2a3bd250305a3eddba32f95ca04840c73a2a980f8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986119&Asunto=4985200"
     },
     {
       "archivo": "fuentes/e1/e1f6a56e07b2a78272c7efeb88b30ff4f9e643de5a89b180f9aa1467f6eb9e4b.html",
-      "consultado": "2026-11-16T17:20:39Z",
+      "consultado": "2026-11-17T08:11:34Z",
       "sha256": "e1f6a56e07b2a78272c7efeb88b30ff4f9e643de5a89b180f9aa1467f6eb9e4b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985200&Seguimiento=4986119"
     }
@@ -124,5 +124,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
   "votaciones": [
     "sil-4985200-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4985200",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que reforma y adiciona diversas disposiciones al Código Penal Federal, en materia de delito de despojo."
+    }
   ]
 }

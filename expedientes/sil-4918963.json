@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/7c/7c01f057c7963dd1812be027f47c144356cb7f0f30f62bafa05bab04f90985da.html",
-      "consultado": "2026-11-16T16:45:18Z",
+      "consultado": "2026-11-17T07:23:13Z",
       "sha256": "7c01f057c7963dd1812be027f47c144356cb7f0f30f62bafa05bab04f90985da",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4918963&Asunto=4918373"
     },
     {
       "archivo": "fuentes/a2/a27c2a80e38049569291870784549a9893f6e93c003c5c966a772c771fa039df.html",
-      "consultado": "2026-11-16T16:45:22Z",
+      "consultado": "2026-11-17T07:23:16Z",
       "sha256": "a27c2a80e38049569291870784549a9893f6e93c003c5c966a772c771fa039df",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4918373&Seguimiento=4918963"
     }
@@ -96,5 +96,21 @@
   "ultimo_estatus": "Toma de protesta Aprobado 20/08/2025",
   "votaciones": [
     "sil-4918373-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4918373",
+      "camara": "permanente",
+      "fecha": "2025-08-20",
+      "result": "pass",
+      "texto": "Aprobado incorporarlo en el orden del día de la sesión."
+    },
+    {
+      "asunto": "4918373",
+      "camara": "permanente",
+      "fecha": "2025-08-20",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido."
+    }
   ]
 }

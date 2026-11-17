@@ -33,13 +33,13 @@
   "sources": [
     {
       "archivo": "fuentes/3d/3dd31bd580d8222ade82b6ff2b757918e9046de796007dbfc27950fd26ef0b8c.html",
-      "consultado": "2026-11-16T17:15:46Z",
+      "consultado": "2026-11-17T08:07:13Z",
       "sha256": "3dd31bd580d8222ade82b6ff2b757918e9046de796007dbfc27950fd26ef0b8c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4979641&Asunto=4976217"
     },
     {
       "archivo": "fuentes/2b/2bc86876a871fc544fe72fa9313203ba4f48d1d431d2d215a56bd0f5b83bd895.html",
-      "consultado": "2026-11-16T17:15:50Z",
+      "consultado": "2026-11-17T08:07:16Z",
       "sha256": "2bc86876a871fc544fe72fa9313203ba4f48d1d431d2d215a56bd0f5b83bd895",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4976217&Seguimiento=4979641"
     }
@@ -68,5 +68,14 @@
   "ultimo_estatus": "Resuelto / Aprobado Aprobado 19/11/2025",
   "votaciones": [
     "sil-4976217-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4976217",
+      "camara": "senado",
+      "fecha": "2025-11-19",
+      "result": "pass",
+      "texto": "Aprobado"
+    }
   ]
 }

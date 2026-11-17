@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/09/094b404d20b7041b5a26aff81ddd8df316504c217cb440b911653605e61bb776.html",
-      "consultado": "2026-11-16T16:27:35Z",
+      "consultado": "2026-11-17T07:05:41Z",
       "sha256": "094b404d20b7041b5a26aff81ddd8df316504c217cb440b911653605e61bb776",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894174&Asunto=4909055"
     },
     {
       "archivo": "fuentes/58/58b8387587b0f83fdd0d08d2b71e2d83e613d1705f7cad4f9befff0613d7dcc3.html",
-      "consultado": "2026-11-16T16:27:39Z",
+      "consultado": "2026-11-17T07:05:45Z",
       "sha256": "58b8387587b0f83fdd0d08d2b71e2d83e613d1705f7cad4f9befff0613d7dcc3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909055&Seguimiento=4894174"
     }
@@ -148,5 +148,35 @@
   "votaciones": [
     "sil-4893371-1",
     "sil-4909055-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4909055",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4909055",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4909055",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4893371",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, y en lo particular el dictamen que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos relativa a la organización de la Contraloría Interna."
+    }
   ]
 }

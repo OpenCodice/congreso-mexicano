@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/5b/5bffd5c7f58ba9dac5e656c49669c42c3ad66f9874c7457dc2d163b3a61c1a23.html",
-      "consultado": "2026-11-16T16:28:24Z",
+      "consultado": "2026-11-17T07:06:22Z",
       "sha256": "5bffd5c7f58ba9dac5e656c49669c42c3ad66f9874c7457dc2d163b3a61c1a23",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894185&Asunto=4909049"
     },
     {
       "archivo": "fuentes/ea/ea828dfcecf822321b79cea71b906225043f2da55981b3638be61341d4343696.html",
-      "consultado": "2026-11-16T16:28:28Z",
+      "consultado": "2026-11-17T07:06:25Z",
       "sha256": "ea828dfcecf822321b79cea71b906225043f2da55981b3638be61341d4343696",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909049&Seguimiento=4894185"
     }
@@ -196,5 +196,77 @@
     "sil-4893383-2",
     "sil-4909049-1",
     "sil-4909049-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4909049",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4909049",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4909049",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4909049",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación; y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909049",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Francisco Javier Ramírez Acuña (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación; y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909049",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Agustín Dorantes Lámbarri (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación; y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4893383",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen reforma adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; Ley Orgánica de la Administración Pública Federal; Ley de Caminos, Puentes y Autotransporte Federal; Ley de Vías Generales de Comunicación, y Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa."
+    },
+    {
+      "asunto": "4893383",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; Ley Orgánica de la Administración Pública Federal; Ley de Caminos, Puentes y Autotransporte Federal; Ley de Vías Generales de Comunicación, y Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa."
+    },
+    {
+      "asunto": "4893383",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Luis Hernández Pérez (PVEM) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; Ley Orgánica de la Administración Pública Federal; Ley de Caminos, Puentes y Autotransporte Federal; Ley de Vías Generales de Comunicación, y Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa."
+    },
+    {
+      "asunto": "4893383",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Dip. Anayeli Muñoz Moreno (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; Ley Orgánica de la Administración Pública Federal; Ley de Caminos, Puentes y Autotransporte Federal; Ley de Vías Generales de Comunicación, y Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa."
+    }
   ]
 }

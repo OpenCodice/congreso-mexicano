@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/fa/faaeb8908d9af0a4b2b7e9b41cd714b76c223dfcb33bbfb43e91034ebc4382af.html",
-      "consultado": "2026-11-16T16:40:04Z",
+      "consultado": "2026-11-17T07:17:25Z",
       "sha256": "faaeb8908d9af0a4b2b7e9b41cd714b76c223dfcb33bbfb43e91034ebc4382af",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4908432&Asunto=4907690"
     },
     {
       "archivo": "fuentes/a8/a8e130d6bd0667faa0e2debef1f73f46cd4688b79adeee5af76d6a65a5ff99d0.html",
-      "consultado": "2026-11-16T16:40:08Z",
+      "consultado": "2026-11-17T07:18:29Z",
       "sha256": "a8e130d6bd0667faa0e2debef1f73f46cd4688b79adeee5af76d6a65a5ff99d0",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4907690&Seguimiento=4908432"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 25/06/2025",
   "votaciones": [
     "sil-4907690-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4907690",
+      "camara": "permanente",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido."
+    }
   ]
 }

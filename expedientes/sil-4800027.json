@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/ba/baf4ba80bdc9b64d5eb168168cf21beeb47f757bd2b32f3cc7a98019adb54efa.html",
-      "consultado": "2026-11-16T15:40:42Z",
+      "consultado": "2026-11-17T06:13:02Z",
       "sha256": "baf4ba80bdc9b64d5eb168168cf21beeb47f757bd2b32f3cc7a98019adb54efa",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4800027&Asunto=4801214"
     },
     {
       "archivo": "fuentes/7a/7a76e76723f3494ffbd506704a4ed57cf583fee595be87d4e00fd328959730a0.html",
-      "consultado": "2026-11-16T15:40:45Z",
+      "consultado": "2026-11-17T06:13:05Z",
       "sha256": "7a76e76723f3494ffbd506704a4ed57cf583fee595be87d4e00fd328959730a0",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4801214&Seguimiento=4800027"
     }
@@ -100,5 +100,21 @@
   "ultimo_estatus": "Toma de protesta Aprobado 12/11/2024",
   "votaciones": [
     "sil-4801214-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4801214",
+      "camara": "senado",
+      "fecha": "2024-11-12",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen."
+    },
+    {
+      "asunto": "4801214",
+      "camara": "senado",
+      "fecha": "2024-11-12",
+      "result": "pass",
+      "texto": "Aprobado el dictamen que propone la terna de candidatas a ocupar la presidencia de la Comisión Nacional de los Derechos Humanos para el periodo 2024-2029."
+    }
   ]
 }

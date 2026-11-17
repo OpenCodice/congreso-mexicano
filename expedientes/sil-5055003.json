@@ -117,13 +117,13 @@
   "sources": [
     {
       "archivo": "fuentes/db/dba905753e0e90977b189c8c071d98d3f024c66f10f5a2d699af5e9d21f669cd.html",
-      "consultado": "2026-11-16T18:10:57Z",
+      "consultado": "2026-11-17T09:00:21Z",
       "sha256": "dba905753e0e90977b189c8c071d98d3f024c66f10f5a2d699af5e9d21f669cd",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5055003&Asunto=5054246"
     },
     {
       "archivo": "fuentes/3b/3bd4bcfd88e9134b0650a2e0a9322a5957d481bb90bb3a22d22750bb4549cc5c.html",
-      "consultado": "2026-11-16T18:11:01Z",
+      "consultado": "2026-11-17T09:00:25Z",
       "sha256": "3bd4bcfd88e9134b0650a2e0a9322a5957d481bb90bb3a22d22750bb4549cc5c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5054246&Seguimiento=5055003"
     }
@@ -198,5 +198,63 @@
   "votaciones": [
     "sil-5054246-1",
     "sil-5054246-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado Para considerar suficientemente discutido, en lo general."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la propuesta de modificación presentada por el Dip. Carlos Ventura Rodríguez (Morena) para eliminar el Artículo Noveno Transitorio."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Carlos Ventura Rodríguez (Morena) para eliminar el Artículo Noveno Transitorio."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado aceptar la propuesta de modificación presentada por el Dip. Carlos Ventura Rodríguez (Morena) para eliminar el Artículo Noveno Transitorio."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen que expide la Ley para el Fomento de la inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, y se reforman y adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Dip. Nancy Aracely Olguín Díaz (PAN) al dictamen que expide la Ley para el Fomento de la inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, y se reforman y adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que expide la Ley para el Fomento de la inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, y se reforman y adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+    },
+    {
+      "asunto": "5054246",
+      "camara": "diputados",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Dip. Eva María Vásquez Hernández (PAN) al dictamen que expide la Ley para el Fomento de la inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, y se reforman y adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+    }
   ]
 }

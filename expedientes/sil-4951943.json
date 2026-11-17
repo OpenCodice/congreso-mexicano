@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/3c/3c9450b9f3abb76ad089f508f6a468a4da3f125395b4761f73ed3aff57dc1761.html",
-      "consultado": "2026-11-16T16:58:49Z",
+      "consultado": "2026-11-17T07:50:41Z",
       "sha256": "3c9450b9f3abb76ad089f508f6a468a4da3f125395b4761f73ed3aff57dc1761",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4951943&Asunto=4951713"
     },
     {
       "archivo": "fuentes/87/87d81971c67677282a5c18d8e2f55a8c4a5343ceaaa29366daf2d174201c315d.html",
-      "consultado": "2026-11-16T16:58:53Z",
+      "consultado": "2026-11-17T07:50:44Z",
       "sha256": "87d81971c67677282a5c18d8e2f55a8c4a5343ceaaa29366daf2d174201c315d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4951713&Seguimiento=4951943"
     }
@@ -100,5 +100,42 @@
   "ultimo_estatus": "Toma de protesta Aprobado 15/10/2025",
   "votaciones": [
     "sil-4951713-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4951713",
+      "camara": "senado",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado para incorporarlo al orden del día de la sesión."
+    },
+    {
+      "asunto": "4951713",
+      "camara": "senado",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado para dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4951713",
+      "camara": "senado",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la moción suspensiva de la Sen. Claudia Edith Anaya Mota (PRI)."
+    },
+    {
+      "asunto": "4951713",
+      "camara": "senado",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido el dictamen."
+    },
+    {
+      "asunto": "4951713",
+      "camara": "senado",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado"
+    }
   ]
 }

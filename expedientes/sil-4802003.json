@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/3e/3e2c5f1ad9d86c6c5939f11d182ed024d286e3e81e9c43befdc5a2da8343d409.html",
-      "consultado": "2026-11-16T15:41:55Z",
+      "consultado": "2026-11-17T06:14:40Z",
       "sha256": "3e2c5f1ad9d86c6c5939f11d182ed024d286e3e81e9c43befdc5a2da8343d409",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4802003&Asunto=4808881"
     },
     {
       "archivo": "fuentes/a1/a14f1bb54c0b76e4041b3c8f4b43d1d9341ad477a13a2bb50b0097f3cbd4707e.html",
-      "consultado": "2026-11-16T15:42:59Z",
+      "consultado": "2026-11-17T06:14:44Z",
       "sha256": "a14f1bb54c0b76e4041b3c8f4b43d1d9341ad477a13a2bb50b0097f3cbd4707e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4808881&Seguimiento=4802003"
     }
@@ -306,5 +306,196 @@
     "sil-4802165-3",
     "sil-4808881-1",
     "sil-4808881-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado que la discusión del dictamen se lleve a cabo en dos bloques."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado que la discusión del bloque 1, se lleve a cabo en lo general y en lo particular del dictamen, en un solo acto."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el primer bloque del dictamen con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 8 y 30 Bis formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 28 formulada por la Sen. Yeidckol Polevnsky Gurwitz (PT), a nombre de la Sen. Lizeth Sánchez García (PT). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 30 Bis formulada por Sen. Miguel Ángel Riquelme Solís (PRI) . En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 32 Bis y 42 Bis formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 35, 36 y 44 Bis formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado que la discusión del bloque 2, se lleve a cabo en lo general y en lo particular del dictamen, en un solo acto."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el segundo bloque del dictamen."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 19, 20, 27 y 37 formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 26 formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva los artículos 26, 27, 31, 37 y 42 Ter formulada por Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 37, fracción XLIII formulada por el Sen. Ángel García Yáñez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 37 formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 37 formulada por el Sen. Miguel Ángel Riquelme Solís (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808881",
+      "camara": "senado",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 37 formulada por grupo parlamentario de Movimiento Ciudadano. En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir someter a discusión la propuesta de modificación presentada por la Dip. Jessica Saiden Quiroz (Morena) a los artículos 30 Bis, 32 Bis, 35 y 38 Bis, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por la Dip. Jessica Saiden Quiroz (Morena) a los artículos 30 Bis, 32 Bis, 35 y 38 Bis, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Jessica Saiden Quiroz (Morena) a los artículos 30 Bis, 32 Bis, 35 y 38 Bis, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) a los artículos 30 Bis, 32 Bis, 35 y 38 Bis, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) a los artículos 30 Bis, 32 Bis, 35 y 38 Bis, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva de la Dip. Rafaela Vianey García Romero (Morena) a los artículos 42 Ter y Décimo Cuarto Transitorio, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4802165",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir la reserva de la Dip. Rafaela Vianey García Romero (Morena) a los artículos 42 Ter y Décimo Cuarto Transitorio, del dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal. Se reserva para su votación nominal la modificación aceptada por la Asamblea."
+    }
   ]
 }

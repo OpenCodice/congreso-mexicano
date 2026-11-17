@@ -105,13 +105,13 @@
   "sources": [
     {
       "archivo": "fuentes/6f/6f5374519ebec19cc17f5b69706eb1d2b1bd359c7ce83ea7e190f3f60f16486b.html",
-      "consultado": "2026-11-16T16:00:54Z",
+      "consultado": "2026-11-17T06:37:20Z",
       "sha256": "6f5374519ebec19cc17f5b69706eb1d2b1bd359c7ce83ea7e190f3f60f16486b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4843211&Asunto=4850321"
     },
     {
       "archivo": "fuentes/4d/4dea1631d0834a9bc179212829a33bc0808bee6c8ece7e049dcb8024b427d57b.html",
-      "consultado": "2026-11-16T16:00:58Z",
+      "consultado": "2026-11-17T06:37:23Z",
       "sha256": "4dea1631d0834a9bc179212829a33bc0808bee6c8ece7e049dcb8024b427d57b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4850321&Seguimiento=4843211"
     }
@@ -246,5 +246,77 @@
     "sil-4850321-1",
     "sil-4850321-2",
     "sil-4850321-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4850321",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4850321",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general."
+    },
+    {
+      "asunto": "4850321",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4850321",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Ricardo Anaya Cortés (PAN), a nombre del Sen. Francisco Javier Ramírez Acuña (PAN), de la Sen. Ivideliza Reyes Hernández (PAN) y del Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4850321",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Francisco Javier Ramírez Acuña (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4842489",
+      "camara": "diputados",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos."
+    },
+    {
+      "asunto": "4842489",
+      "camara": "diputados",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos."
+    },
+    {
+      "asunto": "4842489",
+      "camara": "diputados",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Claudia Ruiz Massieu Salinas (MC) al dictamen que reforma y adiciona diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos."
+    },
+    {
+      "asunto": "4842489",
+      "camara": "diputados",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que reforma y adiciona diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos."
+    },
+    {
+      "asunto": "4842489",
+      "camara": "diputados",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Asael Hernández Cerón (PAN) al dictamen que reforma y adiciona diversas disposiciones de los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos."
+    }
   ]
 }

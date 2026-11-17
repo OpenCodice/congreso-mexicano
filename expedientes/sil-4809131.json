@@ -117,13 +117,13 @@
   "sources": [
     {
       "archivo": "fuentes/9c/9c575a8eee219e8b03428d954e1888c1405e5bff564bce0ab1871fb4871626b1.html",
-      "consultado": "2026-11-16T15:44:18Z",
+      "consultado": "2026-11-17T06:17:08Z",
       "sha256": "9c575a8eee219e8b03428d954e1888c1405e5bff564bce0ab1871fb4871626b1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4809131&Asunto=4815505"
     },
     {
       "archivo": "fuentes/c0/c09582f1a332f1eb45f10705a622de05accd6e3f76b20f05531b6c30d5b13bc7.html",
-      "consultado": "2026-11-16T15:44:22Z",
+      "consultado": "2026-11-17T06:17:11Z",
       "sha256": "c09582f1a332f1eb45f10705a622de05accd6e3f76b20f05531b6c30d5b13bc7",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4815505&Seguimiento=4809131"
     }
@@ -330,5 +330,203 @@
     "sil-4815505-1",
     "sil-4815505-2",
     "sil-4815505-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 8 y 11, formulada por el Sen. Armando Ayala Robles (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 8, 11, 18 a y 198 formulada por la Sen. Mayuli Latifa Martínez Simón (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 8, 18 a y cuarto transitorio, formulada por la Sen. Alma Anahí González Hernández (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 8°, fracción I, 198 y cuarto transitorio formulada por el Sen. Eugenio Segura Vázquez (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 11 formulada por el Sen. Homero Davis Castro (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 11, 275 y adición de un artículo 271, formulada por el Sen. Manuel Añorve Baños (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 11, 18 a y 198 formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 18 a, formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 18 a, formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 18 a, 220 a y 275, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 18 a y tercero transitorio, formulada por el Sen. Luis Donaldo Colosio Riojas (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 18 a y la adición del artículo 239 Bis formulada por el Sen. Agustín Dorantes Lámbarri (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 18 a, tercero y cuarto transitorios formulada por la Sen. Susana del Carmen Zataraín García (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 268, 263, 265 formulada por el Sen. Gustavo Sánchez Vásquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo220 a, formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva artículo 275 formulada por la Sen. Geovanna del Carmen Bañuelos de la Torre (PT). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4815505",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 11, formulada por el Sen. Jorge Carlos Ramírez Marín (PVEM). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Elizabeth Martínez Álvarez (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Theodoros Kalionchiz De la Fuente (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Liliana Ortiz Pérez (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Nancy Aracely Olguín Díaz (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Arturo Yáñez Cuéllar (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "4808744",
+      "camara": "diputados",
+      "fecha": "2024-11-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    }
   ]
 }

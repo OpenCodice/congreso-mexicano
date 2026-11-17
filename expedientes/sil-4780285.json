@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4777989",
+      "denominacion": "Remite propuesta de ratificación de Juan José Paullada como Consejero Independiente de Petróleos Mexicanos.",
+      "estatus": "Toma de protesta 03/10/2024",
+      "fecha": "2024-09-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4777989_20240929_1727645709.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4780156",
+      "denominacion": "Por el que se pronuncia por la idoneidad de Juan José Paullada Figueroa, para ocupar el cargo de Consejero Independiente de Petróleos Mexicanos, por un nuevo periodo.",
+      "estatus": "Toma de protesta 03/10/2024",
+      "fecha": "2024-10-03",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4780156_20241003_1727988114.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-10-03"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-10-03"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-10-03"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2024-10-03"
+    }
+  ],
+  "denominacion": "Por el que se pronuncia por la idoneidad de Juan José Paullada Figueroa, para ocupar el cargo de Consejero Independiente de Petróleos Mexicanos, por un nuevo periodo.",
+  "id": "sil-4780285",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4780285",
+  "sources": [
+    {
+      "archivo": "fuentes/70/7083fc8207d763aaef19233ecf7bdcf66b3493738636e3fd3a4015a62838bbd2.html",
+      "consultado": "2026-11-17T06:05:03Z",
+      "sha256": "7083fc8207d763aaef19233ecf7bdcf66b3493738636e3fd3a4015a62838bbd2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4780285&Asunto=4780156"
+    },
+    {
+      "archivo": "fuentes/36/3640e1154da5f7b3d064cb6d9cf0c99e3c2a9edc849ef34045a8d38df9875abe.html",
+      "consultado": "2026-11-17T06:05:06Z",
+      "sha256": "3640e1154da5f7b3d064cb6d9cf0c99e3c2a9edc849ef34045a8d38df9875abe",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4780156&Seguimiento=4780285"
+    }
+  ],
+  "tramites": {
+    "4780156": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar el trámite de publicación de veinticuatro horas de antelación del dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a los resolutivos.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado la idoneidad de Juan José Paullada Figueroa, para ocupar el cargo de Consejero Independiente de Petróleos Mexicanos.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 95
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 95 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de Juan José Paullada Figueroa, como Consejero Independiente de Petróleos Mexicanos, por un nuevo periodo que concluye el 8 de diciembre de 2025.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 03/10/2024",
+  "votaciones": [
+    "sil-4780156-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4780156",
+      "camara": "senado",
+      "fecha": "2024-10-03",
+      "result": "pass",
+      "texto": "Aprobado dispensar el trámite de publicación de veinticuatro horas de antelación del dictamen."
+    },
+    {
+      "asunto": "4780156",
+      "camara": "senado",
+      "fecha": "2024-10-03",
+      "result": "pass",
+      "texto": "Aprobado la idoneidad de Juan José Paullada Figueroa, para ocupar el cargo de Consejero Independiente de Petróleos Mexicanos."
+    }
+  ]
+}

@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/44/440dbf2523c073250fbd2bc17c1fc7928082e5bbe7730b82a88ec9a6b764b1d6.html",
-      "consultado": "2026-11-16T16:25:49Z",
+      "consultado": "2026-11-17T07:04:59Z",
       "sha256": "440dbf2523c073250fbd2bc17c1fc7928082e5bbe7730b82a88ec9a6b764b1d6",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890589&Asunto=4890534"
     },
     {
       "archivo": "fuentes/f3/f3ab304b95957bd5a94a9ac918900811ac86e48686eed866d7fe538ad2e8301d.html",
-      "consultado": "2026-11-16T16:26:53Z",
+      "consultado": "2026-11-17T07:05:02Z",
       "sha256": "f3ab304b95957bd5a94a9ac918900811ac86e48686eed866d7fe538ad2e8301d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4890534&Seguimiento=4890589"
     }
@@ -140,5 +140,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 21/07/2025",
   "votaciones": [
     "sil-4890534-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4890534",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular."
+    }
   ]
 }

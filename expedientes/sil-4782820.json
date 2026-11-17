@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/09/098ff175500a91512e325af272b8a2eb357e052fb0197bfd950393f23e35af1e.html",
-      "consultado": "2026-11-16T15:35:08Z",
+      "consultado": "2026-11-17T06:06:48Z",
       "sha256": "098ff175500a91512e325af272b8a2eb357e052fb0197bfd950393f23e35af1e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4782820&Asunto=4783722"
     },
     {
       "archivo": "fuentes/02/02a2ae919c4168590c7b1624b5e891cec14c3e7477dbe26e1a36ca0a99d61e38.html",
-      "consultado": "2026-11-16T15:35:12Z",
+      "consultado": "2026-11-17T06:06:51Z",
       "sha256": "02a2ae919c4168590c7b1624b5e891cec14c3e7477dbe26e1a36ca0a99d61e38",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4783722&Seguimiento=4782820"
     }
@@ -270,5 +270,126 @@
     "sil-4783722-3",
     "sil-4784617-1",
     "sil-4784617-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4783722",
+      "camara": "senado",
+      "fecha": "2024-10-10",
+      "result": "pass",
+      "texto": "Aprobado dispensar su lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4783722",
+      "camara": "senado",
+      "fecha": "2024-10-10",
+      "result": "fail",
+      "texto": "Se rechazó poner a discusión las reservas formuladas por el Sen. Miguel Márquez Márquez (PAN) a los artículos 54 y 93 del dictamen. En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4783722",
+      "camara": "senado",
+      "fecha": "2024-10-10",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión las reservas formuladas por la Sen. Edith López Hernández (Morena), a nombre de la Sen. Olga Patricia Sosa Ruíz (Morena) a los artículos 53, 61, 79, 80 y 112 del dictamen."
+    },
+    {
+      "asunto": "4783722",
+      "camara": "senado",
+      "fecha": "2024-10-10",
+      "result": "pass",
+      "texto": "Aprobado se aprueban las modificaciones a los artículos 53, 61, 79, 80 y 112 del dictamen. Se reserva para su votación en lo particular."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Carmen Rocío González Alonso (PAN) al dictamen de la Comisión de Justicia por el que se reforma y adiciona diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen de la Comisión de Justicia por el que se reforma y adiciona diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, relativo a la actualización de los medios de impugnación en el proceso de elección de los integrantes del Poder Judicial de la Federación."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Mercado Castro (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mariana Guadalupe Jiménez Zamora (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia Gabriela Salas Rodríguez (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Héctor Saúl Téllez Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Hernández García (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Lorena Piñón Rivera (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Ricardo Sóstenes Mejía Berdeja (PT). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4784617",
+      "camara": "diputados",
+      "fecha": "2024-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Federico Döring Casar (PAN). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

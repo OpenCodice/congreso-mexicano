@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/c5/c538c10b2924549e6d2e7aff9b75ba1dc92e19fed4ee7d2f6be922b55ede92cc.html",
-      "consultado": "2026-11-16T17:43:18Z",
+      "consultado": "2026-11-17T08:33:24Z",
       "sha256": "c538c10b2924549e6d2e7aff9b75ba1dc92e19fed4ee7d2f6be922b55ede92cc",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017048&Asunto=5016216"
     },
     {
       "archivo": "fuentes/39/391c1dde5ce0c088ecf1081b063a09428838e63de1df04460283ef2adbe5b1a9.html",
-      "consultado": "2026-11-16T17:43:22Z",
+      "consultado": "2026-11-17T08:33:28Z",
       "sha256": "391c1dde5ce0c088ecf1081b063a09428838e63de1df04460283ef2adbe5b1a9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016216&Seguimiento=5017048"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
   "votaciones": [
     "sil-5016216-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5016216",
+      "camara": "diputados",
+      "fecha": "2026-02-17",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona los artículos 64 Quáter y 64 Quintus de la Ley General de Responsabilidades Administrativas, en materia de acoso sexual, laboral y hostigamiento laboral."
+    }
   ]
 }

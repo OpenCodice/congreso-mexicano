@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/1a/1aa4f498776058858e02229504fa3d93e47167baa5b805b3b8d1293df234e897.html",
-      "consultado": "2026-11-16T15:46:02Z",
+      "consultado": "2026-11-17T06:20:07Z",
       "sha256": "1aa4f498776058858e02229504fa3d93e47167baa5b805b3b8d1293df234e897",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4815818&Asunto=4815775"
     },
     {
       "archivo": "fuentes/fa/fa7cf0430c77dadb9feffdfe547dbb582feda7fa62b4d3e1041fe00359a28de4.html",
-      "consultado": "2026-11-16T15:46:06Z",
+      "consultado": "2026-11-17T06:20:10Z",
       "sha256": "fa7cf0430c77dadb9feffdfe547dbb582feda7fa62b4d3e1041fe00359a28de4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4815775&Seguimiento=4815818"
     }
@@ -92,5 +92,21 @@
   "ultimo_estatus": "Toma de protesta Aprobado 03/12/2024",
   "votaciones": [
     "sil-4815775-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4815775",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "pass",
+      "texto": "Aprobado incorporarlo en el orden del día de la sesión."
+    },
+    {
+      "asunto": "4815775",
+      "camara": "senado",
+      "fecha": "2024-12-03",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de publicación de veinticuatro horas previo a la discusión y votación del dictamen."
+    }
   ]
 }

@@ -117,13 +117,13 @@
   "sources": [
     {
       "archivo": "fuentes/0c/0ca494c3b262bcd8397d275e49876b2fe8f122c424b8a96805e0fb5170d64976.html",
-      "consultado": "2026-11-16T15:39:01Z",
+      "consultado": "2026-11-17T06:11:01Z",
       "sha256": "0ca494c3b262bcd8397d275e49876b2fe8f122c424b8a96805e0fb5170d64976",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4798657&Asunto=4806586"
     },
     {
       "archivo": "fuentes/9e/9efb260307475c0529a8766d1f814d530b1c75b77d3075ae3e124f8e821cd8ab.html",
-      "consultado": "2026-11-16T15:39:05Z",
+      "consultado": "2026-11-17T06:11:05Z",
       "sha256": "9efb260307475c0529a8766d1f814d530b1c75b77d3075ae3e124f8e821cd8ab",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4806586&Seguimiento=4798657"
     }
@@ -230,5 +230,70 @@
     "sil-4800620-1",
     "sil-4800620-2",
     "sil-4806586-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4806586",
+      "camara": "senado",
+      "fecha": "2024-11-21",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 3o., 4o. y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección y cuidado animal."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva formulada por la Dip. Martha Olivia García Vidaña (Morena) para incluir el precepto de -bienestar- animal dentro de las facultades otorgadas al Congreso."
+    },
+    {
+      "asunto": "4800620",
+      "camara": "diputados",
+      "fecha": "2024-11-12",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Martha Olivia García Vidaña (Morena) al dictamen. Se reserva para su votación nominal la modificación aceptada por la Asamblea."
+    }
   ]
 }

@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/dd/dd0a7b6d854f0b3cd05d4ed15db1ea6a2d81cd46ce0d4a7e25cf1d9311f88d4b.html",
-      "consultado": "2026-11-16T17:29:34Z",
+      "consultado": "2026-11-17T08:20:20Z",
       "sha256": "dd0a7b6d854f0b3cd05d4ed15db1ea6a2d81cd46ce0d4a7e25cf1d9311f88d4b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990627&Asunto=4989541"
     },
     {
       "archivo": "fuentes/b8/b8ccb312e4108e01fc8700ce5f59b0a33cbd438d9cebabc9883492eab9ab9d7b.html",
-      "consultado": "2026-11-16T17:29:38Z",
+      "consultado": "2026-11-17T08:20:23Z",
       "sha256": "b8ccb312e4108e01fc8700ce5f59b0a33cbd438d9cebabc9883492eab9ab9d7b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989541&Seguimiento=4990627"
     }
@@ -174,5 +174,56 @@
   "votaciones": [
     "sil-4989541-1",
     "sil-4989541-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general el dictamen."
+    },
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen."
+    },
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen."
+    },
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen."
+    },
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen."
+    },
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paola Michell Longoria López (MC) al dictamen."
+    },
+    {
+      "asunto": "4989541",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen."
+    }
   ]
 }

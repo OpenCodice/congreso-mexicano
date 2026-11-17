@@ -37,13 +37,13 @@
   "sources": [
     {
       "archivo": "fuentes/9e/9e744e88e4f19549e0caf37f6c81a56ad1cc8b0c0ab135c06ff8201bb4ab7e09.html",
-      "consultado": "2026-11-16T16:48:08Z",
+      "consultado": "2026-11-17T07:26:42Z",
       "sha256": "9e744e88e4f19549e0caf37f6c81a56ad1cc8b0c0ab135c06ff8201bb4ab7e09",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4932585&Asunto=4931425"
     },
     {
       "archivo": "fuentes/04/04878277cb3bb7d1dfd39a92f72d56e066e2dac674976da1cf3fb769b9939ce2.html",
-      "consultado": "2026-11-16T16:48:12Z",
+      "consultado": "2026-11-17T07:26:45Z",
       "sha256": "04878277cb3bb7d1dfd39a92f72d56e066e2dac674976da1cf3fb769b9939ce2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4931425&Seguimiento=4932585"
     }
@@ -84,5 +84,21 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 29/09/2025",
   "votaciones": [
     "sil-4931425-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4931425",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "pass",
+      "texto": "Aprobado se admite someter a discusión el Acuerdo de la Junta de Coordinación Política que designa a Óscar Daniel Del Río Serrano como titular del Órgano Interno de Control de la Fiscalía General de la República."
+    },
+    {
+      "asunto": "4931425",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "pass",
+      "texto": "Aprobado se aprueba considerar suficientemente discutido el acuerdo."
+    }
   ]
 }

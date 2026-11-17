@@ -93,13 +93,13 @@
   "sources": [
     {
       "archivo": "fuentes/d1/d1753d541d711a2516d32084679da363b7f3053fd44bb210bacbf208f2f09afa.html",
-      "consultado": "2026-11-16T18:41:19Z",
+      "consultado": "2026-11-17T09:42:43Z",
       "sha256": "d1753d541d711a2516d32084679da363b7f3053fd44bb210bacbf208f2f09afa",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5154775&Asunto=5168656"
     },
     {
       "archivo": "fuentes/cb/cb97b8a2445d13e3ba8d54baecf2f74bbaa0636ae4fd02807dd9274c7fd32497.html",
-      "consultado": "2026-11-16T18:41:22Z",
+      "consultado": "2026-11-17T09:42:46Z",
       "sha256": "cb97b8a2445d13e3ba8d54baecf2f74bbaa0636ae4fd02807dd9274c7fd32497",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5168656&Seguimiento=5154775"
     }
@@ -248,5 +248,154 @@
     "sil-5153792-2",
     "sil-5168656-1",
     "sil-5168656-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "pass",
+      "texto": "Aprobado para dispensar la segunda lectura."
+    },
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Miguel Márquez Márquez (PAN)."
+    },
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Alma Carolina Viggiano Austria (PRI)."
+    },
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Ricardo Sheffield Padilla (Morena) al dictamen."
+    },
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó la discusión de la reserva presentada por el Sen. Francisco Javier Ramírez Acuña (PAN) al dictamen."
+    },
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó la discusión de las reservas presentadas por el Sen. Rolando Rodrigo Zapata Bello (PRI) al dictamen."
+    },
+    {
+      "asunto": "5168656",
+      "camara": "senado",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó la discusión de la reserva presentada por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Verónica Martínez García (PRI)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Anayeli Muñoz Moreno (MC)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Laura Hernández García (MC)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Juan Armando Ruiz Hernández (MC)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN)."
+    },
+    {
+      "asunto": "5153792",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. María Del Rosario Guzmán Avilés (PAN)."
+    }
   ]
 }

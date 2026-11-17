@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/6b/6bf1be6513648a221dfc8ad1442756c762340b02221b7d82d190eb3599428dfd.html",
-      "consultado": "2026-11-16T18:26:23Z",
+      "consultado": "2026-11-17T09:25:27Z",
       "sha256": "6bf1be6513648a221dfc8ad1442756c762340b02221b7d82d190eb3599428dfd",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090373&Asunto=5088431"
     },
     {
       "archivo": "fuentes/7e/7e9d934d9f1251051f00ce44edcc68078a56772481e00112ad6c63943cb1ded1.html",
-      "consultado": "2026-11-16T18:26:26Z",
+      "consultado": "2026-11-17T09:25:30Z",
       "sha256": "7e9d934d9f1251051f00ce44edcc68078a56772481e00112ad6c63943cb1ded1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088431&Seguimiento=5090373"
     }
@@ -124,5 +124,28 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-5088431-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5088431",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva formulada."
+    },
+    {
+      "asunto": "5088431",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado si la propuesta de modificación se encuentra suficientemente discutida."
+    },
+    {
+      "asunto": "5088431",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado si se acepta la propuesta de modificación."
+    }
   ]
 }

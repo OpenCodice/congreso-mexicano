@@ -97,13 +97,13 @@
   "sources": [
     {
       "archivo": "fuentes/77/777299888b658b021921764c52b0e6238124c9b67151f88439316cd6a35ba9a2.html",
-      "consultado": "2026-11-16T18:31:19Z",
+      "consultado": "2026-11-17T09:29:34Z",
       "sha256": "777299888b658b021921764c52b0e6238124c9b67151f88439316cd6a35ba9a2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090386&Asunto=5088461"
     },
     {
       "archivo": "fuentes/ca/caaf8a5e3be9e4cf4cc3f7745f7e5e499f0b866c7416778f33c0230df4349a06.html",
-      "consultado": "2026-11-16T18:31:23Z",
+      "consultado": "2026-11-17T09:29:37Z",
       "sha256": "caaf8a5e3be9e4cf4cc3f7745f7e5e499f0b866c7416778f33c0230df4349a06",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088461&Seguimiento=5090386"
     }
@@ -136,5 +136,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-5088461-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5088461",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que reforma la fracción XVI del artículo 30 de la Ley General de Educación para incluir los conceptos y principios del bienestar animal y de protección de los animales."
+    }
   ]
 }

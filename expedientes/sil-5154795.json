@@ -97,13 +97,13 @@
   "sources": [
     {
       "archivo": "fuentes/e8/e8d5b432c90c8fbaef913f7884f52966cc17932b136c89ac80bc5b7c8b133682.html",
-      "consultado": "2026-11-16T18:43:46Z",
+      "consultado": "2026-11-17T09:46:51Z",
       "sha256": "e8d5b432c90c8fbaef913f7884f52966cc17932b136c89ac80bc5b7c8b133682",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5154795&Asunto=5156358"
     },
     {
       "archivo": "fuentes/60/604f62f2acbe424c64ff2a6fe04ab159e448744027459a1aa9a1c736ec627d77.html",
-      "consultado": "2026-11-16T18:43:50Z",
+      "consultado": "2026-11-17T09:46:54Z",
       "sha256": "604f62f2acbe424c64ff2a6fe04ab159e448744027459a1aa9a1c736ec627d77",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5156358&Seguimiento=5154795"
     }
@@ -230,5 +230,154 @@
   "votaciones": [
     "sil-5156358-1",
     "sil-5156358-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Kenia López Rabadán (PAN) al dictamen que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC) al dictamen que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma el artículo 114 Octies y se adicionan los artículos 114 Nonies y 232 Septies a la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Hugo Manuel Luna Vázquez (MC)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Gildardo Pérez Gabino (MC)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Verónica Martínez García (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Víctor Adrián Martínez Terrazas (PAN)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. David Azuara Zúñiga (PAN)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Diana Estefanía Gutiérrez Valtierra (PAN)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Paulo Gonzalo Martínez López (PAN)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI)."
+    },
+    {
+      "asunto": "5156358",
+      "camara": "diputados",
+      "fecha": "2026-10-07",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Roberto Sosa Pichardo (PAN)."
+    }
   ]
 }

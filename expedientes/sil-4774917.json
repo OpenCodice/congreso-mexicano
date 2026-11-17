@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/f9/f9c55f6487d95aa8af3dba7c21eed397573aad8c1ddc27f0f8497853922de7b7.html",
-      "consultado": "2026-11-16T15:32:26Z",
+      "consultado": "2026-11-17T06:02:03Z",
       "sha256": "f9c55f6487d95aa8af3dba7c21eed397573aad8c1ddc27f0f8497853922de7b7",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4774917&Asunto=4851559"
     },
     {
       "archivo": "fuentes/e6/e67875d5a4a6375fdfd6e293f7beeff98ee930cea54740e96c43b4387eaaeba3.html",
-      "consultado": "2026-11-16T15:32:30Z",
+      "consultado": "2026-11-17T06:02:06Z",
       "sha256": "e67875d5a4a6375fdfd6e293f7beeff98ee930cea54740e96c43b4387eaaeba3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4851559&Seguimiento=4774917"
     }
@@ -300,5 +300,259 @@
   "votaciones": [
     "sil-4777345-1",
     "sil-4851559-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado discutir el dictamen en lo general y en lo particular en un solo acto."
+    },
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Ángel García Yáñez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el el Sen. Enrique Vargas del Villar (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4851559",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Isabel Rodríguez Heredia (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Martínez García (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Pablo Vázquez Ahued (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Tania Palacios Kuri (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Oscar Bautista Villegas (PVEM). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Moreno De Haro (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. José Manuel Hinojosa Pérez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Francisco Javier Farias Bailón (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. José Mario Íñiguez Franco (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Yerico Abramo Masso (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Irais Virginia Reyes De la Torre (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Paulo Gonzalo Martínez López (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Ignacio Samperio Montaño (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Roberto Sosa Pichardo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Luis Gerardo Sánchez Sánchez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Miguel Ángel Sánchez Rivera (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Miguel Ángel Sánchez Rivera (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. César Alejandro Domínguez Domínguez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Ángel Flores Bustamante (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4777345",
+      "camara": "diputados",
+      "fecha": "2024-09-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Humberto Ambriz Delgadillo (PRI). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

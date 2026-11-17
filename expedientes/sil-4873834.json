@@ -53,13 +53,13 @@
   "sources": [
     {
       "archivo": "fuentes/9b/9bd2964bb7d6a7f1ba72b6ac6a030a2e1d576ec13b3c8a7aa4f1ef73792f6b30.html",
-      "consultado": "2026-11-16T16:14:35Z",
+      "consultado": "2026-11-17T06:52:56Z",
       "sha256": "9bd2964bb7d6a7f1ba72b6ac6a030a2e1d576ec13b3c8a7aa4f1ef73792f6b30",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4873834&Asunto=4874318"
     },
     {
       "archivo": "fuentes/dd/ddf9d3fa7542d3ca62cbbb59cb954d8fe54f7cd5ed35da2aa1ee935b02b923f8.html",
-      "consultado": "2026-11-16T16:14:39Z",
+      "consultado": "2026-11-17T06:52:59Z",
       "sha256": "ddf9d3fa7542d3ca62cbbb59cb954d8fe54f7cd5ed35da2aa1ee935b02b923f8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4874318&Seguimiento=4873834"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 15/04/2025",
   "votaciones": [
     "sil-4874318-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4874318",
+      "camara": "senado",
+      "fecha": "2025-04-09",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
   ]
 }

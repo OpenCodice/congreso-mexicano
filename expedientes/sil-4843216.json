@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/a4/a4f7266c7f9b3fc1b383b75f7a1623f3be07961b4d1e14d647f08cbe7282156a.html",
-      "consultado": "2026-11-16T16:01:20Z",
+      "consultado": "2026-11-17T06:38:18Z",
       "sha256": "a4f7266c7f9b3fc1b383b75f7a1623f3be07961b4d1e14d647f08cbe7282156a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4843216&Asunto=4849078"
     },
     {
       "archivo": "fuentes/f4/f42fae71f30dfb3da53872f61512514ab8c6f71fa1abe8e047d5bd35c7b57d57.html",
-      "consultado": "2026-11-16T16:01:23Z",
+      "consultado": "2026-11-17T06:38:21Z",
       "sha256": "f42fae71f30dfb3da53872f61512514ab8c6f71fa1abe8e047d5bd35c7b57d57",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4849078&Seguimiento=4843216"
     }
@@ -248,5 +248,175 @@
     "sil-4844300-2",
     "sil-4849078-1",
     "sil-4849078-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada del dictamen."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "pass",
+      "texto": "Aprobado considerar el dictamen, suficientemente discutido, en lo general."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 2, 39 y 40, formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 28 y 39 de la Ley de Ingresos sobre Hidrocarburos, formulada por el Sen. Francisco Daniel Barreda Pavón (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 39 y la denominación del Capítulo I del Título Tercero, formulada por el Sen. Manuel Añorve Baños (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 39 y la denominación del Capítulo I del Título Tercero, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4849078",
+      "camara": "senado",
+      "fecha": "2025-03-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 39 y 40, formulada por el Sen. Enrique Vargas del Villar (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó para considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Mariana Guadalupe Jiménez Zamora (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) para acotar la definición de -Valor Contractual del Gas Natural- para quedar de la siguiente manera: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Gas Natural por; ii) el volumen, en millones de BTU de Gas Natural determinados a Condición Base, en el Punto de Medición del Área Contractual."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gustavo Adolfo De Hoyos Walther Gustavo (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Arturo Yáñez Cuéllar (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    },
+    {
+      "asunto": "4844300",
+      "camara": "diputados",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos."
+    }
   ]
 }

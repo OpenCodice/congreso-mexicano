@@ -137,13 +137,13 @@
   "sources": [
     {
       "archivo": "fuentes/39/3920928138a4dc1f262aada546b8006b67eea1673fc931fbc0f50ae5b692ecdd.html",
-      "consultado": "2026-11-16T15:41:01Z",
+      "consultado": "2026-11-17T06:13:19Z",
       "sha256": "3920928138a4dc1f262aada546b8006b67eea1673fc931fbc0f50ae5b692ecdd",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4801606&Asunto=4802923"
     },
     {
       "archivo": "fuentes/03/030e1f747d654fb0941abff2c13053263f1a6838a917a0a163cfcfaef389e966.html",
-      "consultado": "2026-11-16T15:41:05Z",
+      "consultado": "2026-11-17T06:13:22Z",
       "sha256": "030e1f747d654fb0941abff2c13053263f1a6838a917a0a163cfcfaef389e966",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4802923&Seguimiento=4801606"
     }
@@ -290,5 +290,154 @@
     "sil-4802923-1",
     "sil-4802923-2",
     "sil-4806260-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 21, tercero y cuarto transitorios y, la adición de un artículo quinto transitorio formulada por el Sen. Luis Donaldo Colosio Riojas (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por la Sen. Anabell Ávalos Zempoalteca (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 y, la adición de un artículo quinto transitorio formulada por el Sen. Ricardo Anaya Cortés (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por el Sen. Alejandro González Yáñez (PT). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por la Sen. Susana del Carmen Zataraín García (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por la Sen. Claudia Edith Anaya Mota (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por el Sen. Ángel García Yáñez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 21 y cuarto transitorio formulada por la Sen. María Guadalupe Murguía Gutiérrez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para eliminar el artículo cuarto transitorio formulada por la Sen. Karla Guadalupe Toledo Zamora (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 y, la adición de un artículo quinto transitorio formulada por la Sen. Araceli Sandoval Ortiz (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo quinto transitorio formulada por el Sen. Miguel Ángel Riquelme Solís (PRI), presentada por la Sen. Mely Romero Celis (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo quinto transitorio formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo quinto transitorio formulada por el Sen. Mario Humberto Vázquez Robles (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 21 formulada por el Sen. Jorge Carlos Ramírez Marín (PVEM). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva al décimo tercer párrafo del artículo 21 formulada por el Sen. Óscar Cantón Zetina (Morena), a efecto de sustituir la expresión -auxiliará a la persona presidenta de la República- por -auxiliará a la persona titular de la presidencia de la República-"
+    },
+    {
+      "asunto": "4802923",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir la modificación al décimo tercer párrafo del artículo 21 para sustituir la expresión -auxiliará a la persona presidenta de la República- por -auxiliará a la persona titular de la presidencia de la República-, a propuesta formulada por el Sen. Óscar Cantón Zetina (Morena)."
+    },
+    {
+      "asunto": "4806260",
+      "camara": "diputados",
+      "fecha": "2024-11-21",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad pública."
+    }
   ]
 }

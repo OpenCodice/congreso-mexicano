@@ -33,13 +33,13 @@
   "sources": [
     {
       "archivo": "fuentes/61/61ebecc84b2abef18a74a244672c9605d060ba4c675419c15ab01312b9ac1a61.html",
-      "consultado": "2026-11-16T15:52:47Z",
+      "consultado": "2026-11-17T06:29:03Z",
       "sha256": "61ebecc84b2abef18a74a244672c9605d060ba4c675419c15ab01312b9ac1a61",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4823691&Asunto=4822854"
     },
     {
       "archivo": "fuentes/03/03b27245fd798df9f891634ac1f69b4df615af95137678e9752ed3f2846682a4.html",
-      "consultado": "2026-11-16T15:52:50Z",
+      "consultado": "2026-11-17T06:29:06Z",
       "sha256": "03b27245fd798df9f891634ac1f69b4df615af95137678e9752ed3f2846682a4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4822854&Seguimiento=4823691"
     }
@@ -76,5 +76,14 @@
   "ultimo_estatus": "Resuelto / Aprobado Aprobado 11/12/2024",
   "votaciones": [
     "sil-4822854-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4822854",
+      "camara": "senado",
+      "fecha": "2024-12-11",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
   ]
 }

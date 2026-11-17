@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/48/487bfefcdc7e86f45507507cbf7c7257ad1b07e19b27627b2f908e75979ab99d.html",
-      "consultado": "2026-11-16T18:28:18Z",
+      "consultado": "2026-11-17T09:27:01Z",
       "sha256": "487bfefcdc7e86f45507507cbf7c7257ad1b07e19b27627b2f908e75979ab99d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090377&Asunto=5088446"
     },
     {
       "archivo": "fuentes/b1/b198cf4df500a3beeec84bf19ebad2cdae54d82dc291f51a6b06e53b888b613b.html",
-      "consultado": "2026-11-16T18:28:22Z",
+      "consultado": "2026-11-17T09:27:04Z",
       "sha256": "b198cf4df500a3beeec84bf19ebad2cdae54d82dc291f51a6b06e53b888b613b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088446&Seguimiento=5090377"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-5088446-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5088446",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que adiciona una fracción XXIII Bis al artículo 3º de la Ley General de Cambio Climático, en materia de hidrógeno renovable."
+    }
   ]
 }

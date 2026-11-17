@@ -169,13 +169,13 @@
   "sources": [
     {
       "archivo": "fuentes/41/41cfc44b59a706c248d17952bcee35da5494a96c27c09c3dbd3939c69addb158.html",
-      "consultado": "2026-11-16T17:32:36Z",
+      "consultado": "2026-11-17T08:22:58Z",
       "sha256": "41cfc44b59a706c248d17952bcee35da5494a96c27c09c3dbd3939c69addb158",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4998948&Asunto=4997679"
     },
     {
       "archivo": "fuentes/56/5664b79410e89210b07d47b582eb09e3bae6c06c8395b26e7df2889ee6beac58.html",
-      "consultado": "2026-11-16T17:32:40Z",
+      "consultado": "2026-11-17T08:23:01Z",
       "sha256": "5664b79410e89210b07d47b582eb09e3bae6c06c8395b26e7df2889ee6beac58",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4997679&Seguimiento=4998948"
     }
@@ -208,5 +208,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 19/01/2026",
   "votaciones": [
     "sil-4997679-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4997679",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido, en lo general y en lo particular, el dictamen que expide la Ley General de Economía Circular y se reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como de la Ley General para la Prevención y Gestión Integral de los Residuos."
+    }
   ]
 }

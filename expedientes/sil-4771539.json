@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/95/95adf3562a5c2271b5a5069bce6365f94594d73fb3e01b8a1d31ce35ae50d5bc.html",
-      "consultado": "2026-11-16T15:30:15Z",
+      "consultado": "2026-11-17T06:00:12Z",
       "sha256": "95adf3562a5c2271b5a5069bce6365f94594d73fb3e01b8a1d31ce35ae50d5bc",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4771539&Asunto=4776570"
     },
     {
       "archivo": "fuentes/a7/a74182d5eefaaffa41ff95ce385ca8f44f4001c695c68acab014e9ea95d7b922.html",
-      "consultado": "2026-11-16T15:30:19Z",
+      "consultado": "2026-11-17T06:00:15Z",
       "sha256": "a74182d5eefaaffa41ff95ce385ca8f44f4001c695c68acab014e9ea95d7b922",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4776570&Seguimiento=4771539"
     }
@@ -376,5 +376,259 @@
     "sil-4774070-2",
     "sil-4776570-1",
     "sil-4776570-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4776570",
+      "camara": "senado",
+      "fecha": "2024-09-24",
+      "result": "pass",
+      "texto": "Aprobado dispensar la lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4776570",
+      "camara": "senado",
+      "fecha": "2024-09-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4776570",
+      "camara": "senado",
+      "fecha": "2024-09-24",
+      "result": "fail",
+      "texto": "Se rechazó poner a discusión la reserva al artículo 2°, formulada por la Sen. Claudia Edith Anaya Mota (PRI), por lo tanto, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4776570",
+      "camara": "senado",
+      "fecha": "2024-09-24",
+      "result": "fail",
+      "texto": "Se rechazó ­poner a discusión las reservas a los artículos 2°, Quinto y Sexto Transitorios, la adición del artículo 27 constitucional y de un Noveno Transitorio, formuladas por la Sen. Amalia Dolores García Medina (MC), por lo tanto, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4776570",
+      "camara": "senado",
+      "fecha": "2024-09-24",
+      "result": "fail",
+      "texto": "Se rechazó poner a discusión la reserva al artículo Tercero Transitorio, formulada por el Sen. Miguel Márquez Márquez (PAN), por lo tanto, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Víctor Manuel Pérez Díaz (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Paola Michell Longoria López (MC)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Ana María Balderas Trejo (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Mario Zamora Gastélum (PRI)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Arturo Yáñez Cuéllar (PRI)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Ma. Lorena García Jimeno Alcocer (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Emilio Ramón Ramírez Guzmán (Morena)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Margarita Ester Zavala Gómez del Campo (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Vania Roxana Ávila García (MC)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Éctor Jaime Ramírez Barba (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Noel Chávez Velázquez (PRI)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Claudia Quiñones Garrido (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. María Del Rosario Guzmán Avilés (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Ana Isabel González González (PRI)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Silvia Patricia Jiménez Delgado (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Francisco Javier Farias Bailón (MC)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Nubia Iris Castillo Medina (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Amancay González Franco (MC)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Mónica Elizabeth Sandoval Hernández (PRD)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Liliana Ortiz Pérez (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Humberto Ambriz Delgadillo (PRI)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Ernesto Sánchez Rodríguez (PAN)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Dip. Luis Gerardo Sánchez Sánchez (PRI)."
+    },
+    {
+      "asunto": "4774070",
+      "camara": "diputados",
+      "fecha": "2024-09-18",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Dip. Verónica Pérez Herrera (PAN)."
+    }
   ]
 }

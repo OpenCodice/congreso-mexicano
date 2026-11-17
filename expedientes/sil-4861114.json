@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/23/23f771b13a9233db719ae8fa70f7b440a4005f7bdb792e671acb93975691effe.html",
-      "consultado": "2026-11-16T16:07:59Z",
+      "consultado": "2026-11-17T06:47:03Z",
       "sha256": "23f771b13a9233db719ae8fa70f7b440a4005f7bdb792e671acb93975691effe",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4861114&Asunto=4910314"
     },
     {
       "archivo": "fuentes/9d/9d84d3dabd9a78e4555326dce8633c580eaa10e9e479d1f7e8e7224f944b5676.html",
-      "consultado": "2026-11-16T16:08:03Z",
+      "consultado": "2026-11-17T06:47:07Z",
       "sha256": "9d84d3dabd9a78e4555326dce8633c580eaa10e9e479d1f7e8e7224f944b5676",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4910314&Seguimiento=4861114"
     }
@@ -328,5 +328,315 @@
     "sil-4907875-2",
     "sil-4910314-1",
     "sil-4910314-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Tabita Ortiz Hernández (MC) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. María Alejandra Barrales Magdaleno (MC) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Marko Antonio Cortés Mendoza (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. José Clemente Castañeda Hoeflich (MC) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Enrique Vargas del Villar (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ángel García Yáñez (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Manuel Añorve Baños (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Néstor Camarillo Medina (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. David Novoa Toscano (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Agustín Dorantes Lámbarri (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910314",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado incorporar la propuesta de modificación al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Xitlalic Ceja García (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por la Dip. Petra Romero Gómez (Morena) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Petra Romero Gómez (Morena) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Elías Lixa Abimerhi (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Emilio Suárez Licona (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Guillermo Anaya Llamas (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. César Israel Damián Retes (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Yerico Abramo Masso (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Arturo Yáñez Cuéllar (PRI) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    },
+    {
+      "asunto": "4907875",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Theodoros Kalionchiz De la Fuente (PAN) al dictamen que expide la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública."
+    }
   ]
 }

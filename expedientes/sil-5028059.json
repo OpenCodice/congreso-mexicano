@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/9f/9f9ac238a0ae789a510e2b9ac12eb084be4c1328f4b1a6042a14b1b6cd664d0f.html",
-      "consultado": "2026-11-16T17:55:26Z",
+      "consultado": "2026-11-17T08:45:21Z",
       "sha256": "9f9ac238a0ae789a510e2b9ac12eb084be4c1328f4b1a6042a14b1b6cd664d0f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028059&Asunto=5026703"
     },
     {
       "archivo": "fuentes/ff/ff0c2dd0a283824ce1437a3e2835a6c911108f6ab39df35bce21c4540abaa13a.html",
-      "consultado": "2026-11-16T17:55:30Z",
+      "consultado": "2026-11-17T08:45:24Z",
       "sha256": "ff0c2dd0a283824ce1437a3e2835a6c911108f6ab39df35bce21c4540abaa13a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026703&Seguimiento=5028059"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
   "votaciones": [
     "sil-5026703-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5026703",
+      "camara": "diputados",
+      "fecha": "2026-03-03",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma la fracción V del artículo 6 y el párrafo segundo del artículo 71 de la Ley de Vivienda."
+    }
   ]
 }

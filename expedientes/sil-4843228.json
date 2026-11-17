@@ -61,13 +61,13 @@
   "sources": [
     {
       "archivo": "fuentes/6e/6efe6564263a067946e42237e1f0f001ba3f15801a45be0f809520bb192bfb31.html",
-      "consultado": "2026-11-16T16:01:46Z",
+      "consultado": "2026-11-17T06:39:16Z",
       "sha256": "6efe6564263a067946e42237e1f0f001ba3f15801a45be0f809520bb192bfb31",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4843228&Asunto=4842493"
     },
     {
       "archivo": "fuentes/e1/e19f2cfcde9ab7205941e92c697a3f77b9ef53e06a5fb87f867fa3ae174af52e.html",
-      "consultado": "2026-11-16T16:01:50Z",
+      "consultado": "2026-11-17T06:39:19Z",
       "sha256": "e19f2cfcde9ab7205941e92c697a3f77b9ef53e06a5fb87f867fa3ae174af52e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4842493&Seguimiento=4843228"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 03/03/2025",
   "votaciones": [
     "sil-4842493-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4842493",
+      "camara": "diputados",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen para que se inscriba en letras de oro en el Muro de Honor del Salón de Sesiones del Palacio Legislativo de San Lázaro, la leyenda -A la Comunidad Mexicana Migrante-."
+    }
   ]
 }

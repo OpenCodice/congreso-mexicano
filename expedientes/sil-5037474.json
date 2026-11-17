@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/40/409d7eaabfa0e185e0f73afeafe611e9dfb598a0dc56ca0992d810324d43fc3f.html",
-      "consultado": "2026-11-16T18:03:04Z",
+      "consultado": "2026-11-17T08:53:12Z",
       "sha256": "409d7eaabfa0e185e0f73afeafe611e9dfb598a0dc56ca0992d810324d43fc3f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5037474&Asunto=5036103"
     },
     {
       "archivo": "fuentes/32/3279e711786520145067e4e18c0b97d09e295d05e010097fec90a127e37671e1.html",
-      "consultado": "2026-11-16T18:03:07Z",
+      "consultado": "2026-11-17T08:53:16Z",
       "sha256": "3279e711786520145067e4e18c0b97d09e295d05e010097fec90a127e37671e1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5036103&Seguimiento=5037474"
     }
@@ -84,5 +84,14 @@
   "ultimo_estatus": "Desechado en pleno origen Desechado 11/03/2026",
   "votaciones": [
     "sil-5036103-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5036103",
+      "camara": "diputados",
+      "fecha": "2026-03-11",
+      "result": "pass",
+      "texto": "Aprobado Para considerar el dictamen suficientemente discutido en lo general."
+    }
   ]
 }

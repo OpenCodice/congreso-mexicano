@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/e2/e2227bdcee92bfe0ec0b71767ccf966849f72209158494110e52ea33be68cabb.html",
-      "consultado": "2026-11-16T18:00:36Z",
+      "consultado": "2026-11-17T08:49:59Z",
       "sha256": "e2227bdcee92bfe0ec0b71767ccf966849f72209158494110e52ea33be68cabb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5034964&Asunto=5042804"
     },
     {
       "archivo": "fuentes/b4/b4348907644cd0d41c72441e98e0664d7c787b69d7f8f8d9e0167e94861931ce.html",
-      "consultado": "2026-11-16T18:00:40Z",
+      "consultado": "2026-11-17T08:50:03Z",
       "sha256": "b4348907644cd0d41c72441e98e0664d7c787b69d7f8f8d9e0167e94861931ce",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5042804&Seguimiento=5034964"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 24/03/2026",
   "votaciones": [
     "sil-5042804-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5042804",
+      "camara": "senado",
+      "fecha": "2026-03-19",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
   ]
 }

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/5e/5edd63782b6eeaba15a471660b49d32a7ee809b035095786a3e6abb2c6ec9556.html",
-      "consultado": "2026-11-16T17:05:20Z",
+      "consultado": "2026-11-17T07:56:16Z",
       "sha256": "5edd63782b6eeaba15a471660b49d32a7ee809b035095786a3e6abb2c6ec9556",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4961522&Asunto=4996238"
     },
     {
       "archivo": "fuentes/ca/ca67f0c8f6985fb7599ba8a7f3dc736b1abb989e8c9e9cfbe39073dd12df48d0.html",
-      "consultado": "2026-11-16T17:05:24Z",
+      "consultado": "2026-11-17T07:56:19Z",
       "sha256": "ca67f0c8f6985fb7599ba8a7f3dc736b1abb989e8c9e9cfbe39073dd12df48d0",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4996238&Seguimiento=4961522"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/12/2025",
   "votaciones": [
     "sil-4996238-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4996238",
+      "camara": "senado",
+      "fecha": "2025-12-09",
+      "result": "pass",
+      "texto": "Aprobado incorporarlo en el orden del día de la sesión."
+    }
   ]
 }

@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/71/71268a1bcfcf1bdb9e3659182e4dfcf22d7e2385a9f6886ab7053a7685de177a.html",
-      "consultado": "2026-11-16T15:43:52Z",
+      "consultado": "2026-11-17T06:16:45Z",
       "sha256": "71268a1bcfcf1bdb9e3659182e4dfcf22d7e2385a9f6886ab7053a7685de177a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4803933&Asunto=4803242"
     },
     {
       "archivo": "fuentes/60/605ca1d81a0fc675bb92b6744f5061991f14b90b80c159648e0f462595766ff9.html",
-      "consultado": "2026-11-16T15:43:56Z",
+      "consultado": "2026-11-17T06:16:49Z",
       "sha256": "605ca1d81a0fc675bb92b6744f5061991f14b90b80c159648e0f462595766ff9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4803242&Seguimiento=4803933"
     }
@@ -88,5 +88,14 @@
   "ultimo_estatus": "Resuelto / Aprobado Aprobado 13/11/2024",
   "votaciones": [
     "sil-4803242-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4803242",
+      "camara": "senado",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de publicación previa de veinticuatro horas del dictamen, a efecto de que sea discutido en esta sesión."
+    }
   ]
 }

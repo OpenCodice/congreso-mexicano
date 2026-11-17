@@ -69,13 +69,13 @@
   "sources": [
     {
       "archivo": "fuentes/dc/dca37ce07a038ab237ff6cdd8f6ac9f085cac4e71baeab67fe7481487e1e5dea.html",
-      "consultado": "2026-11-16T17:34:11Z",
+      "consultado": "2026-11-17T08:25:23Z",
       "sha256": "dca37ce07a038ab237ff6cdd8f6ac9f085cac4e71baeab67fe7481487e1e5dea",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5000552&Asunto=5017130"
     },
     {
       "archivo": "fuentes/d4/d46ba54987b702fd124d8116738fd8b08b3abef97964697a4c46b7c259b07465.html",
-      "consultado": "2026-11-16T17:34:15Z",
+      "consultado": "2026-11-17T08:25:26Z",
       "sha256": "d46ba54987b702fd124d8116738fd8b08b3abef97964697a4c46b7c259b07465",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5017130&Seguimiento=5000552"
     }
@@ -108,5 +108,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 13/03/2026",
   "votaciones": [
     "sil-5017130-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5017130",
+      "camara": "diputados",
+      "fecha": "2026-02-18",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido el dictamen que reforma los artículos 260 y 266 Bis del Código Penal Federal en materia de abuso sexual."
+    }
   ]
 }

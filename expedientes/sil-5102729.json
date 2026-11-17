@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/32/321c7fd372eaf01e332e18dc0ebdf4f46fa7501fafc4426143e432955252107f.html",
-      "consultado": "2026-11-16T18:35:00Z",
+      "consultado": "2026-11-17T09:36:38Z",
       "sha256": "321c7fd372eaf01e332e18dc0ebdf4f46fa7501fafc4426143e432955252107f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5102729&Asunto=5102541"
     },
     {
       "archivo": "fuentes/e9/e9f621005d2f210d946c5c31718fc17c182cb9ea141396943a4534da5713f179.html",
-      "consultado": "2026-11-16T18:35:03Z",
+      "consultado": "2026-11-17T09:36:41Z",
       "sha256": "e9f621005d2f210d946c5c31718fc17c182cb9ea141396943a4534da5713f179",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5102541&Seguimiento=5102729"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 10/06/2026",
   "votaciones": [
     "sil-5102541-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5102541",
+      "camara": "permanente",
+      "fecha": "2026-06-10",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido."
+    }
   ]
 }

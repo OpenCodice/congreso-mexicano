@@ -81,13 +81,13 @@
   "sources": [
     {
       "archivo": "fuentes/3e/3e1fa627b896fb1c02a8975440b96218cf47b139fcd80fc51764bc1704a72330.html",
-      "consultado": "2026-11-16T18:49:54Z",
+      "consultado": "2026-11-17T09:52:06Z",
       "sha256": "3e1fa627b896fb1c02a8975440b96218cf47b139fcd80fc51764bc1704a72330",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5170394&Asunto=5169009"
     },
     {
       "archivo": "fuentes/0f/0f164ad07d5ffd228dd8340ed0e6bf2df4667f4985424ddd7043f8ea23c6ae8e.html",
-      "consultado": "2026-11-16T18:49:58Z",
+      "consultado": "2026-11-17T09:52:09Z",
       "sha256": "0f164ad07d5ffd228dd8340ed0e6bf2df4667f4985424ddd7043f8ea23c6ae8e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5169009&Seguimiento=5170394"
     }
@@ -166,5 +166,70 @@
   "votaciones": [
     "sil-5169009-1",
     "sil-5169009-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "pass",
+      "texto": "Aprobado para admitir a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Avila (Morena) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "pass",
+      "texto": "Aprobado para aceptar la propuesta de modificación presentada por el Dip. Ricardo Monreal Avila (Morena) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Ana Erika Santana González (PVEM) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) y el Dip. José Elías Lixa Abimerhi (PAN) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "asunto": "5169009",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la propuesta de modificación presentada por la Dip. Olga María del Carmen Sánchez Cordero Dávila (Morena) al dictamen que reforma y adiciona diversas disposiciones transitorias del Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+    }
   ]
 }

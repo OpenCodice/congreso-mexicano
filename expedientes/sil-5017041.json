@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/60/605f1ca48397f801e5efd73420c402320a50d865ae38539f2b781a3694df68d6.html",
-      "consultado": "2026-11-16T17:39:30Z",
+      "consultado": "2026-11-17T08:30:06Z",
       "sha256": "605f1ca48397f801e5efd73420c402320a50d865ae38539f2b781a3694df68d6",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017041&Asunto=5016198"
     },
     {
       "archivo": "fuentes/aa/aa9493d2c7e1dac65fd3db68622e9b3d34afe7108102025f1966b4241a94478e.html",
-      "consultado": "2026-11-16T17:39:33Z",
+      "consultado": "2026-11-17T08:30:09Z",
       "sha256": "aa9493d2c7e1dac65fd3db68622e9b3d34afe7108102025f1966b4241a94478e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016198&Seguimiento=5017041"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
   "votaciones": [
     "sil-5016198-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5016198",
+      "camara": "diputados",
+      "fecha": "2026-02-17",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano en materia de vivienda adecuada."
+    }
   ]
 }

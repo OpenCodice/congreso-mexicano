@@ -89,13 +89,13 @@
   "sources": [
     {
       "archivo": "fuentes/25/25c48f1d24255e39dfe6161ab11def8922fff827908905040cbc2207800e387f.html",
-      "consultado": "2026-11-16T18:50:42Z",
+      "consultado": "2026-11-17T09:52:47Z",
       "sha256": "25c48f1d24255e39dfe6161ab11def8922fff827908905040cbc2207800e387f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5170402&Asunto=5169012"
     },
     {
       "archivo": "fuentes/2a/2a2244ecd45b12d5d166371213c8cba2424d9bc4f8b6b3d601d893fdcb843f7e.html",
-      "consultado": "2026-11-16T18:50:46Z",
+      "consultado": "2026-11-17T09:52:50Z",
       "sha256": "2a2244ecd45b12d5d166371213c8cba2424d9bc4f8b6b3d601d893fdcb843f7e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5169012&Seguimiento=5170402"
     }
@@ -128,5 +128,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 21/10/2026",
   "votaciones": [
     "sil-5169012-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5169012",
+      "camara": "diputados",
+      "fecha": "2026-10-20",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en materia de reclutamiento criminal."
+    }
   ]
 }

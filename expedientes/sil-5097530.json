@@ -125,13 +125,13 @@
   "sources": [
     {
       "archivo": "fuentes/58/585305bd0f0b4cbdc935cb27c4342c6bb744a7351eff351bcdf838f1735046fa.html",
-      "consultado": "2026-11-16T18:33:25Z",
+      "consultado": "2026-11-17T09:35:18Z",
       "sha256": "585305bd0f0b4cbdc935cb27c4342c6bb744a7351eff351bcdf838f1735046fa",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5097530&Asunto=5097260"
     },
     {
       "archivo": "fuentes/4f/4f3f5872ec3b302611de8ebf4ac4f6a25600f1bf442ed483c300c3d35871aed6.html",
-      "consultado": "2026-11-16T18:33:29Z",
+      "consultado": "2026-11-17T09:35:21Z",
       "sha256": "4f3f5872ec3b302611de8ebf4ac4f6a25600f1bf442ed483c300c3d35871aed6",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5097260&Seguimiento=5097530"
     }
@@ -302,5 +302,210 @@
     "sil-5097260-1",
     "sil-5098677-1",
     "sil-5098677-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Xochitl Nashielly Zagal Ramírez (Morena) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Karina Rojo Pimentel (PT) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia García Hernández (Morena) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gibrán Ramírez Reyes (MC) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Leticia Barrera Maldonado (PRI) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por Dip. José Guillermo Anaya Llamas (PAN) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Hugo Eduardo Gutiérrez Arroyo (PRI) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva formulada por el Dip. Jorge Luis Sánchez Reyes (Morena) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la reserva formulada por el Dip. Jorge Luis Sánchez Reyes (Morena) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "pass",
+      "texto": "Aprobado aceptar la reserva formulada por el Dip. Jorge Luis Sánchez Reyes (Morena) al dictamen que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5097260",
+      "camara": "diputados",
+      "fecha": "2026-05-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular, que reforma el artículo 41, fracción VI de la Constitución Política de los Estados Unidos Mexicanos adicionando un inciso d), introduciendo una nueva causal de nulidad de elecciones por intervención extranjera."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la moción suspensiva al dictamen del grupo parlamentario del PRI."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "pass",
+      "texto": "Aprobado para que la discusión y votación del dictamen se realice en un solo acto."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Gina Gerardina Campuzano González (PAN)."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Maki Esther Ortiz Domínguez (PVEM)."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Luis Donaldo Colosio Riojas (MC)."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Laura Esquivel Torres (PAN)."
+    },
+    {
+      "asunto": "5098677",
+      "camara": "senado",
+      "fecha": "2026-05-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Enrique Vargas del Villar (PAN)."
+    }
   ]
 }

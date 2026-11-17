@@ -241,13 +241,13 @@
   "sources": [
     {
       "archivo": "fuentes/c5/c5ddedbfdcbbb62310e0f0e7f15ea426b646050f5bbe7e15b4843197e81f92b8.html",
-      "consultado": "2026-11-16T17:17:02Z",
+      "consultado": "2026-11-17T08:08:19Z",
       "sha256": "c5ddedbfdcbbb62310e0f0e7f15ea426b646050f5bbe7e15b4843197e81f92b8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983308&Asunto=4982269"
     },
     {
       "archivo": "fuentes/22/22f9067178be43d38429fc4fd46329e4e9d31171bb33753a928ee36b08593c05.html",
-      "consultado": "2026-11-16T17:17:06Z",
+      "consultado": "2026-11-17T08:08:22Z",
       "sha256": "22f9067178be43d38429fc4fd46329e4e9d31171bb33753a928ee36b08593c05",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4982269&Seguimiento=4983308"
     }
@@ -358,5 +358,91 @@
     "sil-4982269-1",
     "sil-4982269-2",
     "sil-5079164-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular de los artículos no reservados, el dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Diana Karina Barreras Samaniego (PT) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por la Dip. Gabriela Benavides Cobos (PVEM) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutida la propuesta de modificación presentada por la Dip. Gabriela Benavides Cobos (PVEM) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Gabriela Benavides Cobos (PVEM) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lilia Aguilar Gil (PT) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Nora Yessica Merino Escamilla (PT) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Jesús Martín Cuanalo Araujo (PVEM) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "4982269",
+      "camara": "diputados",
+      "fecha": "2025-11-25",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    },
+    {
+      "asunto": "5079164",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma diversas disposiciones del Código Penal Federal, en materia de delitos contra el ambiente y la gestión ambiental."
+    }
   ]
 }

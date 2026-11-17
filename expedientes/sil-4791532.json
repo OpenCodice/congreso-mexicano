@@ -137,13 +137,13 @@
   "sources": [
     {
       "archivo": "fuentes/92/929a19f90b570638fb1f13f5842da5c4c7295fdb5afe09b3c1a1bc209dd9b346.html",
-      "consultado": "2026-11-16T15:37:54Z",
+      "consultado": "2026-11-17T06:09:28Z",
       "sha256": "929a19f90b570638fb1f13f5842da5c4c7295fdb5afe09b3c1a1bc209dd9b346",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4791532&Asunto=4791533"
     },
     {
       "archivo": "fuentes/6b/6b2974bf548ff491dcbe42df1c4027428181fd9691e562b40261cebf5d44986c.html",
-      "consultado": "2026-11-16T15:37:58Z",
+      "consultado": "2026-11-17T06:09:31Z",
       "sha256": "6b2974bf548ff491dcbe42df1c4027428181fd9691e562b40261cebf5d44986c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4791533&Seguimiento=4791532"
     }
@@ -278,5 +278,133 @@
     "sil-4791533-1",
     "sil-4791533-2",
     "sil-4797446-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "pass",
+      "texto": "Aprobado que el tiempo para la presentación de votos particulares sea de hasta cinco minutos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 4 formulada por la Sen. Anabell Ávalos Zempoalteca (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 4 y 21 formulada por la Sen. Mely Romero Celis (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 4 y la adición de un artículo 102 y un artículo cuarto transitorio formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 41 formulada por la Sen. Karen Michel González Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 116 formulada por la Sen. Sandra Simey Olvera Bautista (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo segundo transitorio formulada por la Sen. Mayuli Latifa Martínez Simón (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo cuarto transitorio formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4791533",
+      "camara": "senado",
+      "fecha": "2024-10-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo cuarto transitorio formulada por la Sen. Ivideliza Reyes Hernández (PAN) En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    },
+    {
+      "asunto": "4797446",
+      "camara": "diputados",
+      "fecha": "2024-11-05",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona los artículos 4o.; 21; 41; 73; 116; 122 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de igualdad sustantiva, perspectiva de género, derecho de las mujeres a una vida libre de violencia y erradicación de la brecha salarial por razones de género."
+    }
   ]
 }

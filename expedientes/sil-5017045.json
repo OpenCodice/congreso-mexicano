@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/95/959887895dbcd27a5fde2f8770ea29d0d3953a2cd5aee02f912f6c96d3b7e993.html",
-      "consultado": "2026-11-16T17:41:16Z",
+      "consultado": "2026-11-17T08:31:37Z",
       "sha256": "959887895dbcd27a5fde2f8770ea29d0d3953a2cd5aee02f912f6c96d3b7e993",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017045&Asunto=5016207"
     },
     {
       "archivo": "fuentes/dc/dceb4d31bc5881f5af702d9d432040f1570fb85587044ef39fc781d8d633fe1e.html",
-      "consultado": "2026-11-16T17:41:19Z",
+      "consultado": "2026-11-17T08:31:41Z",
       "sha256": "dceb4d31bc5881f5af702d9d432040f1570fb85587044ef39fc781d8d633fe1e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016207&Seguimiento=5017045"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
   "votaciones": [
     "sil-5016207-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5016207",
+      "camara": "diputados",
+      "fecha": "2026-02-17",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona un quinto párrafo al artículo 20 Quáter a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias."
+    }
   ]
 }

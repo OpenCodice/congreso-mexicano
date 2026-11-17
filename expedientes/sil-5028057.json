@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/1b/1bdd2e470a02f3cc99a9805ee234433991b374871b68077f1fedd8fb258dac4a.html",
-      "consultado": "2026-11-16T17:54:57Z",
+      "consultado": "2026-11-17T08:44:51Z",
       "sha256": "1bdd2e470a02f3cc99a9805ee234433991b374871b68077f1fedd8fb258dac4a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028057&Asunto=5028698"
     },
     {
       "archivo": "fuentes/07/07b6b3343345c947e87f50db7f94f5067d9db95f7bd5bfd5531a97d8bc612b72.html",
-      "consultado": "2026-11-16T17:55:01Z",
+      "consultado": "2026-11-17T08:44:55Z",
       "sha256": "07b6b3343345c947e87f50db7f94f5067d9db95f7bd5bfd5531a97d8bc612b72",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5028698&Seguimiento=5028057"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
   "votaciones": [
     "sil-5028698-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5028698",
+      "camara": "diputados",
+      "fecha": "2026-03-04",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido, en lo general y en lo particular, el dictamen que declara la tercera semana de noviembre de cada año como la -Semana Nacional de las Mujeres Emprendedoras-."
+    }
   ]
 }

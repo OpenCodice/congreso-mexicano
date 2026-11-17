@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/d1/d179a1dfd7cf0b042cd426b71d4013334a78634fea20f1dd927884e8e2cf6cd2.html",
-      "consultado": "2026-11-16T15:46:27Z",
+      "consultado": "2026-11-17T06:20:29Z",
       "sha256": "d179a1dfd7cf0b042cd426b71d4013334a78634fea20f1dd927884e8e2cf6cd2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4816255&Asunto=4816456"
     },
     {
       "archivo": "fuentes/0f/0f7f11eec1ed7adc4054c7db669a9c251558df29362c03ef2aa6dd11da92492d.html",
-      "consultado": "2026-11-16T15:46:31Z",
+      "consultado": "2026-11-17T06:20:32Z",
       "sha256": "0f7f11eec1ed7adc4054c7db669a9c251558df29362c03ef2aa6dd11da92492d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4816456&Seguimiento=4816255"
     }
@@ -202,5 +202,42 @@
     "sil-4816456-1",
     "sil-4816456-2",
     "sil-4823192-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4816456",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4816456",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4816456",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 86 de la Ley Federal del Trabajo y y segundo transitorio y, la adición de los artículos tercero y cuarto transitorios, formulada por el Sen. Miguel Márquez Márquez (PAN).. En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4816456",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para la adición de un artículo transitorio tercero, formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4816456",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 86 de la Ley Federal del Trabajo y 28 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B), del Artículo 123 Constitucional, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

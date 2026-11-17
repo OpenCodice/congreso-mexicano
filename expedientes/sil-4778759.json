@@ -105,13 +105,13 @@
   "sources": [
     {
       "archivo": "fuentes/a2/a29bfc1ab7b2ce2ca41b24d2b68818c01b6fcdefb0da263816c27f489d4f068c.html",
-      "consultado": "2026-11-16T15:33:20Z",
+      "consultado": "2026-11-17T06:03:41Z",
       "sha256": "a29bfc1ab7b2ce2ca41b24d2b68818c01b6fcdefb0da263816c27f489d4f068c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4778759&Asunto=4785866"
     },
     {
       "archivo": "fuentes/89/89eaf315f4236ee836597a6888376fc56e076f706c014299a5b141661e947af2.html",
-      "consultado": "2026-11-16T15:33:24Z",
+      "consultado": "2026-11-17T06:03:45Z",
       "sha256": "89eaf315f4236ee836597a6888376fc56e076f706c014299a5b141661e947af2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4785866&Seguimiento=4778759"
     }
@@ -426,5 +426,350 @@
     "sil-4785866-1",
     "sil-4785866-2",
     "sil-4785866-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "pass",
+      "texto": "Aprobado considerar el dictamen en lo general, suficientemente discutido."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 25, 27 y 28, formulada por el Sen. Ángel García Yáñez (PRI). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 25, 27, 28 y segundo transitorio, formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 25, 27, 28 y segundo transitorio, formulada por la Sen. Cynthia Iliana López Castro (PRI). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 27, formulada por la Sen. Maki Esther Ortiz Domínguez (PVEM). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 27, formulada por el Sen. Agustín Dorantes Lambarri (PAN). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 27 y 28, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 28, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 28, formulada por la Sen. Claudia Edith Anaya Mota (PRI). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 28 y, la adición de un artículo cuarto transitorio, formulada por la Sen. Alma Carolina Viggiano Austria (PRI). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4785866",
+      "camara": "senado",
+      "fecha": "2024-10-16",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva para adicionar un artículo cuarto transitorio, formulada por la Sen. Karla Guadalupe Toledo Zamora (PRI). En consecuencia, el dictamen queda en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC)."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Miguel Ángel Monraz Ibarra (PAN)."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Hernández García (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Humberto Ambriz Delgadillo (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Víctor Adrián Martínez Terrazas (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Francisco Javier Farias Bailón (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Amparo Lilia Olivares Castañeda (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Amancay González Franco (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Yerico Abramo Masso (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de Fátima García León (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Mario Calzada Mercado (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Silvia Patricia Jiménez Delgado (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Pablo Vázquez Ahued (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Theodoros Kalionchiz De la Fuente (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por la Dip. Ana Elizabeth Ayala Leyva (Morena) al dictamen."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por la Dip. Ana Elizabeth Ayala Leyva (Morena) al dictamen."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "pass",
+      "texto": "Aprobado la propuesta de modificación presentada por la Dip. Ana Elizabeth Ayala Leyva (Morena) al dictamen. Se reserva para su votación nominal la modificación aceptada por la Asamblea."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paola Michell Longoria López (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ariana del Rocío Rejón Lara (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Francisco Pelayo Covarrubias (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia Ruiz Massieu Salinas (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Martínez García (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Ernesto Sánchez Rodríguez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Nancy Aracely Olguín Díaz (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Noel Chávez Velázquez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Moreno De Haro (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Alonso de Jesús Vázquez Jiménez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Rubén Ignacio Moreira Valdez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4782347",
+      "camara": "diputados",
+      "fecha": "2024-10-09",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Asael Hernández Cerón (PAN). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

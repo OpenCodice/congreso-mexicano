@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/63/63663ad703398cd53736daf0af189917ee96fb06de0287e457e9d5d3c7844414.html",
-      "consultado": "2026-11-16T16:05:23Z",
+      "consultado": "2026-11-17T06:43:40Z",
       "sha256": "63663ad703398cd53736daf0af189917ee96fb06de0287e457e9d5d3c7844414",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4851003&Asunto=4851576"
     },
     {
       "archivo": "fuentes/74/74af85829dd998cf85c8bfbc1156750c5948d957d0ad67818659ff1fde160d64.html",
-      "consultado": "2026-11-16T16:05:27Z",
+      "consultado": "2026-11-17T06:43:43Z",
       "sha256": "74af85829dd998cf85c8bfbc1156750c5948d957d0ad67818659ff1fde160d64",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4851576&Seguimiento=4851003"
     }
@@ -176,5 +176,35 @@
   "votaciones": [
     "sil-4851576-1",
     "sil-4887456-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4851576",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado tramitar de manera conjunta los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público, y Estudios Legislativos, Primera."
+    },
+    {
+      "asunto": "4851576",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura de los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público y, de Estudios Legislativos, Primera, con el objeto de someterlos a discusión de inmediato."
+    },
+    {
+      "asunto": "4851576",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular."
+    },
+    {
+      "asunto": "4887456",
+      "camara": "diputados",
+      "fecha": "2025-04-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que establece las características de diez monedas de plata que integrarán la Colección Patrimonio Cultural Inmaterial de México."
+    }
   ]
 }

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/36/3691c0fbb79e7a37cf7078a4d94311464ff799fd6ec92dd2de8a5bcba3e759db.html",
-      "consultado": "2026-11-16T16:34:55Z",
+      "consultado": "2026-11-17T07:12:45Z",
       "sha256": "3691c0fbb79e7a37cf7078a4d94311464ff799fd6ec92dd2de8a5bcba3e759db",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4907093&Asunto=4906807"
     },
     {
       "archivo": "fuentes/cb/cba81cd8255ad7ccf32df41e6e5ed71c16e06f5cd64284a35e5c4fb129cd7ea4.html",
-      "consultado": "2026-11-16T16:34:59Z",
+      "consultado": "2026-11-17T07:12:48Z",
       "sha256": "cba81cd8255ad7ccf32df41e6e5ed71c16e06f5cd64284a35e5c4fb129cd7ea4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4906807&Seguimiento=4907093"
     }
@@ -108,5 +108,28 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-4906807-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4906807",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Amancay González Franco (MC). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906807",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Éctor Jaime Ramírez Barba (PAN). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906807",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido en lo general y en lo particular."
+    }
   ]
 }

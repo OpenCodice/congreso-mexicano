@@ -101,13 +101,13 @@
   "sources": [
     {
       "archivo": "fuentes/2a/2a716215673f464148254abc1629a06d1aa69ffaa73ae6248cfe84538f527ff4.html",
-      "consultado": "2026-11-16T17:00:32Z",
+      "consultado": "2026-11-17T07:52:09Z",
       "sha256": "2a716215673f464148254abc1629a06d1aa69ffaa73ae6248cfe84538f527ff4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4951962&Asunto=4950218"
     },
     {
       "archivo": "fuentes/86/867e1460681706d8add4776afbe8af0a63772d4070505ca0b8810ab33d1ccd24.html",
-      "consultado": "2026-11-16T17:00:36Z",
+      "consultado": "2026-11-17T07:52:13Z",
       "sha256": "867e1460681706d8add4776afbe8af0a63772d4070505ca0b8810ab33d1ccd24",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4950218&Seguimiento=4951962"
     }
@@ -198,5 +198,91 @@
   "votaciones": [
     "sil-4950218-1",
     "sil-4950218-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión las propuestas de modificación presentadas por los diputados Reginaldo Sandoval Flores (PT), Rubén Ignacio Moreira Valdez (PRI) y la Dip. Freyda Marybel Villegas Canché (Morena) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutidas las propuestas de modificación presentadas por los diputados Reginaldo Sandoval Flores (PT), Rubén Ignacio Moreira Valdez (PRI) y la Dip. Freyda Marybel Villegas Canché (Morena) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado admitir las propuestas de modificación presentadas por los diputados Reginaldo Sandoval Flores (PT), Rubén Ignacio Moreira Valdez (PRI) y la Dip. Freyda Marybel Villegas Canché (Morena) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por la Díp. Paloma Domínguez Ugarte (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por la Dip. Verónica Martínez García (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por la Dip. Laura Cristina Márquez Alcalá (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    },
+    {
+      "asunto": "4950218",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someterse a discusión la propuesta de modificación presentada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones del Código Fiscal de la Federación."
+    }
   ]
 }

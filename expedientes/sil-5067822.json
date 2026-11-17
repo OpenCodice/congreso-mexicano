@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/b0/b016f8bc230beeafa65d11d47f11f07e23e90bfa8f0724b93a5f8af4461fb277.html",
-      "consultado": "2026-11-16T18:15:23Z",
+      "consultado": "2026-11-17T09:04:18Z",
       "sha256": "b016f8bc230beeafa65d11d47f11f07e23e90bfa8f0724b93a5f8af4461fb277",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5067822&Asunto=5066666"
     },
     {
       "archivo": "fuentes/b9/b9d8c846bb19b2f2f9c135d1dc9ab53c6ff5418a71dedd42253a8974adb0efe7.html",
-      "consultado": "2026-11-16T18:15:27Z",
+      "consultado": "2026-11-17T09:04:21Z",
       "sha256": "b9d8c846bb19b2f2f9c135d1dc9ab53c6ff5418a71dedd42253a8974adb0efe7",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5066666&Seguimiento=5067822"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 14/04/2026",
   "votaciones": [
     "sil-5066666-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5066666",
+      "camara": "senado",
+      "fecha": "2026-04-14",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    }
   ]
 }

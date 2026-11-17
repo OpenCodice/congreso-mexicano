@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/b0/b03af5187ae56afdca94003215e9f6bbfd3479cdf069f207f881c84554f0f792.html",
-      "consultado": "2026-11-16T16:23:17Z",
+      "consultado": "2026-11-17T07:01:31Z",
       "sha256": "b03af5187ae56afdca94003215e9f6bbfd3479cdf069f207f881c84554f0f792",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890547&Asunto=4891064"
     },
     {
       "archivo": "fuentes/71/7192a574a74611b86484d422ecbe83f63da47e27f42c5efc224a76e7c244a3e7.html",
-      "consultado": "2026-11-16T16:23:21Z",
+      "consultado": "2026-11-17T07:01:34Z",
       "sha256": "7192a574a74611b86484d422ecbe83f63da47e27f42c5efc224a76e7c244a3e7",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4891064&Seguimiento=4890547"
     }
@@ -172,5 +172,21 @@
   "votaciones": [
     "sil-4891064-1",
     "sil-4906810-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4891064",
+      "camara": "senado",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4906810",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "pass",
+      "texto": "Aprobado en lo general y en lo particular"
+    }
   ]
 }

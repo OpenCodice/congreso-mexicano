@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/a5/a5d9e34b8ddcb4caebfdc7908004361d9ed5ee4a50e4912160da98efd8aa8940.html",
-      "consultado": "2026-11-16T16:55:54Z",
+      "consultado": "2026-11-17T07:33:27Z",
       "sha256": "a5d9e34b8ddcb4caebfdc7908004361d9ed5ee4a50e4912160da98efd8aa8940",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4940975&Asunto=4939313"
     },
     {
       "archivo": "fuentes/05/05d50b4a7542af74bd7317ab2d95848e48e0b7a631b85f701709b83ec071ab8b.html",
-      "consultado": "2026-11-16T16:55:58Z",
+      "consultado": "2026-11-17T07:33:30Z",
       "sha256": "05d50b4a7542af74bd7317ab2d95848e48e0b7a631b85f701709b83ec071ab8b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4939313&Seguimiento=4940975"
     }
@@ -108,5 +108,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 07/10/2025",
   "votaciones": [
     "sil-4939313-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4939313",
+      "camara": "diputados",
+      "fecha": "2025-10-01",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular."
+    }
   ]
 }
