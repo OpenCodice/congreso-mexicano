@@ -15,7 +15,23 @@
     }
   ],
   "edicion": "MAT",
-  "expedientes": [],
+  "expedientes": [
+    {
+      "criterio": "propuesto por un agente con citas textuales del decreto y del expediente, verificadas en sus fuentes, y confirmado por un segundo agente",
+      "evidencia": [
+        {
+          "fuente": "dof",
+          "texto": "SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN Y DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL"
+        },
+        {
+          "fuente": "expediente",
+          "texto": "Que reforma, adiciona y deroga diversas disposiciones de Ley de Fiscalización y Rendición de Cuentas de la Federación, de la Ley General de Contabilidad Gubernamental"
+        }
+      ],
+      "id": "sil-5071820",
+      "resolucion": "OpenCodice/congreso-extractor:resoluciones/decretos/2026-11-17-112617.json"
+    }
+  ],
   "fecha": "2026-05-14",
   "id": "dof-5787417",
   "pagina": 5,
@@ -24,6 +40,11 @@
       "consultado": "2026-11-17T11:20:36Z",
       "sha256": "f606ab702733578419cf49e572136cccf4e7e62a96675142815a50d45f690930",
       "url": "https://sidof.segob.gob.mx/dof/sidof/notas/14-05-2026"
+    },
+    {
+      "consultado": "2026-11-17T11:25:07Z",
+      "sha256": "756039e1f9820d6aabf37dc67d42569418fe92369d4d78afa3a630c730643f02",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5787417"
     }
   ],
   "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación y de la Ley General de Contabilidad Gubernamental.",

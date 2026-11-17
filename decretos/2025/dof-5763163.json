@@ -1,10 +1,5 @@
 {
-  "candidatos_expediente": [
-    {
-      "id": "sil-4417148",
-      "parecido": 0.13
-    }
-  ],
+  "candidatos_expediente": [],
   "codigo": 5763163,
   "dependencia": "PRESIDENCIA DE LA REPUBLICA",
   "documentos": [
@@ -15,7 +10,23 @@
     }
   ],
   "edicion": "VES",
-  "expedientes": [],
+  "expedientes": [
+    {
+      "criterio": "propuesto por un agente con citas textuales del decreto y del expediente, verificadas en sus fuentes, y confirmado por un segundo agente",
+      "evidencia": [
+        {
+          "fuente": "dof",
+          "texto": "SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 47 BIS 4; 60 BIS; 122 Y 127 DE LA LEY GENERAL DE VIDA SILVESTRE"
+        },
+        {
+          "fuente": "expediente",
+          "texto": "Que reforma los artículos 47 Bis 4; 60 Bis; 122 y 127 de la Ley General de Vida Silvestre"
+        }
+      ],
+      "id": "sil-4417148",
+      "resolucion": "OpenCodice/congreso-extractor:resoluciones/decretos/2026-11-17-112617.json"
+    }
+  ],
   "fecha": "2025-07-16",
   "id": "dof-5763163",
   "pagina": 213,
@@ -24,6 +35,11 @@
       "consultado": "2026-11-17T11:18:19Z",
       "sha256": "4c50ae5fc7a0c496be3850d634b3d96ebf467e2b37816a548a336b29f8bf2c0b",
       "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-07-2025"
+    },
+    {
+      "consultado": "2026-11-17T11:24:53Z",
+      "sha256": "9a62b5090c4e280d8c712de0de2f421cadd55ca78e6f854baf3ae05022ac110b",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5763163"
     }
   ],
   "titulo": "Decreto por el que se reforman y adicionan los artículos 47 Bis 4; 60 Bis; 122 y 127 de la Ley General de Vida Silvestre.",
