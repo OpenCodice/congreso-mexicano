@@ -1,7 +1,8 @@
 # congreso-mexicano — guía para agentes
 
-Quién legisla y cómo vota: legisladores, sus mandatos, los expedientes del
-proceso legislativo, las votaciones con el voto de cada quien y los decretos
+Quién legisla y cómo vota: legisladores, sus mandatos, todo lo que presentan
+(iniciativas, proposiciones) y en qué quedó, los expedientes del proceso
+legislativo, las votaciones con el voto de cada quien y los decretos
 del DOF que enlazan todo eso con los repos de leyes. Es un repo de datos: aquí
 no hay código. Todo lo genera
 [`congreso-extractor`](https://github.com/OpenCodice/congreso-extractor) a
@@ -15,7 +16,8 @@ el extractor.
 ## Modelo
 
 [Popolo](https://www.popoloproject.com/specs/) para personas, organizaciones,
-mandatos y votaciones, con dos extensiones propias: el expediente y el decreto.
+mandatos y votaciones, con extensiones propias: el asunto (iniciativa,
+proposición, dictamen en sentido negativo), el expediente y el decreto.
 Un registro por archivo JSON.
 
 | Carpeta | Qué es | Popolo |
@@ -23,12 +25,15 @@ Un registro por archivo JSON.
 | `organizaciones/` | Cámaras, Comisión Permanente, partidos y los 32 congresos locales (`congreso-<estado>`, con la clave de `leyes-estatales`). | Organization |
 | `personas/{id}.json` | Una persona, con las `Referencia` del SIL de cada mandato en `identifiers`. | Person |
 | `mandatos/{legislatura}/{camara}/{referencia}.json` | Un mandato: cámara, legislatura, partido, calidad (propietario o suplente), principio de elección, entidad, distrito o circunscripción, licencias y comisiones. | Membership |
+| `iniciativas/{legislatura}/sil-{clave}.json` | Una iniciativa: quién la presentó (ligado a su mandato por la `Referencia` del SIL, o el grupo, congreso local o Ejecutivo), a qué comisiones se turnó, su estatus con fecha (`estatus.resultado`: pendiente, aprobado, desechado, retirado) y su expediente si llegó a votarse. | extensión |
+| `proposiciones/{legislatura}/sil-{clave}.json` | Una proposición con punto de acuerdo, con los mismos campos. | extensión |
+| `dictamenes-negativos/{legislatura}/sil-{clave}.json` | Un dictamen en sentido negativo (desecha iniciativas o proposiciones), con las comisiones que lo presentan. | extensión |
 | `expedientes/sil-{seguimiento}.json` | Un expediente del SIL: sus asuntos (iniciativas, dictámenes, minuta, declaratorias), su cronología y sus votaciones. | extensión |
 | `votaciones/{legislatura}/{camara}/sil-{asunto}-{n}.json` | Una votación nominal según el SIL: sus conteos y, si el SIL la desglosa, el voto de cada legislador. | VoteEvent + Vote |
 | `votaciones/{legislatura}/senado/senado-{clave}.json` | Una votación nominal según el sitio del Senado, con el voto de cada senador (también las de lo particular). | VoteEvent + Vote |
 | `votaciones/{legislatura}/diputados/gaceta-{tabla}.json` | Una votación nominal según la Gaceta Parlamentaria, con el voto de cada diputado (también las de lo particular). | VoteEvent + Vote |
 | `decretos/{año}/dof-{codigo}.json` | Un decreto del DOF: qué documentos reforma (con el commit que lo trajo a cada repo de leyes), su expediente y, en reformas constitucionales, los congresos locales que la aprobaron. | extensión |
-| `fuentes/` | Copias de las páginas oficiales en que se basan las votaciones y los expedientes, nombradas por su sha256. | — |
+| `fuentes/` | Copias de las páginas oficiales en que se basan los datos, nombradas por el sha256 de lo descargado (`.html.gz`: comprimida; la huella es del original). | — |
 
 Opciones de voto: `yes`, `no`, `abstain`, `absent` y `not voting` (Popolo; la
 Gaceta lo llama "quórum": pasó lista y no votó).
@@ -69,6 +74,12 @@ persona ─ mandato ─ voto ─ votación ─ expediente ─ decreto ─ (Docum
   (`grupo_fuente`) es el que la lista de votación muestra para esa votación.
 - **Decreto → documento**: el título del decreto en el sumario del DOF del día
   de la `Publicacion` nombra al documento.
+- **Asunto → autor**: por la `Referencia` del SIL que trae el enlace del
+  autor, la misma del mandato; no se compara el nombre. Si el texto del autor
+  no se puede emparejar uno a uno con sus enlaces, se conserva tal cual sin
+  ligarlo (`tipo: legisladores`).
+- **Asunto → expediente**: por su `Seguimiento` del SIL, cuando ese
+  expediente está publicado aquí (los que llegaron a votación nominal).
 - **Decreto → expediente**: el SIL dice "Publicado en DOF" en esa fecha y la
   denominación nombra al mismo documento. Cada enlace lleva su `criterio`; si
   nada distingue entre varios, quedan en `candidatos_expediente` sin elegir.
@@ -95,7 +106,11 @@ persona ─ mandato ─ voto ─ votación ─ expediente ─ decreto ─ (Docum
   Cada expediente las lista en `votaciones_economicas` (dictamen, cámara,
   fecha, texto y resultado), para que se vea qué se decidió así; por ejemplo,
   las reservas desechadas sin votación nominal.
-- **Expedientes sin ninguna votación nominal**: el SIL se recorre desde su
-  buscador de votaciones nominales; un asunto que solo tuvo votaciones
-  económicas todavía no está.
+- **Cómo se desechó un asunto sin dictamen**: el SIL da la fecha en que una
+  iniciativa o proposición quedó desechada, pero no siempre el acto (un
+  dictamen negativo, un acuerdo de la Mesa Directiva por vencimiento de
+  plazo); si no lo da, el registro solo dice "desechado" y la fecha.
+- **Firmantes adicionales**: el SIL da el autor o autores que registra; una
+  iniciativa suscrita por más legisladores puede listar solo a quien la
+  presentó.
 - **Cambios de bancada**: el SIL solo muestra el partido actual del mandato.

@@ -2,7 +2,9 @@
 
 Quién legisla en México y cómo vota, enlazado con el texto de las leyes que
 reforma. Diputados y senadores con su partido, entidad y distrito; cada
-expediente legislativo con sus iniciativas y dictámenes; cada votación nominal
+iniciativa y proposición que presentan, con su autor y en qué quedó (también
+las que nunca se dictaminaron); cada expediente legislativo con sus
+dictámenes; cada votación nominal
 con el voto de cada legislador; y cada decreto del Diario Oficial con el
 commit que trajo la reforma a
 [constitucion-mexicana](https://github.com/OpenCodice/constitucion-mexicana),
@@ -14,7 +16,7 @@ commit que trajo la reforma a
 > partir del Sistema de Información Legislativa de Gobernación, el DOF, el
 > sitio del Senado y la Gaceta Parlamentaria de la Cámara de Diputados. Cada
 > dato cita la página oficial de la que salió, con su fecha de consulta y su
-> sha256; las páginas de votaciones y expedientes se guardan en `fuentes/`.
+> sha256; las páginas oficiales se guardan en `fuentes/`.
 
 ## Un ejemplo
 
@@ -34,13 +36,16 @@ La reforma a los artículos 82, 116 y 122 de la Constitución (nacionalidad
 ## Estructura
 
 Sigue [Popolo](https://www.popoloproject.com/specs/), el estándar abierto para
-datos legislativos, más dos extensiones (expedientes y decretos). El detalle
+datos legislativos, más extensiones propias (asuntos, expedientes y decretos). El detalle
 está en [AGENTS.md](AGENTS.md).
 
 ```
 organizaciones/   cámaras, partidos y los 32 congresos locales
 personas/         una persona por archivo
 mandatos/         lxvi/diputados/…, lxvi/senado/… (cargo, partido, distrito, licencias)
+iniciativas/      lxvi/sil-{clave}.json: autor, comisiones, estatus y desenlace
+proposiciones/    lxvi/… (puntos de acuerdo), con los mismos campos
+dictamenes-negativos/  lxvi/… (los que desechan iniciativas o proposiciones)
 expedientes/      el proceso de cada asunto en el SIL
 votaciones/       lxvi/{diputados,senado,permanente}/… con el voto de cada legislador
                   (sil-…: del SIL; senado-… y gaceta-…: de cada cámara)
