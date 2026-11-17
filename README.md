@@ -11,7 +11,8 @@ commit que trajo la reforma a
 
 > Repo de **datos**, generado por
 > [`congreso-extractor`](https://github.com/OpenCodice/congreso-extractor) a
-> partir del Sistema de Información Legislativa de Gobernación y del DOF. Cada
+> partir del Sistema de Información Legislativa de Gobernación, el DOF, el
+> sitio del Senado y la Gaceta Parlamentaria de la Cámara de Diputados. Cada
 > dato cita la página oficial de la que salió, con su fecha de consulta y su
 > sha256; las páginas de votaciones y expedientes se guardan en `fuentes/`.
 
@@ -42,14 +43,16 @@ personas/         una persona por archivo
 mandatos/         lxvi/diputados/…, lxvi/senado/… (cargo, partido, distrito, licencias)
 expedientes/      el proceso de cada asunto en el SIL
 votaciones/       lxvi/{diputados,senado,permanente}/… con el voto de cada legislador
+                  (sil-…: del SIL; senado-… y gaceta-…: de cada cámara)
 decretos/         {año}/dof-{código}.json
 fuentes/          copias de las páginas oficiales, por su sha256
 ```
 
 ## Límites
 
-- El SIL desglosa el voto individual de **una** votación nominal por dictamen
-  (la de lo general). Las demás (reservas) tienen solo sus conteos.
+- El voto individual de las votaciones en lo particular viene del sitio del
+  Senado y de la Gaceta; el SIL solo desglosa la de lo general. Cuando dos
+  fuentes difieren, se conservan ambas y la diferencia queda anotada.
 - De los congresos locales solo se sabe cuáles aprobaron una reforma
   constitucional, no el voto de cada diputado local.
 - Las votaciones económicas no registran nombres.
