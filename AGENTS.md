@@ -38,6 +38,13 @@ Gaceta). Cada una queda en su propio registro; el de la cámara apunta al del
 SIL con `votacion_sil`, y lo que difiere entre las dos (conteos o el voto de
 alguien) queda en `discrepancias`. Ninguna corrige a la otra.
 
+Lo que una fuente publica se registra aunque no cuadre consigo misma (una lista
+nominal con votos de más, grupos que no suman el conteo general): la votación
+se publica tal como viene, con lo que no cuadra en `inconsistencias`, y los
+conteos no se ajustan. Solo se omite lo que no se pudo leer. Nada se borra: un
+expediente o una votación que la fuente deja de publicar se conserva con
+`retirada_de_la_fuente` (la fecha en que se notó) y su última versión.
+
 ## Cómo se enlaza
 
 ```
@@ -45,12 +52,12 @@ persona ─ mandato ─ voto ─ votación ─ expediente ─ decreto ─ (Docum
 ```
 
 - **Voto → mandato**: por nombre, dentro de la cámara y la legislatura (las
-  filas de votación no traen la `Referencia` del SIL). En el SIL, si un nombre
-  no aparece o aparece dos veces, la votación no se publica. El Senado y la
-  Gaceta escriben los nombres de otra forma (orden, abreviaturas, variantes
-  ortográficas); cada voto ligado así dice cómo en `enlace`, y un nombre que no
-  da un único mandato no se atribuye: queda en `votos_faltantes` con
-  `nombres_fuente`.
+  filas de votación no traen la `Referencia` del SIL). El Senado y la Gaceta
+  escriben los nombres de otra forma (orden, abreviaturas, variantes
+  ortográficas); cada voto ligado así dice cómo en `enlace`. En cualquier
+  fuente, un nombre que no da un único mandato, o dos filas que dan con la
+  misma persona, no se atribuyen a nadie: quedan en `votos_faltantes` con el
+  nombre tal como lo escribe la fuente (`nombres_fuente`).
 - **Votación de la cámara → votación del SIL**: misma fecha, la denominación
   del SIL contenida en el título de la fuente y el mismo número de votaciones
   del asunto en ambas, emparejadas en orden. Si no es inequívoco, solo se liga
@@ -79,11 +86,16 @@ persona ─ mandato ─ voto ─ votación ─ expediente ─ decreto ─ (Docum
   `senado-…` o `gaceta-…` que apunta a ella.
 - **Legisladores que el resumen cuenta y la lista no trae**: en algunas
   votaciones del Senado el resumen por grupo del SIL cuenta un senador más que
-  su lista nominal (el sitio del Senado sí lo nombra). Los votos listados se publican y lo que falta queda en
-  `votos_faltantes` (grupo, sentido y cuántos), sin adivinar quién es. Si la
-  lista trae de más o el resumen no suma, la votación no se publica.
+  su lista nominal (el sitio del Senado sí lo nombra). Los votos listados se
+  publican y lo que falta queda en `votos_faltantes` (grupo, sentido y
+  cuántos), sin adivinar quién es.
 - **El sentido del voto de cada congreso local**: el SIL solo lista los que
   remitieron voto aprobatorio.
-- **Votaciones económicas**: no registran nombres; están como trámites en el
-  expediente.
+- **Quién votó en las votaciones económicas**: se votan sin registro nominal.
+  Cada expediente las lista en `votaciones_economicas` (dictamen, cámara,
+  fecha, texto y resultado), para que se vea qué se decidió así; por ejemplo,
+  las reservas desechadas sin votación nominal.
+- **Expedientes sin ninguna votación nominal**: el SIL se recorre desde su
+  buscador de votaciones nominales; un asunto que solo tuvo votaciones
+  económicas todavía no está.
 - **Cambios de bancada**: el SIL solo muestra el partido actual del mandato.
