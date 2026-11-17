@@ -24,7 +24,7 @@
     "resultado": "aprobado",
     "texto": "Publicado en DOF el 16-JUL-2025"
   },
-  "expediente_id": null,
+  "expediente_id": "sil-4907052",
   "fecha_presentacion": "2024-10-31",
   "id": "sil-4795428",
   "legislative_period_id": "lxvi",
@@ -41,8 +41,8 @@
   "seguimiento": "4907052",
   "sources": [
     {
-      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
-      "consultado": "2026-11-17T07:53:41Z",
+      "archivo": "fuentes/ff/ff7f4b4e0045311719dde4e992f9d5cddde00331af18ab0f59561d7c62f28830.html.gz",
+      "consultado": "2026-11-17T10:56:33Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "sha256": "ff7f4b4e0045311719dde4e992f9d5cddde00331af18ab0f59561d7c62f28830",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
