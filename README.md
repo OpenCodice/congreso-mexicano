@@ -55,7 +55,10 @@ fuentes/          copias de las páginas oficiales, por su sha256
   fuentes difieren, se conservan ambas y la diferencia queda anotada.
 - De los congresos locales solo se sabe cuáles aprobaron una reforma
   constitucional, no el voto de cada diputado local.
-- Las votaciones económicas no registran nombres.
+- Las votaciones económicas no registran nombres; cada expediente las lista
+  en `votaciones_economicas`.
+- Lo que una fuente publica se conserva aunque no cuadre consigo misma
+  (`inconsistencias`) o aunque después lo retire (`retirada_de_la_fuente`).
 - Por ahora cubre la LXVI Legislatura (2024–2027).
 
 ## Licencia
