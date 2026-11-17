@@ -65,6 +65,11 @@ persona ─ mandato ─ voto ─ votación ─ expediente ─ decreto ─ (Docum
 - **Decreto → expediente**: el SIL dice "Publicado en DOF" en esa fecha y la
   denominación nombra al mismo documento. Cada enlace lleva su `criterio`; si
   nada distingue entre varios, quedan en `candidatos_expediente` sin elegir.
+  Lo que el código no liga lo puede resolver un agente: propone el expediente
+  con citas textuales del decreto y del expediente, un programa comprueba que
+  cada cita esté en su fuente y otro agente confirma. Esos enlaces llevan
+  `resolucion` (el lote del registro en `congreso-extractor/resoluciones/`)
+  y `evidencia` (las citas); ante la duda, el decreto se queda sin expediente.
 
 ## Lo que no está (y por qué)
 
