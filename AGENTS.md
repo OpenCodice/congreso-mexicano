@@ -45,8 +45,12 @@ alguien) queda en `discrepancias`. Ninguna corrige a la otra.
 
 Lo que una fuente publica se registra aunque no cuadre consigo misma (una lista
 nominal con votos de más, grupos que no suman el conteo general): la votación
-se publica tal como viene, con lo que no cuadra en `inconsistencias`, y los
-conteos no se ajustan. Solo se omite lo que no se pudo leer. Nada se borra: un
+se publica tal como viene, con lo que no cuadra explicado en
+`inconsistencias`, y los conteos no se ajustan. La diferencia exacta entre los
+votos (listados más `votos_faltantes`) y los conteos queda declarada por
+opción en `diferencia_conteos` y por grupo en `diferencia_grupos` (votos menos
+conteo); el validador la recalcula, así que una votación que no cuadra nunca
+pasa sin declararlo. Solo se omite lo que no se pudo leer. Nada se borra: un
 expediente o una votación que la fuente deja de publicar se conserva con
 `retirada_de_la_fuente` (la fecha en que se notó) y su última versión.
 
