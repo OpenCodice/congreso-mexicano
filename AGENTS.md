@@ -50,7 +50,16 @@ se publica tal como viene, con lo que no cuadra explicado en
 votos (listados más `votos_faltantes`) y los conteos queda declarada por
 opción en `diferencia_conteos` y por grupo en `diferencia_grupos` (votos menos
 conteo); el validador la recalcula, así que una votación que no cuadra nunca
-pasa sin declararlo. Solo se omite lo que no se pudo leer. Nada se borra: un
+pasa sin declararlo.
+
+Las páginas del Senado y de la Gaceta las lee un programa. Si una página
+trae un formato que el programa todavía no entiende, la lee un agente, y su
+lectura solo se publica si pasa una verificación determinista que el agente no
+controla: cada nombre y cada cifra están en la página, las listas suman los
+totales que declara la fuente y las etiquetas son las del catálogo. Esas
+votaciones lo dicen en `lecturas` (qué página, el registro de la lectura en
+`congreso-extractor/lecturas/` y lo que se verificó). Mientras tanto se corrige
+el programa; cuando ya lee la página, su resultado reemplaza al del agente. Solo se omite lo que no se pudo leer. Nada se borra: un
 expediente o una votación que la fuente deja de publicar se conserva con
 `retirada_de_la_fuente` (la fecha en que se notó) y su última versión.
 
