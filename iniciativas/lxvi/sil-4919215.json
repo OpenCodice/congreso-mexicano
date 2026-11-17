@@ -1,0 +1,75 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4919215",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Bienestar",
+      "referencia": "2085545",
+      "texto": "2.-Diputados -Bienestar .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma el párrafo décimo octavo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-12-02",
+    "resultado": "retirado",
+    "texto": "Retirada el 02-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-27",
+  "id": "sil-4919215",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228654",
+      "nombre_fuente": "Dip. Iván Marín Rangel",
+      "person_id": "ivan-marin-rangel",
+      "referencia_sil": "9228654",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920318",
+  "sources": [
+    {
+      "archivo": "fuentes/8c/8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894.html.gz",
+      "consultado": "2026-11-17T07:55:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

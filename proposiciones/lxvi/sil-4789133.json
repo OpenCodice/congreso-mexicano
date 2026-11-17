@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4789133",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Desarrollo Regional",
+      "referencia": "2085511",
+      "texto": "1.-Senado -Desarrollo Regional .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno federal y al gobierno de Campeche a asignar de manera extraordinaria y urgente mayores recursos para atender las grandes necesidades de las y los campechanos, como la conclusión de los proyectos estratégicos de rehabilitación de infraestructura carretera y el fortalecimiento de las tareas de seguridad pública.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-22",
+  "id": "sil-4789133",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229385",
+      "nombre_fuente": "Sen. Karla Guadalupe Toledo Zamora",
+      "person_id": "karla-guadalupe-toledo-zamora",
+      "referencia_sil": "9229385",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4789432",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

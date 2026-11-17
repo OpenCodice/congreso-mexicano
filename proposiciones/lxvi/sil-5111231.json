@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5111231",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que respaldan las acciones anunciadas por el Ejecutivo Federal en relación con la protección de las personas connacionales fallecidas bajo custodia y en operativos del Servicio de Inmigración y Control de Aduanas, exhorta a la Secretaría de Relaciones Exteriores a informar a esta Soberanía sobre las acciones llevadas a cabo hasta la fecha en relación con la muerte de connacionales bajo custodia y en operativos del mismo, así como sobre el acompañamiento legal y económico brindado a las familias de las víctimas y el papel de la red consular de México en Estados Unidos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-22",
+  "id": "sil-5111231",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229250",
+      "nombre_fuente": "Sen. María Alejandra Barrales Magdaleno",
+      "person_id": "maria-alejandra-barrales-magdaleno",
+      "referencia_sil": "9229250",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115245",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

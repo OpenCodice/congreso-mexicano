@@ -1,0 +1,80 @@
+{
+  "camara_origen": "senado",
+  "clave": "4877283",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085512",
+      "texto": "1.-Senado -Reglamentos y Prácticas Parlamentarias.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "2.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona dos fracciones al artículo 113 de la Ley Orgánica del Congreso de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-07-02",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 02-JUL-2025"
+  },
+  "expediente_id": "sil-4890547",
+  "fecha_presentacion": "2025-04-10",
+  "id": "sil-4877283",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229139",
+      "nombre_fuente": "Sen. Miguel Antonio Fuentes Gutiérrez",
+      "person_id": "miguel-antonio-fuentes-gutierrez",
+      "referencia_sil": "9229139",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4890547",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4917959",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a Adán Augusto López Hernández, senador de la República, a solicitar licencia a su cargo y colaborar plenamente con las autoridades competentes en las investigaciones que se siguen en torno al grupo delictivo denominado -La Barredora- y a quien se identifica como su líder, Hernán Bermúdez Requena.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-20",
+  "id": "sil-4917959",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228118",
+      "nombre_fuente": "Dip. María Elena Pérez Jaen Zermeño",
+      "person_id": "maria-elena-perez-jaen-zermeno",
+      "referencia_sil": "9228118",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920080",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Trámites Legislativos",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5033802",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "1.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SSC de la CDMX, en coordinación con la Subsecretaría de Control de Tránsito, a fortalecer la vigilancia, capacitación, supervisión y evaluación permanente del actuar de las personas integrantes de la policía de tránsito, para asegurar que su desempeño se ajuste a los valores de responsabilidad de servicio, ética, profesionalismo y honradez en beneficio de la población que transita en la CDMX.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-10",
+  "id": "sil-5033802",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228471",
+      "nombre_fuente": "Dip. Adolfo Alatriste Cantú",
+      "person_id": "adolfo-alatriste-cantu",
+      "referencia_sil": "9228471",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5037936",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

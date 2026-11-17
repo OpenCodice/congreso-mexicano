@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4827305",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que el Honorable Congreso de la Unión declara al año 2025 como: 2025, Año de la Mujer Indígena.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-02-21",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 21-FEB-2025"
+  },
+  "expediente_id": "sil-4830607",
+  "fecha_presentacion": "2025-01-08",
+  "id": "sil-4827305",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "4830607",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Indígenas",
+    "Poder Ejecutivo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

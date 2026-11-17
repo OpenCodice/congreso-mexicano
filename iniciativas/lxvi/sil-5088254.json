@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5088254",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en materia de garantía obligatoria de acceso al financiamiento productivo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5088254",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229122",
+      "nombre_fuente": "Dip. Ernesto Sánchez Rodríguez",
+      "person_id": "ernesto-sanchez-rodriguez",
+      "referencia_sil": "9229122",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5093732",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

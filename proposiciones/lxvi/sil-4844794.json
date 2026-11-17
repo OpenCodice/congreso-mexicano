@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4844794",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025)",
+      "referencia": "2231",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Junta de Coordinación Política de esta Soberanía, a que en el marco del Año Internacional de la Ciencia y la Tecnología Cuánticas, se realice el evento -La Ciencia Cuántica-.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2025-02-26",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 26-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-26",
+  "id": "sil-4844794",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228860",
+      "nombre_fuente": "Dip. Herminia López Santiago",
+      "person_id": "herminia-lopez-santiago",
+      "referencia_sil": "9228860",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4845794",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

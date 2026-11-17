@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5105988",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Hacienda y Crédito Público para que informe a la opinión pública, a través de sus medios electrónicos oficiales de información, las causas por las cuales los recursos efectivamente entregados al Estado de Baja California con cargo al Fondo de Fomento Municipal durante el primer cuatrimestre del ejercicio fiscal 2026, fueron inferiores a los montos estimados y publicados, así como los ajustes y liquidaciones que, en su caso, correspondan conforme a la Ley de Coordinación Fiscal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-23",
+  "id": "sil-5105988",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229042",
+      "nombre_fuente": "Dip. César Israel Damián Retes",
+      "person_id": "cesar-israel-damian-retes",
+      "referencia_sil": "9229042",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5108013",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

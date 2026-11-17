@@ -1,0 +1,72 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4965311",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "1.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley General para la Cultura de Paz y Reconciliación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-11-04",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 04-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-04",
+  "id": "sil-4965311",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "chihuahua",
+      "nombre_fuente": "Congreso de Chihuahua",
+      "organization_id": "congreso-chihuahua",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "4969229",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

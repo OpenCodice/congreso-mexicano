@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4887220",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta respetuosamente a la gobernadora del estado de Tlaxcala para qué respete las libertades de expresión y manifestación del pueblo de Tlaxcala a fin de que los ciudadanos puedan expresar libremente sus reclamos e inconformidades en contra del mal gobierno, la falta de servicios públicos y la inseguridad pública.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-24",
+  "id": "sil-4887220",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898094",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

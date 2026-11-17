@@ -1,0 +1,94 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5000314",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 90 Bis y adiciona un párrafo tercero al artículo 95 a la Ley General de Salud.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-5000314",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228804",
+      "nombre_fuente": "Dip. Fernando Jorge Castro Trenti",
+      "person_id": "fernando-jorge-castro-trenti",
+      "referencia_sil": "9228804",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228792",
+      "nombre_fuente": "Dip. Gilberto Daniel Castillo García",
+      "person_id": "gilberto-daniel-castillo-garcia",
+      "referencia_sil": "9228792",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228710",
+      "nombre_fuente": "Dip. Pedro Mario Zenteno Santaella",
+      "person_id": "pedro-mario-zenteno-santaella",
+      "referencia_sil": "9228710",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228932",
+      "nombre_fuente": "Dip. Arturo Olivares Cerda",
+      "person_id": "arturo-olivares-cerda",
+      "referencia_sil": "9228932",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228992",
+      "nombre_fuente": "Dip. Fernando Mendoza Arce",
+      "person_id": "fernando-mendoza-arce",
+      "referencia_sil": "9228992",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001760",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5146727",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Poder Ejecutivo Federal, a través de la SICT, así como a los gobiernos de las entidades federativas, a realizar diagnósticos técnicos integrales sobre el estado físico, mecánico y de seguridad de las unidades destinadas a la prestación del servicio de transporte público, a fin de identificar riesgos, necesidades de mantenimiento y renovación del parque vehicular y garantizar una movilidad segura, eficiente y de calidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-29",
+  "id": "sil-5146727",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229151",
+      "nombre_fuente": "Dip. Miguel Ángel Guevara Rodríguez",
+      "person_id": "miguel-angel-guevara-rodriguez",
+      "referencia_sil": "9229151",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5158818",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4844159",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Energía",
+      "referencia": "2085519",
+      "texto": "1.-Senado -Energía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se solicita que la Secretaría de Hacienda y Crédito Público, la Secretaría de Energía, la Comisión Federal de Electricidad, y la Comisión Nacional del Agua, realicen una evaluación exhaustiva de las tarifas eléctricas en el estado de Tamaulipas.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-26",
+  "id": "sil-4844159",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229158",
+      "nombre_fuente": "Sen. José Ramón Gómez Leal",
+      "person_id": "jose-ramon-gomez-leal",
+      "referencia_sil": "9229158",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850973",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4960252",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Marina",
+      "referencia": "2085556",
+      "texto": "1.-Diputados -Marina .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Mediante el cual la Cámara de Diputados solicita al gobierno de Quintana Roo a implementar las acciones necesarias a efecto de garantizar el libre acceso a las playas nacionales para todas y todos los mexicanos, así como a establecer la reglamentación necesaria para salvaguardar el derecho al uso y disfrute de este bien nacional sin ningún tipo de condicionamiento.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-28",
+  "id": "sil-4960252",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228970",
+      "nombre_fuente": "Dip. Carlos Alonso Castillo Pérez",
+      "person_id": "carlos-alonso-castillo-perez",
+      "referencia_sil": "9228970",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4964171",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Federalismo",
+    "Seguridad Nacional"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5170796",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal de Juegos y Sorteos, en materia de protección de niñas, niños y adolescentes frente a la operación de máquinas tragamonedas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5170796",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229102",
+      "nombre_fuente": "Dip. Alan Sahir Márquez Becerra",
+      "person_id": "alan-sahir-marquez-becerra",
+      "referencia_sil": "9229102",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5177179",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078.html.gz",
+      "consultado": "2026-11-17T07:59:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

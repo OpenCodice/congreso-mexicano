@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4969966",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno federal y al gobierno del estado de Michoacán, a que deslinden responsabilidades administrativas, penales y políticas por la negligencia, omisión y posible colusión que permitieron el asesinato del Presidente Municipal de Uruapan, Michoacán, Carlos Alberto Manzo Rodríguez y llevar a la justicia a quien o quienes resulten responsables de este acto atroz, tanto por acción, como por omisión o complicidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-11",
+  "id": "sil-4969966",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5003068",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

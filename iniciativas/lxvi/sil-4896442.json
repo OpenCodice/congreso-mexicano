@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4896442",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas fracciones a los artículos 5°, 7° y 15 de la Ley de Desarrollo Rural Sustentable.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4896442",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228530",
+      "nombre_fuente": "Dip. Luis Fernando Torres Jiménez",
+      "person_id": "luis-fernando-torres-jimenez",
+      "referencia_sil": "9228530",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4900378",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo",
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Iniciativa"
+}

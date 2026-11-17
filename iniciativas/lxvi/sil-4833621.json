@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4833621",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Vivienda",
+      "referencia": "2085592",
+      "texto": "2.-Diputados -Vivienda .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833621",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228469",
+      "nombre_fuente": "Dip. María del Rosario Orozco Caballero",
+      "person_id": "maria-del-rosario-orozco-caballero",
+      "referencia_sil": "9228469",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4836004",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Vivienda"
+  ],
+  "tipo": "Iniciativa"
+}

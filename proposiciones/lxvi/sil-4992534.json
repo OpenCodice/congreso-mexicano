@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4992534",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Para respaldar el Acuerdo Trinacional para la Conservación de la Selva Maya, asimismo, exhorta a las autoridades competentes a consolidad los mecanismos institucionales, financieros y deplomáticos que aseguren su cumplimiento real y efectivo.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-03",
+  "id": "sil-4992534",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229122",
+      "nombre_fuente": "Dip. Ernesto Sánchez Rodríguez",
+      "person_id": "ernesto-sanchez-rodriguez",
+      "referencia_sil": "9229122",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4995324",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

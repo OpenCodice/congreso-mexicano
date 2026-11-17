@@ -1,0 +1,75 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5060221",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Movilidad",
+      "referencia": "2085579",
+      "texto": "2.-Diputados -Movilidad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción XXII al artículo 5°; reforma la fracción V del artículo 6°; y adiciona la fracción V al artículo 17 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias; y adiciona la fracción VIII Bis al artículo 31 de la Ley General de Movilidad y Seguridad Vial, en materia de movilidad segura con perspectiva de género.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-08",
+  "id": "sil-5060221",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228628",
+      "nombre_fuente": "Dip. Guillermo Rafael Santiago Rodríguez",
+      "person_id": "guillermo-rafael-santiago-rodriguez",
+      "referencia_sil": "9228628",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5063370",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

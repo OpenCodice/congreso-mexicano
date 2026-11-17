@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5045284",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta al Órgano Administrativo Desconcentrado Prevención y Readaptación Social, así como a sus homólogas en las 32 entidades federativas, a implementar, de manera prioritaria y urgente, acciones integrales orientadas a reducir el hacinamiento en los centros penitenciarios, garantizando en todo momento condiciones dignas de internamiento, el acceso efectivo a servicios de salud, una alimentación adecuada y suficiente, así como el fortalecimiento de programas de reinserción social dirigidos a las personas privadas de la libertad, en apego a los estándares nacionales e internacionales en materia de derechos humanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5045284",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055176",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

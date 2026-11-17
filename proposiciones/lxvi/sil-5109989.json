@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5109989",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Agricultura y Desarrollo Rural y a la Comisión Nacional del Agua a rediseñar las Reglas de Operación de los programas de apoyo al sector hidroagrícola para el presente ejercicio fiscal, a fin de sustituir de manera progresiva los subsidios asistenciales directos por fondos concursables de coinversión destinados a la tecnificación masiva del riego, el despliegue de infraestructura digital y la transición energética en los Distritos y Unidades de Riego del país.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-15",
+  "id": "sil-5109989",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228262",
+      "nombre_fuente": "Dip. José Guillermo Anaya Llamas",
+      "person_id": "jose-guillermo-anaya-llamas",
+      "referencia_sil": "9228262",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5113637",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4847369",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de la alerta de violencia de género.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-04",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 04-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-04",
+  "id": "sil-4847369",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228764",
+      "nombre_fuente": "Dip. Anayeli Muñoz Moreno",
+      "person_id": "anayeli-munoz-moreno",
+      "referencia_sil": "9228764",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850654",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115.html.gz",
+      "consultado": "2026-11-17T07:54:29Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

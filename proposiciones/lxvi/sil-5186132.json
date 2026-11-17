@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5186132",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Poder Ejecutivo Federal a informar al Senado de la República sobre la estrategia de México para la COP31, así como sobre los mecanismos de financiamiento, implementación y evaluación de los compromisos climáticos establecidos en la Contribución Determinada a Nivel Nacional 3.0.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5186132",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229212",
+      "nombre_fuente": "Sen. Ricardo Anaya Cortés",
+      "person_id": "ricardo-anaya-cortes",
+      "referencia_sil": "9229212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,56 @@
+{
+  "camara_origen": "senado",
+  "clave": "4824922",
+  "comisiones": [],
+  "denominacion": "Por el que se desecha el punto de acuerdo por el que se exhorta a la Secretaría de Economía a considerar la conveniencia de publicar el Decreto por el que se modifica y prorroga el diverso por el que se regula la importación definitiva de vehículos usados, publicado en el Diario Oficial de la Federación del 24 de diciembre de 2020 y cuya vigencia venció el 30 de septiembre de 2024.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2024-12-12",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 12-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-12",
+  "id": "sil-4824922",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Economía",
+      "referencias_comision": [
+        "2085515"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4825406",
+  "sources": [
+    {
+      "archivo": "fuentes/2e/2e6f2597ae7a1c40184db9d0bd1a3feaa720c67ebec4029b12e4e2a16862e44b.html.gz",
+      "consultado": "2026-11-17T08:08:20Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2e6f2597ae7a1c40184db9d0bd1a3feaa720c67ebec4029b12e4e2a16862e44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

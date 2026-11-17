@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "5187344",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se inscribe con letras doradas el nombre del -Ing. Cuauhtémoc Cárdenas Solórzano- en el Muro de Honor del salón de sesiones de la Cámara de Senadores del Honorable Congreso de la Unión.",
+  "estatus": {
+    "estado": "Enviado para publicación en DOF",
+    "fecha": "2026-11-10",
+    "resultado": "aprobado",
+    "texto": "Enviado para publicación en DOF el 10-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5187344",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Morena",
+      "organization_id": "partido-morena",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "5193499",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2.html.gz",
+      "consultado": "2026-11-17T07:59:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

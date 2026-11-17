@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4842448",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cambio Climático y Sostenibilidad",
+      "referencia": "2085565",
+      "texto": "1.-Diputados -Cambio Climático y Sostenibilidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los gobiernos de los municipios del estado de México, que forman parte del área de influencia de la región conocida como Bosque de Agua Metropolitano, conforme a la Ley General de Cambio Climático, a reforzar sus acciones en materia de preservación, restauración y conservación de sus áreas forestales encaminadas al rescate de esta región como acción prioritaria para hacer frente al cambio climático.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-10",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-25",
+  "id": "sil-4842448",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228644",
+      "nombre_fuente": "Dip. Melva Carrasco Godínez",
+      "person_id": "melva-carrasco-godinez",
+      "referencia_sil": "9228644",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001623",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

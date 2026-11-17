@@ -1,0 +1,221 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5153780",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a armonizar su legislación y normatividad con el Código Nacional de Procedimientos Civiles y Familiares y fortalezcan las acciones institucionales que garanticen el reconocimiento de la nacionalidad mexicana y el derecho a la identidad de las personas nacidas en el extranjero hijas de madre o padre mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-06",
+  "id": "sil-5153780",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228234",
+      "nombre_fuente": "Dip. Jessica Ramírez Cisneros",
+      "person_id": "jessica-ramirez-cisneros",
+      "referencia_sil": "9228234",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228249",
+      "nombre_fuente": "Dip. Jonathan Puertos Chimalhua",
+      "person_id": "jonathan-puertos-chimalhua",
+      "referencia_sil": "9228249",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228252",
+      "nombre_fuente": "Dip. Brígido Ramiro Moreno Hernández",
+      "person_id": "brigido-ramiro-moreno-hernandez",
+      "referencia_sil": "9228252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229176",
+      "nombre_fuente": "Dip. José Manuel Hinojosa Pérez",
+      "person_id": "jose-manuel-hinojosa-perez",
+      "referencia_sil": "9229176",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229104",
+      "nombre_fuente": "Dip. Blanca Leticia Gutiérrez Garza",
+      "person_id": "blanca-leticia-gutierrez-garza",
+      "referencia_sil": "9229104",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229336",
+      "nombre_fuente": "Dip. María Isidra De la Luz Rivas",
+      "person_id": "maria-isidra-de-la-luz-rivas",
+      "referencia_sil": "9229336",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229042",
+      "nombre_fuente": "Dip. César Israel Damián Retes",
+      "person_id": "cesar-israel-damian-retes",
+      "referencia_sil": "9229042",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228836",
+      "nombre_fuente": "Dip. Olga Leticia Chávez Rojas",
+      "person_id": "olga-leticia-chavez-rojas",
+      "referencia_sil": "9228836",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229230",
+      "nombre_fuente": "Dip. Miguel Alejandro Alonso Reyes",
+      "person_id": "miguel-alejandro-alonso-reyes",
+      "referencia_sil": "9229230",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228471",
+      "nombre_fuente": "Dip. Adolfo Alatriste Cantú",
+      "person_id": "adolfo-alatriste-cantu",
+      "referencia_sil": "9228471",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228634",
+      "nombre_fuente": "Dip. Rosa Irene Urbina Castañeda",
+      "person_id": "rosa-irene-urbina-castaneda",
+      "referencia_sil": "9228634",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229010",
+      "nombre_fuente": "Dip. Roselia Suárez Montes de Oca",
+      "person_id": "roselia-suarez-montes-de-oca",
+      "referencia_sil": "9229010",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228994",
+      "nombre_fuente": "Dip. María Damaris Silva Santiago",
+      "person_id": "maria-damaris-silva-santiago",
+      "referencia_sil": "9228994",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228806",
+      "nombre_fuente": "Dip. Nadia Yadira Sepúlveda García",
+      "person_id": "nadia-yadira-sepulveda-garcia",
+      "referencia_sil": "9228806",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228575",
+      "nombre_fuente": "Dip. Diego Ángel Rodríguez Barroso",
+      "person_id": "diego-angel-rodriguez-barroso",
+      "referencia_sil": "9228575",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228862",
+      "nombre_fuente": "Dip. Aniceto Polanco Morales",
+      "person_id": "aniceto-polanco-morales",
+      "referencia_sil": "9228862",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228780",
+      "nombre_fuente": "Dip. Gildardo Pérez Gabino",
+      "person_id": "gildardo-perez-gabino",
+      "referencia_sil": "9228780",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229278",
+      "nombre_fuente": "Dip. Nadia Navarro Acevedo",
+      "person_id": "nadia-navarro-acevedo",
+      "referencia_sil": "9229278",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228463",
+      "nombre_fuente": "Dip. Nora Yessica Merino Escamilla",
+      "person_id": "nora-yessica-merino-escamilla",
+      "referencia_sil": "9228463",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229154",
+      "nombre_fuente": "Dip. Víctor Adrián Martínez Terrazas",
+      "person_id": "victor-adrian-martinez-terrazas",
+      "referencia_sil": "9229154",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228630",
+      "nombre_fuente": "Dip. Deliamaría González Flandez",
+      "person_id": "deliamaria-gonzalez-flandez",
+      "referencia_sil": "9228630",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228467",
+      "nombre_fuente": "Dip. Eduardo Castillo López",
+      "person_id": "eduardo-castillo-lopez",
+      "referencia_sil": "9228467",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229226",
+      "nombre_fuente": "Dip. Marcela Guerra Castillo",
+      "person_id": "marcela-guerra-castillo",
+      "referencia_sil": "9229226",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5158906",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Gobernación",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

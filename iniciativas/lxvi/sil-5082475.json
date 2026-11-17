@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5082475",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto por el que se inscribe en letras de oro en el Muro de Honor del Palacio Legislativo de San Lázaro la leyenda -Tecnológico Nacional de México-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-28",
+  "id": "sil-5082475",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228115",
+      "nombre_fuente": "Dip. Humberto Ambriz Delgadillo",
+      "person_id": "humberto-ambriz-delgadillo",
+      "referencia_sil": "9228115",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090499",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

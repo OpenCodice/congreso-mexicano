@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5000257",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona las fracciones VI, VII y VIII al artículo 34 de la Ley General para la Inclusión de las Personas con Discapacidad, en materia de garantizar el acceso a servicios turísticos para personas que tengan algún tipo de discapacidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-5000257",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228840",
+      "nombre_fuente": "Dip. Magda Erika Salgado Ponce",
+      "person_id": "magda-erika-salgado-ponce",
+      "referencia_sil": "9228840",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001808",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

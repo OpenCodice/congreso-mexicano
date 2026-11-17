@@ -1,0 +1,68 @@
+{
+  "camara_origen": "senado",
+  "clave": "4838912",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que el Senado de la República invita a las personas titulares de la Secretaría de Seguridad Pública y Protección Ciudadana y del Secretariado Ejecutivo del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, asistan a una reunión de trabajo ante las comisiones de Seguridad Pública y de Derechos de la Niñez y de la Adolescencia del Senado de la República, a efecto de que informen sobre el número de homicidios dolosos de niñas, niños y adolescentes, así como de las acciones de atención y de prevención que han realizado al respecto.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-09-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4838912",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228882",
+      "nombre_fuente": "Sen. Miguel Ángel Riquelme Solís",
+      "person_id": "miguel-angel-riquelme-solis",
+      "referencia_sil": "9228882",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4932513",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Poder Legislativo",
+    "Transparencia y Rendición de Cuentas",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

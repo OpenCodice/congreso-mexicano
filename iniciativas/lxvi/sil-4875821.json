@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4875821",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos para crear el Fondo de Contingencia Inflacionaria y diversas medidas fiscales a los trabajadores formales y el sector productivo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-09",
+  "id": "sil-4875821",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228505",
+      "nombre_fuente": "Dip. María Angélica Granados Trespalacios",
+      "person_id": "maria-angelica-granados-trespalacios",
+      "referencia_sil": "9228505",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4876004",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Economía",
+    "Hacienda Pública",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

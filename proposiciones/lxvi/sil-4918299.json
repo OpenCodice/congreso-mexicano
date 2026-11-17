@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4918299",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Gobierno Federal y a los gobiernos estatales para que, a través de las secretarías de Educación Pública y de Hacienda y Crédito Público, garanticen el acceso gratuito a productos de gestión menstrual en las escuelas públicas de educación básica y media superior en todo el territorio nacional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-08-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-20",
+  "id": "sil-4918299",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919989",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

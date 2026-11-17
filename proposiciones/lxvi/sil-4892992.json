@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4892992",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Pueblos Indígenas y Afromexicanos",
+      "referencia": "2085582",
+      "texto": "1.-Diputados -Pueblos Indígenas y Afromexicanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que apruebe la realización de una clase maestra en lengua indígena mixteca, transmitida desde la Ciudad de Oaxaca a través del Canal del Congreso, con el objetivo de promover el uso de las tecnologías para difundir la enseñanza en lenguas indígenas.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-29",
+  "id": "sil-4892992",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228860",
+      "nombre_fuente": "Dip. Herminia López Santiago",
+      "person_id": "herminia-lopez-santiago",
+      "referencia_sil": "9228860",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4897676",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Indígenas",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

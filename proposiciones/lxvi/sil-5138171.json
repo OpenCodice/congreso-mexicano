@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5138171",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "1.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al ayuntamiento de Saltillo, Coahuila de Zaragoza y a Aguas de Saltillo, SA de CV, a garantizar el abasto de agua potable mediante sistemas de respaldo energético en sus pozos y una flota suficiente de pipas, y a la Comisión Federal de Electricidad a restablecer y asegurar la continuidad del suministro eléctrico a la infraestructura hidráulica de la ciudad.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-09-30",
+    "resultado": "retirado",
+    "texto": "Retirada el 30-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-22",
+  "id": "sil-5138171",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228266",
+      "nombre_fuente": "Dip. Antonio Lorenzo Castro Villarreal",
+      "person_id": "antonio-lorenzo-castro-villarreal",
+      "referencia_sil": "9228266",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143428",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

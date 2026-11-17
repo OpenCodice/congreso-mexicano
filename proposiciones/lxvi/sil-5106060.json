@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5106060",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la titular de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación y al Director General del Proyecto Olinia, para que comparezcan e informen ante esta Soberanía, sobre la estructura financiera, económica y operativa del proyecto de Olinia, el ejercicio de los recursos presupuestales ejercidos, los convenios y contratos adquiridos y el plan de producción y comercialización de los vehículos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-23",
+  "id": "sil-5106060",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228232",
+      "nombre_fuente": "Dip. Héctor Saúl Téllez Hernández",
+      "person_id": "hector-saul-tellez-hernandez",
+      "referencia_sil": "9228232",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5108042",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Hacienda Pública",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4783916",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta al gobierno del estado libre y soberano de Sinaloa a tomar medidas urgentes para garantizar la seguridad de la población civil de Sinaloa frente a la ola de violencia que vive la entidad.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-12-04",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 04-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-10",
+  "id": "sil-4783916",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229128",
+      "nombre_fuente": "Sen. Paloma Sánchez Ramos",
+      "person_id": "paloma-sanchez-ramos",
+      "referencia_sil": "9229128",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4817562",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Gobernabilidad",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

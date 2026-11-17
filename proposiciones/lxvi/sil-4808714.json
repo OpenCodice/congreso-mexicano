@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4808714",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ganadería",
+      "referencia": "2085575",
+      "texto": "1.-Diputados -Ganadería .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Sader a establecer un mecanismo de control en relación con la importación de ganado y se realice una campaña de revisión permanente, que evite la propagación del gusano barrenador en el país.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-26",
+  "id": "sil-4808714",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PRI",
+      "organization_id": "partido-pri",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4810822",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,59 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005716",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta al Congreso de la Unión y a sus dos Cámaras a impulsar diversas acciones de la agenda feminista para fortalecer, profundizar y garantizar la igualdad sustantiva.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-01-21",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 21-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005716",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229270",
+      "nombre_fuente": "Sen. Laura Itzel Castillo Juárez",
+      "person_id": "laura-itzel-castillo-juarez",
+      "referencia_sil": "9229270",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5006029",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

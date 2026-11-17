@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4779742",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta a la Suprema Corte de Justicia de la Nación a acercar materialmente la justicia a los lugares más apartados de la geografía nacional.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2024-12-13",
+    "resultado": "desechado",
+    "texto": "Desechado el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-03",
+  "id": "sil-4779742",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229068",
+      "nombre_fuente": "Sen. Laura Estrada Mauro",
+      "person_id": "laura-estrada-mauro",
+      "referencia_sil": "9229068",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4782311",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

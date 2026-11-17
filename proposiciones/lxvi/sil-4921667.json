@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4921667",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Instituto Nacional de Estadística y Geografía para que, en la próxima edición de la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares, incorpore el ámbito deportivo como un espacio específico para la recopilación de datos sobre violencia de género contra las mujeres, así como, a que en el diseño de dicha encuesta, incluya preguntas que permitan identificar el tipo, frecuencia y características de la violencia ejercida contra mujeres atletas, entrenadoras, árbitras, directivas y otras participantes del entorno deportivo.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-09",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 09-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-09",
+  "id": "sil-4921667",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228930",
+      "nombre_fuente": "Sen. Virginia Marie Magaña Fonseca",
+      "person_id": "virginia-marie-magana-fonseca",
+      "referencia_sil": "9228930",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5010224",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

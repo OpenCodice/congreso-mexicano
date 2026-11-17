@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5017316",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Educación, en materia de reconocimiento y fortalecimiento de las figuras educativas del Conafe.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-18",
+  "id": "sil-5017316",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228770",
+      "nombre_fuente": "Dip. Francisco Javier Farias Bailón",
+      "person_id": "francisco-javier-farias-bailon",
+      "referencia_sil": "9228770",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5019430",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

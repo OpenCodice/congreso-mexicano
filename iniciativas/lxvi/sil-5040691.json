@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5040691",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Radio y Televisión",
+      "referencia": "2085583",
+      "texto": "1.-Diputados -Radio y Televisión .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley en Materia de Telecomunicaciones y Radiodifusión, en materia de usuarios menores de edad de redes sociales digitales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-18",
+  "id": "sil-5040691",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229044",
+      "nombre_fuente": "Dip. Paulina Rubio Fernández",
+      "person_id": "paulina-rubio-fernandez",
+      "referencia_sil": "9229044",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5045572",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

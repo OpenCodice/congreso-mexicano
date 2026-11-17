@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5088990",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puertos e Infraestructura Marítima",
+      "referencia": "2085536",
+      "texto": "1.-Senado -Puertos e Infraestructura Marítima.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la titular del Poder Ejecutivo Federal, a la Secretaría de Marina y a diversas autoridades ambientales, a valorar la revocación, suspensión o revisión del decreto publicado en el Diario Oficial de la Federación el 10 de abril de 2026, relativo a la habilitación del Puerto de Loreto, Baja California Sur, como puerto de altura y cabotaje, así como a remitir la información técnica, ambiental, social, turística y jurídica que sustente dicha modificación.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5088990",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228748",
+      "nombre_fuente": "Sen. Susana del Carmen Zatarain García",
+      "person_id": "susana-del-carmen-zatarain-garcia",
+      "referencia_sil": "9228748",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

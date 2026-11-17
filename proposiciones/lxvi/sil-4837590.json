@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4837590",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SICT, a través de la delegación en el estado de Aguascalientes, a revisar las condiciones para el tránsito de vehículos en las carreteras federales 45 norte y 45 sur.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-18",
+  "id": "sil-4837590",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228115",
+      "nombre_fuente": "Dip. Humberto Ambriz Delgadillo",
+      "person_id": "humberto-ambriz-delgadillo",
+      "referencia_sil": "9228115",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4840199",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

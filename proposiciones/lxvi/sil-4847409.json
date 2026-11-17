@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4847409",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Deporte",
+      "referencia": "2085547",
+      "texto": "1.-Diputados -Deporte .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Conade a hacer una revisión exhaustiva de las reglas de operación y se homologuen los tabuladores de becas de alto rendimiento de los deportistas paralímpicos respecto a los deportistas olímpicos establecidos en las mismas; que han sido publicadas en el DOF el día 11 de febrero del 2025.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-04",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 04-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-04",
+  "id": "sil-4847409",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228990",
+      "nombre_fuente": "Dip. Catalina Díaz Vilchis",
+      "person_id": "catalina-diaz-vilchis",
+      "referencia_sil": "9228990",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850007",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

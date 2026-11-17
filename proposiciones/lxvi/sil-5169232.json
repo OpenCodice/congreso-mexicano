@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5169232",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades del estado de Tabasco a atender e investigar las denuncias de acoso y hostigamiento laboral y, en su caso, adoptar las medidas que correspondan.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-20",
+  "id": "sil-5169232",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229240",
+      "nombre_fuente": "Dip. Erubiel Lorenzo Alonso Que",
+      "person_id": "erubiel-lorenzo-alonso-que",
+      "referencia_sil": "9229240",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5174582",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

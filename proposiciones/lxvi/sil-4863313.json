@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4863313",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "1.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Conagua a considerar a las comunidades de alta y muy alta marginación de los estados donde históricamente la distribución del agua ha sido desigual, así como la participación de las comunidades indígenas y afrodescendientes y el papel de la mujer y el derecho al agua en el Acuerdo Nacional por el Derecho Humano al Agua y la Sustentabilidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-25",
+  "id": "sil-4863313",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228127",
+      "nombre_fuente": "Dip. Rocío López Gorosave",
+      "person_id": "rocio-lopez-gorosave",
+      "referencia_sil": "9228127",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4864987",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

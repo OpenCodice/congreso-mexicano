@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005529",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "2.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción IV del artículo 74 de la Ley Federal del Trabajo, y reforma el numeral 22 de la fracción I del artículo 18 y adiciona un artículo 18 Bis a la Ley sobre el Escudo, la Bandera y el Himno Nacionales, con motivo de celebrar el 8 de mayo de cada año como Día Nacional en Memoria del Natalicio del Padre de la Patria, Don Miguel Hidalgo y Costilla.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005529",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228573",
+      "nombre_fuente": "Dip. Ernesto Alejandro Prieto Gallardo",
+      "person_id": "ernesto-alejandro-prieto-gallardo",
+      "referencia_sil": "9228573",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5006193",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

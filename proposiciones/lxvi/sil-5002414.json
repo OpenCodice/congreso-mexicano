@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5002414",
+  "comisiones": [
+    {
+      "referencia": "2085613",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (07/01/2026-31/01/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la SADER, reconozca y reciba las constancias de trámite emitidas por la CONAGUA respecto de solicitudes de concesiones, prórrogas o reasignaciones de uso agrícola, así como a fortalecer la colaboración interinstitucional para la recepción y aceptación de constancias de concesiones de agua en trámite para uso de riego agrícola.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2025-12-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 17-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-17",
+  "id": "sil-5002414",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228330",
+      "nombre_fuente": "Dip. Oscar Bautista Villegas",
+      "person_id": "oscar-bautista-villegas",
+      "referencia_sil": "9228330",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004019",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4805315",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025)",
+      "referencia": "2231",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita la creación de la Comisión Especial de la Cuenca del Lago de Pátzcuaro.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2024-11-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 20-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-20",
+  "id": "sil-4805315",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PVEM",
+      "organization_id": "partido-pvem",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "Morena",
+      "organization_id": "partido-morena",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PT",
+      "organization_id": "partido-pt",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4807419",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Creación de comisiones o grupos de trabajo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

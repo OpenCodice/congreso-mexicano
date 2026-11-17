@@ -1,0 +1,90 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4888415",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 53 y 57 Quáter de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos relativa a la Contraloría Interna.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-07-07",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 07-JUL-2025"
+  },
+  "expediente_id": "sil-4894174",
+  "fecha_presentacion": "2025-04-24",
+  "id": "sil-4888415",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "MC",
+      "organization_id": "partido-mc",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PRI",
+      "organization_id": "partido-pri",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PT",
+      "organization_id": "partido-pt",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PVEM",
+      "organization_id": "partido-pvem",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PAN",
+      "organization_id": "partido-pan",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "Morena",
+      "organization_id": "partido-morena",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4894174",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Poder Legislativo",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

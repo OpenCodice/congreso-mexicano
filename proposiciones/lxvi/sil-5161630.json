@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5161630",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno del estado de Coahuila de Zaragoza, a la Secretaría de Medio Ambiente del estado de Coahuila de Zaragoza; así como a las personas titulares de los Ayuntamientos de Saltillo, Arteaga, Torreón y Ramos Arizpe; a implementar y fortalecer acciones urgentes, integrales y coordinadas para prevenir, reducir y controlar la contaminación atmosférica en el estado, fortalecer el monitoreo de la calidad del aire y proteger la salud de la población.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-13",
+  "id": "sil-5161630",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228880",
+      "nombre_fuente": "Sen. Cecilia Guadalupe Guadiana Mandujano",
+      "person_id": "cecilia-guadalupe-guadiana-mandujano",
+      "referencia_sil": "9228880",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195758",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5169182",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Movilidad",
+      "referencia": "2085579",
+      "texto": "1.-Diputados -Movilidad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que la Cámara de Diputados del H. Congreso de la Unión solicita respetuosamente a la Asociación Mexicana de Autoridades de Movilidad para que, en el ámbito de sus atribuciones y como espacio de coordinación de las autoridades responsables de la movilidad en el país, recabe, sistematice y haga público un informe nacional sobre las acciones, programas, protocolos, mecanismos, indicadores y políticas implementadas por las 32 entidades federativas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, adolescentes y niñas en el transporte público y en los espacios vinculados con la movilidad, a fin de identificar áreas de oportunidad y fortalecer las políticas de movilidad con perspectiva de género.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-20",
+  "id": "sil-5169182",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229401",
+      "nombre_fuente": "Dip. María Teresa Ealy Díaz",
+      "person_id": "maria-teresa-ealy-diaz",
+      "referencia_sil": "9229401",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5174638",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

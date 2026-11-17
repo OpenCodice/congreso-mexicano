@@ -1,0 +1,63 @@
+{
+  "camara_origen": "senado",
+  "clave": "5025174",
+  "comisiones": [],
+  "denominacion": "Por el que desecha la minuta con proyecto de decreto por el que se reforman y adicionan los artículos 4° y 25 de la Ley de la Economía Social y Solidaria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-03",
+  "id": "sil-5025174",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos, Segunda",
+      "referencias_comision": [
+        "2085525"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Economía",
+      "referencias_comision": [
+        "2085515"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4442176",
+  "sources": [
+    {
+      "archivo": "fuentes/1e/1e929a4ead2ef660a854770efcae6c540d09483218cc38867032f26b2d4490a8.html.gz",
+      "consultado": "2026-11-17T08:09:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1e929a4ead2ef660a854770efcae6c540d09483218cc38867032f26b2d4490a8",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

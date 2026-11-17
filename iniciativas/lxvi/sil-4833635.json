@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4833635",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cambio Climático y Sostenibilidad",
+      "referencia": "2085565",
+      "texto": "1.-Diputados -Cambio Climático y Sostenibilidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un párrafo al artículo 26 de la Ley General de Cambio Climático, en materia de igualdad de género.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-06-24",
+    "resultado": "retirado",
+    "texto": "Retirada el 24-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833635",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228280",
+      "nombre_fuente": "Dip. Karina Margarita Del Río Zenteno",
+      "person_id": "karina-margarita-del-rio-zenteno",
+      "referencia_sil": "9228280",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4836008",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Indígenas",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

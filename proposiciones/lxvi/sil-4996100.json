@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4996100",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Gobierno de la Ciudad de México, por conducto de la Secretaría de Seguridad Ciudadana, a investigar de manera inmediata los hechos ocurridos el 15 de noviembre de 2025; denunciar, investigar e identificar a los elementos policiales que hayan incurrido en uso excesivo de la fuerza para sancionarlos administrativa o penalmente; y presentar un informe público detallado sobre las medidas adoptadas para evitar la repetición de estos actos.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-09",
+  "id": "sil-4996100",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5002984",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

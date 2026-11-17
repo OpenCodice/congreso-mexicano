@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4899779",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Medio Ambiente y Recursos Naturales; y a la Secretaría de Marina federales para que se coordinen con las autoridades de estados y municipios costeros del país, a fin de fortalecer las acciones para prevenir la contaminación de las costas y los mares mexicanos.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-09",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 09-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-14",
+  "id": "sil-4899779",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229142",
+      "nombre_fuente": "Sen. Olga Patricia Sosa Ruíz",
+      "person_id": "olga-patricia-sosa-ruiz",
+      "referencia_sil": "9229142",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4912387",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Nacional",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "5065401",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la Ley General de Educación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 29-SEP-2026"
+  },
+  "expediente_id": "sil-5088490",
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5065401",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229080",
+      "nombre_fuente": "Sen. Beatriz Silvia Robles Gutiérrez",
+      "person_id": "beatriz-silvia-robles-gutierrez",
+      "referencia_sil": "9229080",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5088490",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

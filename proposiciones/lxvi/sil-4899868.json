@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4899868",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la gobernadora de Veracruz, al titular de la Secretaría de Infraestructura y Obras Públicas del estado y al Secretario de Infraestructura, Comunicaciones y Transportes del gobierno federal para que, en el ámbito de sus competencias, realicen las gestiones necesarias para la ejecución del proyecto ejecutivo -reconstrucción del camino la Concepción-San Martín – Paso San Juan del km 0+000 al km 2+855.31-, ubicado en el municipio de Jilotepec, Veracruz.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-14",
+  "id": "sil-4899868",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229244",
+      "nombre_fuente": "Dip. Lorena Piñón Rivera",
+      "person_id": "lorena-pinon-rivera",
+      "referencia_sil": "9229244",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4901536",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

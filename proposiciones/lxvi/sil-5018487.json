@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5018487",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Movilidad",
+      "referencia": "2085579",
+      "texto": "1.-Diputados -Movilidad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a las autoridades federales, estatales y municipales a realizar los estudios pertinentes y ejecutar la construcción de puentes peatonales con accesibilidad universal, en la zona de la Noria de Septién, en León Guanajuato.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-18",
+  "id": "sil-5018487",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229102",
+      "nombre_fuente": "Dip. Alan Sahir Márquez Becerra",
+      "person_id": "alan-sahir-marquez-becerra",
+      "referencia_sil": "9229102",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5019623",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

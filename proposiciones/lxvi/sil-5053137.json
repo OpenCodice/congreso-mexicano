@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5053137",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas dependencias a fortalecer la atención integral de la diabetes mellitus tipo 1 en niñas, niños y adolescentes, mediante la actualización de guías de práctica clínica, el fortalecimiento de los PRONAM y la emisión de lineamientos operativos, en tanto se actualiza la NOM-015-SSA2-2010.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-25",
+  "id": "sil-5053137",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229046",
+      "nombre_fuente": "Dip. Luis Agustín Rodríguez Torres",
+      "person_id": "luis-agustin-rodriguez-torres",
+      "referencia_sil": "9229046",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228567",
+      "nombre_fuente": "Dip. Éctor Jaime Ramírez Barba",
+      "person_id": "ector-jaime-ramirez-barba",
+      "referencia_sil": "9228567",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055338",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

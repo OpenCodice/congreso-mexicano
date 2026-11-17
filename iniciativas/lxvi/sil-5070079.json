@@ -1,0 +1,88 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5070079",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "2.-Diputados -Salud .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Protección al Consumidor; de la Ley Sobre el Contrato de Seguro; de la Ley de Instituciones de Seguros y de Fianzas; de la Ley de Protección y Defensa al Usuario de Servicios Financieros; de la Ley General de Salud; de la Ley del Impuesto al Valor Agregado, y de la Ley del Impuesto sobre la renta, en materia de gastos médicos mayores, transparencia, portabilidad, protección a adultos mayores y regulación hospitalaria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-15",
+  "id": "sil-5070079",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228812",
+      "nombre_fuente": "Dip. Carlos Ventura Palacios Rodríguez",
+      "person_id": "carlos-ventura-palacios-rodriguez",
+      "referencia_sil": "9228812",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228467",
+      "nombre_fuente": "Dip. Eduardo Castillo López",
+      "person_id": "eduardo-castillo-lopez",
+      "referencia_sil": "9228467",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228343",
+      "nombre_fuente": "Dip. Freyda Marybel Villegas Canché",
+      "person_id": "freyda-marybel-villegas-canche",
+      "referencia_sil": "9228343",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5072080",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía",
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

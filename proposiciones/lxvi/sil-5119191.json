@@ -1,0 +1,58 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5119191",
+  "comisiones": [],
+  "denominacion": "Por el que exhorta a la Comisión Nacional de Salud Mental y Adicciones y al Congreso de Puebla a fortalecer la atención integral de las adicciones y la salud mental, así como la protección de los derechos humanos y la continuidad de la atención en los establecimientos residenciales especializados en adicciones, con especial atención a la situación del estado de puebla.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-24",
+  "id": "sil-5119191",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229074",
+      "nombre_fuente": "Sen. Néstor Camarillo Medina",
+      "person_id": "nestor-camarillo-medina",
+      "referencia_sil": "9229074",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5119548",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7.html.gz",
+      "consultado": "2026-11-17T08:07:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

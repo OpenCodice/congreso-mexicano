@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4954541",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Para solicitar a la Secretaría de las Mujeres del Gobierno de México, así como sus homólogas en las entidades federativas, a realizar campañas permanentes de difusión de la existencia, objetivos y alcances de los refugios especializados para mujeres víctimas de violencia de género, y sus hijas e hijos.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-21",
+  "id": "sil-4954541",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228459",
+      "nombre_fuente": "Dip. María Fabiola Karina Pérez Popoca",
+      "person_id": "maria-fabiola-karina-perez-popoca",
+      "referencia_sil": "9228459",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4958518",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

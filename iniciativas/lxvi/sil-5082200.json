@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5082200",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ganadería",
+      "referencia": "2085575",
+      "texto": "1.-Diputados -Ganadería .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "2.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Desarrollo Rural Sustentable, de la Ley de Organizaciones Ganaderas, de la Ley Federal de Sanidad Animal, de la Ley de Aguas Nacionales y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de fomento a la ganadería sustentable y fortalecimiento del pequeño y mediano productor pecuario.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-28",
+  "id": "sil-5082200",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228503",
+      "nombre_fuente": "Dip. Juan Antonio Meléndez Ortega",
+      "person_id": "juan-antonio-melendez-ortega",
+      "referencia_sil": "9228503",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090491",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

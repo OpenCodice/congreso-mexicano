@@ -1,0 +1,80 @@
+{
+  "camara_origen": "senado",
+  "clave": "5053466",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Gobernación y al Instituto Nacional de Migración para que aseguren la emisión pronta y expedita de la tarjeta de visitante por razones humanitarias (TVRH), a favor de las personas solicitantes de refugio, asilo y protección complementaria, a fin de garantizar su derecho a la identidad, a la movilidad y a la protección internacional.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-25",
+  "id": "sil-5053466",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229252",
+      "nombre_fuente": "Sen. Amalia Dolores García Medina",
+      "person_id": "amalia-dolores-garcia-medina",
+      "referencia_sil": "9229252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228900",
+      "nombre_fuente": "Sen. Juan Carlos Loera De La Rosa",
+      "person_id": "juan-carlos-loera-de-la-rosa",
+      "referencia_sil": "9228900",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229290",
+      "nombre_fuente": "Sen. Karina Isabel Ruiz Ruiz",
+      "person_id": "karina-isabel-ruiz-ruiz",
+      "referencia_sil": "9229290",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

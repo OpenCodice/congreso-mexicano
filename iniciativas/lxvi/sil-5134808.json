@@ -1,0 +1,88 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5134808",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "1.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "2.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley Federal de Seguridad Carretera.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-15",
+  "id": "sil-5134808",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229176",
+      "nombre_fuente": "Dip. José Manuel Hinojosa Pérez",
+      "person_id": "jose-manuel-hinojosa-perez",
+      "referencia_sil": "9229176",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229118",
+      "nombre_fuente": "Dip. José Elías Lixa Abimerhi",
+      "person_id": "jose-elias-lixa-abimerhi",
+      "referencia_sil": "9229118",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5135032",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

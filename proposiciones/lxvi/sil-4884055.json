@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4884055",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Sader y a la Dirección General de Alimentación para el Bienestar a atender y recibir de manera inmediata la producción previamente acordada de los agricultores de frijol en los municipios Vicente Guerrero, Súchil, Nombre de Dios y Poanas, Durango.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-23",
+  "id": "sil-4884055",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229292",
+      "nombre_fuente": "Dip. Leticia Barrera Maldonado",
+      "person_id": "leticia-barrera-maldonado",
+      "referencia_sil": "9229292",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4888292",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

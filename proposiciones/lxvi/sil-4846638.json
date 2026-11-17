@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4846638",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "1.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta respetuosamente al Gobierno del estado de Tlaxcala para que explique en forma pormenorizada la necesidad de la adquisición de 10 camionetas blindadas con un costo superior a 56 millones de pesos, que expliquen quiénes serán sus usuarios y como se garantizará que estos vehículos oficiales no se utilicen con fines personales, asimismo para que aclaren si esta compra se ajusta a la ley y a la supuesta austeridad republicana pero sobre todo que expliquen cómo beneficia al pueblo de Tlaxcala la compra de estas camionetas.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-04",
+  "id": "sil-4846638",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4855688",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

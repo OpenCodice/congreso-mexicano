@@ -1,0 +1,92 @@
+{
+  "camara_origen": "senado",
+  "clave": "5061707",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Seguridad y Protección Ciudadana para que, en coordinación con la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus atribuciones, fortalezcan las estrategias de prevención, detección e investigación de fraudes digitales, así como los relacionados con el uso de la inteligencia artificial; y se realicen mesas de diálogo con el sector privado, particularmente empresas tecnológicas e instituciones del sector financiero, detecten oportunamente estas conductas que afectan a las y los mexicanos.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-08",
+  "id": "sil-5061707",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229418",
+      "nombre_fuente": "Sen. Yeidckol Polevnsky Gurwitz",
+      "person_id": "yeidckol-polevnsky-gurwitz",
+      "referencia_sil": "9229418",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

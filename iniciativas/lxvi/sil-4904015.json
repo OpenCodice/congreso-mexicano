@@ -1,0 +1,71 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4904015",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley de la Guardia Nacional; y reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-07-16",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 16-JUL-2025"
+  },
+  "expediente_id": "sil-4907135",
+  "fecha_presentacion": "2025-06-11",
+  "id": "sil-4904015",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "4907135",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400.html.gz",
+      "consultado": "2026-11-17T07:55:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

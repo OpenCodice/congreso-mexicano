@@ -1,0 +1,101 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5105819",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona nuevos artículos correspondientes al artículo 5 Bis, artículo 33 Bis, artículo 33 Ter y artículo 33 Quáter, todos ellos de la Ley de los Derechos de las Personas Adultas Mayores, asimismo un nuevo artículo correspondiente al artículo 10 Bis, de la Ley General para la inclusión de las Personas con Discapacidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-23",
+  "id": "sil-5105819",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229418",
+      "nombre_fuente": "Sen. Yeidckol Polevnsky Gurwitz",
+      "person_id": "yeidckol-polevnsky-gurwitz",
+      "referencia_sil": "9229418",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5107956",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0.html.gz",
+      "consultado": "2026-11-17T07:58:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

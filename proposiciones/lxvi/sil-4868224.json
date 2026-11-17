@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4868224",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085560",
+      "texto": "1.-Diputados -Relaciones Exteriores .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SRE a implementar convenios de colaboración con organizaciones civiles, clínicas jurídicas universitarias y aliados estratégicos identificables en los Estados Unidos de América con el objeto de brindar asistencia jurídica, orientación y protección a los migrantes mexicanos afectados por las nuevas políticas migratorias de ese país.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-01",
+  "id": "sil-4868224",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228804",
+      "nombre_fuente": "Dip. Fernando Jorge Castro Trenti",
+      "person_id": "fernando-jorge-castro-trenti",
+      "referencia_sil": "9228804",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4870699",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Migración",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

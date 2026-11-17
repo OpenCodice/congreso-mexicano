@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4962982",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal a realizar las gestiones necesarias para que el Sistema de Transporte Colectivo-Metro se integre a la administración pública federal, a efecto de atender las necesidades crecientes de movilidad en la Zona Metropolitana de la Ciudad de México.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-29",
+  "id": "sil-4962982",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229344",
+      "nombre_fuente": "Dip. Mayra Espino Suárez",
+      "person_id": "mayra-espino-suarez",
+      "referencia_sil": "9229344",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4964286",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

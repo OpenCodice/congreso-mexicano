@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4896005",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "2.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona y reforma diversas disposiciones de la Ley General de Salud, de la Ley de los Institutos Nacionales de Salud, de la Ley del Instituto Mexicano de la Juventud, de la Ley General de los Derechos de Niñas, Niños y Adolescentes, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley General de Educación y de la Ley del Seguro Social en materia de progresividad e interdependencia al derecho humano a la salud mental y bucal de niñas, niños y adolescentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4896005",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228320",
+      "nombre_fuente": "Dip. Jesús Alfonso Ibarra Ramos",
+      "person_id": "jesus-alfonso-ibarra-ramos",
+      "referencia_sil": "9228320",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4900507",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4954551",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085544",
+      "texto": "1.-Diputados -Asuntos Migratorios.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al titular de la SEP, por conducto del CONOCER, a implementar un programa especial de certificación de competencias laborales dirigido a migrantes centroamericanos y de habla hispana, a través de sedes en las principales ciudades fronterizas del norte de México, como medida humanitaria y preventiva contra los riesgos sociales asociados a la espera prolongada.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-10",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-21",
+  "id": "sil-4954551",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228806",
+      "nombre_fuente": "Dip. Nadia Yadira Sepúlveda García",
+      "person_id": "nadia-yadira-sepulveda-garcia",
+      "referencia_sil": "9228806",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001584",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Migración"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

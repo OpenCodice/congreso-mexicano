@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4999503",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cambio Climático y Sostenibilidad",
+      "referencia": "2085565",
+      "texto": "1.-Diputados -Cambio Climático y Sostenibilidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona una fracción XVII Bis al artículo 3°, una fracción XIX al artículo 7°, una fracción XX al artículo 8° y una fracción XIII al artículo 9°; se modifica la fracción XVIII del artículo 7°, una fracción XIX al artículo 8° y una fracción XII al artículo 9° de la Ley General de Cambio Climático, en materia de empleos verdes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-4999503",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228660",
+      "nombre_fuente": "Dip. Armando Corona Arvizu",
+      "person_id": "armando-corona-arvizu",
+      "referencia_sil": "9228660",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001704",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Federalismo",
+    "Laboral",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

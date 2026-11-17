@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5044458",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Desarrollo Rural Sustentable, en materia de innovación tecnológica agropecuaria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5044458",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228511",
+      "nombre_fuente": "Dip. Noel Chávez Velázquez",
+      "person_id": "noel-chavez-velazquez",
+      "referencia_sil": "9228511",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5044578",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

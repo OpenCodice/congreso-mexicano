@@ -1,0 +1,108 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4936342",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones del Reglamento de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Cámara de Diputados del Congreso de la Unión.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-30",
+  "id": "sil-4936342",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228768",
+      "nombre_fuente": "Dip. Ivonne Aracely Ortega Pacheco",
+      "person_id": "ivonne-aracely-ortega-pacheco",
+      "referencia_sil": "9228768",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229330",
+      "nombre_fuente": "Dip. Reginaldo Sandoval Flores",
+      "person_id": "reginaldo-sandoval-flores",
+      "referencia_sil": "9229330",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229346",
+      "nombre_fuente": "Dip. Carlos Alberto Puente Salas",
+      "person_id": "carlos-alberto-puente-salas",
+      "referencia_sil": "9229346",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229118",
+      "nombre_fuente": "Dip. José Elías Lixa Abimerhi",
+      "person_id": "jose-elias-lixa-abimerhi",
+      "referencia_sil": "9229118",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228822",
+      "nombre_fuente": "Dip. Ricardo Monreal Ávila",
+      "person_id": "ricardo-monreal-avila",
+      "referencia_sil": "9228822",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229144",
+      "nombre_fuente": "Dip. Kenia López Rabadán",
+      "person_id": "kenia-lopez-rabadan",
+      "referencia_sil": "9229144",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4941377",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

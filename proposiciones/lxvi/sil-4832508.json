@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4832508",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Relaciones Exteriores, América Latina y el Caribe",
+      "referencia": "2085520",
+      "texto": "1.-Senado -Relaciones Exteriores, América Latina y el Caribe.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Relaciones Exteriores para que en uso de sus atribuciones y por los conductos diplomáticos adecuados envíe una carta de extrañamiento al gobierno de la República del Ecuador, con motivo del anuncio de imposición de aranceles a productos mexicanos, destacando la importancia de la cooperación para el crecimiento de la región, el desarrollo económico y el bienestar de nuestros pueblos hermanos.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-06",
+  "id": "sil-4832508",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4832842",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

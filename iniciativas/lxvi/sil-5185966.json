@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5185966",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 9° de la Ley General de Educación, en materia de escuelas de tiempo completo y centros de tareas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 03-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5185966",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229410",
+      "nombre_fuente": "Dip. Ofelia Socorro Jasso Nieto",
+      "person_id": "ofelia-socorro-jasso-nieto",
+      "referencia_sil": "9229410",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5190495",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2.html.gz",
+      "consultado": "2026-11-17T07:59:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

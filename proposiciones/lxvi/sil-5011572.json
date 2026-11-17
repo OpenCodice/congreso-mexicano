@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5011572",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a las personas titulares de las presidencias municipales del interior de la República Mexicana y de las alcaldías de la Ciudad de México a cumplir, en el ámbito de su competencia, el acuerdo mediante el cual se establecen los lineamientos generales a los que deberán sujetarse la preparación, distribución y el expendio de los alimentos y bebidas preparados, procesados y a granel, así como el fomento de los estilos de vida saludables en alimentación, dentro de toda escuela y en las inmediaciones del sistema educativo nacional.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-10",
+  "id": "sil-5011572",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228706",
+      "nombre_fuente": "Dip. Arturo Roberto Hernández Tapia",
+      "person_id": "arturo-roberto-hernandez-tapia",
+      "referencia_sil": "9228706",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5014481",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

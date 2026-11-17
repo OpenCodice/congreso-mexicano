@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4878231",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley de Asistencia Social y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-10",
+  "id": "sil-4878231",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229054",
+      "nombre_fuente": "Dip. Miguel Ángel Monraz Ibarra",
+      "person_id": "miguel-angel-monraz-ibarra",
+      "referencia_sil": "9229054",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4879279",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

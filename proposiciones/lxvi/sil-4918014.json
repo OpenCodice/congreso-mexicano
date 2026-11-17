@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4918014",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que la Comisión Permanente solicita a la Secretaría de Seguridad y Protección Ciudadana, a la Fiscalía General de la República y sus homólogas en las entidades federativas, a que remitan a esta soberanía un informe detallado sobre las acciones de prevención y atención del delito de extorsión, en particular sobre la modalidad de -Llamada Cruzada-; e implementen un plan integral que permita prevenir, actuar y atender este delito.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-20",
+  "id": "sil-4918014",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228882",
+      "nombre_fuente": "Sen. Miguel Ángel Riquelme Solís",
+      "person_id": "miguel-angel-riquelme-solis",
+      "referencia_sil": "9228882",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920047",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4919337",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Medio Ambiente y Recursos Naturales, al Gobierno del Estado de Nuevo León y al Gobierno del Estado de Coahuila de Zaragoza, para que impulse la creación de una Comisión Ambiental Regional, bajo el esquema de Coordinación de la Comisión Ambiental de la Megalópolis, con participación de la sociedad civil, la academia y el sector productivo, con el objetivo de coordinar acciones para mejorar la calidad del aire y atender otros retos ambientales de la región.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-27",
+  "id": "sil-4919337",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229058",
+      "nombre_fuente": "Sen. Waldo Fernández González",
+      "person_id": "waldo-fernandez-gonzalez",
+      "referencia_sil": "9229058",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4921092",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4950064",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "1.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la gobernadora de Veracruz a rendir cuentas sobre la decisión de no renovar la póliza de seguro contra desastres naturales y sobre la capacidad real de la aseguradora estatal creada para sustituirla; se pide a los órganos de fiscalización realizar auditorías y revisiones especiales; se solicita a la Fiscalía competente investigar posibles responsabilidades administrativas o penales por omisión; se llama al Congreso local a ejercer su función de control político y de supervisión; se insta a la Coordinación Nacional de Protección Civil y a la Secretaría de Gobernación a intervenir para restablecer mecanismos de cobertura y gestión de riesgos, y finalmente, se exhorta con firmeza a la presidente de México y a las dependencias federales correspondientes a implementar acciones urgentes de atención y apoyo integral a las personas damnificadas en Veracruz y en los estados afectados por los recientes desastres naturales.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-15",
+  "id": "sil-4950064",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4952093",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Transparencia y Rendición de Cuentas",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

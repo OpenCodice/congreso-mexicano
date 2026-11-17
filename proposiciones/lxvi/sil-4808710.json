@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4808710",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta la FGR y a la Fiscalía del estado de Coahuila de Zaragoza, a investigar los posibles delitos en los que pudo haber incurrido Alonso Ancira Elizondo, exdirector de Altos Hornos de México (AHMSA).",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-26",
+  "id": "sil-4808710",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229318",
+      "nombre_fuente": "Dip. Ricardo Sóstenes Mejía Berdeja",
+      "person_id": "ricardo-sostenes-mejia-berdeja",
+      "referencia_sil": "9229318",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4810819",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

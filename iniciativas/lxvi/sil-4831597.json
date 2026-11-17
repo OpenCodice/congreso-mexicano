@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4831597",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Radio y Televisión",
+      "referencia": "2085583",
+      "texto": "1.-Diputados -Radio y Televisión .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 308 y 309 de la Ley Federal de Telecomunicaciones y Radiodifusión, en materia de maltrato animal.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-02-18",
+    "resultado": "retirado",
+    "texto": "Retirada el 18-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-05",
+  "id": "sil-4831597",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229242",
+      "nombre_fuente": "Dip. Fuensanta Guadalupe Guerrero Esquivel",
+      "person_id": "fuensanta-guadalupe-guerrero-esquivel",
+      "referencia_sil": "9229242",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4832765",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

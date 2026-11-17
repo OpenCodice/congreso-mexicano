@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5119083",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona los artículos 179 bis y 179 ter a la Ley de Desarrollo Rural Sustentable.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-24",
+  "id": "sil-5119083",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229122",
+      "nombre_fuente": "Dip. Ernesto Sánchez Rodríguez",
+      "person_id": "ernesto-sanchez-rodriguez",
+      "referencia_sil": "9229122",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5119611",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
+      "consultado": "2026-11-17T07:58:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

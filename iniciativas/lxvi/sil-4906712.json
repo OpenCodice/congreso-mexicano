@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4906712",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la Ley del Impuesto Especial Sobre Producción y Servicios; y la Ley del Impuesto Sobre la Renta.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-06-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-23",
+  "id": "sil-4906712",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PAN",
+      "organization_id": "partido-pan",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4906760",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400.html.gz",
+      "consultado": "2026-11-17T07:55:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

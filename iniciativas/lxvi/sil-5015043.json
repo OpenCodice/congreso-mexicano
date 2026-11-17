@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "5015043",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Defensa Nacional",
+      "referencia": "2085499",
+      "texto": "1.-Senado -Defensa Nacional.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 13 de la Ley Federal de Armas de Fuego y Explosivos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-17",
+  "id": "sil-5015043",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229224",
+      "nombre_fuente": "Sen. Pablo Guillermo Angulo Briceño",
+      "person_id": "pablo-guillermo-angulo-briceno",
+      "referencia_sil": "9229224",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5019647",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional"
+  ],
+  "tipo": "Iniciativa"
+}

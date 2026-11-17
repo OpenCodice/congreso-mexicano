@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4792946",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Instituto Nacional de los Pueblos Indígenas, para que en uso de sus atribuciones, realice las acciones necesarias para solicitar al Instituto Mexicano de la Propiedad Intelectual, las condiciones bajo las cuales se concedió registro para el uso de la marca de mezcal -Mixes-, propiedad de la comunicadora Paola Rojas, por presunta acción de apropiación cultural en cuanto al nombre de esta etnia oaxaqueña, así mismo, de vista a la Fiscalía General de la República para que se investigue el hecho con base en lo establecido en el artículo 69 en la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-02-18",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 18-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-29",
+  "id": "sil-4792946",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229066",
+      "nombre_fuente": "Sen. Luisa Cortés García",
+      "person_id": "luisa-cortes-garcia",
+      "referencia_sil": "9229066",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4838384",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía",
+    "Indígenas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

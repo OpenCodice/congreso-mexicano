@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5070496",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "1.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita la comparecencia de Jesús Ramírez Cuevas, Coordinador de Asesores de la Presidencia de la República; Raquel Buenrostro Sánchez, Secretaria Anticorrupción y Buen Gobierno y Ernestina Godoy Ramos, Fiscal General de la República, en relación con los graves señalamientos por presuntos actos de corrupción, desvío de recursos públicos por 27 mil millones de pesos y posible negativa u omisión en el ejercicio de sus funciones para investigar dichos hechos, respectivamente.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-15",
+  "id": "sil-5070496",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

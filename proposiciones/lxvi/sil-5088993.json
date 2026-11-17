@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5088993",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Agricultura",
+      "referencia": "2085477",
+      "texto": "1.-Senado -Agricultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta respetuosamente al C. Secretario de Agricultura y Desarrollo Rural, a efecto de que se otorguen facilidades a los productores a fin de que puedan regularizar su situación y así puedan acceder a los beneficios del programa especial de energía para el campo en materia de energía eléctrica de uso agrícola. Trámite propuesto: Turno a la Comisión de Agricultura.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5088993",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228906",
+      "nombre_fuente": "Sen. Mario Humberto Vázquez Robles",
+      "person_id": "mario-humberto-vazquez-robles",
+      "referencia_sil": "9228906",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

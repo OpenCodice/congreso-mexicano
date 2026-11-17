@@ -1,0 +1,134 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5108716",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los gobiernos de la Ciudad de México y de los estados de Jalisco y Nuevo León a fortalecer e implementar acciones integrales de prevención, protección y garantía de los derechos de niñas, niños y adolescentes, en el marco de la Copa Mundial de la FIFA 2026.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2026-08-05",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-08",
+  "id": "sil-5108716",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229342",
+      "nombre_fuente": "Dip. Alejandra Chedraui Peralta",
+      "person_id": "alejandra-chedraui-peralta",
+      "referencia_sil": "9229342",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228646",
+      "nombre_fuente": "Dip. Patricia Galindo Alarcón",
+      "person_id": "patricia-galindo-alarcon",
+      "referencia_sil": "9228646",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228136",
+      "nombre_fuente": "Dip. Luis Gerardo Sánchez Sánchez",
+      "person_id": "luis-gerardo-sanchez-sanchez",
+      "referencia_sil": "9228136",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229002",
+      "nombre_fuente": "Dip. Diana Isela López Orozco",
+      "person_id": "diana-isela-lopez-orozco",
+      "referencia_sil": "9229002",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228511",
+      "nombre_fuente": "Dip. Noel Chávez Velázquez",
+      "person_id": "noel-chavez-velazquez",
+      "referencia_sil": "9228511",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228666",
+      "nombre_fuente": "Dip. Josefina Anaya Martínez",
+      "person_id": "josefina-anaya-martinez",
+      "referencia_sil": "9228666",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228334",
+      "nombre_fuente": "Dip. David Azuara Zúñiga",
+      "person_id": "david-azuara-zuniga",
+      "referencia_sil": "9228334",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228353",
+      "nombre_fuente": "Dip. Roberto Sosa Pichardo",
+      "person_id": "roberto-sosa-pichardo",
+      "referencia_sil": "9228353",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229354",
+      "nombre_fuente": "Dip. Karina Alejandra Trujillo Trujillo",
+      "person_id": "karina-alejandra-trujillo-trujillo",
+      "referencia_sil": "9229354",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229230",
+      "nombre_fuente": "Dip. Miguel Alejandro Alonso Reyes",
+      "person_id": "miguel-alejandro-alonso-reyes",
+      "referencia_sil": "9229230",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229172",
+      "nombre_fuente": "Dip. Tania Palacios Kuri",
+      "person_id": "tania-palacios-kuri",
+      "referencia_sil": "9229172",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115101",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

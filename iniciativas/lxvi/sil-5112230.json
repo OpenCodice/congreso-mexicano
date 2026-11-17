@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5112230",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Transparencia y Anticorrupción",
+      "referencia": "2085591",
+      "texto": "1.-Diputados -Transparencia y Anticorrupción .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adicionan las fracciones IV Bis, XVII Bis, XIX Bis, XXI Bis, recorriéndose la subsecuente, del artículo 3; los párrafos octavo y noveno, recorriéndose el subsecuente, del artículo 33; los artículos 63 Ter y 63 Quáter; el artículo 68 Bis; el artículo 78 Bis; el artículo 92 Bis y; los párrafos segundo y tercero del artículo 198, de la Ley General de Responsabilidades Administrativas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-29",
+  "id": "sil-5112230",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229110",
+      "nombre_fuente": "Dip. Marcelo de Jesús Torres Cofiño",
+      "person_id": "marcelo-de-jesus-torres-cofino",
+      "referencia_sil": "9229110",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5116283",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
+      "consultado": "2026-11-17T07:58:26Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Poder Ejecutivo"
+  ],
+  "tipo": "Iniciativa"
+}

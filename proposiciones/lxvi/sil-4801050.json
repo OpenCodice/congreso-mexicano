@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4801050",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las autoridades competentes a revocar o retirar la Declaratoria de Necesidad Pública del servicio de transporte colectivo en el tramo Apizaco–Tlaxcala, publicada por el gobierno de Tlaxcala el 20 de septiembre de 2024.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-12",
+  "id": "sil-4801050",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229104",
+      "nombre_fuente": "Dip. Blanca Leticia Gutiérrez Garza",
+      "person_id": "blanca-leticia-gutierrez-garza",
+      "referencia_sil": "9229104",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4803773",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

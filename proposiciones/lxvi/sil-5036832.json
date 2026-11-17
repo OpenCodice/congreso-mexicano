@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5036832",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Radio, Televisión y Cinematografía",
+      "referencia": "2085504",
+      "texto": "1.-Senado -Radio, Televisión y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a garantizar la transmisión abierta de todos los partidos de la Copa Mundial de la FIFA 2026.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-11",
+  "id": "sil-5036832",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828825",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 41 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el artículo 84 de la Ley del Seguro Social.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4828825",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228529",
+      "nombre_fuente": "Dip. Bruno Blancas Mercado",
+      "person_id": "bruno-blancas-mercado",
+      "referencia_sil": "9228529",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829448",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

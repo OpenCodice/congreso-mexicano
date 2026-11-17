@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4895537",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "1.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al titular de Nacional Financiera para que explique las razones por las cuales transfirió un monto aproximado de diez mil millones de pesos del Fideicomiso del Consejo de la Judicatura Federal a la Tesorería de la Federación, estando pendientes de resolverse suspensiones que en materia de amparo dictaron los jueces de Distrito.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4895537",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229076",
+      "nombre_fuente": "Sen. María Guadalupe Murguía Gutiérrez",
+      "person_id": "maria-guadalupe-murguia-gutierrez",
+      "referencia_sil": "9229076",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898926",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Sistema Financiero",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

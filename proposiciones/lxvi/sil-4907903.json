@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4907903",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud y a la Comisión Federal para la Protección Contra Riesgos Sanitarios a intensificar campañas de difusión, y crear programas que contribuyan a no consumir cigarrillos electrónicos y vapeadores, en cumplimiento de la reforma constitucional en la materia y en protección de la salud pública.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-13",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-25",
+  "id": "sil-4907903",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228571",
+      "nombre_fuente": "Dip. Diana Estefanía Gutiérrez Valtierra",
+      "person_id": "diana-estefania-gutierrez-valtierra",
+      "referencia_sil": "9228571",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917608",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

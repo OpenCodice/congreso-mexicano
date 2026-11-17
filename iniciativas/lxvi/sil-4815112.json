@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4815112",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley del Impuesto sobre la Renta, en materia de aumento de incentivos fiscales, para la adquisición de vehículos híbridos y eléctricos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 03-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-03",
+  "id": "sil-4815112",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229234",
+      "nombre_fuente": "Dip. Verónica Martínez García",
+      "person_id": "veronica-martinez-garcia",
+      "referencia_sil": "9229234",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4816476",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829078",
+  "comisiones": [
+    {
+      "camara": "Tercera Comisión de Trabajo: Hacienda y Crédito Público; Agricultura y Fomento; Comunicaciones y Obras Públicas (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085602",
+      "texto": "1.-Tercera Comisión de Trabajo: Hacienda y Crédito Público; Agricultura y Fomento; Comunicaciones y Obras Públicas (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Tribunal Superior Agrario a dejar sin efecto el acuerdo 2/2025 que emitió el pleno de ese tribunal y a mantener la permanencia en funciones el Tribunal Unitario Agrario 34 A con sede en la Ciudad de Campeche, Campeche; lo anterior, con la finalidad de garantizar el acceso efectivo a la justicia agraria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4829078",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829532",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

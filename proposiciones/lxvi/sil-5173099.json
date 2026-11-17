@@ -1,0 +1,68 @@
+{
+  "camara_origen": "senado",
+  "clave": "5173099",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085493",
+      "texto": "1.-Senado -Comunicaciones y Transportes.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Infraestructura, Comunicaciones y Transportes, a la Secretaría de Turismo federal, a la Coordinación Nacional de Protección Civil, a Caminos y Puentes Federales, al Gobierno del estado de Nayarit y a las Empresas Concesionarias de Carreteras de Cuota, a implementar un protocolo temporal de libre tránsito y exención de peaje para vehículos acreditados que transporten ayuda humanitaria, así como un programa temporal de tarifas preferenciales destinado a la reactivación económica y turística en los municipios afectados por los recientes desastres naturales en el estado de Nayarit.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5173099",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229025",
+      "nombre_fuente": "Sen. Angélica Montes Rentería",
+      "person_id": "angelica-montes-renteria",
+      "referencia_sil": "9229025",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195926",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Economía",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

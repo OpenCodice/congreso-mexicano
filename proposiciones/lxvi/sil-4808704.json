@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4808704",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SHCP a convocar a una asamblea extraordinaria de la Reunión Nacional de Funcionarios Fiscales, con el objeto de que se atiendan las demandas de los gobiernos locales que han sido afectados por la injusta distribución de las participaciones presupuestales a los estados.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-26",
+  "id": "sil-4808704",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229110",
+      "nombre_fuente": "Dip. Marcelo de Jesús Torres Cofiño",
+      "person_id": "marcelo-de-jesus-torres-cofino",
+      "referencia_sil": "9229110",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4810816",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

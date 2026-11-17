@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5156346",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reforma Agraria",
+      "referencia": "2085510",
+      "texto": "1.-Senado -Reforma Agraria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que xhorta a la C. Lorena Cuéllar Cisneros, gobernadora del estado de Tlaxcala para que establezca de manera urgente una mesa de diálogo con campesinos del estado y que establezca un plan de atención y apoyos a ese sector, en el marco del ejercicio de la competencia estatal; asimismo para que solicite al gobierno federal mayores recursos y apoyos para el campo de Tlaxcala.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-07",
+  "id": "sil-5156346",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5196018",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

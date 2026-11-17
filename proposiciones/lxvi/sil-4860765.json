@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4860765",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SICT a considerar en el Programa Sectorial de Comunicaciones y Transportes el proyecto de Sistema de Transporte Público de Teleférico para el municipio de Tijuana.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-20",
+  "id": "sil-4860765",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228129",
+      "nombre_fuente": "Dip. Evangelina Moreno Guerra",
+      "person_id": "evangelina-moreno-guerra",
+      "referencia_sil": "9228129",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4861668",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

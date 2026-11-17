@@ -1,0 +1,79 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4904272",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ciencia, Tecnología e Innovación",
+      "referencia": "2085566",
+      "texto": "1.-Diputados -Ciencia, Tecnología e Innovación .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "2.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley General de Derechos Digitales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-06-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-11",
+  "id": "sil-4904272",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "MC",
+      "organization_id": "partido-mc",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4905614",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400.html.gz",
+      "consultado": "2026-11-17T07:55:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

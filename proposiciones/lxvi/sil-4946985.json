@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4946985",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Desarrollo Rural",
+      "referencia": "2085513",
+      "texto": "1.-Senado -Desarrollo Rural .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Agricultura y Desarrollo Rural a fortalecer los programas y políticas públicas en apoyo a las mujeres del campo de México, en el marco del Día Internacional de las Mujeres Rurales.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-14",
+  "id": "sil-4946985",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229174",
+      "nombre_fuente": "Sen. Miguel Ángel Yunes Márquez",
+      "person_id": "miguel-angel-yunes-marquez",
+      "referencia_sil": "9229174",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4952101",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

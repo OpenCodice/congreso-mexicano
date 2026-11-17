@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5088360",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Órgano de Administración Judicial del Poder Judicial de la Federación, a atender y concluir el proceso de liquidación a que tienen derecho los jueces y demás trabajadores que laboraron en el Poder Judicial de la Federación antes del proceso de reforma.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5088360",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229230",
+      "nombre_fuente": "Dip. Miguel Alejandro Alonso Reyes",
+      "person_id": "miguel-alejandro-alonso-reyes",
+      "referencia_sil": "9229230",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5093780",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

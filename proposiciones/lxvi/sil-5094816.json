@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5094816",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la titular del Poder Ejecutivo del estado de Morelos, a la Secretaría de Seguridad y Protección Ciudadana del estado de Morelos y al Ayuntamiento de Cuautla, Morelos, a informar diversos aspectos relacionados con el Convenio de Mando Coordinado, el funcionamiento del C2, C5, Arcos de Seguridad y Sistema de Videovigilancia.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-21",
+  "id": "sil-5094816",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5101263",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

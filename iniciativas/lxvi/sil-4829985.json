@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829985",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 4o. y 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de conservación y protección de los maíces nativos.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-03-17",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 17-MAR-2025"
+  },
+  "expediente_id": "sil-4843211",
+  "fecha_presentacion": "2025-01-29",
+  "id": "sil-4829985",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "4843211",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Campo",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

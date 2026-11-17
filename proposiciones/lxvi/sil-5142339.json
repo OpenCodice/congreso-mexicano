@@ -1,0 +1,206 @@
+{
+  "camara_origen": "senado",
+  "clave": "5142339",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085514",
+      "texto": "1.-Senado -Relaciones Exteriores.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Relaciones Exteriores a remitir un informe detallado sobre la presunta revisión de los consulados mexicanos, así como sus alcances diplomáticos y jurídicos y las acciones a emprender por el Gobierno de México para resguardar la operación y actividades de la red consular mexicana.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-23",
+  "id": "sil-5142339",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228748",
+      "nombre_fuente": "Sen. Susana del Carmen Zatarain García",
+      "person_id": "susana-del-carmen-zatarain-garcia",
+      "referencia_sil": "9228748",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229435",
+      "nombre_fuente": "Sen. Mauricio Vila Dosal",
+      "person_id": "mauricio-vila-dosal",
+      "referencia_sil": "9229435",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228906",
+      "nombre_fuente": "Sen. Mario Humberto Vázquez Robles",
+      "person_id": "mario-humberto-vazquez-robles",
+      "referencia_sil": "9228906",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228996",
+      "nombre_fuente": "Sen. Enrique Vargas del Villar",
+      "person_id": "enrique-vargas-del-villar",
+      "referencia_sil": "9228996",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229160",
+      "nombre_fuente": "Sen. Imelda Margarita Sanmiguel Sánchez",
+      "person_id": "imelda-margarita-sanmiguel-sanchez",
+      "referencia_sil": "9229160",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229096",
+      "nombre_fuente": "Sen. Verónica Rodríguez Hernández",
+      "person_id": "veronica-rodriguez-hernandez",
+      "referencia_sil": "9229096",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229032",
+      "nombre_fuente": "Sen. Ivideliza Reyes Hernández",
+      "person_id": "ivideliza-reyes-hernandez",
+      "referencia_sil": "9229032",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228968",
+      "nombre_fuente": "Sen. Francisco Javier Ramírez Acuña",
+      "person_id": "francisco-javier-ramirez-acuna",
+      "referencia_sil": "9228968",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229076",
+      "nombre_fuente": "Sen. María Guadalupe Murguía Gutiérrez",
+      "person_id": "maria-guadalupe-murguia-gutierrez",
+      "referencia_sil": "9229076",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229088",
+      "nombre_fuente": "Sen. Mayuli Latifa Martínez Simón",
+      "person_id": "mayuli-latifa-martinez-simon",
+      "referencia_sil": "9229088",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228714",
+      "nombre_fuente": "Sen. Juan Antonio Martín del Campo Martín del Campo",
+      "person_id": "juan-antonio-martin-del-campo-martin-del-campo",
+      "referencia_sil": "9228714",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228936",
+      "nombre_fuente": "Sen. Miguel Márquez Márquez",
+      "person_id": "miguel-marquez-marquez",
+      "referencia_sil": "9228936",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229209",
+      "nombre_fuente": "Sen. Alma Cristina Rodríguez Vallejo",
+      "person_id": "alma-cristina-rodriguez-vallejo",
+      "referencia_sil": "9229209",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228729",
+      "nombre_fuente": "Sen. José Máximo García López",
+      "person_id": "jose-maximo-garcia-lopez",
+      "referencia_sil": "9228729",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229216",
+      "nombre_fuente": "Sen. Laura Esquivel Torres",
+      "person_id": "laura-esquivel-torres",
+      "referencia_sil": "9229216",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229078",
+      "nombre_fuente": "Sen. Agustín Dorantes Lámbarri",
+      "person_id": "agustin-dorantes-lambarri",
+      "referencia_sil": "9229078",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228720",
+      "nombre_fuente": "Sen. María de Jesús Díaz Marmolejo",
+      "person_id": "maria-de-jesus-diaz-marmolejo",
+      "referencia_sil": "9228720",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229204",
+      "nombre_fuente": "Sen. Marko Antonio Cortés Mendoza",
+      "person_id": "marko-antonio-cortes-mendoza",
+      "referencia_sil": "9229204",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228922",
+      "nombre_fuente": "Sen. Gina Gerardina Campuzano González",
+      "person_id": "gina-gerardina-campuzano-gonzalez",
+      "referencia_sil": "9228922",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229212",
+      "nombre_fuente": "Sen. Ricardo Anaya Cortés",
+      "person_id": "ricardo-anaya-cortes",
+      "referencia_sil": "9229212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

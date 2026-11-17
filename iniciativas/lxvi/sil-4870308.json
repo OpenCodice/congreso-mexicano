@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4870308",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 200 de la Ley de Instituciones de Seguros y de Fianzas, y adiciona un artículo 37 Bis a la Ley Sobre el Contrato de Seguro, en materia de acceso al derecho a la salud para personas adultas mayores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 02-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-02",
+  "id": "sil-4870308",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228756",
+      "nombre_fuente": "Dip. Irais Virginia Reyes De la Torre",
+      "person_id": "irais-virginia-reyes-de-la-torre",
+      "referencia_sil": "9228756",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871577",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Sistema Financiero"
+  ],
+  "tipo": "Iniciativa"
+}

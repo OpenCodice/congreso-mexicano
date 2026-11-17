@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5119152",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Para inscribir con Letras Doradas en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados del Congreso de la Unión, la leyenda: -475 años de la Universidad de México-.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-09-23",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 23-SEP-2026"
+  },
+  "expediente_id": "sil-5133265",
+  "fecha_presentacion": "2026-08-24",
+  "id": "sil-5119152",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228822",
+      "nombre_fuente": "Dip. Ricardo Monreal Ávila",
+      "person_id": "ricardo-monreal-avila",
+      "referencia_sil": "9228822",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5133265",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
+      "consultado": "2026-11-17T07:58:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

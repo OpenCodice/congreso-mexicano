@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5153403",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Medio Ambiente y Recursos Naturales a fortalecer las acciones para la recolección, reciclaje y manejo adecuado de los residuos de aparatos eléctricos y electrónicos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-06",
+  "id": "sil-5153403",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229137",
+      "nombre_fuente": "Sen. Alejandra Berenice Arias Trevilla",
+      "person_id": "alejandra-berenice-arias-trevilla",
+      "referencia_sil": "9229137",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5190691",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

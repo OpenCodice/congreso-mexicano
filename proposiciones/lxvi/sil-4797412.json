@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4797412",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Semarnat, en coordinación con diversas autoridades, a implementar las medidas necesarias de protección, conservación y manejo de la especie Oso Negro Americano y su hábitat en Nuevo León.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-05",
+  "id": "sil-4797412",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228361",
+      "nombre_fuente": "Dip. Homero Ricardo Niño de Rivera Vela",
+      "person_id": "homero-ricardo-nino-de-rivera-vela",
+      "referencia_sil": "9228361",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4798974",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

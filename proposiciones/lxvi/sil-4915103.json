@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4915103",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Agricultura y Desarrollo Rural y a la Comisión Nacional de Acuacultura y Pesca para que incorporen en el Programa Nacional de Infraestructura de la Calidad para 2026 la revisión y actualización de las Normas Oficiales Mexicanas NOM-OOl-SAG/PESC- 2013, NOM-002-SAG/PESC-2013 y NOM-017-SAG/PESC-2013.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-20",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-30",
+  "id": "sil-4915103",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228744",
+      "nombre_fuente": "Sen. Homero Davis Castro",
+      "person_id": "homero-davis-castro",
+      "referencia_sil": "9228744",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919058",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

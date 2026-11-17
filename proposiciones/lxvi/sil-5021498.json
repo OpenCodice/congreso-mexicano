@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5021498",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cultura y Cinematografía",
+      "referencia": "2085568",
+      "texto": "1.-Diputados -Cultura y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que hace respetuosamente la atenta invitación a la Jucopo y a la Comisión de Cultura y Cinematografía de la Cámara de Diputados a permitir nuevamente la realización de exposiciones artísticas y muestras artesanales con actividad de venta en las instalaciones parlamentarias, en beneficio de personas artesanas y pequeños y medianos emprendedores.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-24",
+  "id": "sil-5021498",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229401",
+      "nombre_fuente": "Dip. María Teresa Ealy Díaz",
+      "person_id": "maria-teresa-ealy-diaz",
+      "referencia_sil": "9229401",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5023917",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4867871",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un párrafo al artículo 17 de la Ley General de la Alimentación Adecuada y Sostenible.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-01",
+  "id": "sil-4867871",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228146",
+      "nombre_fuente": "Dip. Ulises Mejía Haro",
+      "person_id": "ulises-mejia-haro",
+      "referencia_sil": "9228146",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871530",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

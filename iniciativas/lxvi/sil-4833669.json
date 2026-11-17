@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4833669",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "2.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 13 y 27 de la Ley General de Salud y adiciona un artículo 217 Bis a la Ley del Seguro Social.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833669",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228351",
+      "nombre_fuente": "Dip. Ricardo Astudillo Suárez",
+      "person_id": "ricardo-astudillo-suarez",
+      "referencia_sil": "9228351",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4836013",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

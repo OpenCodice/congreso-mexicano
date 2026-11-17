@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5063695",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "1.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción VI del artículo 9° de Ley General para la Prevención Social de la Violencia y la Delincuencia, en materia de enfoque preventivo del ámbito situacional por medio del uso de espacios públicos para el desarrollo de actividades deportivas, culturales, artísticas y de esparcimiento.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5063695",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228952",
+      "nombre_fuente": "Dip. Eunice Abigail Mendoza Ramírez",
+      "person_id": "eunice-abigail-mendoza-ramirez",
+      "referencia_sil": "9228952",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5067293",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Ordenamiento territorial",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

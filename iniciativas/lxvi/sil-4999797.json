@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4999797",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085560",
+      "texto": "1.-Diputados -Relaciones Exteriores .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 28 Bis y reforma los artículos 12, 44 y 58 de la Ley sobre Refugiados, Protección Complementaria y Asilo Político, y reforma los artículos 41, 55 y 112 de la Ley de Migración, para armonizar la legislación mexicana a los estándares internacionales y nacionales y garantizar el ejercicio pleno del derecho a la unidad familiar de las personas con necesidades de protección internacional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-4999797",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228634",
+      "nombre_fuente": "Dip. Rosa Irene Urbina Castañeda",
+      "person_id": "rosa-irene-urbina-castaneda",
+      "referencia_sil": "9228634",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001860",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Migración"
+  ],
+  "tipo": "Iniciativa"
+}

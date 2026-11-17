@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4912806",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al INE a ofrecer una disculpa pública sobre el uso no autorizado de la voz sintética que imita al actor José -Pepe- Lavat en sus redes sociales institucionales el cual vulneró derechos de autor, así como, adoptar medidas correctivas y de no repetición de este tipo de actos que atentan contra el sector artístico y cultural del país y se exhorta a la Secretaría de Cultura y al INDAUTOR para que emitan una resolución técnica y jurídica de este caso respecto de la violación a los derechos conexos de artista, intérprete o ejecutante.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-16",
+  "id": "sil-4912806",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914709",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Economía",
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

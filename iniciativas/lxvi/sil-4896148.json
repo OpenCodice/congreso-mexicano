@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4896148",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción V del artículo 256 y la fracción I del artículo 257 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, en materia de transversalidad en el desarrollo e implementación de políticas públicas y programas de justicia penal juvenil.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4896148",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228835",
+      "nombre_fuente": "Dip. José Narro Céspedes",
+      "person_id": "jose-narro-cespedes",
+      "referencia_sil": "9228835",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4900278",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

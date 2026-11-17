@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5142158",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a garantizar la seguridad de las mujeres y revisar la eficacia de la alerta de violencia de género contra las mujeres instrumentada en Jalisco.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-23",
+  "id": "sil-5142158",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229044",
+      "nombre_fuente": "Dip. Paulina Rubio Fernández",
+      "person_id": "paulina-rubio-fernandez",
+      "referencia_sil": "9229044",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143660",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005527",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción V Bis al artículo 12 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en materia de fomento al consumo de productos de origen nacional y uso de la marca de certificación -Hecho en México-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 10-MAR-2026"
+  },
+  "expediente_id": "sil-5028048",
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005527",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228804",
+      "nombre_fuente": "Dip. Fernando Jorge Castro Trenti",
+      "person_id": "fernando-jorge-castro-trenti",
+      "referencia_sil": "9228804",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5028048",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

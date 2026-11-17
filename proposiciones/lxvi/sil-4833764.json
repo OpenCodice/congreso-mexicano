@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4833764",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025)",
+      "referencia": "2231",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (29/08/2024-31/08/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Junta de Coordinación Política de esta Soberanía a crear una Comisión Especial de Investigación encargada de aclarar el posible daño causado al erario público entre los años 2019 a 2024, por el organismo descentralizada Segalmex, Diconsa, S.A. de C.V. y Liconsa, S.A. de C.V.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2025-02-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 11-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833764",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4836071",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Creación de comisiones o grupos de trabajo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

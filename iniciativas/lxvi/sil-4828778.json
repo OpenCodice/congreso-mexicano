@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828778",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085532",
+      "texto": "1.-Senado -Trabajo y Previsión Social.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4828778",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229032",
+      "nombre_fuente": "Sen. Ivideliza Reyes Hernández",
+      "person_id": "ivideliza-reyes-hernandez",
+      "referencia_sil": "9229032",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829445",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo",
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

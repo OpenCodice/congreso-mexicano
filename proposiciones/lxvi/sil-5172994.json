@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5172994",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Poder Ejecutivo del estado de Morelos y a las personas titulares de las presidencias municipales de sus 36 municipios, para que, en el ámbito de sus respectivas atribuciones, implementen acciones de revisión, depuración y regularización de las corporaciones policiales municipales, a fin de garantizar que sus elementos cumplan con los exámenes de control de confianza, los requisitos de certificación y las autorizaciones legales para la portación de armas de fuego.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5172994",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195922",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4916355",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Infraestructura, Comunicaciones y Transportes para que, realice las acciones necesarias a efecto de que se destinen los recursos suficientes para el reencarpetado de la Carretera Federal 80 en la totalidad del tramo que comprende a los Altos de Jalisco.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-06",
+  "id": "sil-4916355",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228525",
+      "nombre_fuente": "Dip. José Mario Íñiguez Franco",
+      "person_id": "jose-mario-iniguez-franco",
+      "referencia_sil": "9228525",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917706",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4862520",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085493",
+      "texto": "1.-Senado -Comunicaciones y Transportes.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la titular del Poder Ejecutivo Federal, para que a través de la Secretaría de Infraestructura, Comunicaciones y Transportes y la Dirección de Caminos y Puentes Federales de Ingresos y Servicios Conexos, se exente el cobro de peaje en la Autopista del Sol durante los periodos vacacionales de semana santa, verano e invierno, como medida para contribuir a la reactivación económica del puerto de Acapulco, Guerrero, ante los daños ocasionados por los Huracanes Otis y John.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-25",
+  "id": "sil-4862520",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871683",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5180358",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley General de Acceso, Defensa y Custodia Ambiental.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-28",
+  "id": "sil-5180358",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229360",
+      "nombre_fuente": "Dip. Felipe Miguel Delgado Carrillo",
+      "person_id": "felipe-miguel-delgado-carrillo",
+      "referencia_sil": "9229360",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5183123",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078.html.gz",
+      "consultado": "2026-11-17T07:59:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

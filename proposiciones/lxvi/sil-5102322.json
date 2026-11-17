@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5102322",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades federales, estatales y municipales a informar, investigar y, en su caso, deslindar responsabilidades respecto de la situación jurídica y patrimonial de un terreno de aproximadamente 120 hectáreas, conocido como comunidad de Carrizalejo y Rodeo perteneciente a la congregación de Zacatecas, al norte del río Pesquería en Aguafría Hacienda, que presuntamente formaba parte del patrimonio del municipio de Apodaca, Nuevo León.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-10",
+  "id": "sil-5102322",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229058",
+      "nombre_fuente": "Sen. Waldo Fernández González",
+      "person_id": "waldo-fernandez-gonzalez",
+      "referencia_sil": "9229058",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5106449",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4810065",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial",
+      "referencia": "2085570",
+      "texto": "1.-Diputados -Desarrollo Urbano y Ordenamiento Territorial.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 10 y 11 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-02-12",
+    "resultado": "retirado",
+    "texto": "Retirada el 12-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-27",
+  "id": "sil-4810065",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228698",
+      "nombre_fuente": "Dip. Juan Angel Bautista Bravo",
+      "person_id": "juan-angel-bautista-bravo",
+      "referencia_sil": "9228698",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4811096",
+  "sources": [
+    {
+      "archivo": "fuentes/9c/9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9.html.gz",
+      "consultado": "2026-11-17T07:53:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828961",
+  "comisiones": [
+    {
+      "camara": "Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085601",
+      "texto": "1.-Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Presidencia de la República, a través de la Segob y de la SRE, a fortalecer una estrategia transversal de atención y protección para las y los mexicanos que viven en Estados Unidos y las personas connacionales que resulten deportadas.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-01-29",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 29-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4828961",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229248",
+      "nombre_fuente": "Sen. José Clemente Castañeda Hoeflich",
+      "person_id": "jose-clemente-castaneda-hoeflich",
+      "referencia_sil": "9229248",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4830277",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

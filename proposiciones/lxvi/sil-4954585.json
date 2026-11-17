@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4954585",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados, LXVI (02/09/2025-31/08/2026)",
+      "referencia": "2240",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados, LXVI (02/09/2025-31/08/2026).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Jucopo de esta Soberanía a someter a consideración del Pleno la creación de una Comisión Especial Encargada de Investigar los Actos Ilícitos que Configuran la República Mafiosa.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-10-28",
+    "resultado": "retirado",
+    "texto": "Retirada el 28-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-21",
+  "id": "sil-4954585",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229404",
+      "nombre_fuente": "Dip. Gibrán Ramírez Reyes",
+      "person_id": "gibran-ramirez-reyes",
+      "referencia_sil": "9229404",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4958498",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

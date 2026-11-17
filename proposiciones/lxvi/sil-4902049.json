@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4902049",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Fiscalía Especializada en Delitos Electorales, a que en el ámbito de sus atribuciones, inicie de manera inmediata las investigaciones correspondientes respecto a la Comisión de Delitos Electorales relacionados con la distribución de acordeones para orientar el sentido del voto, el uso de recursos públicos, el acarreo de personas y la intervención de estructuras partidistas y servidores públicos en el proceso de elección de jueces, magistrados y ministros del Poder Judicial de la Federación.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-27",
+  "id": "sil-4902049",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4903988",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Electoral",
+    "Transparencia y Rendición de Cuentas",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

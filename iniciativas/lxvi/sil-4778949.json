@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4778949",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "2.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley del Impuesto sobre la Renta y de la Ley del Seguro Social, en materia de estímulos fiscales a patrones que contrates a personas con capacidades diferentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 02-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-02",
+  "id": "sil-4778949",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229346",
+      "nombre_fuente": "Dip. Carlos Alberto Puente Salas",
+      "person_id": "carlos-alberto-puente-salas",
+      "referencia_sil": "9229346",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4779383",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

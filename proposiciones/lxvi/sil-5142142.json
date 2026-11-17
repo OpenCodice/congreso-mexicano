@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5142142",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cultura y Cinematografía",
+      "referencia": "2085568",
+      "texto": "1.-Diputados -Cultura y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que la Cámara de Diputados del Honorable Congreso de la Unión solicita a diversas dependencias del gobierno federal a fortalecer, en el marco del legado de la Copa Mundial de la FIFA 2026, las acciones de visibilización, preservación y uso público de las lenguas indígenas nacionales, así como impulsar buenas prácticas para su incorporación en futuros eventos internacionales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-23",
+  "id": "sil-5142142",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228963",
+      "nombre_fuente": "Dip. Luis Morales Flores",
+      "person_id": "luis-morales-flores",
+      "referencia_sil": "9228963",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143652",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Economía",
+    "Educación y Cultura",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

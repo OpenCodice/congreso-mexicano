@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4822105",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "2.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona el artículo 151 de la Ley General de Educación y 24 de la Ley Federal de Protección al Consumidor.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-01-16",
+    "resultado": "retirado",
+    "texto": "Retirada el 16-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-11",
+  "id": "sil-4822105",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228539",
+      "nombre_fuente": "Dip. Omar Antonio Borboa Becerra",
+      "person_id": "omar-antonio-borboa-becerra",
+      "referencia_sil": "9228539",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4826600",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía",
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

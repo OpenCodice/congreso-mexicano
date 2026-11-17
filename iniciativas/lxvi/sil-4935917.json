@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4935917",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 397 Bis al Código Penal Federal, para tipificar los daños ocasionados o la sustracción indebida de bienes muebles, mobiliario, equipos informáticos, materiales de trabajo y aseo a bibliotecas, escuelas y edificios públicos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-30",
+  "id": "sil-4935917",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229234",
+      "nombre_fuente": "Dip. Verónica Martínez García",
+      "person_id": "veronica-martinez-garcia",
+      "referencia_sil": "9229234",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4941354",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

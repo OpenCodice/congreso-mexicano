@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5074866",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la titular del Poder Ejecutivo del estado de Chihuahua; a la titular del ayuntamiento del municipio de Meoqui, Chihuahua; a la Subdirección de Desarrollo Urbano y Ecología del municipio de Meoqui; al titular de la oficina de Representación de la Secretaría de Medio Ambiente Y Recursos Naturales en el estado de Chihuahua; y al titular de la Procuraduría Federal de Protección al Ambiente en el estado de Chihuahua, a revisar el funcionamiento, los permisos ambientales y el cumplimiento de los protocolos y normatividad en materia de disposición final de residuos sólidos, así como la licitación del servicio público de recolección de residuos, en relación con el basurero municipal ubicado en el kilómetro 168 de la carretera federal 45, tramo Meoqui- Chihuahua.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-21",
+  "id": "sil-5074866",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228900",
+      "nombre_fuente": "Sen. Juan Carlos Loera De La Rosa",
+      "person_id": "juan-carlos-loera-de-la-rosa",
+      "referencia_sil": "9228900",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

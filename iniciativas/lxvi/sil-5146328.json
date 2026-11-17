@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5146328",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley de Protección y Defensa al Usuario de Servicios Financieros y de la Ley para Regular las Sociedades de Información Crediticia, en materia de periodo de gracia por luto en obligaciones crediticias.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-29",
+  "id": "sil-5146328",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5158783",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Sistema Financiero"
+  ],
+  "tipo": "Iniciativa"
+}

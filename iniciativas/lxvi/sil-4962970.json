@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4962970",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Radio y Televisión",
+      "referencia": "2085583",
+      "texto": "1.-Diputados -Radio y Televisión .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "2.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 219 de la Ley en Materia de Telecomunicaciones y Radiodifusión y 67 y 68 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de prevención del abuso sexual infantil en contenidos televisivos y de radio dirigidos a menores de edad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-29",
+  "id": "sil-4962970",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228772",
+      "nombre_fuente": "Dip. María de Fátima García León",
+      "person_id": "maria-de-fatima-garcia-leon",
+      "referencia_sil": "9228772",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4964279",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

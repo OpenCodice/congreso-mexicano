@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4822318",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "2.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el Titulo Cuarto denominado de la Imagen Institucional, el Capítulo Único Denominado uso de la Imagen Institucional y los artículos 57, 58, 59, 60, 61 y 62 a la Ley Orgánica de la Administración Pública Federal y reforma el nombre del Capítulo VII, del Título Décimo Tercero y se adiciona la fracción V al artículo 250 del Código Penal Federal, en materia de imagen gráfica institucional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-11",
+  "id": "sil-4822318",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228952",
+      "nombre_fuente": "Dip. Eunice Abigail Mendoza Ramírez",
+      "person_id": "eunice-abigail-mendoza-ramirez",
+      "referencia_sil": "9228952",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4826507",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Gobernación",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

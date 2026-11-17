@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5109945",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Educación Pública para que, en coordinación con la Secretaría de Salud, implemente programas permanentes de capacitación dirigidos a maestras y maestros de educación preescolar y primaria con el propósito de fortalecer la identificación temprana de indicios asociados al Trastorno del Espectro Autista en niñas y niños.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-19",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 19-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-15",
+  "id": "sil-5109945",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229354",
+      "nombre_fuente": "Dip. Karina Alejandra Trujillo Trujillo",
+      "person_id": "karina-alejandra-trujillo-trujillo",
+      "referencia_sil": "9229354",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118664",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

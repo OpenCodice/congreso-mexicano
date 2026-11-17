@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4947496",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos Humanos",
+      "referencia": "2085548",
+      "texto": "1.-Diputados -Derechos Humanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción VI al párrafo segundo y se reforma el párrafo quinto, todos del artículo 12 duodecies de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, en materia de ficha de búsqueda.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-14",
+  "id": "sil-4947496",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228347",
+      "nombre_fuente": "Dip. Mildred Concepción Ávila Vera",
+      "person_id": "mildred-concepcion-avila-vera",
+      "referencia_sil": "9228347",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4952166",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

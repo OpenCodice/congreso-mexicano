@@ -1,0 +1,58 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5005329",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta al Congreso de la Unión, para que, en el ámbito de sus atribuciones y tomando como referencia las iniciativas previamente presentadas en la materia, impulse y continúe de manera prioritaria los procedimientos legislativos necesarios para la construcción de un marco regulatorio integral de la inteligencia artificial en México, que garantice la protección de los derechos humanos, la seguridad jurídica, la ética y la transparencia en el desarrollo y uso de estas tecnologías, privilegiando la implementación de un proceso de parlamento abierto que permita la participación efectiva de la ciudadanía, la academia, la comunidad científica y los sectores especializados.",
+  "estatus": {
+    "estado": "Presentado en origen",
+    "fecha": "2026-01-21",
+    "resultado": "pendiente",
+    "texto": "Presentado en origen el 21-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-21",
+  "id": "sil-5005329",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "coahuila",
+      "nombre_fuente": "Congreso de Coahuila",
+      "organization_id": "congreso-coahuila",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5005987",
+  "sources": [
+    {
+      "archivo": "fuentes/18/18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823.html.gz",
+      "consultado": "2026-11-17T08:02:27Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "18bfb82fdc93d6132312b9d33f1b11c2678a849db3cb66a9c20fa2fd86056823",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Derechos Humanos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4820796",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 109 y 137 del Código Nacional de Procedimientos Penales.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-06-23",
+    "resultado": "retirado",
+    "texto": "Retirada el 23-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-10",
+  "id": "sil-4820796",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228431",
+      "nombre_fuente": "Dip. Casandra Prisilla De los Santos Flores",
+      "person_id": "casandra-prisilla-de-los-santos-flores",
+      "referencia_sil": "9228431",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4823173",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

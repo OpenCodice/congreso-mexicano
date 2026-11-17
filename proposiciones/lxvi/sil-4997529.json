@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4997529",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al ISSSTE a realizar la ejecución de las sentencias, para que se cumpla con lo emitido por los jueces cuando la sentencia ha quedado firme.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-09",
+  "id": "sil-4997529",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229318",
+      "nombre_fuente": "Dip. Ricardo Sóstenes Mejía Berdeja",
+      "person_id": "ricardo-sostenes-mejia-berdeja",
+      "referencia_sil": "9229318",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001428",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

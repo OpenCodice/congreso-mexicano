@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5134048",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal de Protección al Consumidor, en materia de combate a la publicidad engañosa sobre venta y alquiler de inmuebles en supuestas playas privadas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-15",
+  "id": "sil-5134048",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228393",
+      "nombre_fuente": "Dip. Beatriz Andrea Navarro Pérez",
+      "person_id": "beatriz-andrea-navarro-perez",
+      "referencia_sil": "9228393",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5134988",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

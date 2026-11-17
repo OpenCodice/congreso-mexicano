@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5070136",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al director en Jefe del Registro Agrario Nacional y a la persona Titular de la Oficina de Representación del Registro Agrario Nacional en Yucatán, con relación a la oficina de atención ubicada en Mérida para garantizar la continuidad en la atención de trámites agrarios.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-15",
+  "id": "sil-5070136",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228870",
+      "nombre_fuente": "Dip. Venustiano Caamal Cocom",
+      "person_id": "venustiano-caamal-cocom",
+      "referencia_sil": "9228870",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5072141",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

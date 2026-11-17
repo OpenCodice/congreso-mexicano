@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828020",
+  "comisiones": [
+    {
+      "camara": "Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085601",
+      "texto": "1.-Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Conapred, a la Profeco, a la CNDH y al gobierno de Nuevo León a investigar, sancionar y establecer medidas preventivas ante los actos discriminatorios cometidos contra una persona con discapacidad visual y su perro guía en un hotel de dicha entidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-15",
+  "id": "sil-4828020",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228868",
+      "nombre_fuente": "Dip. Rocío Adriana Abreu Artiñano",
+      "person_id": "rocio-adriana-abreu-artinano",
+      "referencia_sil": "9228868",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4828666",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Derechos Humanos",
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

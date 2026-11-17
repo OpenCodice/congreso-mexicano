@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4989509",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la persona titular de la LOTENAL, al Ayuntamiento del Municipio de Zuazua, Nuevo León, a emitir un billete de lotería conmemorativo de la Copa Mundial de la FIFA 2026, que se llevará a cabo en los Estados de Nuevo León, Jalisco y la Ciudad de México.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 02-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-02",
+  "id": "sil-4989509",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228758",
+      "nombre_fuente": "Dip. Miguel Ángel Sánchez Rivera",
+      "person_id": "miguel-angel-sanchez-rivera",
+      "referencia_sil": "9228758",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4995282",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3.html.gz",
+      "consultado": "2026-11-17T08:02:19Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "46c8d76ac00b5051f2d3a536f04acf926666c8dc9e1b64ee6e168c4523953ec3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

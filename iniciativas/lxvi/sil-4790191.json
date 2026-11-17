@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4790191",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "2.-Diputados -Igualdad de Género .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 26 y adiciona un artículo 42 Bis a la Ley Orgánica de la Administración Pública Federal, para crear la Secretaría de la Mujer.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2024-11-28",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 28-NOV-2024"
+  },
+  "expediente_id": "sil-4802003",
+  "fecha_presentacion": "2024-10-23",
+  "id": "sil-4790191",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229144",
+      "nombre_fuente": "Dip. Kenia López Rabadán",
+      "person_id": "kenia-lopez-rabadan",
+      "referencia_sil": "9229144",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4802003",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Poder Ejecutivo"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4912804",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita a la titular de la Secretaría de Medio Ambiente y Recursos Naturales a que informe a esta Soberanía sobre las acciones que está llevando a cabo para dar cumplimiento al libre acceso a las playas marítimas y a la zona federal marítimo terrestre contiguo a ellas, conforme a la Ley General de Bienes Nacionales.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-13",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-16",
+  "id": "sil-4912804",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228744",
+      "nombre_fuente": "Sen. Homero Davis Castro",
+      "person_id": "homero-davis-castro",
+      "referencia_sil": "9228744",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917595",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

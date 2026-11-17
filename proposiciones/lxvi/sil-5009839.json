@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5009839",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México",
+      "referencia": "2085539",
+      "texto": "1.-Senado -Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta, respetuosamente, a la Secretaría de Educación Pública, así como a sus homólogas en las 32 entidades federativas, a entablar un diálogo franco y abierto con las universidades de todo el país cuyo objetivo sea diseñar un marco regulatorio sobre uso de la Inteligencia Artificial en la educación superior, que garantice transparencia, equidad y calidad educativa, así como criterios para el uso ético de los sistemas de inteligencia artificial de manera crítica y responsable, manteniendo la integridad académica e impulsando el avance del conocimiento.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-04",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 04-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-04",
+  "id": "sil-5009839",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5010261",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5117017",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que para exhorta al Instituto de la Educación Básica del estado de Morelos y a la Secretaria de Educación del Estado de Morelos, para que investigar los presuntos cobros ilegales y el condicionamiento de servicios educativos en escuelas públicas del Estado de Morelos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-19",
+  "id": "sil-5117017",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229018",
+      "nombre_fuente": "Sen. Ángel García Yáñez",
+      "person_id": "angel-garcia-yanez",
+      "referencia_sil": "9229018",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118395",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7.html.gz",
+      "consultado": "2026-11-17T08:07:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

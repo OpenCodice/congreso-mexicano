@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4995956",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que declara el 20 de octubre de cada año como -Día Nacional de la Laudería Purhépecha-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-09",
+  "id": "sil-4995956",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229000",
+      "nombre_fuente": "Sen. Reyna Celeste Ascencio Ortega",
+      "person_id": "reyna-celeste-ascencio-ortega",
+      "referencia_sil": "9229000",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4998407",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Educación y Cultura",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

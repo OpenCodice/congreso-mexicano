@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4977687",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Asuntos Frontera Sur",
+      "referencia": "2085484",
+      "texto": "1.-Senado -Asuntos Frontera Sur .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los titulares de las Secretarías de Salud de los estados de la frontera sur de México (Chiapas, Tabasco, Campeche y Quintana Roo) para que, envíen a esta Soberanía un informe detallado sobre los avances de la implementación de la nueva política migratoria para brindar atención médica integral a las personas en situación de movilidad humana.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-19",
+  "id": "sil-4977687",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228966",
+      "nombre_fuente": "Sen. María del Rocío Corona Nakamura",
+      "person_id": "maria-del-rocio-corona-nakamura",
+      "referencia_sil": "9228966",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5003042",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

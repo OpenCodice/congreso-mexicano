@@ -1,0 +1,73 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911700",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Infraestructura",
+      "referencia": "2085577",
+      "texto": "1.-Diputados -Infraestructura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley General de Infraestructura Para el Bienestar.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-04-09",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 09-ABR-2026"
+  },
+  "expediente_id": "sil-5055003",
+  "fecha_presentacion": "2025-07-09",
+  "id": "sil-4911700",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228998",
+      "nombre_fuente": "Dip. Alfonso Ramírez Cuéllar",
+      "person_id": "alfonso-ramirez-cuellar",
+      "referencia_sil": "9228998",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055003",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

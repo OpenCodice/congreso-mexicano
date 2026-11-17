@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4939771",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Turismo",
+      "referencia": "2085561",
+      "texto": "1.-Diputados -Turismo .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción IX Bis al artículo 7° y reforma la fracción XII del artículo 58 de la Ley General de Turismo, recorriéndose los subsecuentes, en materia de prevención de incidentes delictivos en establecimientos hoteleros y de hospedaje.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 10-MAR-2026"
+  },
+  "expediente_id": "sil-5028054",
+  "fecha_presentacion": "2025-10-01",
+  "id": "sil-4939771",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228541",
+      "nombre_fuente": "Dip. Merilyn Gómez Pozos",
+      "person_id": "merilyn-gomez-pozos",
+      "referencia_sil": "9228541",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5028054",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4900886",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud del gobierno de México y a las secretarías de Salud de las entidades federativas del país a promover entre la población hábitos de sueño saludables especialmente en la infancia, así como sensibilizar y concientizar a la comunidad médica y a la ciudadanía en general sobre las implicaciones de los trastornos del sueño.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-09",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 09-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-21",
+  "id": "sil-4900886",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228340",
+      "nombre_fuente": "Dip. Juan Luis Carrillo Soberanis",
+      "person_id": "juan-luis-carrillo-soberanis",
+      "referencia_sil": "9228340",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4912389",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

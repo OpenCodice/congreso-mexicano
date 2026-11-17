@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5169180",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085560",
+      "texto": "1.-Diputados -Relaciones Exteriores .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita respetuosamente al IMSS y a la SRE, a fortalecer, simplificar y evaluar el esquema de incorporación a la seguridad social de las personas mexicanas trabajadoras independientes que residen en el extranjero, particularmente en los Estados Unidos de América y Canadá.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-20",
+  "id": "sil-5169180",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228806",
+      "nombre_fuente": "Dip. Nadia Yadira Sepúlveda García",
+      "person_id": "nadia-yadira-sepulveda-garcia",
+      "referencia_sil": "9228806",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5174639",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,75 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829817",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "2.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley Nacional de Ejecución Penal, en materia de niñas y niños que viven con sus madres en reclusión.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-04-23",
+    "resultado": "retirado",
+    "texto": "Retirada el 23-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-29",
+  "id": "sil-4829817",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229410",
+      "nombre_fuente": "Dip. Ofelia Socorro Jasso Nieto",
+      "person_id": "ofelia-socorro-jasso-nieto",
+      "referencia_sil": "9229410",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4830455",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

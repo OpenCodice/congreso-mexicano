@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4913750",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción IV al artículo 2; se reforma el segundo párrafo del artículo 10; se adiciona la fracción XXI al artículo 13; y se adiciona el artículo 50 bis, todos de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-23",
+  "id": "sil-4913750",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228569",
+      "nombre_fuente": "Dip. Laura Cristina Márquez Alcalá",
+      "person_id": "laura-cristina-marquez-alcala",
+      "referencia_sil": "9228569",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4915758",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4914961",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Guardia Nacional",
+      "referencia": "2085595",
+      "texto": "1.-Senado -Guardia Nacional .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 9 de la Ley de Guardia Nacional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-30",
+  "id": "sil-4914961",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4916710",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

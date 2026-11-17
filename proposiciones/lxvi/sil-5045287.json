@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "5045287",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se exhorta al titular de la Secretaría de Hacienda y Crédito Público para que, si así lo considera, instruya a la titular del Instituto para Devolver al Pueblo lo Robado a diseñar e implementar un Programa Estratégico de Atención que pueda flexibilizar el pago de sus adeudos sin lastimar su patrimonio familiar a quienes hoy se encuentran como deudores de la extinta Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero. (actualmente en proceso de extinción y liquidación).",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5045287",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228744",
+      "nombre_fuente": "Sen. Homero Davis Castro",
+      "person_id": "homero-davis-castro",
+      "referencia_sil": "9228744",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055177",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

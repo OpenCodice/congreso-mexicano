@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4808684",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cultura y Cinematografía",
+      "referencia": "2085568",
+      "texto": "1.-Diputados -Cultura y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las autoridades del municipio de Sayula, Jalisco, y a su Secretaría de Cultura para que, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, se comience y garantice la restauración y mantenimiento de los portales en el municipio de Sayula, propiciando con ello la seguridad de las y los ciudadanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-11-26",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 26-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-26",
+  "id": "sil-4808684",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228557",
+      "nombre_fuente": "Dip. Clara Cárdenas Galván",
+      "person_id": "clara-cardenas-galvan",
+      "referencia_sil": "9228557",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4810802",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

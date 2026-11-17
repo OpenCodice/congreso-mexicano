@@ -1,0 +1,229 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4886730",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 4º, párrafo cuarto y 28, párrafo cuarto; y se adiciona un párrafo sexto, recorriéndose en su orden los subsecuentes párrafos, al artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en materia de soberanía y seguridad farmacéutica.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-10-01",
+    "resultado": "desechado",
+    "texto": "Desechado el 01-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-24",
+  "id": "sil-4886730",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228638",
+      "nombre_fuente": "Dip. María Luisa Mendoza Mondragón",
+      "person_id": "maria-luisa-mendoza-mondragon",
+      "referencia_sil": "9228638",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228411",
+      "nombre_fuente": "Dip. Rosa Guadalupe Ortega Tiburcio",
+      "person_id": "rosa-guadalupe-ortega-tiburcio",
+      "referencia_sil": "9228411",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229420",
+      "nombre_fuente": "Dip. María Graciela Gaitán Díaz",
+      "person_id": "maria-graciela-gaitan-diaz",
+      "referencia_sil": "9229420",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228611",
+      "nombre_fuente": "Dip. Alma Lidia De la Vega Sánchez",
+      "person_id": "alma-lidia-de-la-vega-sanchez",
+      "referencia_sil": "9228611",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229342",
+      "nombre_fuente": "Dip. Alejandra Chedraui Peralta",
+      "person_id": "alejandra-chedraui-peralta",
+      "referencia_sil": "9229342",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228123",
+      "nombre_fuente": "Dip. Nancy Guadalupe Sánchez Arredondo",
+      "person_id": "nancy-guadalupe-sanchez-arredondo",
+      "referencia_sil": "9228123",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228121",
+      "nombre_fuente": "Dip. Alma Laura Ruiz López",
+      "person_id": "alma-laura-ruiz-lopez",
+      "referencia_sil": "9228121",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228127",
+      "nombre_fuente": "Dip. Rocío López Gorosave",
+      "person_id": "rocio-lopez-gorosave",
+      "referencia_sil": "9228127",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228129",
+      "nombre_fuente": "Dip. Evangelina Moreno Guerra",
+      "person_id": "evangelina-moreno-guerra",
+      "referencia_sil": "9228129",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228140",
+      "nombre_fuente": "Dip. Hilda Araceli Brown Figueredo",
+      "person_id": "hilda-araceli-brown-figueredo",
+      "referencia_sil": "9228140",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228125",
+      "nombre_fuente": "Dip. Claudia Lisbeth Moreno Ramírez",
+      "person_id": "claudia-lisbeth-moreno-ramirez",
+      "referencia_sil": "9228125",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228672",
+      "nombre_fuente": "Dip. Claudia Sánchez Juárez",
+      "person_id": "claudia-sanchez-juarez",
+      "referencia_sil": "9228672",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228622",
+      "nombre_fuente": "Dip. Tey Mollinedo Cano",
+      "person_id": "tey-mollinedo-cano",
+      "referencia_sil": "9228622",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228190",
+      "nombre_fuente": "Dip. Juan Guillermo Rendón Gómez",
+      "person_id": "juan-guillermo-rendon-gomez",
+      "referencia_sil": "9228190",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228992",
+      "nombre_fuente": "Dip. Fernando Mendoza Arce",
+      "person_id": "fernando-mendoza-arce",
+      "referencia_sil": "9228992",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228332",
+      "nombre_fuente": "Dip. Francisco Adrián Castillo Morales",
+      "person_id": "francisco-adrian-castillo-morales",
+      "referencia_sil": "9228332",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228373",
+      "nombre_fuente": "Dip. Carlos Alberto Guevara Garza",
+      "person_id": "carlos-alberto-guevara-garza",
+      "referencia_sil": "9228373",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228694",
+      "nombre_fuente": "Dip. Gerardo Ulloa Pérez",
+      "person_id": "gerardo-ulloa-perez",
+      "referencia_sil": "9228694",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228131",
+      "nombre_fuente": "Dip. Gilberto Herrera Solórzano",
+      "person_id": "gilberto-herrera-solorzano",
+      "referencia_sil": "9228131",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228796",
+      "nombre_fuente": "Dip. Hugo Eric Flores Cervantes",
+      "person_id": "hugo-eric-flores-cervantes",
+      "referencia_sil": "9228796",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228133",
+      "nombre_fuente": "Dip. José Armando Fernández Samaniego",
+      "person_id": "jose-armando-fernandez-samaniego",
+      "referencia_sil": "9228133",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228296",
+      "nombre_fuente": "Dip. Jaime Humberto Lastra Bastar",
+      "person_id": "jaime-humberto-lastra-bastar",
+      "referencia_sil": "9228296",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228710",
+      "nombre_fuente": "Dip. Pedro Mario Zenteno Santaella",
+      "person_id": "pedro-mario-zenteno-santaella",
+      "referencia_sil": "9228710",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228804",
+      "nombre_fuente": "Dip. Fernando Jorge Castro Trenti",
+      "person_id": "fernando-jorge-castro-trenti",
+      "referencia_sil": "9228804",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4888470",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Derechos Humanos",
+    "Reformas constitucionales",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911776",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal, a través de la Comisión Federal de Electricidad por medio de su titular, Emilia Esther Calleja Alor, Directora General y de la persona encargada de la distribución en la región Noroeste del país, se atienda de forma inmediata la grave crisis que están viviendo los habitantes de la región del Río Sonora, Sonora, ante la intermitencia y la falta del servicio de electricidad.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-08-20",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-09",
+  "id": "sil-4911776",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229046",
+      "nombre_fuente": "Dip. Luis Agustín Rodríguez Torres",
+      "person_id": "luis-agustin-rodriguez-torres",
+      "referencia_sil": "9229046",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4918972",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

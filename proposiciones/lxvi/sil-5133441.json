@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5133441",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado que remitan a esta Soberanía un informe detallado sobre el abasto y distribución de medicamentos oncológicos; y en conjunto con la Secretaría de Salud, fortalezcan los mecanismos de planeación, adquisición consolidada, distribución y trazabilidad de los medicamentos oncológicos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-14",
+  "id": "sil-5133441",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228883",
+      "nombre_fuente": "Sen. Gabriel Elizondo Pérez",
+      "person_id": "gabriel-elizondo-perez",
+      "referencia_sil": "9228883",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5150963",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

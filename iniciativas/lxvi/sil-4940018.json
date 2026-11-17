@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4940018",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto para inscribir con letras de oro en el Muro de Honor del Salón de Sesiones del Palacio Legislativo de San Lázaro la leyenda -Heberto Castillo Ramírez-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-01",
+  "id": "sil-4940018",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228433",
+      "nombre_fuente": "Dip. Mario Alberto López Hernández",
+      "person_id": "mario-alberto-lopez-hernandez",
+      "referencia_sil": "9228433",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4941500",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [],
+  "tipo": "Iniciativa"
+}

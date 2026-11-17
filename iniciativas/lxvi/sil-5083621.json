@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5083621",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 89 de la Ley del Seguro Social, en materia de acceso a medicamentos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-28",
+  "id": "sil-5083621",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228523",
+      "nombre_fuente": "Dip. Tecutli José Guadalupe Gómez Villalobos",
+      "person_id": "tecutli-jose-guadalupe-gomez-villalobos",
+      "referencia_sil": "9228523",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090599",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

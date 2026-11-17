@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4949964",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud, así como a sus homólogas en las 32 entidades federativas para que refuerce y amplíe las acciones dirigidas a la atención integral de la salud mental de adolescentes y jóvenes en todo el territorio nacional, con el propósito de garantizar que este sector de la población cuente con estrategias oportunas de prevención, detección temprana y acompañamiento especializado que atiendan las distintas problemáticas emocionales y psicosociales que enfrentan en su vida cotidiana.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-09",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 09-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-15",
+  "id": "sil-4949964",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5010225",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

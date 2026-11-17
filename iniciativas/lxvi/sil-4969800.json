@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4969800",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Recursos Hídricos e Infraestructura Hidráulica",
+      "referencia": "2085508",
+      "texto": "1.-Senado -Recursos Hídricos e Infraestructura Hidráulica .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Aguas Nacionales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-11-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-11",
+  "id": "sil-4969800",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229024",
+      "nombre_fuente": "Sen. Jasmine María Bugarín Rodríguez",
+      "person_id": "jasmine-maria-bugarin-rodriguez",
+      "referencia_sil": "9229024",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5003058",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

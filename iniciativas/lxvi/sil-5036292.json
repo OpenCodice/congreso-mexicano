@@ -1,0 +1,115 @@
+{
+  "camara_origen": "senado",
+  "clave": "5036292",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "2.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-11",
+  "id": "sil-5036292",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229248",
+      "nombre_fuente": "Sen. José Clemente Castañeda Hoeflich",
+      "person_id": "jose-clemente-castaneda-hoeflich",
+      "referencia_sil": "9229248",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229074",
+      "nombre_fuente": "Sen. Néstor Camarillo Medina",
+      "person_id": "nestor-camarillo-medina",
+      "referencia_sil": "9229074",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228755",
+      "nombre_fuente": "Sen. Francisco Daniel Barreda Pavón",
+      "person_id": "francisco-daniel-barreda-pavon",
+      "referencia_sil": "9228755",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229252",
+      "nombre_fuente": "Sen. Amalia Dolores García Medina",
+      "person_id": "amalia-dolores-garcia-medina",
+      "referencia_sil": "9229252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229250",
+      "nombre_fuente": "Sen. María Alejandra Barrales Magdaleno MC",
+      "person_id": "maria-alejandra-barrales-magdaleno",
+      "referencia_sil": "9229250",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5080641",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

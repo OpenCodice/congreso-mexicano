@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4979498",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley General de Educación, en materia de protección integral de niñas, niños y adolescentes frente a la violencia sexual en entornos escolares.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-02-10",
+    "resultado": "retirado",
+    "texto": "Retirada el 10-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-20",
+  "id": "sil-4979498",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229360",
+      "nombre_fuente": "Dip. Felipe Miguel Delgado Carrillo",
+      "person_id": "felipe-miguel-delgado-carrillo",
+      "referencia_sil": "9229360",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4980147",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

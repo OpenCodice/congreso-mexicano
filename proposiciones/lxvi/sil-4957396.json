@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4957396",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguridad Pública",
+      "referencia": "2085528",
+      "texto": "1.-Senado -Seguridad Pública.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a los gobiernos de los estados de Hidalgo, Puebla, Querétaro, San Luis Potosí y Veracruz, así como a sus unidades de protección civil, a que actualicen y consoliden sus mapas de riesgo en coordinación con la Coordinación Nacional de Protección Civil y la Comisión Nacional del Agua, incorporando información sobre laderas inestables, riberas, zonas inundables y áreas de expansión urbana, con el fin de fortalecer la planeación territorial y la prevención de desastres.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-11-25",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 25-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-22",
+  "id": "sil-4957396",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5009444",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Nacional",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

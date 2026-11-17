@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5026757",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Profeco a fortalecer la difusión, verificación y, en su caso, sanción, respecto de la práctica de tiendas departamentales y establecimientos comerciales de exigir la revisión de tickets de compra a la salida de establecimientos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-03",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 03-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-03",
+  "id": "sil-5026757",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229241",
+      "nombre_fuente": "Dip. Óscar Fernando Torres Castañeda",
+      "person_id": "oscar-fernando-torres-castaneda",
+      "referencia_sil": "9229241",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5031021",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,80 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5006539",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México",
+      "referencia": "2085539",
+      "texto": "2.-Senado -Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "3.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 24 Bis a la Ley General de Educación Superior, en materia de promoción, investigación, estudio, desarrollo, formación académica y el uso ético y socialmente responsable de la inteligencia artificial en centros de educación superior.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-26",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 26-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-26",
+  "id": "sil-5006539",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5024052",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

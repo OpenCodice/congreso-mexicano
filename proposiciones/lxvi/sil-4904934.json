@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4904934",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la titular del Poder Ejecutivo Federal para que, a través de la Secretaría de Relaciones Exteriores, se garantice de manera inmediata y urgente la atención y protección consular necesaria a los migrantes mexicanos afectados por redadas en la ciudad de Los Ángeles, California, Estados Unidos, instruyendo al Consulado General de México en Los Ángeles a brindar dicha atención de forma ininterrumpida, las 24 horas del día, los 7 días de la semana, a fin de asegurar una protección continua, eficaz y oportuna a nuestros paisanos.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-11",
+  "id": "sil-4904934",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228575",
+      "nombre_fuente": "Dip. Diego Ángel Rodríguez Barroso",
+      "person_id": "diego-angel-rodriguez-barroso",
+      "referencia_sil": "9228575",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4906577",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Migración",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5111256",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Secretario de Educación Pública, al Director General del Instituto Politécnico Nacional, al Secretario de Hacienda y Crédito Público y al Auditor Superior de la Federación a fortalecer el diálogo institucional, el seguimiento de los acuerdos derivados de las mesas de diálogo, la transparencia, el fortalecimiento presupuestal y la rendición de cuentas ante el conflicto que enfrenta el Instituto Politécnico Nacional.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-22",
+  "id": "sil-5111256",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228569",
+      "nombre_fuente": "Dip. Laura Cristina Márquez Alcalá",
+      "person_id": "laura-cristina-marquez-alcala",
+      "referencia_sil": "9228569",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115254",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

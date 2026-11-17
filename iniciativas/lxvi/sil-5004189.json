@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5004189",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ganadería",
+      "referencia": "2085575",
+      "texto": "1.-Diputados -Ganadería .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de la Ley Federal de Sanidad Animal, en materia de identificación y trazabilidad digital del ganado.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-14",
+  "id": "sil-5004189",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228473",
+      "nombre_fuente": "Dip. Gissel Santander Soto",
+      "person_id": "gissel-santander-soto",
+      "referencia_sil": "9228473",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5005174",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

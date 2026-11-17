@@ -1,0 +1,69 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4790252",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades federales y locales del gobierno de Chihuahua a implementar las acciones necesarias que permitan atender y resolver el problema de desabasto de medicamentos, falta de personal médico, así como del mantenimiento de infraestructura y equipamiento médico en dicha entidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-23",
+  "id": "sil-4790252",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "PRI",
+      "organization_id": "partido-pri",
+      "tipo": "grupo_parlamentario"
+    },
+    {
+      "nombre_fuente": "PAN",
+      "organization_id": "partido-pan",
+      "tipo": "grupo_parlamentario"
+    }
+  ],
+  "seguimiento": "4791639",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4926728",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "1.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "2.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Aguas Nacionales y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-01-19",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 19-ENE-2026"
+  },
+  "expediente_id": "sil-4998948",
+  "fecha_presentacion": "2025-09-17",
+  "id": "sil-4926728",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228672",
+      "nombre_fuente": "Dip. Claudia Sánchez Juárez",
+      "person_id": "claudia-sanchez-juarez",
+      "referencia_sil": "9228672",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4998948",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

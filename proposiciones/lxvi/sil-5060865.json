@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5060865",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Pueblos Indígenas y Afromexicanos",
+      "referencia": "2085582",
+      "texto": "1.-Diputados -Pueblos Indígenas y Afromexicanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al INPI a garantizar que las Delegaciones Regionales del Instituto y las Radios Comunitarias Indígenas sean ocupadas y operadas por personas indígenas originarias de las regiones donde tienen presencia en todo el territorio nacional.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-08",
+  "id": "sil-5060865",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228632",
+      "nombre_fuente": "Dip. Rosario del Carmen Moreno Villatoro",
+      "person_id": "rosario-del-carmen-moreno-villatoro",
+      "referencia_sil": "9228632",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5063401",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Indígenas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

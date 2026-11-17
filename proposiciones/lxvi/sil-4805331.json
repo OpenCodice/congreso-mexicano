@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4805331",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal y a las 32 entidades federativas a dar cumplimiento a lo establecido en el Artículo Cuarto Transitorio del Decreto por el que se declara reformado el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Prisión Preventiva Oficiosa, publicado en el DOF el 12 de abril de 2019.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-20",
+  "id": "sil-4805331",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228774",
+      "nombre_fuente": "Dip. Claudia Ruiz Massieu Salinas",
+      "person_id": "claudia-ruiz-massieu-salinas",
+      "referencia_sil": "9228774",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4807427",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Poder Ejecutivo",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

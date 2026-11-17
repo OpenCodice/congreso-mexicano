@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5105134",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al titular de la Alcaldía Cuajimalpa de Morelos en la Ciudad de México a llevar a cabo acciones inmediatas de protección e investigación del riesgo inminente de derrumbes de viviendas provocados por excavaciones probablemente ilegales en las Barrancas de Lomas de Chamizal, así como al gobierno de la Ciudad de México para que ordene la investigación respectiva sobre dicha situación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-17",
+  "id": "sil-5105134",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228220",
+      "nombre_fuente": "Dip. Carlos Arturo Madrazo Silva",
+      "person_id": "carlos-arturo-madrazo-silva",
+      "referencia_sil": "9228220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5105435",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente",
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

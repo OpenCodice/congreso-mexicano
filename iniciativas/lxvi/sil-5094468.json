@@ -1,0 +1,80 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5094468",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Turismo",
+      "referencia": "2085533",
+      "texto": "1.-Senado -Turismo.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Defensa de los Consumidores",
+      "referencia": "2085496",
+      "texto": "2.-Senado -Defensa de los Consumidores.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Turismo, de la Ley Federal de Protección al Consumidor, del Código Penal Federal, del Código Nacional de Procedimientos Penales y de la Ley de Sistemas de Pagos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-21",
+  "id": "sil-5094468",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229086",
+      "nombre_fuente": "Sen. Eugenio Segura Vázquez",
+      "person_id": "eugenio-segura-vazquez",
+      "referencia_sil": "9229086",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5097343",
+  "sources": [
+    {
+      "archivo": "fuentes/1f/1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3.html.gz",
+      "consultado": "2026-11-17T07:58:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4886638",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 7° de la Ley General para la Inclusión de las Personas con Discapacidad, con el propósito de que existan centros de atención especializada a niños con autismo.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-07-28",
+    "resultado": "retirado",
+    "texto": "Retirada el 28-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-24",
+  "id": "sil-4886638",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4888465",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

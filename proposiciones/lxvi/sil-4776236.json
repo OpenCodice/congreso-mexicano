@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4776236",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que recomienda a los poderes judiciales locales y las legislaturas de las entidades federativas para que realicen las gestiones necesarias para la instrumentación del Código Nacional de Procedimientos Civiles y Familiares.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-12-04",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 04-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-09-24",
+  "id": "sil-4776236",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229138",
+      "nombre_fuente": "Sen. Óscar Cantón Zetina",
+      "person_id": "oscar-canton-zetina",
+      "referencia_sil": "9229138",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4817556",
+  "sources": [
+    {
+      "archivo": "fuentes/1a/1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f.html.gz",
+      "consultado": "2026-11-17T08:00:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4895381",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a las Secretarías de Hacienda y Crédito Público, de Anticorrupción y Buen Gobierno; y de Salud y al IMSS-Bienestar a que de forma coordinada y en ejercicio de sus atribuciones, atiendan de manera urgente la falta de insumos, materiales médicos y medicamentos en los Hospitales Regionales de Alta Especialidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4895381",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228936",
+      "nombre_fuente": "Sen. Miguel Márquez Márquez",
+      "person_id": "miguel-marquez-marquez",
+      "referencia_sil": "9228936",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898883",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

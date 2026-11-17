@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4831697",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a las comisiones Unidas de Puntos Constitucionales y de Estudios Legislativos del Senado de la República a dictaminar y poner a discusión la minuta con proyecto de decreto que adiciona un segundo párrafo al artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de apoyo a jóvenes.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-05",
+  "id": "sil-4831697",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4832796",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

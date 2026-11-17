@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5017253",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 93 de la Ley del Impuesto sobre la Renta.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-18",
+  "id": "sil-5017253",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228258",
+      "nombre_fuente": "Dip. Theodoros Kalionchiz De la Fuente",
+      "person_id": "theodoros-kalionchiz-de-la-fuente",
+      "referencia_sil": "9228258",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5019444",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5072398",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 272 Bis 1 de la Ley General de Salud, en materia de valoración psicológica previa para la protección integral de menores de 18 años en procedimientos médico quirúrgicos de carácter estético.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-21",
+  "id": "sil-5072398",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228156",
+      "nombre_fuente": "Dip. Jorge Luis Sánchez Reyes",
+      "person_id": "jorge-luis-sanchez-reyes",
+      "referencia_sil": "9228156",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5080395",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a.html.gz",
+      "consultado": "2026-11-17T07:57:42Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "23/04/2026",
+        "FECHA_INIC": "16/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

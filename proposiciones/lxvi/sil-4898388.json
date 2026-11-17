@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4898388",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Presidenta de la República para que a través de la Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, haga de conocimiento público su estrategia para la prevención y atención de los delitos que vulneran a este sector, como su desaparición, homicidios, feminicidios, trata, reclutamiento en grupos delictivos, violencia sexual y física; asimismo, la publicación en el diario oficial de la federación, del programa nacional de protección de niñas, niños y adolescentes derivado del plan nacional de desarrollo; se exhorta también a las secretarías ejecutivas de los SIPINNA estatales y municipales hagan de conocimiento público a la secretaría ejecutiva nacional sus planes y acciones en la materia, y se exhorta al SIPINNA Nacional, a los SIPINNA estatales y municipales, así como a la Secretaría de Gobernación, a la Secretaría de Seguridad y Protección Ciudadana, a la Fiscalía General de la República, al Sistema Nacional DIF, a la Secretaría de Educación Pública y a la Secretaría de Salud, a las Fiscalías generales de justicia, gobernadoras y gobernadores de los estados, así como las y los titulares de los ayuntamientos y alcaldías para que, de manera coordinada y con perspectiva de derechos de la niñez, implementen políticas públicas y acciones concretas de prevención y atención de los delitos que afectan a niñas, niños y adolescentes.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-07",
+  "id": "sil-4898388",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229266",
+      "nombre_fuente": "Dip. Xitlalic Ceja García",
+      "person_id": "xitlalic-ceja-garcia",
+      "referencia_sil": "9229266",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4900183",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Gobernación",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

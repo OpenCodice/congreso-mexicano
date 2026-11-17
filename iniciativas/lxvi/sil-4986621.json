@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4986621",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085493",
+      "texto": "1.-Senado -Comunicaciones y Transportes.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 19, 21, 66, 70, 70 Bis, 74, 74 Bis y 74 Ter de la Ley de Caminos Puentes y Autotransporte Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-11-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-27",
+  "id": "sil-4986621",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228976",
+      "nombre_fuente": "Sen. Mariela Gutiérrez Escalante",
+      "person_id": "mariela-gutierrez-escalante",
+      "referencia_sil": "9228976",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5002993",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Iniciativa"
+}

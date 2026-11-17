@@ -1,0 +1,94 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5033668",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-10",
+  "id": "sil-5033668",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228200",
+      "nombre_fuente": "Dip. Mónica Herrera Villavicencio",
+      "person_id": "monica-herrera-villavicencio",
+      "referencia_sil": "9228200",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228850",
+      "nombre_fuente": "Dip. Kenia Gisell Muñiz Cabrera",
+      "person_id": "kenia-gisell-muniz-cabrera",
+      "referencia_sil": "9228850",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229410",
+      "nombre_fuente": "Dip. Ofelia Socorro Jasso Nieto",
+      "person_id": "ofelia-socorro-jasso-nieto",
+      "referencia_sil": "9229410",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229100",
+      "nombre_fuente": "Dip. Elizabeth Martínez Álvarez",
+      "person_id": "elizabeth-martinez-alvarez",
+      "referencia_sil": "9229100",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229148",
+      "nombre_fuente": "Dip. Liliana Ortiz Pérez",
+      "person_id": "liliana-ortiz-perez",
+      "referencia_sil": "9229148",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5037831",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4827348",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción IX del artículo 47 y la fracción XXIII del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de registro de menores huérfanos por feminicidio.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-08",
+  "id": "sil-4827348",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228794",
+      "nombre_fuente": "Dip. Alma Marina Vitela Rodríguez",
+      "person_id": "alma-marina-vitela-rodriguez",
+      "referencia_sil": "9228794",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4827798",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

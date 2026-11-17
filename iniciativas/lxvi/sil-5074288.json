@@ -1,0 +1,96 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5074288",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Protección Civil y Prevención de Desastres",
+      "referencia": "2085581",
+      "texto": "1.-Diputados -Protección Civil y Prevención de Desastres.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "2.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona el artículo 75 de la Ley General de Protección Civil y adiciona el artículo 102 de la Ley en Materia de Telecomunicaciones y Radiodifusión, en materia de conectividad digital ante situaciones de emergencia o desastre.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-21",
+  "id": "sil-5074288",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228597",
+      "nombre_fuente": "Dip. Gerardo Olivares Mejía",
+      "person_id": "gerardo-olivares-mejia",
+      "referencia_sil": "9228597",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228595",
+      "nombre_fuente": "Dip. Javier Taja Ramírez",
+      "person_id": "javier-taja-ramirez",
+      "referencia_sil": "9228595",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228591",
+      "nombre_fuente": "Dip. Yoloczin Lizbeth Domínguez Serna",
+      "person_id": "yoloczin-lizbeth-dominguez-serna",
+      "referencia_sil": "9228591",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228183",
+      "nombre_fuente": "Dip. Jesús Irugami Perea Cruz",
+      "person_id": "jesus-irugami-perea-cruz",
+      "referencia_sil": "9228183",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5080423",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a.html.gz",
+      "consultado": "2026-11-17T07:57:42Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "23/04/2026",
+        "FECHA_INIC": "16/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Protección Civil",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

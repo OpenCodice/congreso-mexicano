@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4869635",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Junta de Coordinación Política-Cámara de Senadores LXVI (01/09/2024-31/08/2025)",
+      "referencia": "2233",
+      "texto": "1.-Senado -Junta de Coordinación Política-Cámara de Senadores LXVI (01/09/2024-31/08/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Junta de Coordinación Política del Senado a impulsar reuniones de trabajo con titulares de dependencias del Gobierno Federal y el Banco de México para analizar las implicaciones financieras y económicas para nuestro país, de la declaratoria de los cárteles del narcotráfico como organizaciones terroristas.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2025-04-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 02-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-02",
+  "id": "sil-4869635",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871648",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Sistema Financiero"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

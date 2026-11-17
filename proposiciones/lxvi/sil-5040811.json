@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5040811",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que la Cámara de Diputados solicita a la SEP, en coordinación con la CONALITEG, diseñar, producir y distribuir libros de texto gratuito y materiales didácticos con los ajustes razonables para alumnas, alumnos y personal docente de los centros de atención múltiple.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-18",
+  "id": "sil-5040811",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228200",
+      "nombre_fuente": "Dip. Mónica Herrera Villavicencio",
+      "person_id": "monica-herrera-villavicencio",
+      "referencia_sil": "9228200",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228246",
+      "nombre_fuente": "Dip. Marisela Zúñiga Cerón",
+      "person_id": "marisela-zuniga-ceron",
+      "referencia_sil": "9228246",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5045549",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

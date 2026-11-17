@@ -1,0 +1,269 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5157642",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la FGR para que ejerza la facultad de atracción de la investigación relacionada con el homicidio de Carlos Alberto Manzo Rodríguez, a fin de garantizar una investigación exhaustiva, objetiva, imparcial, con perspectiva de derechos humanos y libre de presiones o intereses ajenos a la justicia.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-07",
+  "id": "sil-5157642",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229240",
+      "nombre_fuente": "Dip. Erubiel Lorenzo Alonso Que",
+      "person_id": "erubiel-lorenzo-alonso-que",
+      "referencia_sil": "9229240",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228730",
+      "nombre_fuente": "Dip. Patricia Mercado Castro",
+      "person_id": "patricia-mercado-castro",
+      "referencia_sil": "9228730",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228785",
+      "nombre_fuente": "Dip. Alfonso Armando Vidales Vargas Ochoa",
+      "person_id": "alfonso-armando-vidales-vargas-ochoa",
+      "referencia_sil": "9228785",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228788",
+      "nombre_fuente": "Dip. Juan Armando Ruiz Hernández",
+      "person_id": "juan-armando-ruiz-hernandez",
+      "referencia_sil": "9228788",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228780",
+      "nombre_fuente": "Dip. Gildardo Pérez Gabino",
+      "person_id": "gildardo-perez-gabino",
+      "referencia_sil": "9228780",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228786",
+      "nombre_fuente": "Dip. Laura Hernández García",
+      "person_id": "laura-hernandez-garcia",
+      "referencia_sil": "9228786",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229404",
+      "nombre_fuente": "Dip. Gibrán Ramírez Reyes",
+      "person_id": "gibran-ramirez-reyes",
+      "referencia_sil": "9229404",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228778",
+      "nombre_fuente": "Dip. Amancay González Franco",
+      "person_id": "amancay-gonzalez-franco",
+      "referencia_sil": "9228778",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228763",
+      "nombre_fuente": "Dip. Eduardo Gaona Domínguez",
+      "person_id": "eduardo-gaona-dominguez",
+      "referencia_sil": "9228763",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229156",
+      "nombre_fuente": "Dip. Mariana Guadalupe Jiménez Zamora",
+      "person_id": "mariana-guadalupe-jimenez-zamora",
+      "referencia_sil": "9229156",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228770",
+      "nombre_fuente": "Dip. Francisco Javier Farias Bailón",
+      "person_id": "francisco-javier-farias-bailon",
+      "referencia_sil": "9228770",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228772",
+      "nombre_fuente": "Dip. María de Fátima García León",
+      "person_id": "maria-de-fatima-garcia-leon",
+      "referencia_sil": "9228772",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228766",
+      "nombre_fuente": "Dip. Sergio Gil Rullán",
+      "person_id": "sergio-gil-rullan",
+      "referencia_sil": "9228766",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228764",
+      "nombre_fuente": "Dip. Anayeli Muñoz Moreno",
+      "person_id": "anayeli-munoz-moreno",
+      "referencia_sil": "9228764",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228732",
+      "nombre_fuente": "Dip. Hugo Manuel Luna Vázquez",
+      "person_id": "hugo-manuel-luna-vazquez",
+      "referencia_sil": "9228732",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228760",
+      "nombre_fuente": "Dip. Paola Michell Longoria López",
+      "person_id": "paola-michell-longoria-lopez",
+      "referencia_sil": "9228760",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228758",
+      "nombre_fuente": "Dip. Miguel Ángel Sánchez Rivera",
+      "person_id": "miguel-angel-sanchez-rivera",
+      "referencia_sil": "9228758",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228756",
+      "nombre_fuente": "Dip. Irais Virginia Reyes De la Torre",
+      "person_id": "irais-virginia-reyes-de-la-torre",
+      "referencia_sil": "9228756",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228523",
+      "nombre_fuente": "Dip. Tecutli José Guadalupe Gómez Villalobos",
+      "person_id": "tecutli-jose-guadalupe-gomez-villalobos",
+      "referencia_sil": "9228523",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228746",
+      "nombre_fuente": "Dip. Gloria Elizabeth Núñez Sánchez",
+      "person_id": "gloria-elizabeth-nunez-sanchez",
+      "referencia_sil": "9228746",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228742",
+      "nombre_fuente": "Dip. Jorge Alfredo Lozoya Santillán",
+      "person_id": "jorge-alfredo-lozoya-santillan",
+      "referencia_sil": "9228742",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228738",
+      "nombre_fuente": "Dip. Patricia Flores Elizondo",
+      "person_id": "patricia-flores-elizondo",
+      "referencia_sil": "9228738",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228736",
+      "nombre_fuente": "Dip. Gustavo Adolfo De Hoyos Walther",
+      "person_id": "gustavo-adolfo-de-hoyos-walther",
+      "referencia_sil": "9228736",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228734",
+      "nombre_fuente": "Dip. Claudia Gabriela Salas Rodríguez",
+      "person_id": "claudia-gabriela-salas-rodriguez",
+      "referencia_sil": "9228734",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228782",
+      "nombre_fuente": "Dip. Laura Irais Ballesteros Mancilla",
+      "person_id": "laura-irais-ballesteros-mancilla",
+      "referencia_sil": "9228782",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228774",
+      "nombre_fuente": "Dip. Claudia Ruiz Massieu Salinas",
+      "person_id": "claudia-ruiz-massieu-salinas",
+      "referencia_sil": "9228774",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228776",
+      "nombre_fuente": "Dip. Juan Ignacio Zavala Gutiérrez",
+      "person_id": "juan-ignacio-zavala-gutierrez",
+      "referencia_sil": "9228776",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228768",
+      "nombre_fuente": "Dip. Ivonne Aracely Ortega Pacheco",
+      "person_id": "ivonne-aracely-ortega-pacheco",
+      "referencia_sil": "9228768",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228421",
+      "nombre_fuente": "Dip. Guadalupe Araceli Mendoza Arias",
+      "person_id": "guadalupe-araceli-mendoza-arias",
+      "referencia_sil": "9228421",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5159061",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

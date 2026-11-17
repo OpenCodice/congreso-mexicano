@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4999896",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto por el que se declara el 4 de junio de cada año como el -Día de la Rebelión de Valladolid, denominada primera chispa de la Revolución Mexicana-, con el fin de conmemorar la lucha histórica por la Independencia de México.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-4999896",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228168",
+      "nombre_fuente": "Dip. Jessica Saiden Quiroz",
+      "person_id": "jessica-saiden-quiroz",
+      "referencia_sil": "9228168",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001925",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

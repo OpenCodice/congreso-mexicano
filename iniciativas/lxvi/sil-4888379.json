@@ -1,0 +1,68 @@
+{
+  "camara_origen": null,
+  "clave": "4888379",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 21 y 73 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-22",
+  "id": "sil-4888379",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228427",
+      "nombre_fuente": "Dip. Carlos Enrique Canturosas Villarreal",
+      "person_id": "carlos-enrique-canturosas-villarreal",
+      "referencia_sil": "9228427",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4888383",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Poder Legislativo",
+    "Reformas constitucionales",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Iniciativa"
+}

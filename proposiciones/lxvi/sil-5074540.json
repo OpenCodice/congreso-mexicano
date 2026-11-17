@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5074540",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Transparencia y Anticorrupción",
+      "referencia": "2085591",
+      "texto": "1.-Diputados -Transparencia y Anticorrupción .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría Anticorrupción y Buen Gobierno y a la ASF a investigar el posible uso indebido de recursos públicos y tráfico de influencias, por parte del excanciller Marcelo Ebrard Casaubón y la Embajadora Josefa González- Blanco en la residencia diplomática del Reino Unido.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-21",
+  "id": "sil-5074540",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229110",
+      "nombre_fuente": "Dip. Marcelo de Jesús Torres Cofiño",
+      "person_id": "marcelo-de-jesus-torres-cofino",
+      "referencia_sil": "9229110",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5080458",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4822385",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "2.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley de Aviación Civil y de la Ley Federal de Protección al Consumidor, en materia de protección a los derechos de los usuarios de las aerolíneas comerciales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-11",
+  "id": "sil-4822385",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228127",
+      "nombre_fuente": "Dip. Rocío López Gorosave",
+      "person_id": "rocio-lopez-gorosave",
+      "referencia_sil": "9228127",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4826500",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

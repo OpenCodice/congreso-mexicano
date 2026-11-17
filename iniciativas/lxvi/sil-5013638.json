@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5013638",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de una vida libre de violencia cibernética, digital e inteligencia artificial.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 02-SEP-2026"
+  },
+  "expediente_id": "sil-5090391",
+  "fecha_presentacion": "2026-02-11",
+  "id": "sil-5013638",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229044",
+      "nombre_fuente": "Dip. Paulina Rubio Fernández",
+      "person_id": "paulina-rubio-fernandez",
+      "referencia_sil": "9229044",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090391",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

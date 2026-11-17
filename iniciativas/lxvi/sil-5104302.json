@@ -1,0 +1,73 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5104302",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "1.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 19 y 20 de la Ley de Desarrollo Sustentable de la Caña de Azúcar.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-17",
+  "id": "sil-5104302",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228966",
+      "nombre_fuente": "Sen. María del Rocío Corona Nakamura",
+      "person_id": "maria-del-rocio-corona-nakamura",
+      "referencia_sil": "9228966",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5104823",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0.html.gz",
+      "consultado": "2026-11-17T07:58:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4870475",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Salud, en materia de enfermedades raras.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-04-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 21-ABR-2026"
+  },
+  "expediente_id": "sil-5071823",
+  "fecha_presentacion": "2025-04-02",
+  "id": "sil-4870475",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228268",
+      "nombre_fuente": "Dip. Hilda Magdalena Licerio Valdés",
+      "person_id": "hilda-magdalena-licerio-valdes",
+      "referencia_sil": "9228268",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071823",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

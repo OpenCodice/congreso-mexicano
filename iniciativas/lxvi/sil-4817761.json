@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4817761",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo Décimo Transitorio del Decreto por el que se expide la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el DOF el 31 de marzo de 2007, en materia de edad mínima de jubilación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-05",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 05-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-05",
+  "id": "sil-4817761",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228597",
+      "nombre_fuente": "Dip. Gerardo Olivares Mejía",
+      "person_id": "gerardo-olivares-mejia",
+      "referencia_sil": "9228597",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4818880",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

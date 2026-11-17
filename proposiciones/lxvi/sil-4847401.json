@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4847401",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Bienestar",
+      "referencia": "2085545",
+      "texto": "1.-Diputados -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno de Guanajuato al cumplimiento integral del Convenio celebrado el 16 de diciembre de 2021 entre el gobierno de México y los gobiernos de las entidades federativas, el cual establece la universalidad de la Pensión para el Bienestar de las Personas con Discapacidad, con el propósito de garantizar que este beneficio se otorgue sin restricciones de edad o de otra naturaleza.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-04",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 04-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-04",
+  "id": "sil-4847401",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228583",
+      "nombre_fuente": "Dip. Lucero Higareda Segura",
+      "person_id": "lucero-higareda-segura",
+      "referencia_sil": "9228583",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850003",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

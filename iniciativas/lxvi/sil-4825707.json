@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4825707",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Derechos Humanos",
+      "referencia": "2085507",
+      "texto": "1.-Senado -Derechos Humanos.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el segundo párrafo y las fracciones III, V y VII; y adiciona la fracción VIII al artículo 9º de la Ley de la Comisión Nacional de los Derechos Humanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-12-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-13",
+  "id": "sil-4825707",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228720",
+      "nombre_fuente": "Sen. María de Jesús Díaz Marmolejo",
+      "person_id": "maria-de-jesus-diaz-marmolejo",
+      "referencia_sil": "9228720",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4827036",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos"
+  ],
+  "tipo": "Iniciativa"
+}

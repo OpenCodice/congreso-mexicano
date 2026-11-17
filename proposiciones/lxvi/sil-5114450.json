@@ -1,0 +1,92 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5114450",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los gobiernos de las treinta y dos entidades federativas para que, por conducto de sus autoridades competentes en materia de movilidad, seguridad pública y atención a las mujeres, fortalezcan la supervisión de las empresas de transporte mediante plataformas digitales y establezcan protocolos obligatorios de prevención y actuación ante casos de violencia sexual, que contemplen la verificación periódica de la identidad y antecedentes de las personas conductoras, capacitación con perspectiva de género, mecanismos de auxilio inmediato, conservación y entrega oportuna de la información del viaje a las autoridades, acompañamiento integral a las víctimas y medidas que impidan que conductores suspendidos o denunciados por hechos posiblemente constitutivos de delito migren a otras aplicaciones para continuar prestando el servicio.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-19",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 19-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-05",
+  "id": "sil-5114450",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229418",
+      "nombre_fuente": "Sen. Yeidckol Polevnsky Gurwitz",
+      "person_id": "yeidckol-polevnsky-gurwitz",
+      "referencia_sil": "9229418",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118653",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7.html.gz",
+      "consultado": "2026-11-17T08:07:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

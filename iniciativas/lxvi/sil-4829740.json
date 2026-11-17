@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829740",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Pueblos Indígenas y Afromexicanos",
+      "referencia": "2085582",
+      "texto": "1.-Diputados -Pueblos Indígenas y Afromexicanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 74 Bis y se reforma el artículo 75 de la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-29",
+  "id": "sil-4829740",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "michoacan",
+      "nombre_fuente": "Congreso de Michoacán",
+      "organization_id": "congreso-michoacan",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "4830107",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993.html.gz",
+      "consultado": "2026-11-17T07:54:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2da7c0f7c46337c44cfbc4bdb2ccb3f5998732cce94bc941e4b04434790ef993",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Indígenas",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

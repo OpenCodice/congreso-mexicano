@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5177374",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Educación.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-11-03",
+    "resultado": "retirado",
+    "texto": "Retirada el 03-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5177374",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228164",
+      "nombre_fuente": "Dip. Gabriela del Carmen Basto González",
+      "person_id": "gabriela-del-carmen-basto-gonzalez",
+      "referencia_sil": "9228164",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5182890",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078.html.gz",
+      "consultado": "2026-11-17T07:59:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

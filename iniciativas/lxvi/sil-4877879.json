@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4877879",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "1.-Diputados -Presupuesto y Cuenta Pública .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 5º de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-05-22",
+    "resultado": "retirado",
+    "texto": "Retirada el 22-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-10",
+  "id": "sil-4877879",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228172",
+      "nombre_fuente": "Dip. José Alberto Benavides Castañeda",
+      "person_id": "jose-alberto-benavides-castaneda",
+      "referencia_sil": "9228172",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4879302",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

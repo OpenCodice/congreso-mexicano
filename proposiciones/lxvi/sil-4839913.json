@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4839913",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al gobierno federal, a través de la Secretaría de Bienestar, la Secretaría de Salud, la Secretaría del Trabajo y Previsión Social, y la Secretaría de Desarrollo Agrario, territorial y Urbano, a diseñar e implementar un programa especial de atención a la pobreza extrema en Veracruz.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4839913",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229174",
+      "nombre_fuente": "Sen. Miguel Ángel Yunes Márquez",
+      "person_id": "miguel-angel-yunes-marquez",
+      "referencia_sil": "9229174",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4845837",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

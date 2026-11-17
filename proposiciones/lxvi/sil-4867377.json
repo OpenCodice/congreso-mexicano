@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4867377",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Educación Pública federal y a los gobiernos de las entidades federativas, exceptuando Querétaro, para que, con la finalidad de proteger a la niñez y adolescencia y siguiendo el ejemplo de las medidas adoptadas en Querétaro, implementen la prohibición de uso de teléfonos móviles y dispositivos tecnológicos en las instituciones educativas de educación básica y educación media superior, federales y de las entidades federativas, durante todo el horario de clases, excepto cuando sean utilizados con fines educativos planeados, o en caso de emergencias personales y que acompañen esta medida con otras que eviten que la supresión del dispositivo móvil genere ansiedad entre las niñas, niños y adolescentes y que promuevan su interacción, su recreación y socialización.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-01",
+  "id": "sil-4867377",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229078",
+      "nombre_fuente": "Sen. Agustín Dorantes Lámbarri",
+      "person_id": "agustin-dorantes-lambarri",
+      "referencia_sil": "9229078",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4871651",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

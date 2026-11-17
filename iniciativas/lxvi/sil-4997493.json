@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4997493",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía Social y Fomento del Cooperativismo",
+      "referencia": "2085572",
+      "texto": "1.-Diputados -Economía Social y Fomento del Cooperativismo .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Sociedades Cooperativas, en materia de desarrollo y modernización de las sociedades cooperativas.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-02-02",
+    "resultado": "retirado",
+    "texto": "Retirada el 02-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-09",
+  "id": "sil-4997493",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228768",
+      "nombre_fuente": "Dip. Ivonne Aracely Ortega Pacheco",
+      "person_id": "ivonne-aracely-ortega-pacheco",
+      "referencia_sil": "9228768",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001448",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4881001",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona el artículo 2o.-A de la Ley del Impuesto al Valor Agregado, en materia de acceso a la salud y alimentación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-22",
+  "id": "sil-4881001",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228268",
+      "nombre_fuente": "Dip. Hilda Magdalena Licerio Valdés",
+      "person_id": "hilda-magdalena-licerio-valdes",
+      "referencia_sil": "9228268",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4884539",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

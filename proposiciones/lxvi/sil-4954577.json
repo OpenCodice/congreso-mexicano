@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4954577",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Bienestar",
+      "referencia": "2085545",
+      "texto": "1.-Diputados -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta de la Secretaría de Bienestar a agilizar la implementación del Programa para el Bienestar de las personas en emergencia social o natural en Puebla.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-21",
+  "id": "sil-4954577",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228461",
+      "nombre_fuente": "Dip. José Antonio López Ruiz",
+      "person_id": "jose-antonio-lopez-ruiz",
+      "referencia_sil": "9228461",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4958502",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

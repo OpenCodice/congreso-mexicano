@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4873261",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Reforma Política-Electoral",
+      "referencia": "2085585",
+      "texto": "1.-Diputados -Reforma Política-Electoral .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el inciso I), y adiciona el inciso J), recorriéndose los demás incisos del artículo 32 numeral 2 de la Ley General de Instituciones y Procedimientos Electorales, en materia de disposiciones preliminares.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-08",
+  "id": "sil-4873261",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228942",
+      "nombre_fuente": "Dip. Maribel Solache González",
+      "person_id": "maribel-solache-gonzalez",
+      "referencia_sil": "9228942",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4876670",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Electoral"
+  ],
+  "tipo": "Iniciativa"
+}

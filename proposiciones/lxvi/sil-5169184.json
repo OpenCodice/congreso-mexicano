@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5169184",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la CFE, a realizar una revisión integral de la infraestructura eléctrica del Edificio Chihuahua, ubicado en la Unidad Habitacional Nonoalco-Tlatelolco, Alcaldía Cuauhtémoc, Ciudad de México, así como a atender las demandas de sus habitantes en materia de suministro, seguridad y facturación del servicio de energía eléctrica.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-20",
+  "id": "sil-5169184",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228980",
+      "nombre_fuente": "Dip. María de Jesús Rosete Sánchez",
+      "person_id": "maria-de-jesus-rosete-sanchez",
+      "referencia_sil": "9228980",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5174637",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

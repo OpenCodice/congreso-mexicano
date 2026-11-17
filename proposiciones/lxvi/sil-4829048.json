@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829048",
+  "comisiones": [
+    {
+      "camara": "Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085600",
+      "texto": "1.-Primera Comisión de Trabajo: Gobernación, Puntos Constitucionales y Justicia (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Para celebrar una Sesión Solemne en rememoración del -Día Internacional de Conmemoración Anual en Memoria de las Víctimas del Holocausto-, a celebrarse el día 27 de enero de 2025, en términos de la resolución número A/RES/60/7 aprobada por la Asamblea General de la Organización de Naciones Unidas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4829048",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228996",
+      "nombre_fuente": "Sen. Enrique Vargas del Villar",
+      "person_id": "enrique-vargas-del-villar",
+      "referencia_sil": "9228996",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829517",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

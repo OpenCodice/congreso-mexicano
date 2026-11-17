@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4862276",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Director General del Instituto Nacional de Antropología e Historia a participar en una reunión de trabajo con las Comisiones de Turismo y de Cultura, para presentar información relativa a las zonas arqueológicas de México.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-25",
+  "id": "sil-4862276",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228884",
+      "nombre_fuente": "Sen. Virgilio Mendoza Amezcua",
+      "person_id": "virgilio-mendoza-amezcua",
+      "referencia_sil": "9228884",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4863867",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

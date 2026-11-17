@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5023504",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta respetuosamente al Congreso del Estado de Morelos a Legislar en materia de mecanismos alternativos de solución de controversias, en cumplimiento a la Ley General de Mecanismos Alternativos y Solución de Controversias.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-04-15",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-25",
+  "id": "sil-5023504",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071834",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

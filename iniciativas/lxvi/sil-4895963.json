@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4895963",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el párrafo XXI del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección ambiental y reforestación como responsabilidad colectiva.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-10-01",
+    "resultado": "desechado",
+    "texto": "Desechado el 01-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4895963",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228467",
+      "nombre_fuente": "Dip. Eduardo Castillo López",
+      "person_id": "eduardo-castillo-lopez",
+      "referencia_sil": "9228467",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4900493",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

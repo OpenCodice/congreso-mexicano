@@ -1,0 +1,56 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5108188",
+  "comisiones": [],
+  "denominacion": "Por el que desecha punto de acuerdo por el que se exhortaba al Alcalde del Ayuntamiento de Tlaxcala y a la Gobernadora de Tlaxcala, sobre el tema de los artesanos de la Plaza Xicohténcatl.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2026-07-08",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 08-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-08",
+  "id": "sil-5108188",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Comisión Permanente: Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026)",
+      "referencias_comision": [
+        "2085622"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "5109273",
+  "sources": [
+    {
+      "archivo": "fuentes/b6/b6318cd621634d6eae6c2e04399e5ebf33b189677f31c8023831606143e5980e.html.gz",
+      "consultado": "2026-11-17T08:10:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b6318cd621634d6eae6c2e04399e5ebf33b189677f31c8023831606143e5980e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

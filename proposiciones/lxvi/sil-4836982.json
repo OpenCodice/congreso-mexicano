@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4836982",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Educación Pública a que garantice la protección y la seguridad de los niños en las escuelas, en particular garantizando la aplicación efectiva del protocolo de 2024 de erradicación del acoso escolar para la erradicación del acoso escolar en la educación básica.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-18",
+  "id": "sil-4836982",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229250",
+      "nombre_fuente": "Sen. María Alejandra Barrales Magdaleno",
+      "person_id": "maria-alejandra-barrales-magdaleno",
+      "referencia_sil": "9229250",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4840684",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

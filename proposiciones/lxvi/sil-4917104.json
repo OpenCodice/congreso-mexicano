@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4917104",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados para que, en el ámbito de sus respectivas atribuciones, incorpore en el Presupuesto de Egresos de la Federación 2026 el -Proyecto de sustitución de la red de distribución de agua y del drenaje sanitario en los municipios de Torreón, Francisco I. Madero, Matamoros, San Pedro, Viesca, Lerdo, Gómez Palacio, Tlahualilo y Mapimí situados en la Comarca Lagunera-, y los correspondientes recursos para su ejecución.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-08-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-13",
+  "id": "sil-4917104",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229110",
+      "nombre_fuente": "Dip. Marcelo de Jesús Torres Cofiño",
+      "person_id": "marcelo-de-jesus-torres-cofino",
+      "referencia_sil": "9229110",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919066",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo",
+    "Trámites Legislativos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

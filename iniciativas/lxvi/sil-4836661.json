@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4836661",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reordenamiento Urbano y Vivienda",
+      "referencia": "2085534",
+      "texto": "1.-Senado -Reordenamiento Urbano y Vivienda.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 1, 2, 4, 5, 19, 34 y 77 y, adiciona una fracción XIII del artículo 6 de la Ley de Vivienda.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 10-MAR-2026"
+  },
+  "expediente_id": "sil-5022783",
+  "fecha_presentacion": "2025-02-18",
+  "id": "sil-4836661",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229188",
+      "nombre_fuente": "Sen. Verónica del Carmen Díaz Robles",
+      "person_id": "veronica-del-carmen-diaz-robles",
+      "referencia_sil": "9229188",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5022783",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Vivienda"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,73 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5113916",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085493",
+      "texto": "1.-Senado -Comunicaciones y Transportes.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 5 y 6 de la Ley de Caminos, Puentes y Autotransporte Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-05",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-05",
+  "id": "sil-5113916",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229074",
+      "nombre_fuente": "Sen. Néstor Camarillo Medina",
+      "person_id": "nestor-camarillo-medina",
+      "referencia_sil": "9229074",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118199",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
+      "consultado": "2026-11-17T07:58:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Iniciativa"
+}

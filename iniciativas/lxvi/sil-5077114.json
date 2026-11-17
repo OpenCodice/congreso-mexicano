@@ -1,0 +1,157 @@
+{
+  "camara_origen": "senado",
+  "clave": "5077114",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "2.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 6, 94, 95, 96, 97, 98, 99, 100, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-22",
+  "id": "sil-5077114",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228956",
+      "nombre_fuente": "Dip. Julio César Moreno Rivera",
+      "person_id": "julio-cesar-moreno-rivera",
+      "referencia_sil": "9228956",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228282",
+      "nombre_fuente": "Dip. Alfredo Vázquez Vázquez",
+      "person_id": "alfredo-vazquez-vazquez",
+      "referencia_sil": "9228282",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228958",
+      "nombre_fuente": "Dip. Olga María del Carmen Sánchez Cordero Dávila",
+      "person_id": "olga-maria-del-carmen-sanchez-cordero-davila",
+      "referencia_sil": "9228958",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229026",
+      "nombre_fuente": "Dip. Mariana Benítez Tiburcio",
+      "person_id": "mariana-benitez-tiburcio",
+      "referencia_sil": "9229026",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228998",
+      "nombre_fuente": "Dip. Alfonso Ramírez Cuéllar",
+      "person_id": "alfonso-ramirez-cuellar",
+      "referencia_sil": "9228998",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229312",
+      "nombre_fuente": "Sen. Luis Alfonso Silva Romo",
+      "person_id": "luis-alfonso-silva-romo",
+      "referencia_sil": "9229312",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229192",
+      "nombre_fuente": "Sen. Saúl Monreal Ávila",
+      "person_id": "saul-monreal-avila",
+      "referencia_sil": "9229192",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229004",
+      "nombre_fuente": "Sen. Raúl Morón Orozco",
+      "person_id": "raul-moron-orozco",
+      "referencia_sil": "9229004",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229164",
+      "nombre_fuente": "Sen. Ana Lilia Rivera Rivera",
+      "person_id": "ana-lilia-rivera-rivera",
+      "referencia_sil": "9229164",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229263",
+      "nombre_fuente": "Sen. María Guadalupe Chavira De La Rosa",
+      "person_id": "maria-guadalupe-chavira-de-la-rosa",
+      "referencia_sil": "9229263",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229264",
+      "nombre_fuente": "Sen. Susana Harp Iturribarría",
+      "person_id": "susana-harp-iturribarria",
+      "referencia_sil": "9229264",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229280",
+      "nombre_fuente": "Sen. Javier Corral Jurado",
+      "person_id": "javier-corral-jurado",
+      "referencia_sil": "9229280",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a.html.gz",
+      "consultado": "2026-11-17T07:57:42Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "23/04/2026",
+        "FECHA_INIC": "16/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4900723",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Defensa Nacional",
+      "referencia": "2085546",
+      "texto": "1.-Diputados -Defensa Nacional .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "2.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversos artículos de la Ley Federal de Armas de Fuego y Explosivos y de la Ley General del Sistema Nacional de Seguridad Pública.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-05-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-21",
+  "id": "sil-4900723",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228668",
+      "nombre_fuente": "Dip. Emilio Manzanilla Téllez",
+      "person_id": "emilio-manzanilla-tellez",
+      "referencia_sil": "9228668",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4902572",
+  "sources": [
+    {
+      "archivo": "fuentes/7e/7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab.html.gz",
+      "consultado": "2026-11-17T07:55:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

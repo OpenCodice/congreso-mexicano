@@ -1,0 +1,70 @@
+{
+  "camara_origen": "senado",
+  "clave": "4930577",
+  "comisiones": [],
+  "denominacion": "Por el que se desecha la iniciativa con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Seguro Social.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-09-23",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 23-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-23",
+  "id": "sil-4930577",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos, Primera",
+      "referencias_comision": [
+        "2085523"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Derechos Digitales",
+      "referencias_comision": [
+        "2085506"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Seguridad Social",
+      "referencias_comision": [
+        "2085530"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4932546",
+  "sources": [
+    {
+      "archivo": "fuentes/69/696c87a3b7fb316bed50499238c5e91cdb129ef6f35ad3cf41505340f190f2d8.html.gz",
+      "consultado": "2026-11-17T08:08:59Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "696c87a3b7fb316bed50499238c5e91cdb129ef6f35ad3cf41505340f190f2d8",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

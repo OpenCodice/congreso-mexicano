@@ -1,0 +1,60 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5119179",
+  "comisiones": [],
+  "denominacion": "Por el que exhorta a la Consejería Jurídica del Ejecutivo Federal, a la Secretaría de Gobernación y a otras autoridades competentes a garantizar la libertad de expresión y la seguridad de periodistas, personas críticas al gobierno y personas activistas; a transparentar el uso de recursos públicos destinados al monitoreo y clasificación de la conversación pública; y a promover un pacto de civilidad democrática.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-24",
+  "id": "sil-5119179",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228782",
+      "nombre_fuente": "Dip. Laura Irais Ballesteros Mancilla",
+      "person_id": "laura-irais-ballesteros-mancilla",
+      "referencia_sil": "9228782",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5119553",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7.html.gz",
+      "consultado": "2026-11-17T08:07:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Gobernación",
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

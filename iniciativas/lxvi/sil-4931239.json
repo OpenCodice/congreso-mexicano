@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4931239",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 02-SEP-2026"
+  },
+  "expediente_id": "sil-5090391",
+  "fecha_presentacion": "2025-09-23",
+  "id": "sil-4931239",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229342",
+      "nombre_fuente": "Dip. Alejandra Chedraui Peralta",
+      "person_id": "alejandra-chedraui-peralta",
+      "referencia_sil": "9229342",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090391",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

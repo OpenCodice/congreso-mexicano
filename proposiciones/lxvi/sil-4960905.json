@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4960905",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Agricultura",
+      "referencia": "2085477",
+      "texto": "1.-Senado -Agricultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a los poderes ejecutivo y Legislativo del estado de Tlaxcala a fortalecer el presupuesto destinado a al sector agropecuario y a considerar la creación de una partida presupuestal específica para el Sistema de Agricultura Metepantle de Tlaxcala.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-28",
+  "id": "sil-4960905",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229164",
+      "nombre_fuente": "Sen. Ana Lilia Rivera Rivera",
+      "person_id": "ana-lilia-rivera-rivera",
+      "referencia_sil": "9229164",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4964945",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Campo",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

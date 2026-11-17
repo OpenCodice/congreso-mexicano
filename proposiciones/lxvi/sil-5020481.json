@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5020481",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a impulsar medidas para garantizar la accesibilidad de las personas con discapacidad que participen en las actividades relacionadas con la Copa Mundial de Fútbol.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-24",
+  "id": "sil-5020481",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228913",
+      "nombre_fuente": "Sen. Karen Castrejón Trujillo",
+      "person_id": "karen-castrejon-trujillo",
+      "referencia_sil": "9228913",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5024008",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

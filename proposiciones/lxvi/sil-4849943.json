@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4849943",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Salud a incluir la salud visual como una acción prioritaria dentro del programa sectorial de salud 2025-2030.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-05",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 05-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-05",
+  "id": "sil-4849943",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229362",
+      "nombre_fuente": "Dip. Nayeli Arlen Fernández Cruz",
+      "person_id": "nayeli-arlen-fernandez-cruz",
+      "referencia_sil": "9229362",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850932",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

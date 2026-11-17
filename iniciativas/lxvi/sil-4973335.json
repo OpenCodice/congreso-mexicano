@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4973335",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085544",
+      "texto": "1.-Diputados -Asuntos Migratorios.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 52 fracción IV y se adiciona un segundo párrafo de la Ley de Migración.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 02-SEP-2026"
+  },
+  "expediente_id": "sil-5090376",
+  "fecha_presentacion": "2025-11-12",
+  "id": "sil-4973335",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228622",
+      "nombre_fuente": "Dip. Tey Mollinedo Cano",
+      "person_id": "tey-mollinedo-cano",
+      "referencia_sil": "9228622",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5090376",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Migración",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

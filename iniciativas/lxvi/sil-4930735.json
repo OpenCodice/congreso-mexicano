@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4930735",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el inciso a) del artículo 30 de la Ley de los Derechos de las Personas Adultas Mayores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-09-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-SEP-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-23",
+  "id": "sil-4930735",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228264",
+      "nombre_fuente": "Dip. Cintia Cuevas Sánchez",
+      "person_id": "cintia-cuevas-sanchez",
+      "referencia_sil": "9228264",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4934814",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

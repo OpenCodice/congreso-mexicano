@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4903346",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita a la Secretaría de Infraestructura, Comunicaciones y Transportes a realizar una revisión técnica de la NOM-012-SCT-2-2017, relativa al peso bruto vehicular, a fin de garantizar la seguridad vial y la integridad de la infraestructura carretera nacional.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-23",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-04",
+  "id": "sil-4903346",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228256",
+      "nombre_fuente": "Dip. Francisco Javier Borrego Adame",
+      "person_id": "francisco-javier-borrego-adame",
+      "referencia_sil": "9228256",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914574",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4805303",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ayuntamiento de Guadalajara, Jalisco, a concluir con la adquisición de las 55 calandrias eléctricas que sustituirán las calandrias tiradas por animales, para que se aplique con obligatoriedad inmediata el artículo 46 bis del Reglamento Sanitario de Control y Protección a los Animales para el Municipio de Guadalajara, con el objetivo de prohibir la utilización de calandrias tiradas por animales, así como el uso de animales de tiro o carga en la vía pública.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-20",
+  "id": "sil-4805303",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228541",
+      "nombre_fuente": "Dip. Merilyn Gómez Pozos",
+      "person_id": "merilyn-gomez-pozos",
+      "referencia_sil": "9228541",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4807410",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

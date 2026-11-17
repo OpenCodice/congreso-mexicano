@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5086779",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cambio Climático y Sostenibilidad",
+      "referencia": "2085565",
+      "texto": "1.-Diputados -Cambio Climático y Sostenibilidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un segundo párrafo al artículo 31, recorriéndose los subsecuentes, de la Ley General de Cambio Climático, en materia de mitigación climática basada en ecosistemas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5086779",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228270",
+      "nombre_fuente": "Dip. Leoncio Alfonso Morán Sánchez",
+      "person_id": "leoncio-alfonso-moran-sanchez",
+      "referencia_sil": "9228270",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5091768",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4999494",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción VI del artículo 1053, el artículo 1054, el artículo 1063, las fracciones V y VI del artículo 1068, los párrafos primero y segundo del artículo 1069, el párrafo tercero del artículo 1071, el párrafo segundo del artículo 1075, la fracción II del artículo 1378 y la fracción II del artículo 1390 Bis 11; y se adiciona una fracción VII al artículo 1068, del Código de Comercio, en materia de notificaciones electrónicas y sistemas de justicia digital.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-4999494",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228978",
+      "nombre_fuente": "Dip. Jesús Valdés Peña",
+      "person_id": "jesus-valdes-pena",
+      "referencia_sil": "9228978",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001696",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

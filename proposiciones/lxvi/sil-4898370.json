@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4898370",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Gobierno de Nuevo León para que publique un informe sobre el manejo, su distribución y entrega del agua en dicha entidad, con el propósito de garantizar que el abastecimiento de este vital líquido sea de calidad y asequible.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-07-09",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 09-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-07",
+  "id": "sil-4898370",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4912381",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

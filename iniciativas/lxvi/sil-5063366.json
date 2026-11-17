@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5063366",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el segundo párrafo de la fracción XIII del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de derechos laborales de las y los servidores públicos de la seguridad pública del Estado mexicano.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-04-01",
+    "resultado": "desechado",
+    "texto": "Desechado el 01-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-23",
+  "id": "sil-5063366",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229034",
+      "nombre_fuente": "Dip. Rosalinda Savala Díaz",
+      "person_id": "rosalinda-savala-diaz",
+      "referencia_sil": "9229034",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5063376",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

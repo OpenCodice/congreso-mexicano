@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5177540",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "1.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno de Jalisco, al SIAPA, a la COPRISJAL y a la CONAGUA a implementar acciones urgentes para atender el suministro de agua turbia en el estado de Jalisco, garantizar su calidad y proteger la salud de la población.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5177540",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229304",
+      "nombre_fuente": "Dip. Laura Ivonne Ruiz Moreno",
+      "person_id": "laura-ivonne-ruiz-moreno",
+      "referencia_sil": "9229304",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5183006",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

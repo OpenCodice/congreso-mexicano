@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4904709",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la titular del Ejecutivo Federal para que, a través de la Secretaría de Hacienda y Crédito Público, se realice la redirección del recurso presupuestario subejercido por los ejecutores del gasto al Fondo de Aportaciones para la Infraestructura Social correspondiente al Ramo 33.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-11",
+  "id": "sil-4904709",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229048",
+      "nombre_fuente": "Dip. Carmen Rocío González Alonso",
+      "person_id": "carmen-rocio-gonzalez-alonso",
+      "referencia_sil": "9229048",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4905543",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Indígenas",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

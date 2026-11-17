@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911706",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-09",
+  "id": "sil-4911706",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228668",
+      "nombre_fuente": "Dip. Emilio Manzanilla Téllez",
+      "person_id": "emilio-manzanilla-tellez",
+      "referencia_sil": "9228668",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4913372",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

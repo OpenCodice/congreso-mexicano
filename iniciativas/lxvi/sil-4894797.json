@@ -1,0 +1,74 @@
+{
+  "camara_origen": "senado",
+  "clave": "4894797",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Radio, Televisión y Cinematografía",
+      "referencia": "2085504",
+      "texto": "1.-Senado -Radio, Televisión y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 3 y adiciona los artículos 190 Bis y 262 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4894797",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229312",
+      "nombre_fuente": "Sen. Luis Alfonso Silva Romo",
+      "person_id": "luis-alfonso-silva-romo",
+      "referencia_sil": "9229312",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898808",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

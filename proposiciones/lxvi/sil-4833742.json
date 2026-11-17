@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4833742",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085544",
+      "texto": "1.-Diputados -Asuntos Migratorios.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al Poder Ejecutivo Federal, por conducto de las dependencias correspondientes y en coordinación con las autoridades locales y municipales, así como con organizaciones no gubernamentales, a fortalecer la atención integral y humanitaria a la niñez migrante, garantizando el respeto a sus derechos humanos, su protección frente a la violencia y explotación, el acceso a servicios básicos como salud, educación y alimentación, así como la implementación de medidas para erradicar el trabajo infantil y facilitar su integración en el sistema educativo.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833742",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228804",
+      "nombre_fuente": "Dip. Fernando Jorge Castro Trenti",
+      "person_id": "fernando-jorge-castro-trenti",
+      "referencia_sil": "9228804",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4836060",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Migración",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5096416",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a las y los Gobernadores Constitucionales de las 32 entidades federativas, así como al titular de la Secretaría de Salud federal y a sus homólogas en las entidades federativas para que, en el marco de la celebración de la Copa Mundial de Fútbol 2026 se fortalezca la observancia y aplicación de las disposiciones en materia de control del tabaco y productos de nicotina, a fin de proteger la salud pública de la población nacional y visitante.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2026-08-05",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-25",
+  "id": "sil-5096416",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228284",
+      "nombre_fuente": "Dip. Joaquín Zebadúa Alva",
+      "person_id": "joaquin-zebadua-alva",
+      "referencia_sil": "9228284",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115101",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

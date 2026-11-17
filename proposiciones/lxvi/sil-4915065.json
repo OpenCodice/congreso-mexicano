@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4915065",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que establece las políticas públicas y estrategias urgentes para resolver el abastecimiento de agua potable en la comunidad de guarda de San Antonio Plaza de Gallos, municipio de San José del Rincón, estado de México.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-30",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 30-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-30",
+  "id": "sil-4915065",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228698",
+      "nombre_fuente": "Dip. Juan Angel Bautista Bravo",
+      "person_id": "juan-angel-bautista-bravo",
+      "referencia_sil": "9228698",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4916699",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4984161",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de los artículos 5°, 7°, 25 y 100 de la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de prohibición de envases pet en bebidas azucaradas.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-01-19",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 19-ENE-2026"
+  },
+  "expediente_id": "sil-4998948",
+  "fecha_presentacion": "2025-11-26",
+  "id": "sil-4984161",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228393",
+      "nombre_fuente": "Dip. Beatriz Andrea Navarro Pérez",
+      "person_id": "beatriz-andrea-navarro-perez",
+      "referencia_sil": "9228393",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4998948",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

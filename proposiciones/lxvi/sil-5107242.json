@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5107242",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Relaciones Exteriores para que informe a la opinión pública sobre los mecanismos de supervisión, lineamientos institucionales, protocolos de actuación y criterios técnicos, profesionales, diplomáticos e institucionales considerados en los recientes nombramientos de titulares y personal adscrito a los consulados mexicanos en los Estados Unidos de América, precisando cuántos corresponden a integrantes del Servicio Exterior Mexicano y cuántos derivan de designaciones externas al mismo; asimismo, para que fortalezca los mecanismos de supervisión, control institucional y evaluación permanente de la red consular mexicana, a efecto de garantizar que todas sus actuaciones se apeguen estrictamente a los principios de legalidad, imparcialidad, profesionalismo, eficiencia, servicio público y no intervención político-electoral, asegurando que los consulados mexicanos cumplan plenamente con su función primordial de brindar atención, asistencia, orientación y protección efectiva a las personas mexicanas que residen o transitan en el exterior.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-01",
+  "id": "sil-5107242",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228575",
+      "nombre_fuente": "Dip. Diego Ángel Rodríguez Barroso",
+      "person_id": "diego-angel-rodriguez-barroso",
+      "referencia_sil": "9228575",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5109487",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

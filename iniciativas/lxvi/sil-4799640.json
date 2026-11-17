@@ -1,0 +1,81 @@
+{
+  "camara_origen": "senado",
+  "clave": "4799640",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción IV Bis al artículo 6; el Capítulo VIII Bis, denominado Premio Nacional de Economía -Ifigenia Martínez-, así como los artículos 55-A, 55-B, 55-C y 55-D de la Ley de Premios, Estímulos y Recompensas Civiles.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-11-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-06",
+  "id": "sil-4799640",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas MC PT PVEM",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229138",
+      "nombre_fuente": "Sen. Óscar Cantón Zetina",
+      "person_id": "oscar-canton-zetina",
+      "referencia_sil": "9229138",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4799649",
+  "sources": [
+    {
+      "archivo": "fuentes/9c/9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9.html.gz",
+      "consultado": "2026-11-17T07:53:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía",
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

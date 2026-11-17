@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5181550",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "1.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Gobierno Federal y a la SEGOB a garantizar la seguridad de los transportistas en las carreteras de México, frenar la violencia, las extorsiones y el cobro de piso, y atender las exigencias del sector ante el paro nacional del 26 de octubre de 2026.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-28",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 28-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-28",
+  "id": "sil-5181550",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229304",
+      "nombre_fuente": "Dip. Laura Ivonne Ruiz Moreno",
+      "person_id": "laura-ivonne-ruiz-moreno",
+      "referencia_sil": "9229304",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5183151",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Gobernación",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

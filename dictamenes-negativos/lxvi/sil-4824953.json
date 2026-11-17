@@ -1,0 +1,63 @@
+{
+  "camara_origen": "senado",
+  "clave": "4824953",
+  "comisiones": [],
+  "denominacion": "Por el que se desecha la iniciativa con proyecto de decreto que adiciona la Ley del Seguro Social y la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2024-12-12",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 12-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-12",
+  "id": "sil-4824953",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos, Segunda",
+      "referencias_comision": [
+        "2085525"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Seguridad Social",
+      "referencias_comision": [
+        "2085530"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4825405",
+  "sources": [
+    {
+      "archivo": "fuentes/2e/2e6f2597ae7a1c40184db9d0bd1a3feaa720c67ebec4029b12e4e2a16862e44b.html.gz",
+      "consultado": "2026-11-17T08:08:20Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2e6f2597ae7a1c40184db9d0bd1a3feaa720c67ebec4029b12e4e2a16862e44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4913803",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a los gobiernos de las entidades federativas y de la Ciudad de México para que diseñen e instrumenten acciones de política pública dirigidas a combatir y erradicar la violencia familiar; asimismo, a los Congresos estatales y al de la Ciudad de México para que incorporen o refuercen las disposiciones necesarias en sus marcos legales que permitan a las autoridades actuar eficazmente en contra de los delitos de abuso de menores de edad y el feminicidio.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-23",
+  "id": "sil-4913803",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228355",
+      "nombre_fuente": "Dip. Ma. Lorena García Jimeno Alcocer",
+      "person_id": "ma-lorena-garcia-jimeno-alcocer",
+      "referencia_sil": "9228355",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4915734",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

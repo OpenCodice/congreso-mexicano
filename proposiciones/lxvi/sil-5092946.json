@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5092946",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Hacienda y Crédito Público y a la Secretaría de Infraestructura, Comunicaciones y Transportes a llevar a cabo las acciones necesarias para la construcción del cuerpo sur-poniente de la carretera libramiento MEX-II del kilómetro 0+000 al kilómetro 3+914.19 en Nuevo Laredo, Tamaulipas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-13",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 13-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-13",
+  "id": "sil-5092946",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228427",
+      "nombre_fuente": "Dip. Carlos Enrique Canturosas Villarreal",
+      "person_id": "carlos-enrique-canturosas-villarreal",
+      "referencia_sil": "9228427",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5101412",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

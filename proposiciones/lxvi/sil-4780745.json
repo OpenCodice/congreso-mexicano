@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4780745",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Asuntos Frontera Norte",
+      "referencia": "2085563",
+      "texto": "1.-Diputados -Asuntos Frontera Norte.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SHCP a valorar la pertinencia de ampliar la vigencia del Decreto de Estímulos Fiscales Región Fronteriza Norte y sus posteriores modificaciones publicado el 31 de diciembre del 2018 hasta septiembre del 2030, a fin de continuar incentivando el crecimiento económico de la Región Fronteriza Norte de México.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-08",
+  "id": "sil-4780745",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228495",
+      "nombre_fuente": "Dip. Daniel Murguía Lardizabal",
+      "person_id": "daniel-murguia-lardizabal",
+      "referencia_sil": "9228495",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4782781",
+  "sources": [
+    {
+      "archivo": "fuentes/5c/5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98.html.gz",
+      "consultado": "2026-11-17T08:00:25Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5c410ef236a0f8ab5aabb5b218411511a249ac07279c7e463b8ce59b19f71b98",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

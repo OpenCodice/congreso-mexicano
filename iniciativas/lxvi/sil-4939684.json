@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4939684",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial",
+      "referencia": "2085570",
+      "texto": "1.-Diputados -Desarrollo Urbano y Ordenamiento Territorial.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 82 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, en materia de garantía del derecho a la seguridad patrimonial mediante la escrituración de asentamientos humanos irregulares.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-01",
+  "id": "sil-4939684",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228569",
+      "nombre_fuente": "Dip. Laura Cristina Márquez Alcalá",
+      "person_id": "laura-cristina-marquez-alcala",
+      "referencia_sil": "9228569",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4941470",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Iniciativa"
+}

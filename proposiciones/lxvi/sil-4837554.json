@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4837554",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085560",
+      "texto": "1.-Diputados -Relaciones Exteriores .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Economía y a la SRE, así como a la Colegisladora, a dar seguimiento a la Relación Bilateral México-Singapur, en el marco de la Alianza del Pacífico.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-18",
+  "id": "sil-4837554",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228674",
+      "nombre_fuente": "Dip. Gabriela Valdepeñas González",
+      "person_id": "gabriela-valdepenas-gonzalez",
+      "referencia_sil": "9228674",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4840135",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía",
+    "Poder Legislativo",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

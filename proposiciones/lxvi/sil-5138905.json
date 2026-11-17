@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5138905",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Salud, en coordinación con las instituciones públicas de salud, INAPAM y demás autoridades competentes, a establecer mecanismos de coordinación para desarrollar acciones de capacitación dirigidas al personal de salud, familiares y personas cuidadoras de personas adultas mayores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-22",
+  "id": "sil-5138905",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229348",
+      "nombre_fuente": "Dip. Ma. Leonor Noyola Cervantes",
+      "person_id": "ma-leonor-noyola-cervantes",
+      "referencia_sil": "9229348",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143472",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Desarrollo Social",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

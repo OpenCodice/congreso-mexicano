@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5190873",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Turismo",
+      "referencia": "2085561",
+      "texto": "1.-Diputados -Turismo .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de prevención, atención y actuación frente al acoso sexual en los establecimientos y servicios turísticos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-09",
+  "id": "sil-5190873",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229401",
+      "nombre_fuente": "Dip. María Teresa Ealy Díaz",
+      "person_id": "maria-teresa-ealy-diaz",
+      "referencia_sil": "9229401",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5196118",
+  "sources": [
+    {
+      "archivo": "fuentes/6f/6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2.html.gz",
+      "consultado": "2026-11-17T07:59:09Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6fff08f9b88d5a7e76f379108f6fadec5f0a2c6ede5abf234bb452185ac810c2",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

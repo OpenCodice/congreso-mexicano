@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4967734",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Economía",
+      "referencia": "2085515",
+      "texto": "1.-Senado -Economía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Economía para que, en coordinación con la Procuraduría Federal del Consumidor y las organizaciones empresariales participantes, fortalezca la difusión de la campaña de identidad y unidad nacional implementada en El Buen Fin 2025, utilizando de manera conjunta los logotipos -El Buen Fin 2025- y -Hecho en México-, con el propósito de promover el consumo de productos nacionales, reconocer la calidad de la producción mexicana y fomentar el orgullo por lo hecho en nuestro país.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-05",
+  "id": "sil-4967734",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5003196",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,75 @@
+{
+  "camara_origen": "senado",
+  "clave": "4774671",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que crea la Ley General para la Protección y Asistencia de los Familiares y Personas Buscadoras, complementaria de la Ley General de Víctimas y de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-09-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-SEP-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-09-18",
+  "id": "sil-4774671",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228926",
+      "nombre_fuente": "Sen. Francisco Ricardo Sheffield Padilla",
+      "person_id": "francisco-ricardo-sheffield-padilla",
+      "referencia_sil": "9228926",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4775019",
+  "sources": [
+    {
+      "archivo": "fuentes/27/273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6.html.gz",
+      "consultado": "2026-11-17T07:53:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Gobernación",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5177517",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (01/09/2026-31/08/2027)",
+      "referencia": "2246",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (01/09/2026-31/08/2027).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Para que el Titular del Órgano Interno de Control del INE, Víctor Hugo Carvente Contreras, se reúna con la Jucopo de la Cámara de Diputados, en relación con la presunta comisión de diversas conductas constitutivas de responsabilidad administrativa graves en dicho Instituto.",
+  "estatus": {
+    "estado": "Pendiente en órgano(s) de gobierno",
+    "fecha": "2026-10-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en órgano(s) de gobierno el 27-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5177517",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229110",
+      "nombre_fuente": "Dip. Marcelo de Jesús Torres Cofiño",
+      "person_id": "marcelo-de-jesus-torres-cofino",
+      "referencia_sil": "9229110",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229144",
+      "nombre_fuente": "Dip. Kenia López Rabadán",
+      "person_id": "kenia-lopez-rabadan",
+      "referencia_sil": "9229144",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5182975",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Legislativo",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

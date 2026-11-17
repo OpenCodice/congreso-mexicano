@@ -1,0 +1,158 @@
+{
+  "camara_origen": "senado",
+  "clave": "5032113",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-10",
+  "id": "sil-5032113",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229182",
+      "nombre_fuente": "Sen. Jorge Carlos Ramírez Marín",
+      "person_id": "jorge-carlos-ramirez-marin",
+      "referencia_sil": "9229182",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229397",
+      "nombre_fuente": "Sen. Maki Esther Ortiz Domínguez",
+      "person_id": "maki-esther-ortiz-dominguez",
+      "referencia_sil": "9229397",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228884",
+      "nombre_fuente": "Sen. Virgilio Mendoza Amezcua",
+      "person_id": "virgilio-mendoza-amezcua",
+      "referencia_sil": "9228884",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228894",
+      "nombre_fuente": "Sen. Luis Armando Melgar Bravo",
+      "person_id": "luis-armando-melgar-bravo",
+      "referencia_sil": "9228894",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228930",
+      "nombre_fuente": "Sen. Virginia Marie Magaña Fonseca",
+      "person_id": "virginia-marie-magana-fonseca",
+      "referencia_sil": "9228930",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229094",
+      "nombre_fuente": "Sen. Gilberto Hernández Villafuerte",
+      "person_id": "gilberto-hernandez-villafuerte",
+      "referencia_sil": "9229094",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229092",
+      "nombre_fuente": "Sen. Ruth Miriam González Silva",
+      "person_id": "ruth-miriam-gonzalez-silva",
+      "referencia_sil": "9229092",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229058",
+      "nombre_fuente": "Sen. Waldo Fernández González",
+      "person_id": "waldo-fernandez-gonzalez",
+      "referencia_sil": "9229058",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228966",
+      "nombre_fuente": "Sen. María del Rocío Corona Nakamura",
+      "person_id": "maria-del-rocio-corona-nakamura",
+      "referencia_sil": "9228966",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229024",
+      "nombre_fuente": "Sen. Jasmine María Bugarín Rodríguez",
+      "person_id": "jasmine-maria-bugarin-rodriguez",
+      "referencia_sil": "9229024",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228913",
+      "nombre_fuente": "Sen. Karen Castrejón Trujillo",
+      "person_id": "karen-castrejon-trujillo",
+      "referencia_sil": "9228913",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229238",
+      "nombre_fuente": "Sen. Manuel Velasco Coello",
+      "person_id": "manuel-velasco-coello",
+      "referencia_sil": "9229238",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5080636",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Poder Legislativo",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

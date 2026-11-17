@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5105122",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la Secretaría de Seguridad y Protección Ciudadana, a la Guardia Nacional y a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros que fortalezcan las campañas de prevención, orientación y difusión sobre fraudes digitales y delitos cibernéticos, particularmente en su modalidad de Smishing, que impliquen la suplantación de identidad de instituciones públicas o financieras, mediante el uso del servicio de mensajes cortos, enlaces electrónicos o plataformas digitales.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-05",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-17",
+  "id": "sil-5105122",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228168",
+      "nombre_fuente": "Dip. Jessica Saiden Quiroz",
+      "person_id": "jessica-saiden-quiroz",
+      "referencia_sil": "9228168",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5115077",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Sistema Financiero",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

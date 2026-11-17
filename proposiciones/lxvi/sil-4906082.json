@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4906082",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Cultura para que, a través de la Dirección General de Bibliotecas, realice un diagnóstico actualizado sobre las condiciones de infraestructura, acervo, equipamiento y personal de la Red Nacional de Bibliotecas Públicas, e implemente un plan integral de rehabilitación y fortalecimiento de dichos espacios, priorizando aquellos ubicados en comunidades rurales, indígenas y zonas de alta marginación.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-13",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-20",
+  "id": "sil-4906082",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917604",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

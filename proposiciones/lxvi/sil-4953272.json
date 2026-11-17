@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4953272",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Ejecutivo Federal y a la Cámara de Diputados a que no se realicen recortes presupuestales al Servicio Meteorológico Nacional, para el ejercicio 2026 hay una reducción de más del 10% respecto de 2025, tales recortes presupuestales destruyen la capacidad institucional de prever lluvias que provocan inundaciones y desastres como las que recién ocurrieron en Veracruz, Puebla, San Luis Potosí, Hidalgo y Oaxaca, provocando tragedias a la población.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-12-15",
+    "resultado": "desechado",
+    "texto": "Desechado el 15-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-21",
+  "id": "sil-4953272",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4958438",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

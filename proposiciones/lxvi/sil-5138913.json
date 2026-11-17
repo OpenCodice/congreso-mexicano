@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5138913",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al IFDP y a las autoridades competentes del Poder Judicial de la Federación a revisar el cese del personal de trabajo social adscrito a dicho Instituto, a fin de garantizar sus derechos laborales y preservar la atención especializada que brindan a las personas en situación de vulnerabilidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-22",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 22-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-22",
+  "id": "sil-5138913",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229304",
+      "nombre_fuente": "Dip. Laura Ivonne Ruiz Moreno",
+      "person_id": "laura-ivonne-ruiz-moreno",
+      "referencia_sil": "9229304",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143463",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral",
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,81 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4834671",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Recursos Hidráulicos, Agua Potable y Saneamiento",
+      "referencia": "2085584",
+      "texto": "2.-Diputados -Recursos Hidráulicos, Agua Potable y Saneamiento .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley que Crea el Fondo Nacional Banco del Agua.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-12",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 12-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-12",
+  "id": "sil-4834671",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228351",
+      "nombre_fuente": "Dip. Ricardo Astudillo Suárez",
+      "person_id": "ricardo-astudillo-suarez",
+      "referencia_sil": "9228351",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4834893",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5029947",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Medio Ambiente, Recursos Naturales y Cambio Climático",
+      "referencia": "2085490",
+      "texto": "1.-Senado -Medio Ambiente, Recursos Naturales y Cambio Climático.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta, respetuosamente, a la Secretaría de Medio Ambiente y Recursos Naturales para que en coordinación con la Secretaría de Agricultura y Desarrollo Rural, así como a sus homólogas en las 32 entidades federativas, fortalezcan o en su caso implementen programas para la conservación, recuperación, reproducción y reintroducción en su hábitat, de especies de plantas medicinales y aromáticas, promoviendo la participación activa de comunidades locales, pueblos y comunidades indígenas, personas productoras, recolectoras y demás actores vinculados a su manejo sostenible, garantizando la preservación del conocimiento tradicional asociado y el aprovechamiento responsable de la biodiversidad.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-04-15",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 15-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-04",
+  "id": "sil-5029947",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5071816",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

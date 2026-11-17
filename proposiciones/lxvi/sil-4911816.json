@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911816",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita a la Secretaria de Salud, en coordinación con la Secretaría del Bienestar, el DIF y el INAPAM, así como a sus homólogas de las entidades federativas y de la Ciudad de México, a inspeccionar y verificar los establecimientos que presten servicios de Asistencia Social a Personas Adultas y Adultas Mayores en situación de riesgo y vulnerabilidad, y en su caso se clausuren aquellos que incurran en acciones u omisiones que pongan en riesgo la integridad de este grupo vulnerable, a efecto de que se cumpla la normativa.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-27",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-09",
+  "id": "sil-4911816",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228854",
+      "nombre_fuente": "Dip. Luis Arturo Oliver Cen",
+      "person_id": "luis-arturo-oliver-cen",
+      "referencia_sil": "9228854",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919958",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

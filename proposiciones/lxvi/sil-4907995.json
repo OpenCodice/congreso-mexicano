@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4907995",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud federal, a sus homólogas en los estados, al Instituto Mexicano del Seguro Social; al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y al IMSS Bienestar, a promover acciones sobre la prevención, el diagnóstico, el tratamiento, el control y la vigilancia epidemiológica del cáncer de mama, y a generar campañas de información y realización de pruebas para el diagnóstico oportuno de cáncer de mama.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-13",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 13-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-25",
+  "id": "sil-4907995",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229275",
+      "nombre_fuente": "Sen. Emmanuel Reyes Carmona",
+      "person_id": "emmanuel-reyes-carmona",
+      "referencia_sil": "9229275",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917603",
+  "sources": [
+    {
+      "archivo": "fuentes/cf/cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d.html.gz",
+      "consultado": "2026-11-17T08:01:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "cf5a1c5f2b6bb2e9ba0f0f9c974017df03661afdc8372e96b6d7013cf7d29d4d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

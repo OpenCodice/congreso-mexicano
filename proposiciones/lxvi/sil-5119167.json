@@ -1,0 +1,58 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5119167",
+  "comisiones": [],
+  "denominacion": "Por el que exhorta a las autoridades educativas y de procuración de justicia del estado de Guanajuato a fortalecer las medidas de protección, atención y acompañamiento a las y los estudiantes de la escuela secundaria General 20 -Centéotl-, en Acámbaro, así como a garantizar el esclarecimiento de los hechos y la salvaguarda del derecho de las niñas, niños y adolescentes a una educación libre de violencia y de cualquier forma de abuso o conducta indebida.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-24",
+  "id": "sil-5119167",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229275",
+      "nombre_fuente": "Sen. Emmanuel Reyes Carmona",
+      "person_id": "emmanuel-reyes-carmona",
+      "referencia_sil": "9229275",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5119561",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7.html.gz",
+      "consultado": "2026-11-17T08:07:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

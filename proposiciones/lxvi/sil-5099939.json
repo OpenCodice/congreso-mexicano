@@ -1,0 +1,98 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5099939",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a que lleven a cabo actuaciones en el marco del megaproyecto turístico -Perfect Day México-, en la comunidad de Mahahual, municipio de Othón P. Blanco, en Quintana Roo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-01",
+  "id": "sil-5099939",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229074",
+      "nombre_fuente": "Sen. Néstor Camarillo Medina",
+      "person_id": "nestor-camarillo-medina",
+      "referencia_sil": "9229074",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228755",
+      "nombre_fuente": "Sen. Francisco Daniel Barreda Pavón",
+      "person_id": "francisco-daniel-barreda-pavon",
+      "referencia_sil": "9228755",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229248",
+      "nombre_fuente": "Sen. José Clemente Castañeda Hoeflich",
+      "person_id": "jose-clemente-castaneda-hoeflich",
+      "referencia_sil": "9229248",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229250",
+      "nombre_fuente": "Sen. María Alejandra Barrales Magdaleno",
+      "person_id": "maria-alejandra-barrales-magdaleno",
+      "referencia_sil": "9229250",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229252",
+      "nombre_fuente": "Sen. Amalia Dolores García Medina",
+      "person_id": "amalia-dolores-garcia-medina",
+      "referencia_sil": "9229252",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5103342",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

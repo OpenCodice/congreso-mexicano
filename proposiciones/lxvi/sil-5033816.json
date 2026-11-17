@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5033816",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos Humanos",
+      "referencia": "2085548",
+      "texto": "1.-Diputados -Derechos Humanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la PPNNAl, al titular de la Defensoría de los Derechos Humanos del pueblo de Oaxaca y al Fiscal General del estado de Oaxaca, a garantizar los derechos y la reparación del daño de la niñez y adolescencia acogida residencialmente en las instituciones del estado.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-04-29",
+    "resultado": "retirado",
+    "texto": "Retirada el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-10",
+  "id": "sil-5033816",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228772",
+      "nombre_fuente": "Dip. María de Fátima García León",
+      "person_id": "maria-de-fatima-garcia-leon",
+      "referencia_sil": "9228772",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5037929",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

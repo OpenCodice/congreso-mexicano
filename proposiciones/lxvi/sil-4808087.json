@@ -1,0 +1,59 @@
+{
+  "camara_origen": "senado",
+  "clave": "4808087",
+  "comisiones": [],
+  "denominacion": "Por la que exhorta a la titular del Ejecutivo Federal para que, a través de la Secretaría de Hacienda y Crédito Público, se asignen los recursos necesarios en el Presupuesto de Egresos de la Federación para el ejercicio 2025 para llevar a cabo el Plan Nacional Hídrico 2024-2030 y a la Cámara de Diputados para que aprueben los recursos necesarios en el Presupuesto de Egresos de la Federación 2025 con el mismo fin.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-11-26",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 26-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-26",
+  "id": "sil-4808087",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229248",
+      "nombre_fuente": "Sen. José Clemente Castañeda Hoeflich",
+      "person_id": "jose-clemente-castaneda-hoeflich",
+      "referencia_sil": "9229248",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4813579",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

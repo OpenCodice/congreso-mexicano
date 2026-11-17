@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5140975",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad, en materia de medidas de apoyo para el ejercicio de la capacidad jurídica.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-23",
+  "id": "sil-5140975",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228569",
+      "nombre_fuente": "Dip. Laura Cristina Márquez Alcalá",
+      "person_id": "laura-cristina-marquez-alcala",
+      "referencia_sil": "9228569",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5142627",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

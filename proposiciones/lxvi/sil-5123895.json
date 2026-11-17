@@ -1,0 +1,68 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5123895",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SEDENA y a la empresa de participación estatal mayoritaria denominada -Tren Maya S.A. de C.V.-, sectorizada a dicha dependencia de la Administración Pública Federal, a realizar las acciones necesarias que garanticen el correcto funcionamiento del transporte -Tren Maya- y la seguridad de las personas usuarias del mismo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-08",
+  "id": "sil-5123895",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229246",
+      "nombre_fuente": "Dip. Christian Mishel Castro Bello",
+      "person_id": "christian-mishel-castro-bello",
+      "referencia_sil": "9229246",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5128719",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Seguridad Nacional",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,64 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4943098",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cultura y Cinematografía",
+      "referencia": "2085568",
+      "texto": "1.-Diputados -Cultura y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a la Secretaría de Cultura y al INBAL a considerar la realización de un homenaje en vida, en el Palacio de Bellas Artes, que honre a la artista multidisciplinaria mexicana Carmen Parra, para celebrar 60 años de su notable trayectoria artística.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-07",
+  "id": "sil-4943098",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228852",
+      "nombre_fuente": "Dip. Carmen Patricia Armendáriz Guerra",
+      "person_id": "carmen-patricia-armendariz-guerra",
+      "referencia_sil": "9228852",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4946437",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987.html.gz",
+      "consultado": "2026-11-17T08:02:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00f1ea49b7e30d2641537c101b99b74fd05c22dbbdb2319b546fc2db4f2cd987",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

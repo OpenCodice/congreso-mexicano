@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5066372",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Vivienda",
+      "referencia": "2085592",
+      "texto": "1.-Diputados -Vivienda .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Gobierno Federal y a las instituciones correspondientes a fin de informar y entregar a la ciudadanía un informe completo y actual sobre el programa de vivienda y regularización implementado por el mismo.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5066372",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228355",
+      "nombre_fuente": "Dip. Ma. Lorena García Jimeno Alcocer",
+      "person_id": "ma-lorena-garcia-jimeno-alcocer",
+      "referencia_sil": "9228355",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5072105",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Vivienda",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

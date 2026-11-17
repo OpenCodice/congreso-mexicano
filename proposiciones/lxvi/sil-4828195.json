@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828195",
+  "comisiones": [
+    {
+      "camara": "Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085601",
+      "texto": "1.-Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que se exhorta a la SRE y al INM a fortalecer los mecanismos de acción necesarios para la repatriación de niñas, niños y adolescentes migrantes a territorio mexicano.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-01-29",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 29-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-15",
+  "id": "sil-4828195",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228176",
+      "nombre_fuente": "Dip. María de los Dolores Padierna Luna",
+      "person_id": "maria-de-los-dolores-padierna-luna",
+      "referencia_sil": "9228176",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4830277",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Migración",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

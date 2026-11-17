@@ -1,0 +1,63 @@
+{
+  "camara_origen": "senado",
+  "clave": "5020291",
+  "comisiones": [],
+  "denominacion": "Por el que desecha una iniciativa con proyecto de decreto por el que se adiciona un segundo párrafo al artículo 99 de la Ley de Desarrollo Rural Sustentable.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2026-02-24",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 24-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-24",
+  "id": "sil-5020291",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Estudios Legislativos, Segunda",
+      "referencias_comision": [
+        "2085525"
+      ],
+      "tipo": "comision"
+    },
+    {
+      "nombre_fuente": "Senado: Desarrollo Rural",
+      "referencias_comision": [
+        "2085513"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4746459",
+  "sources": [
+    {
+      "archivo": "fuentes/6c/6c14e7b882c011fd5dea827309fdca2d064ce447c2d33b543710a0006da2b3a1.html.gz",
+      "consultado": "2026-11-17T08:09:20Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6c14e7b882c011fd5dea827309fdca2d064ce447c2d33b543710a0006da2b3a1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [],
+  "tipo": "Dictamen en sentido negativo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4844249",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Secretaría de Salud del gobierno de México y a su órgano desconcentrado, la Comisión Federal para la Protección contra Riesgos Sanitarios, para que en el marco de sus atribuciones, ejecuten las acciones necesarias, a efecto de prohibir la utilización del colorante rojo número tres o eritrosina E-127 en productos cosméticos y alimentos que se comercialicen en México, por resultar nocivo para la salud.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-26",
+  "id": "sil-4844249",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228926",
+      "nombre_fuente": "Sen. Francisco Ricardo Sheffield Padilla",
+      "person_id": "francisco-ricardo-sheffield-padilla",
+      "referencia_sil": "9228926",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4850998",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,94 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4911956",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Infraestructura",
+      "referencia": "2085577",
+      "texto": "1.-Diputados -Infraestructura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Pueblos Indígenas y Afromexicanos",
+      "referencia": "2085582",
+      "texto": "2.-Diputados -Pueblos Indígenas y Afromexicanos .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 42 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-09",
+  "id": "sil-4911956",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228393",
+      "nombre_fuente": "Dip. Beatriz Andrea Navarro Pérez",
+      "person_id": "beatriz-andrea-navarro-perez",
+      "referencia_sil": "9228393",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228581",
+      "nombre_fuente": "Dip. María Magdalena Rosales Cruz",
+      "person_id": "maria-magdalena-rosales-cruz",
+      "referencia_sil": "9228581",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228129",
+      "nombre_fuente": "Dip. Evangelina Moreno Guerra",
+      "person_id": "evangelina-moreno-guerra",
+      "referencia_sil": "9228129",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228282",
+      "nombre_fuente": "Dip. Alfredo Vázquez Vázquez",
+      "person_id": "alfredo-vazquez-vazquez",
+      "referencia_sil": "9228282",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4913388",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Iniciativa"
+}

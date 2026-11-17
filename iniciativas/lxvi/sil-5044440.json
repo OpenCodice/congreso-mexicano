@@ -1,0 +1,291 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5044440",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Cultura y Cinematografía",
+      "referencia": "2085568",
+      "texto": "1.-Diputados -Cultura y Cinematografía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-05-14",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 14-MAY-2026"
+  },
+  "expediente_id": "sil-5051107",
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5044440",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228690",
+      "nombre_fuente": "Dip. Wblester Santiago Pineda",
+      "person_id": "wblester-santiago-pineda",
+      "referencia_sil": "9228690",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228545",
+      "nombre_fuente": "Dip. José Luis Sánchez González",
+      "person_id": "jose-luis-sanchez-gonzalez",
+      "referencia_sil": "9228545",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228238",
+      "nombre_fuente": "Dip. Ana Karina Rojo Pimentel",
+      "person_id": "ana-karina-rojo-pimentel",
+      "referencia_sil": "9228238",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228389",
+      "nombre_fuente": "Dip. Jorge Armando Ortiz Rodríguez",
+      "person_id": "jorge-armando-ortiz-rodriguez",
+      "referencia_sil": "9228389",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229334",
+      "nombre_fuente": "Dip. Magdalena del Socorro Núñez Monreal",
+      "person_id": "magdalena-del-socorro-nunez-monreal",
+      "referencia_sil": "9229334",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228716",
+      "nombre_fuente": "Dip. José Luis Montalvo Luna",
+      "person_id": "jose-luis-montalvo-luna",
+      "referencia_sil": "9228716",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228463",
+      "nombre_fuente": "Dip. Nora Yessica Merino Escamilla",
+      "person_id": "nora-yessica-merino-escamilla",
+      "referencia_sil": "9228463",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229318",
+      "nombre_fuente": "Dip. Ricardo Sóstenes Mejía Berdeja",
+      "person_id": "ricardo-sostenes-mejia-berdeja",
+      "referencia_sil": "9229318",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228700",
+      "nombre_fuente": "Dip. Luis Enrique Martínez Ventura",
+      "person_id": "luis-enrique-martinez-ventura",
+      "referencia_sil": "9228700",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229324",
+      "nombre_fuente": "Dip. Maribel Martínez Ruiz",
+      "person_id": "maribel-martinez-ruiz",
+      "referencia_sil": "9229324",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228668",
+      "nombre_fuente": "Dip. Emilio Manzanilla Téllez",
+      "person_id": "emilio-manzanilla-tellez",
+      "referencia_sil": "9228668",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228461",
+      "nombre_fuente": "Dip. José Antonio López Ruiz",
+      "person_id": "jose-antonio-lopez-ruiz",
+      "referencia_sil": "9228461",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228425",
+      "nombre_fuente": "Dip. Vanessa López Carrillo",
+      "person_id": "vanessa-lopez-carrillo",
+      "referencia_sil": "9228425",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229408",
+      "nombre_fuente": "Dip. Rosalía León Rosas",
+      "person_id": "rosalia-leon-rosas",
+      "referencia_sil": "9229408",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228521",
+      "nombre_fuente": "Dip. Francisco Javier Guízar Macías",
+      "person_id": "francisco-javier-guizar-macias",
+      "referencia_sil": "9228521",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228369",
+      "nombre_fuente": "Dip. Santiago González Soto",
+      "person_id": "santiago-gonzalez-soto",
+      "referencia_sil": "9228369",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228218",
+      "nombre_fuente": "Dip. Adrián González Naveda",
+      "person_id": "adrian-gonzalez-naveda",
+      "referencia_sil": "9228218",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228387",
+      "nombre_fuente": "Dip. José Gloria López",
+      "person_id": "jose-gloria-lopez",
+      "referencia_sil": "9228387",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228316",
+      "nombre_fuente": "Dip. Jesús Fernando García Hernández",
+      "person_id": "jesus-fernando-garcia-hernandez",
+      "referencia_sil": "9228316",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228479",
+      "nombre_fuente": "Dip. Margarita García García",
+      "person_id": "margarita-garcia-garcia",
+      "referencia_sil": "9228479",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228276",
+      "nombre_fuente": "Dip. Irma Yordana Garay Loredo",
+      "person_id": "irma-yordana-garay-loredo",
+      "referencia_sil": "9228276",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228646",
+      "nombre_fuente": "Dip. Patricia Galindo Alarcón",
+      "person_id": "patricia-galindo-alarcon",
+      "referencia_sil": "9228646",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229322",
+      "nombre_fuente": "Dip. Francisco Amadeo Espinosa Ramos",
+      "person_id": "francisco-amadeo-espinosa-ramos",
+      "referencia_sil": "9229322",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229308",
+      "nombre_fuente": "Dip. Greycy Marian Durán Alarcón",
+      "person_id": "greycy-marian-duran-alarcon",
+      "referencia_sil": "9229308",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228154",
+      "nombre_fuente": "Dip. Luis Armando Díaz",
+      "person_id": "luis-armando-diaz",
+      "referencia_sil": "9228154",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229336",
+      "nombre_fuente": "Dip. María Isidra De la Luz Rivas",
+      "person_id": "maria-isidra-de-la-luz-rivas",
+      "referencia_sil": "9229336",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229328",
+      "nombre_fuente": "Dip. Martha Aracely Cruz Jiménez",
+      "person_id": "martha-aracely-cruz-jimenez",
+      "referencia_sil": "9229328",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228642",
+      "nombre_fuente": "Dip. Diana Castillo Gabino",
+      "person_id": "diana-castillo-gabino",
+      "referencia_sil": "9228642",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228409",
+      "nombre_fuente": "Dip. Mary Carmen Bernal Martínez",
+      "person_id": "mary-carmen-bernal-martinez",
+      "referencia_sil": "9228409",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228172",
+      "nombre_fuente": "Dip. José Alberto Benavides Castañeda",
+      "person_id": "jose-alberto-benavides-castaneda",
+      "referencia_sil": "9228172",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228279",
+      "nombre_fuente": "Dip. José Miguel Alegría Gómez",
+      "person_id": "jose-miguel-alegria-gomez",
+      "referencia_sil": "9228279",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228626",
+      "nombre_fuente": "Dip. Roberto Armando Albores Gleason",
+      "person_id": "roberto-armando-albores-gleason",
+      "referencia_sil": "9228626",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229330",
+      "nombre_fuente": "Dip. Reginaldo Sandoval Flores",
+      "person_id": "reginaldo-sandoval-flores",
+      "referencia_sil": "9229330",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5051107",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

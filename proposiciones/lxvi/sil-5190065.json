@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5190065",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Fiscalía General de la República y a la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, a informar sobre el estado que guarda el convenio general de colaboración publicado en el Diario Oficial de la Federación el 23 de noviembre de 2012, así como a impulsar su actualización y analizar la viabilidad de incorporar formalmente a la Unidad de Inteligencia Financiera en los mecanismos de Coordinación Interinstitucional.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-04",
+  "id": "sil-5190065",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

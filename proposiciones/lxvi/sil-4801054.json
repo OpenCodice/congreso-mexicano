@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4801054",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la STPS y al TFCA a observar y verificar el proceso de renovación del Comité Ejecutivo Seccional de la Sección 86 en Coahuila del Sindicato Nacional de Trabajadores de la Secretaría de Salud.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-01-31",
+    "resultado": "desechado",
+    "texto": "Desechado el 31-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-12",
+  "id": "sil-4801054",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229318",
+      "nombre_fuente": "Dip. Ricardo Sóstenes Mejía Berdeja",
+      "person_id": "ricardo-sostenes-mejia-berdeja",
+      "referencia_sil": "9229318",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4803781",
+  "sources": [
+    {
+      "archivo": "fuentes/5d/5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a.html.gz",
+      "consultado": "2026-11-17T08:00:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5dddd3b07920cb669008b6960430a7915d96552118179bffa29a92ee9420144a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

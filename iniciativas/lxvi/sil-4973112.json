@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4973112",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Radio y Televisión",
+      "referencia": "2085583",
+      "texto": "2.-Diputados -Radio y Televisión .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 7º, 38 y 41 de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección a periodistas y a la libertad de prensa.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-09-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-12",
+  "id": "sil-4973112",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228212",
+      "nombre_fuente": "Dip. Federico Döring Casar",
+      "person_id": "federico-doring-casar",
+      "referencia_sil": "9228212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4974873",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Reformas constitucionales",
+    "Gobernación"
+  ],
+  "tipo": "Iniciativa"
+}

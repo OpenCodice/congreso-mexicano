@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5011612",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Vivienda",
+      "referencia": "2085592",
+      "texto": "1.-Diputados -Vivienda .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Sedatu, al Infonavit, a la Conavi y al Fovissste el no uso de conductores CCA para instalaciones en viviendas expresamente prohibido por la NOM-001-SEDE-2012) Norma Oficial Mexicana que regula las instalaciones eléctricas en nuestro país.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-04-21",
+    "resultado": "retirado",
+    "texto": "Retirada el 21-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-10",
+  "id": "sil-5011612",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229304",
+      "nombre_fuente": "Dip. Laura Ivonne Ruiz Moreno",
+      "person_id": "laura-ivonne-ruiz-moreno",
+      "referencia_sil": "9229304",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5014501",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Vivienda",
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

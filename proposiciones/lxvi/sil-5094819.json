@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5094819",
+  "comisiones": [
+    {
+      "referencia": "2085622",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Relaciones Exteriores; las Embajadas de México en España, Italia, Túnez, Israel, Jordania y Egipto; y la Oficina de Representación de México en Palestina, a fortalecer el seguimiento y asistencia consular para los mexicanos que participan en la misión humanitaria denominada -Global Sumud Flotilla-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-21",
+  "id": "sil-5094819",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228499",
+      "nombre_fuente": "Dip. Lilia Aguilar Gil",
+      "person_id": "lilia-aguilar-gil",
+      "referencia_sil": "9228499",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5101264",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

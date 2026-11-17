@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4971310",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones de Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-11-11",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 11-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-11",
+  "id": "sil-4971310",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4975354",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública",
+    "Sistema Financiero"
+  ],
+  "tipo": "Iniciativa"
+}

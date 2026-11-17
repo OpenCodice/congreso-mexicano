@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5107158",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085560",
+      "texto": "1.-Diputados -Relaciones Exteriores .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "2.-Diputados -Igualdad de Género .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona el artículo 37 de la Ley del Servicio Exterior Mexicano.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-01",
+  "id": "sil-5107158",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228768",
+      "nombre_fuente": "Dip. Ivonne Aracely Ortega Pacheco",
+      "person_id": "ivonne-aracely-ortega-pacheco",
+      "referencia_sil": "9228768",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5109437",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
+      "consultado": "2026-11-17T07:58:26Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Iniciativa"
+}

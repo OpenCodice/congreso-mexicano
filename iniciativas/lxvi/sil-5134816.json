@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5134816",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 67 Bis a la Ley del Sector Eléctrico y adiciona un artículo 7 Bis a la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, en materia de compensación automática por interrupciones del suministro básico de energía eléctrica.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-15",
+  "id": "sil-5134816",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228539",
+      "nombre_fuente": "Dip. Omar Antonio Borboa Becerra",
+      "person_id": "omar-antonio-borboa-becerra",
+      "referencia_sil": "9228539",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229118",
+      "nombre_fuente": "Dip. José Elías Lixa Abimerhi",
+      "person_id": "jose-elias-lixa-abimerhi",
+      "referencia_sil": "9229118",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5134993",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
+      "consultado": "2026-11-17T07:58:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5177521",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a revisar la clasificación tarifaria doméstica del municipio de Marín, Nuevo León,.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5177521",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228383",
+      "nombre_fuente": "Dip. Héctor Alfonso De la Garza Villarreal",
+      "person_id": "hector-alfonso-de-la-garza-villarreal",
+      "referencia_sil": "9228383",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5182980",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

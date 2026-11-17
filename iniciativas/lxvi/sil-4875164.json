@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4875164",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "2.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 19, párrafo primero, fracción V y adiciona una fracción VI a la Ley General para la Inclusión de las Personas con Discapacidad, así como la fracción II del artículo 58 de la Ley de Vías Generales de Comunicación, en materia de movilidad de personas con discapacidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-09",
+  "id": "sil-4875164",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228264",
+      "nombre_fuente": "Dip. Cintia Cuevas Sánchez",
+      "person_id": "cintia-cuevas-sanchez",
+      "referencia_sil": "9228264",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4876341",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

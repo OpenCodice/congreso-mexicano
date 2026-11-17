@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5003414",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Ciencia, Tecnología e Innovación",
+      "referencia": "2085566",
+      "texto": "2.-Diputados -Ciencia, Tecnología e Innovación .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona los artículos 53 de la Ley General de Educación, 44 de la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación y 13 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para fomentar la participación de las mujeres en estudios relacionados con la formación científica, tecnológica, ingenieril y matemática.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-01-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-01-07",
+  "id": "sil-5003414",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229100",
+      "nombre_fuente": "Dip. Elizabeth Martínez Álvarez",
+      "person_id": "elizabeth-martinez-alvarez",
+      "referencia_sil": "9229100",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5004035",
+  "sources": [
+    {
+      "archivo": "fuentes/c7/c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7.html.gz",
+      "consultado": "2026-11-17T07:56:33Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2026",
+        "FECHA_INIC": "01/01/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c79798748830ed38f4b85901e98af6b386bd401641e0ffee2a19b03292727fb7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Educación y Cultura"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,131 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5060873",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Diversidad",
+      "referencia": "2085571",
+      "texto": "1.-Diputados -Diversidad.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al Congreso del estado de Jalisco a dar cumplimiento a la Acción de Inconstitucionalidad 72/2022 de la Suprema Corte de Justicia de la Nación en materia de infancias y adolescencias trans.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-08",
+  "id": "sil-5060873",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228994",
+      "nombre_fuente": "Dip. María Damaris Silva Santiago",
+      "person_id": "maria-damaris-silva-santiago",
+      "referencia_sil": "9228994",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229372",
+      "nombre_fuente": "Dip. Rufina Benítez Estrada",
+      "person_id": "rufina-benitez-estrada",
+      "referencia_sil": "9229372",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228786",
+      "nombre_fuente": "Dip. Laura Hernández García",
+      "person_id": "laura-hernandez-garcia",
+      "referencia_sil": "9228786",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229120",
+      "nombre_fuente": "Dip. Abril Ferreyro Rosado",
+      "person_id": "abril-ferreyro-rosado",
+      "referencia_sil": "9229120",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228656",
+      "nombre_fuente": "Dip. Luis Fernando Vilchis Contreras",
+      "person_id": "luis-fernando-vilchis-contreras",
+      "referencia_sil": "9228656",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228449",
+      "nombre_fuente": "Dip. Rafaela Vianey García Romero",
+      "person_id": "rafaela-vianey-garcia-romero",
+      "referencia_sil": "9228449",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228838",
+      "nombre_fuente": "Dip. Gabino Morales Mendoza",
+      "person_id": "gabino-morales-mendoza",
+      "referencia_sil": "9228838",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228561",
+      "nombre_fuente": "Dip. Alma Rosa De la Vega Vargas",
+      "person_id": "alma-rosa-de-la-vega-vargas",
+      "referencia_sil": "9228561",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228938",
+      "nombre_fuente": "Dip. Jaime Genaro López Vela",
+      "person_id": "jaime-genaro-lopez-vela",
+      "referencia_sil": "9228938",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5063397",
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Poder Judicial",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "5020493",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Bienestar",
+      "referencia": "2085489",
+      "texto": "1.-Senado -Bienestar .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que el Senado de la República exhorta respetuosamente a la Secretaría de Bienestar, a la Secretaría de Bienestar del Estado de Guerrero, a la Secretaría de Planeación y Desarrollo Regional de Guerrero y a los Ayuntamientos de municipios indígenas con alto y muy alto grado de marginación, para que realicen una evaluación integral del impacto, cobertura y resultados de los programas sociales implementados en dichas demarcaciones, considerando indicadores de reducción de pobreza, acceso a servicios básicos y mejora en calidad de vida.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-24",
+  "id": "sil-5020493",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228946",
+      "nombre_fuente": "Sen. Manuel Añorve Baños",
+      "person_id": "manuel-anorve-banos",
+      "referencia_sil": "9228946",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5024013",
+  "sources": [
+    {
+      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
+      "consultado": "2026-11-17T08:02:36Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

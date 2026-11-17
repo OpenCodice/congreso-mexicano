@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5026672",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Director General del ISSSTE y a la Vocal Ejecutiva del FOVISSSTE a ordenar la cancelación de la aplicación de la -actualización- 2026 por concepto de la Unidad de Medida de Actualización (UMA) a los créditos hipotecarios vigentes regidos por la -actualización-, con el propósito de salvaguardar y garantizar el otorgamiento de -créditos hipotecarios baratos y suficientes- a los trabajadores al servicio del estado.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-03",
+  "id": "sil-5026672",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228258",
+      "nombre_fuente": "Dip. Theodoros Kalionchiz De la Fuente",
+      "person_id": "theodoros-kalionchiz-de-la-fuente",
+      "referencia_sil": "9228258",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5030962",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

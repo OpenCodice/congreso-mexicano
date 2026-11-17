@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4966201",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "1.-Diputados -Presupuesto y Cuenta Pública .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Federalismo y Desarrollo Municipal",
+      "referencia": "2085574",
+      "texto": "2.-Diputados -Federalismo y Desarrollo Municipal .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-12-18",
+    "resultado": "retirado",
+    "texto": "Retirada el 18-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-04",
+  "id": "sil-4966201",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229048",
+      "nombre_fuente": "Dip. Carmen Rocío González Alonso",
+      "person_id": "carmen-rocio-gonzalez-alonso",
+      "referencia_sil": "9229048",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4969281",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5046414",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 6 Bis, un tercer párrafo al artículo 7° y un segundo párrafo al artículo 16 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-23",
+  "id": "sil-5046414",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228934",
+      "nombre_fuente": "Dip. Julieta Kristal Vences Valencia",
+      "person_id": "julieta-kristal-vences-valencia",
+      "referencia_sil": "9228934",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5047446",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

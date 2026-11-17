@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4833717",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Anticorrupción y Transparencia",
+      "referencia": "2085478",
+      "texto": "1.-Senado -Anticorrupción y Transparencia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita la comparecencia de la consejera presidente del Instituto Nacional Electoral, Guadalupe Taddei Zavala, para que informe sobre la adjudicación del contrato de arrendamiento otorgado en 2022 por el Instituto Sonorense de Transparencia a Inmobiliaria Alta Sierra, vinculada a la familia del gobernador de Sonora; y por el que exhorta al gobernador de Sonora, Alfonso Durazo Montaño, a rendir un informe detallado sobre los términos del contrato con la inmobiliaria Alta Sierra, su relación con la empresa y los procesos de adjudicación seguidos, así como cualquier otro vínculo contractual entre su gobierno y empresas ligadas a su familia, en aras de la transparencia, la rendición de cuentas y el combate a la corrupción.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833717",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229214",
+      "nombre_fuente": "Sen. María Lilly del Carmen Téllez García",
+      "person_id": "maria-lilly-del-carmen-tellez-garcia",
+      "referencia_sil": "9229214",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4840650",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Electoral",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

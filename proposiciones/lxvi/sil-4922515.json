@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4922515",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno de Coahuila, a adherirse a la mayor brevedad posible al convenio para la universalidad de la pensión para el bienestar de las personas con discapacidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-09",
+  "id": "sil-4922515",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228264",
+      "nombre_fuente": "Dip. Cintia Cuevas Sánchez",
+      "person_id": "cintia-cuevas-sanchez",
+      "referencia_sil": "9228264",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4925345",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

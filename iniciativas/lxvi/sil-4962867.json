@@ -1,0 +1,88 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4962867",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Infraestructura",
+      "referencia": "2085577",
+      "texto": "2.-Diputados -Infraestructura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "3.-Diputados -Hacienda y Crédito Público .-Para opinión",
+      "turno": "Para opinión"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "4.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "De decreto por el que se expide la Ley de Inversiones Mixtas para el Bienestar; y reforma y adiciona diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en materia de proyectos de inversiones mixtas para el bienestar.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2026-04-09",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 09-ABR-2026"
+  },
+  "expediente_id": "sil-5055003",
+  "fecha_presentacion": "2025-10-29",
+  "id": "sil-4962867",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228174",
+      "nombre_fuente": "Dip. Gabriela Georgina Jiménez Godoy",
+      "person_id": "gabriela-georgina-jimenez-godoy",
+      "referencia_sil": "9228174",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055003",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía",
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

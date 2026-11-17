@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4798155",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el Artículo Sexto transitorio del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el DOF el 27 de abril de 2016.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-11-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-NOV-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-11-06",
+  "id": "sil-4798155",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229356",
+      "nombre_fuente": "Dip. Javier Octavio Herrera Borunda",
+      "person_id": "javier-octavio-herrera-borunda",
+      "referencia_sil": "9229356",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4798872",
+  "sources": [
+    {
+      "archivo": "fuentes/9c/9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9.html.gz",
+      "consultado": "2026-11-17T07:53:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2024",
+        "FECHA_INIC": "01/11/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "9cd63efc8911233256eab068ba9011e5c3813705e5b941e1688efd7ad02b92a9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

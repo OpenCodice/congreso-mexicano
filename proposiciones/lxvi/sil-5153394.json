@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "5153394",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al titular del gobierno del estado de Querétaro, Mauricio Kuri González a no violar la Soberanía nacional, respetar la Constitución Política de los Estados Unidos Mexicanos, la Ley de Seguridad Nacional y explicar los términos y bajo qué convenio se está construyendo la denominada -Academia Internacional de Capacitación Policial-, que presuntamente estará ubicada en el Complejo de Seguridad Rhino, en el estado de Querétaro.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-06",
+  "id": "sil-5153394",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229080",
+      "nombre_fuente": "Sen. Beatriz Silvia Robles Gutiérrez",
+      "person_id": "beatriz-silvia-robles-gutierrez",
+      "referencia_sil": "9229080",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5190689",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5049954",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Salud y a la SHCP a que realicen una reingeniería integral del modelo de atención primaria a la salud, priorizando la inversión en medicina preventiva, detección temprana y control de enfermedades crónico-degenerativas, garantizando la suficiencia presupuestaria, el fortalecimiento de la infraestructura de primer nivel y el cumplimiento de los estándares internacionales de cobertura y reducción de la mortalidad evitable.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-05-29",
+    "resultado": "desechado",
+    "texto": "Desechado el 29-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-24",
+  "id": "sil-5049954",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229348",
+      "nombre_fuente": "Dip. Ma. Leonor Noyola Cervantes",
+      "person_id": "ma-leonor-noyola-cervantes",
+      "referencia_sil": "9229348",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5055332",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5153758",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SHCP a emitir y publicar, con anticipación al vencimiento del régimen vigente, las modificaciones necesarias para extender hasta el 31 de diciembre de 2030 la vigencia del estímulo fiscal en materia del IVA, aplicable en la región fronteriza norte.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-06",
+  "id": "sil-5153758",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229340",
+      "nombre_fuente": "Dip. Ana Erika Santana González",
+      "person_id": "ana-erika-santana-gonzalez",
+      "referencia_sil": "9229340",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5158895",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

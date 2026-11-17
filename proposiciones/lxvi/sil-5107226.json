@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5107226",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas para que, en cumplimiento de la sentencia dictada por la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 149/2024, realice de manera inmediata las acciones administrativas, presupuestarias y operativas necesarias para restituir a las personas jubiladas y pensionadas afectadas la parte retenida de sus aguinaldos correspondiente a los ejercicios 2024 y 2025.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-01",
+  "id": "sil-5107226",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5109478",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Laboral",
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

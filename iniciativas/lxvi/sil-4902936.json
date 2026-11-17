@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4902936",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona la fracción II del artículo 420 Bis del Código Penal Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-06-04",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 04-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-06-04",
+  "id": "sil-4902936",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228551",
+      "nombre_fuente": "Dip. Alberto Maldonado Chavarín",
+      "person_id": "alberto-maldonado-chavarin",
+      "referencia_sil": "9228551",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4905470",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400.html.gz",
+      "consultado": "2026-11-17T07:55:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2025",
+        "FECHA_INIC": "01/06/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8eaaedcad0935ac260e6680392af1f5bfa7ce05adbfb2e738fd4eaffb22e4400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

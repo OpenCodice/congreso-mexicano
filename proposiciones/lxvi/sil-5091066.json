@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5091066",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno de Nuevo León y a la Secretaría de Medio Ambiente y Recursos Naturales para que, en el ámbito de sus facultades, realicen regulaciones más estrictas sobre el uso del plomo por parte de las empresas que fabrican productos en el estado, las cuales han causado que tres de cada diez niñas y niños de la comunidad presentan este metal en la sangre.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-06-23",
+    "resultado": "retirado",
+    "texto": "Retirada el 23-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-06",
+  "id": "sil-5091066",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5101314",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

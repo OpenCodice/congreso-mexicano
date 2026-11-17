@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4918263",
+  "comisiones": [
+    {
+      "referencia": "2085604",
+      "texto": "1.-Primera Comisión de Trabajo: Asuntos Políticos e Internacionales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que solicita al Poder Judicial de la Federación y a los Poderes Judiciales de los Estados y entidades federativas considerar en sus convocatorias adecuaciones en los requisitos para la contratación de personas facilitadoras en Mecanismos Alternativos de Solución de Controversias para las personas egresadas de la licenciatura en Medios Alternos de Solución de Conflictos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-08-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-20",
+  "id": "sil-4918263",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228326",
+      "nombre_fuente": "Dip. Aremy Velazco Bautista",
+      "person_id": "aremy-velazco-bautista",
+      "referencia_sil": "9228326",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920048",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,81 @@
+{
+  "camara_origen": "senado",
+  "clave": "5170742",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085505",
+      "texto": "2.-Senado -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "3.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General en materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema de Búsqueda de Personas, y la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5170742",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229025",
+      "nombre_fuente": "Sen. Angélica Montes Rentería",
+      "person_id": "angelica-montes-renteria",
+      "referencia_sil": "9229025",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5173947",
+  "sources": [
+    {
+      "archivo": "fuentes/b7/b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078.html.gz",
+      "consultado": "2026-11-17T07:59:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b7863c4734f57fbf9fb1a216e59804e89cfe886fa0383c40a575f9aedc4f0078",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

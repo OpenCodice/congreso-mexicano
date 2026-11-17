@@ -1,0 +1,95 @@
+{
+  "camara_origen": "senado",
+  "clave": "5122783",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Justicia",
+      "referencia": "2085482",
+      "texto": "1.-Senado -Justicia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Fiscalía General de la República, a las fiscalías y procuradurías generales de justicia, a las comisiones locales de búsqueda, a la Comisión Nacional de Búsqueda, y a los servicios médicos forenses de las 32 entidades federativas para que, en coordinación con el Instituto Nacional Electoral, fortalezcan y aceleren el cotejo sistemático de las huellas dactilares y demás datos biométricos de todas las personas fallecidas no identificadas bajo su resguardo con la información contenida en el Padrón Electoral, garantizando en todo momento la protección de los datos personales y el cumplimiento de los protocolos de identificación humana.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-08",
+  "id": "sil-5122783",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229418",
+      "nombre_fuente": "Sen. Yeidckol Polevnsky Gurwitz",
+      "person_id": "yeidckol-polevnsky-gurwitz",
+      "referencia_sil": "9229418",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5143499",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Gobernación",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

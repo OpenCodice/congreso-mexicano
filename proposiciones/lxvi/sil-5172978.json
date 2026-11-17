@@ -1,0 +1,94 @@
+{
+  "camara_origen": "senado",
+  "clave": "5172978",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Salud, así como a sus homólogas en las 32 entidades federativas para que, en coordinación con las instituciones públicas del Sistema Nacional de Salud, fortalezcan las campañas de información, difusión y educación para la salud sobre la prevención y detección oportuna del cáncer de mama, mediante contenidos claros, accesibles e inclusivos que promuevan la práctica adecuada de la autoexploración mamaria, orienten sobre la identificación de signos y síntomas de alarma e informen a la población sobre la importancia de acudir oportunamente a los servicios médicos para su valoración, diagnóstico y atención integral.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-21",
+  "id": "sil-5172978",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PT",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228886",
+      "nombre_fuente": "Sen. Ana Karen Hernández Aceves",
+      "person_id": "ana-karen-hernandez-aceves",
+      "referencia_sil": "9228886",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229418",
+      "nombre_fuente": "Sen. Yeidckol Polevnsky Gurwitz",
+      "person_id": "yeidckol-polevnsky-gurwitz",
+      "referencia_sil": "9229418",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229284",
+      "nombre_fuente": "Sen. Geovanna del Carmen Bañuelos de la Torre",
+      "person_id": "geovanna-del-carmen-banuelos-de-la-torre",
+      "referencia_sil": "9229284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229236",
+      "nombre_fuente": "Sen. Alberto Anaya Gutiérrez",
+      "person_id": "alberto-anaya-gutierrez",
+      "referencia_sil": "9229236",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5195920",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

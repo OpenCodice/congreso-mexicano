@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4916211",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "2.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el Código Penal Federal y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-08-06",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 06-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-06",
+  "id": "sil-4916211",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228541",
+      "nombre_fuente": "Dip. Merilyn Gómez Pozos",
+      "person_id": "merilyn-gomez-pozos",
+      "referencia_sil": "9228541",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4917722",
+  "sources": [
+    {
+      "archivo": "fuentes/8c/8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894.html.gz",
+      "consultado": "2026-11-17T07:55:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

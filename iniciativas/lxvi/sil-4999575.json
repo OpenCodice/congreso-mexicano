@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4999575",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ganadería",
+      "referencia": "2085575",
+      "texto": "1.-Diputados -Ganadería .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 22, el segundo y tercer párrafo del artículo 23, y se adicionan los artículos 176 y 177 de la Ley Federal de Sanidad Animal, para asegurar las buenas prácticas antes y durante el proceso de los animales en los rastros, con las que se elimina su maltrato.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-01-15",
+    "resultado": "retirado",
+    "texto": "Retirada el 15-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-10",
+  "id": "sil-4999575",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228814",
+      "nombre_fuente": "Dip. Giselle Yunueen Arellano Ávila",
+      "person_id": "giselle-yunueen-arellano-avila",
+      "referencia_sil": "9228814",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001738",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4902005",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a los congresos de las entidades federativas para que consideren reformar sus leyes locales relativas al ejercicio de las profesiones, con el propósito de establecer el uso del lenguaje inclusivo en la expedición de títulos profesionales, toda vez que aun cuando en la mayoría de las carreras profesionales, las mujeres representan más del 50 por ciento de la población estudiantil, todavía se decide de manera discrecional, si se emiten los títulos de las alumnas en femenino o en masculino genérico.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-08-27",
+    "resultado": "desechado",
+    "texto": "Desechado el 27-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-27",
+  "id": "sil-4902005",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229142",
+      "nombre_fuente": "Sen. Olga Patricia Sosa Ruíz",
+      "person_id": "olga-patricia-sosa-ruiz",
+      "referencia_sil": "9229142",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4904005",
+  "sources": [
+    {
+      "archivo": "fuentes/61/611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400.html.gz",
+      "consultado": "2026-11-17T08:01:21Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "611b840e1f61a10513947614a08ff580a8e6cb91aa96b77e134254a13e2de400",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

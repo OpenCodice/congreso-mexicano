@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4875758",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "2.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, de la Ley del Seguro Social y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en materia de licencias para personas cuidadoras de niñas, niños y adolescentes que viven con alguna discapacidad.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-10-28",
+    "resultado": "retirado",
+    "texto": "Retirada el 28-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-09",
+  "id": "sil-4875758",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229302",
+      "nombre_fuente": "Dip. Emilio Suárez Licona",
+      "person_id": "emilio-suarez-licona",
+      "referencia_sil": "9229302",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4876318",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

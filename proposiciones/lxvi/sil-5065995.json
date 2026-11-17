@@ -1,0 +1,64 @@
+{
+  "camara_origen": "senado",
+  "clave": "5065995",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la gobernadora del estado de Tlaxcala para que respete la libre manifestación y el derecho de reunión de campesinos, transportistas comerciantes que protestan por la falta de apoyos para el campo, la inseguridad en carreteras, así como el alza en gasolinas y diésel; debiendo evitar la fuerza excesiva y la represión social en contra de estas legítimas protestas ciudadanas, asimismo para que aclare la desaparición de personas con motivo de la represión violenta ocurrida en la madrugada del 7 de abril de 2026 en contra de campesinos, transportistas y comerciantes.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5065995",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229166",
+      "nombre_fuente": "Sen. Anabell Ávalos Zempoalteca",
+      "person_id": "anabell-avalos-zempoalteca",
+      "referencia_sil": "9229166",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [],
+  "tipo": "Proposición con punto de acuerdo"
+}

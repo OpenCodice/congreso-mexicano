@@ -1,0 +1,88 @@
+{
+  "camara_origen": "senado",
+  "clave": "4988217",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "3.-Senado -Salud.-Para opinión",
+      "turno": "Para opinión"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085505",
+      "texto": "4.-Senado -Derechos de la Niñez y de la Adolescencia.-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma la fracción XI del artículo 30 de la Ley General de Educación.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-12-02",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 02-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-02",
+  "id": "sil-4988217",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229080",
+      "nombre_fuente": "Sen. Beatriz Silvia Robles Gutiérrez",
+      "person_id": "beatriz-silvia-robles-gutierrez",
+      "referencia_sil": "9229080",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5003018",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Educación y Cultura",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,68 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4828878",
+  "comisiones": [
+    {
+      "camara": "Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085601",
+      "texto": "1.-Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la SEP, al INM y a las autoridades homólogas de las entidades federativas, a garantizar el derecho a la educación y velar por el interés superior de la niñez, asimismo, se permitan la incorporación de niñas, niños y adolescentes migrantes en el sistema educativo nacional, garantizando el acceso a materiales educativos y atención y/o apoyo psicológico.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4828878",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229100",
+      "nombre_fuente": "Dip. Elizabeth Martínez Álvarez",
+      "person_id": "elizabeth-martinez-alvarez",
+      "referencia_sil": "9229100",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829462",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Migración",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

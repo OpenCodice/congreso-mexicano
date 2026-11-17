@@ -1,0 +1,73 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5177511",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria",
+      "referencia": "2085549",
+      "texto": "1.-Diputados -Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al director general de Leche para el Bienestar, S.A. de C.V., a garantizar la continuidad de la recepción y adquisición de leche fresca nacional, particularmente en los altos de Jalisco.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-10-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-OCT-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-10-27",
+  "id": "sil-5177511",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228523",
+      "nombre_fuente": "Dip. Tecutli José Guadalupe Gómez Villalobos",
+      "person_id": "tecutli-jose-guadalupe-gomez-villalobos",
+      "referencia_sil": "9228523",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228549",
+      "nombre_fuente": "Dip. Alonso de Jesús Vázquez Jiménez",
+      "person_id": "alonso-de-jesus-vazquez-jimenez",
+      "referencia_sil": "9228549",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5182966",
+  "sources": [
+    {
+      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
+      "consultado": "2026-11-17T08:07:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2026",
+        "FECHA_INIC": "01/10/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

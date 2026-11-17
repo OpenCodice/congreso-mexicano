@@ -1,0 +1,94 @@
+{
+  "camara_origen": "senado",
+  "clave": "5042498",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Deporte",
+      "referencia": "2085501",
+      "texto": "1.-Senado -Deporte .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que declara el 19 de julio como -Día Nacional de la Pelota Mixteca-.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5042498",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229312",
+      "nombre_fuente": "Sen. Luis Alfonso Silva Romo",
+      "person_id": "luis-alfonso-silva-romo",
+      "referencia_sil": "9229312",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229064",
+      "nombre_fuente": "Sen. Antonino Morales Toledo",
+      "person_id": "antonino-morales-toledo",
+      "referencia_sil": "9229064",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229070",
+      "nombre_fuente": "Sen. Moisés Ignacio Mier Velazco",
+      "person_id": "moises-ignacio-mier-velazco",
+      "referencia_sil": "9229070",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229068",
+      "nombre_fuente": "Sen. Laura Estrada Mauro",
+      "person_id": "laura-estrada-mauro",
+      "referencia_sil": "9229068",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5045176",
+  "sources": [
+    {
+      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
+      "consultado": "2026-11-17T07:56:58Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

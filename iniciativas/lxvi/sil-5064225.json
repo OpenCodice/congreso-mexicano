@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5064225",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos Humanos",
+      "referencia": "2085548",
+      "texto": "1.-Diputados -Derechos Humanos .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "2.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley Orgánica de la Administración Pública Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-14",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 14-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-14",
+  "id": "sil-5064225",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228489",
+      "nombre_fuente": "Dip. Raúl Bolaños Cacho Cué",
+      "person_id": "raul-bolanos-cacho-cue",
+      "referencia_sil": "9228489",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5066713",
+  "sources": [
+    {
+      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
+      "consultado": "2026-11-17T07:57:22Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

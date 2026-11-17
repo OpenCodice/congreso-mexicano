@@ -1,0 +1,71 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4833516",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "2.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Remite la parte correspondiente a la Ley de Ingresos Sobre Hidrocarburos de la iniciativa con proyecto de decreto por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia, y la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; y se reforman, adicionan y derogan diversas disposiciones de la Ley de Ingresos Sobre Hidrocarburos y de la Ley Orgánica de la Administración Pública Federal, presentada por la Titular del Ejecutivo Federal.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-03-18",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 18-MAR-2025"
+  },
+  "expediente_id": "sil-4843216",
+  "fecha_presentacion": "2025-02-11",
+  "id": "sil-4833516",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "4843216",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Energía",
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

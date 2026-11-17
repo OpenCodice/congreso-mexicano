@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4895507",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Asuntos Migratorios",
+      "referencia": "2085487",
+      "texto": "1.-Senado -Asuntos Migratorios .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "por la que exhorta a la Secretaría de Gobernación y a la Secretaría de Hacienda y Crédito Público para asignar mayor presupuesto a la Comisión Mexicana de Ayuda a Refugiados (COMAR) que está encargada de recibir, analizar y resolver las solicitudes de reconocimiento de la condición de refugiados en México, así como de la administración de albergues para migrantes y estaciones integradoras que reciben financiamiento público y brindan ayuda y protección a personas en contexto de movilidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4895507",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229290",
+      "nombre_fuente": "Sen. Karina Isabel Ruiz Ruiz",
+      "person_id": "karina-isabel-ruiz-ruiz",
+      "referencia_sil": "9229290",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4898884",
+  "sources": [
+    {
+      "archivo": "fuentes/54/545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315.html.gz",
+      "consultado": "2026-11-17T08:01:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "545d40ab92f816f32e27ba0a66e424dc09953226fdb0136926e3cb3bc5374315",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Gobernación"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

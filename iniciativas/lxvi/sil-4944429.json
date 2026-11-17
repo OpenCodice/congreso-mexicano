@@ -1,0 +1,82 @@
+{
+  "camara_origen": "senado",
+  "clave": "4944429",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Relaciones Exteriores",
+      "referencia": "2085514",
+      "texto": "2.-Senado -Relaciones Exteriores.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "3.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma la fracción III y se adiciona una fracción III bis al artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-08",
+  "id": "sil-4944429",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229194",
+      "nombre_fuente": "Sen. Claudia Edith Anaya Mota",
+      "person_id": "claudia-edith-anaya-mota",
+      "referencia_sil": "9229194",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4946508",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Poder Ejecutivo",
+    "Reformas constitucionales",
+    "Relaciones exteriores"
+  ],
+  "tipo": "Iniciativa"
+}

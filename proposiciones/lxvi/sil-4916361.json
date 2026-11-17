@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4916361",
+  "comisiones": [
+    {
+      "referencia": "2085606",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al Gobierno Federal, a través de la Secretaría de Economía, de la Secretaría de Trabajo y Previsión Social, de la Secretaría de las Mujeres y de la Secretaría de Hacienda y Crédito Público, con el fin de implementar medidas para fomentar el empleo formal, reducir la brecha de género laboral y fortalecer la inversión en programas de empleabilidad en México.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-08-20",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 20-AGO-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-06",
+  "id": "sil-4916361",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229151",
+      "nombre_fuente": "Dip. Miguel Ángel Guevara Rodríguez",
+      "person_id": "miguel-angel-guevara-rodriguez",
+      "referencia_sil": "9229151",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4919054",
+  "sources": [
+    {
+      "archivo": "fuentes/6e/6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161.html.gz",
+      "consultado": "2026-11-17T08:01:47Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6e199b811213f9ae3d27208dd415a3748136f4a21345549039fd1c5b42c22161",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Economía",
+    "Laboral",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,150 @@
+{
+  "camara_origen": "senado",
+  "clave": "5045082",
+  "comisiones": [],
+  "denominacion": "Por el que se exhorta a los Congresos de las entidades federativas a cumplir con la armonización legislativa sobre derechos de las mujeres, derivada de las reformas constitucionales, a leyes secundarias y en materia de abuso sexual.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-03-19",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 19-MAR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-03-19",
+  "id": "sil-5045082",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229252",
+      "nombre_fuente": "Sen. Amalia Dolores García Medina",
+      "person_id": "amalia-dolores-garcia-medina",
+      "referencia_sil": "9229252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228930",
+      "nombre_fuente": "Sen. Virginia Marie Magaña Fonseca",
+      "person_id": "virginia-marie-magana-fonseca",
+      "referencia_sil": "9228930",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228888",
+      "nombre_fuente": "Sen. Mely Romero Celis",
+      "person_id": "mely-romero-celis",
+      "referencia_sil": "9228888",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229216",
+      "nombre_fuente": "Sen. Laura Esquivel Torres",
+      "person_id": "laura-esquivel-torres",
+      "referencia_sil": "9229216",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228900",
+      "nombre_fuente": "Sen. Juan Carlos Loera De La Rosa",
+      "person_id": "juan-carlos-loera-de-la-rosa",
+      "referencia_sil": "9228900",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229275",
+      "nombre_fuente": "Sen. Emmanuel Reyes Carmona",
+      "person_id": "emmanuel-reyes-carmona",
+      "referencia_sil": "9229275",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229137",
+      "nombre_fuente": "Sen. Alejandra Berenice Arias Trevilla",
+      "person_id": "alejandra-berenice-arias-trevilla",
+      "referencia_sil": "9229137",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229008",
+      "nombre_fuente": "Sen. Araceli Saucedo Reyes",
+      "person_id": "araceli-saucedo-reyes",
+      "referencia_sil": "9229008",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228880",
+      "nombre_fuente": "Sen. Cecilia Guadalupe Guadiana Mandujano",
+      "person_id": "cecilia-guadalupe-guadiana-mandujano",
+      "referencia_sil": "9228880",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229188",
+      "nombre_fuente": "Sen. Verónica del Carmen Díaz Robles",
+      "person_id": "veronica-del-carmen-diaz-robles",
+      "referencia_sil": "9229188",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229000",
+      "nombre_fuente": "Sen. Reyna Celeste Ascencio Ortega",
+      "person_id": "reyna-celeste-ascencio-ortega",
+      "referencia_sil": "9229000",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229082",
+      "nombre_fuente": "Sen. Alma Anahí González Hernández",
+      "person_id": "alma-anahi-gonzalez-hernandez",
+      "referencia_sil": "9229082",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229276",
+      "nombre_fuente": "Sen. Martha Lucía Micher Camarena",
+      "person_id": "martha-lucia-micher-camarena",
+      "referencia_sil": "9229276",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5045101",
+  "sources": [
+    {
+      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
+      "consultado": "2026-11-17T08:02:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2026",
+        "FECHA_INIC": "01/03/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Derechos Humanos",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

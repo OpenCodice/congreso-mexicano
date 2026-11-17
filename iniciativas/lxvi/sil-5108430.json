@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5108430",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Comunicaciones y Transportes",
+      "referencia": "2085567",
+      "texto": "1.-Diputados -Comunicaciones y Transportes .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el segundo párrafo de la fracción IV del artículo 47 bis de la Ley de Aviación Civil.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-08",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 08-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-08",
+  "id": "sil-5108430",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229222",
+      "nombre_fuente": "Dip. Rubén Ignacio Moreira Valdez",
+      "person_id": "ruben-ignacio-moreira-valdez",
+      "referencia_sil": "9229222",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5113509",
+  "sources": [
+    {
+      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
+      "consultado": "2026-11-17T07:58:26Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Comunicaciones y Transportes"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4919267",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Defensa Nacional",
+      "referencia": "2085546",
+      "texto": "1.-Diputados -Defensa Nacional .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley Federal de Armas de Fuego y Explosivos y de la Ley de la Guardia Nacional.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-11-11",
+    "resultado": "retirado",
+    "texto": "Retirada el 11-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-27",
+  "id": "sil-4919267",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228766",
+      "nombre_fuente": "Dip. Sergio Gil Rullán",
+      "person_id": "sergio-gil-rullan",
+      "referencia_sil": "9228766",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920352",
+  "sources": [
+    {
+      "archivo": "fuentes/8c/8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894.html.gz",
+      "consultado": "2026-11-17T07:55:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional"
+  ],
+  "tipo": "Iniciativa"
+}

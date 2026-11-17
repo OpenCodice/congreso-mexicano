@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5114233",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la titular del Ejecutivo Federal, a través de la Secretaría de Salud, así como a los titulares del IMSS y del ISSSTE, para que fortalezcan las acciones necesarias que garanticen la suficiencia de médicos generales, médicos especialistas y de personal de enfermería en las unidades médicas ubicadas en el municipio de Torreón, Coahuila, a fin de asegurar una atención médica oportuna, digna y de calidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-05",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-05",
+  "id": "sil-5114233",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229234",
+      "nombre_fuente": "Dip. Verónica Martínez García",
+      "person_id": "veronica-martinez-garcia",
+      "referencia_sil": "9229234",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118280",
+  "sources": [
+    {
+      "archivo": "fuentes/09/09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7.html.gz",
+      "consultado": "2026-11-17T08:07:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "09c048dffe848fe3a3c0bc750778db1ec623d1dde3063f6586085ea491178dc7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

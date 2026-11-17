@@ -1,0 +1,80 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4912553",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Ciencia, Tecnología e Innovación",
+      "referencia": "2085566",
+      "texto": "1.-Diputados -Ciencia, Tecnología e Innovación .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Juventud",
+      "referencia": "2085578",
+      "texto": "2.-Diputados -Juventud.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley Federal de Inclusión Digital y Emprendimiento Juvenil.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-12-09",
+    "resultado": "retirado",
+    "texto": "Retirada el 09-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-16",
+  "id": "sil-4912553",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228336",
+      "nombre_fuente": "Dip. Juan Carlos Valladares Eichelmann",
+      "person_id": "juan-carlos-valladares-eichelmann",
+      "referencia_sil": "9228336",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4914597",
+  "sources": [
+    {
+      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
+      "consultado": "2026-11-17T07:55:30Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

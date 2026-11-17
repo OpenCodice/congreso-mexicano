@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4936568",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Reforma Política-Electoral",
+      "referencia": "2085585",
+      "texto": "1.-Diputados -Reforma Política-Electoral .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al INE, a la CNBV y al BANXICO, a garantizar el reconocimiento pleno y sin restricciones de la credencial para votar expedida en el extranjero como identificación oficial válida en todo el territorio nacional.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-30",
+  "id": "sil-4936568",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228575",
+      "nombre_fuente": "Dip. Diego Ángel Rodríguez Barroso",
+      "person_id": "diego-angel-rodriguez-barroso",
+      "referencia_sil": "9228575",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4941438",
+  "sources": [
+    {
+      "archivo": "fuentes/8a/8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc.html.gz",
+      "consultado": "2026-11-17T08:01:55Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8aa7c0f2dd6bb5beed05a181e5fc4020fd20aa6a0b85cc5e9692c4c9e7f9b2bc",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Electoral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

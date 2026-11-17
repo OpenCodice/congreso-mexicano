@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4782437",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona el artículo 302 de la Ley del Seguro Social.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2024-10-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-OCT-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-09",
+  "id": "sil-4782437",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228260",
+      "nombre_fuente": "Dip. Yerico Abramo Masso",
+      "person_id": "yerico-abramo-masso",
+      "referencia_sil": "9228260",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4784234",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

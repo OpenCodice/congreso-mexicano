@@ -1,0 +1,82 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5087739",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085559",
+      "texto": "1.-Diputados -Puntos Constitucionales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 2° Apartado A, fracción X, de la Constitución Política de los Estados Unidos Mexicanos, en materia de representación indígena ante el Ayuntamiento.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5087739",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228650",
+      "nombre_fuente": "Dip. Xochitl Nashielly Zagal Ramírez",
+      "person_id": "xochitl-nashielly-zagal-ramirez",
+      "referencia_sil": "9228650",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228129",
+      "nombre_fuente": "Dip. Evangelina Moreno Guerra",
+      "person_id": "evangelina-moreno-guerra",
+      "referencia_sil": "9228129",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228282",
+      "nombre_fuente": "Dip. Alfredo Vázquez Vázquez",
+      "person_id": "alfredo-vazquez-vazquez",
+      "referencia_sil": "9228282",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5092232",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Reforma Constitucional",
+  "temas": [
+    "Federalismo",
+    "Indígenas",
+    "Reformas constitucionales"
+  ],
+  "tipo": "Iniciativa"
+}

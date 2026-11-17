@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4847505",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al IMSS a garantizar el acceso de las personas pensionadas a recibir los recursos que les corresponden de manera ininterrumpida y revisar su proceso de actualización de información y acreditación de supervivencia mediante la implementación de mecanismos de las tecnologías de la información.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-10",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-04",
+  "id": "sil-4847505",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001573",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Laboral",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

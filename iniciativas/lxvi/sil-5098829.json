@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5098829",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 144 Octies y se adicionan los artículos 114 Nonies y 232 Septies de la Ley Federal del Derecho de Autor, en materia de responsabilidad secundaria para proveedores de servicios de internet.",
+  "estatus": {
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-03",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 03-NOV-2026"
+  },
+  "expediente_id": "sil-5154795",
+  "fecha_presentacion": "2026-06-01",
+  "id": "sil-5098829",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "5154795",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0.html.gz",
+      "consultado": "2026-11-17T07:58:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

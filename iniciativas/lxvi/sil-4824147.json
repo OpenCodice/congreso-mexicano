@@ -1,0 +1,75 @@
+{
+  "camara_origen": "senado",
+  "clave": "4824147",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reforma Agraria",
+      "referencia": "2085510",
+      "texto": "1.-Senado -Reforma Agraria.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona y reforma diversos artículos de La Ley Agraria.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 15-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-12-12",
+  "id": "sil-4824147",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229264",
+      "nombre_fuente": "Sen. Susana Harp Iturribarría",
+      "person_id": "susana-harp-iturribarria",
+      "referencia_sil": "9229264",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5133931",
+  "sources": [
+    {
+      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
+      "consultado": "2026-11-17T07:54:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2024",
+        "FECHA_INIC": "01/12/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo",
+    "Derechos Humanos",
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Iniciativa"
+}

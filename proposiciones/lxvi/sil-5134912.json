@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5134912",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno de Puebla, a través del Sistema Estatal DIF, a fortalecer las medidas, protocolos y mecanismos de atención, protección y acompañamiento a las mujeres víctimas de violencia en las Casas -Carmen Serdán-, a efecto de garantizar servicios integrales, dignos, profesionales y con perspectiva de género libres de discriminación y actos que deriven en revictimización.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-09-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 15-SEP-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-09-15",
+  "id": "sil-5134912",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229266",
+      "nombre_fuente": "Dip. Xitlalic Ceja García",
+      "person_id": "xitlalic-ceja-garcia",
+      "referencia_sil": "9229266",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5135532",
+  "sources": [
+    {
+      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
+      "consultado": "2026-11-17T08:07:44Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2026",
+        "FECHA_INIC": "01/09/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

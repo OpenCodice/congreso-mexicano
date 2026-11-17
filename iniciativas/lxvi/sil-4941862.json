@@ -1,0 +1,75 @@
+{
+  "camara_origen": "senado",
+  "clave": "4941862",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Marina",
+      "referencia": "2085486",
+      "texto": "1.-Senado -Marina.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Segunda",
+      "referencia": "2085525",
+      "texto": "2.-Senado -Estudios Legislativos, Segunda.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que expide la Ley de la Guardia Costera; y se reforma y adiciona diversas disposiciones a la Ley Orgánica de la Armada de México, a la Ley Orgánica de la Administración Pública Federal, a la Ley de Navegación y Comercio Marítimos, a la Ley General de Pesca y Acuacultura Sustentables, y al Código Penal Federal.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-10-07",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 07-OCT-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-10-07",
+  "id": "sil-4941862",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228755",
+      "nombre_fuente": "Sen. Francisco Daniel Barreda Pavón",
+      "person_id": "francisco-daniel-barreda-pavon",
+      "referencia_sil": "9228755",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4944006",
+  "sources": [
+    {
+      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
+      "consultado": "2026-11-17T07:56:01Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2025",
+        "FECHA_INIC": "01/10/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Campo",
+    "Seguridad Nacional",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

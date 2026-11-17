@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4913886",
+  "comisiones": [
+    {
+      "referencia": "2085605",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/05/2025-31/08/2025).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la Comisión Ejecutiva del Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y a la Junta Directiva del Instituto, así como al Consejo de Administración y a la Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores a que en la emisión de las reglas operativas de su programa de vivienda correspondiente al año 2026 se consideren las particularidades que viven las y los habitantes de Baja California Sur.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-23",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 23-JUL-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-07-23",
+  "id": "sil-4913886",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228150",
+      "nombre_fuente": "Dip. Manuel Alejandro Cota Cárdenas",
+      "person_id": "manuel-alejandro-cota-cardenas",
+      "referencia_sil": "9228150",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4915717",
+  "sources": [
+    {
+      "archivo": "fuentes/d9/d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36.html.gz",
+      "consultado": "2026-11-17T08:01:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2025",
+        "FECHA_INIC": "01/07/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d9bbd5db879f52da653d5bbbe593103146d79fc9a90e0c51b41b18d0603a1b36",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Vivienda"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

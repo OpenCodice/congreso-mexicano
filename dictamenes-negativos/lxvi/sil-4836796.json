@@ -1,0 +1,58 @@
+{
+  "camara_origen": "senado",
+  "clave": "4836796",
+  "comisiones": [],
+  "denominacion": "Por el que se desecha punto de acuerdo por el que se exhortaba a expedir la Ley para el Desarrollo Metropolitano de la Ciudad de México.",
+  "estatus": {
+    "estado": "Desechado en origen",
+    "fecha": "2025-02-18",
+    "resultado": "desechado",
+    "texto": "Desechado en origen el 18-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-18",
+  "id": "sil-4836796",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Senado: Desarrollo Regional",
+      "referencias_comision": [
+        "2085511"
+      ],
+      "tipo": "comision"
+    }
+  ],
+  "seguimiento": "4838389",
+  "sources": [
+    {
+      "archivo": "fuentes/73/73f48bd99147833233041a0495e0cb20e188dff242be66deffde5a2fb89bc444.html.gz",
+      "consultado": "2026-11-17T08:08:28Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "74639"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "73f48bd99147833233041a0495e0cb20e188dff242be66deffde5a2fb89bc444",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Proposición con punto de acuerdo",
+  "temas": [
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Dictamen en sentido negativo"
+}

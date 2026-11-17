@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4977209",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Educación",
+      "referencia": "2085573",
+      "texto": "1.-Diputados -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita a las autoridades educativas de las entidades federativas a emitir, a la brevedad, los respectivos protocolos para la prevención primaria; Atención (detección, intervención, notificación, canalización y seguimiento); y Medidas de no repetición (prevención secundaria) para la erradicación de la violencia sexual en la educación básica, en los términos referidos en el artículo 6 de los -Lineamientos para la Prevención y Atención para la Erradicación de la Violencia Sexual en Educación Básica- publicados en el DOF.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2026-01-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ENE-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-19",
+  "id": "sil-4977209",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228146",
+      "nombre_fuente": "Dip. Ulises Mejía Haro",
+      "person_id": "ulises-mejia-haro",
+      "referencia_sil": "9228146",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4980083",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

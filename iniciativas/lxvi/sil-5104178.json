@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5104178",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Reforma Política-Electoral",
+      "referencia": "2085585",
+      "texto": "1.-Diputados -Reforma Política-Electoral .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 3, 26 y 27, y se adicionan los artículos 11 Bis y 11 Ter a la Ley General de Instituciones y Procedimientos Electorales y se adiciona un artículo 8 bis a la Ley General en Materia de Delitos Electorales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-17",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 17-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-17",
+  "id": "sil-5104178",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228131",
+      "nombre_fuente": "Dip. Gilberto Herrera Solórzano",
+      "person_id": "gilberto-herrera-solorzano",
+      "referencia_sil": "9228131",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5104796",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0.html.gz",
+      "consultado": "2026-11-17T07:58:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Electoral"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4786090",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Social",
+      "referencia": "2085589",
+      "texto": "1.-Diputados -Seguridad Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un artículo 132 Bis a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-03-19",
+    "resultado": "retirado",
+    "texto": "Retirada el 19-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-10-16",
+  "id": "sil-4786090",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228260",
+      "nombre_fuente": "Dip. Yerico Abramo Masso",
+      "person_id": "yerico-abramo-masso",
+      "referencia_sil": "9228260",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4786973",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319.html.gz",
+      "consultado": "2026-11-17T07:53:41Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/10/2024",
+        "FECHA_INIC": "01/10/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60eaf3626b5cb1f3952cf0fd107af4908b51cdfff171209ae908c53daac0f319",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

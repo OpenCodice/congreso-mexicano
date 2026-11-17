@@ -1,0 +1,74 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4875647",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Transparencia y Anticorrupción",
+      "referencia": "2085591",
+      "texto": "2.-Diputados -Transparencia y Anticorrupción .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Federal de Responsabilidades de los Servidores Públicos y de la Ley General de Responsabilidades Administrativas, en materia de delitos contra las personas en su patrimonio y por hechos de corrupción, así como de faltas u omisiones consideradas como graves, en materia de responsabilidad administrativa de personas servidoras públicas.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-04-09",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 09-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-04-09",
+  "id": "sil-4875647",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228359",
+      "nombre_fuente": "Dip. Luis Humberto Fernández Fuentes",
+      "person_id": "luis-humberto-fernandez-fuentes",
+      "referencia_sil": "9228359",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4876362",
+  "sources": [
+    {
+      "archivo": "fuentes/c6/c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983.html.gz",
+      "consultado": "2026-11-17T07:54:52Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "15/04/2025",
+        "FECHA_INIC": "01/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "c6fccf5c1ea874d36933a836787a8052f5830e3264ec13577de731349d007983",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Transparencia y Rendición de Cuentas",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

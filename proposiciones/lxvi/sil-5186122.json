@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5186122",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Relaciones Exteriores, América del Norte",
+      "referencia": "2085518",
+      "texto": "1.-Senado -Relaciones Exteriores, América del Norte.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Relaciones Exteriores a promover un acuerdo bilateral con los Estados Unidos de América para garantizar la continuidad del tránsito comercial de carga por el Puente Internacional Córdova-Américas durante y después de su modernización; así como a la Secretaría de Infraestructura, Comunicaciones y Transportes a evaluar, en coordinación con las autoridades competentes, el fortalecimiento de la infraestructura de los cruces fronterizos cercanos y sus accesos viales en el estado de Chihuahua.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-03",
+  "id": "sil-5186122",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228899",
+      "nombre_fuente": "Sen. Nora Elena Yu Hernández",
+      "person_id": "nora-elena-yu-hernandez",
+      "referencia_sil": "9228899",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
+      "consultado": "2026-11-17T08:08:00Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "17/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Relaciones exteriores"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

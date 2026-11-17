@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4834788",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Tribunal Superior Agrario a que la Magistrada Presidenta Claudia Dinorah Velázquez González, deje de lado sus intereses personales y realice las acciones a que haya lugar, a fin de asegurar que el Tribunal Unitario Agrario Distrito 43 permanezca en su sede actual, así como exigir al Tribunal Superior Agrario otorgue certeza y seguridad jurídica y elimine todas las barreras que impidan ejercicio el cabal ejercicio del derecho a la justicia pronta y expedita.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-05-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-12",
+  "id": "sil-4834788",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228437",
+      "nombre_fuente": "Dip. Blanca Araceli Narro Panameño",
+      "person_id": "blanca-araceli-narro-panameno",
+      "referencia_sil": "9228437",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4836033",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Judicial",
+    "Justicia"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

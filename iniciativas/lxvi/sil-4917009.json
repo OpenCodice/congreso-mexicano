@@ -1,0 +1,74 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4917009",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Defensa Nacional",
+      "referencia": "2085499",
+      "texto": "1.-Senado -Defensa Nacional.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona un párrafo segundo al artículo 3 de la Ley del Servicio Militar.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-09-15",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 15-SEP-2026"
+  },
+  "expediente_id": "sil-5051298",
+  "fecha_presentacion": "2025-08-13",
+  "id": "sil-4917009",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228882",
+      "nombre_fuente": "Sen. Miguel Ángel Riquelme Solís",
+      "person_id": "miguel-angel-riquelme-solis",
+      "referencia_sil": "9228882",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5051298",
+  "sources": [
+    {
+      "archivo": "fuentes/8c/8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894.html.gz",
+      "consultado": "2026-11-17T07:55:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Nacional",
+    "Protección Civil"
+  ],
+  "tipo": "Iniciativa"
+}

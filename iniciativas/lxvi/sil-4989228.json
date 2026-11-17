@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4989228",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos Humanos",
+      "referencia": "2085548",
+      "texto": "1.-Diputados -Derechos Humanos .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 7°, 10, 22, 32 y 33 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en materia de reclutamiento forzado.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-02-02",
+    "resultado": "retirado",
+    "texto": "Retirada el 02-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-12-02",
+  "id": "sil-4989228",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228204",
+      "nombre_fuente": "Dip. Elena Edith Segura Trejo",
+      "person_id": "elena-edith-segura-trejo",
+      "referencia_sil": "9228204",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4995044",
+  "sources": [
+    {
+      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
+      "consultado": "2026-11-17T07:56:24Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/12/2025",
+        "FECHA_INIC": "01/12/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

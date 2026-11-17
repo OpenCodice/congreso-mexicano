@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "5088943",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Puntos Constitucionales",
+      "referencia": "2085502",
+      "texto": "1.-Senado -Puntos Constitucionales.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que el Senado de la República invita a las personas titulares de los Poderes Ejecutivos de los Estados de Sinaloa, Rubén Rocha Moya y de Baja California, Marina del Pilar Ávila Olmeda, a una reunión de trabajo con las comisiones de Puntos Constitucionales y de Seguridad Pública, a celebrarse el martes 28 de abril de 2026, a las 11:00 horas, en la sede del Senado de la República, con el objeto de que puedan proporcionar información relacionada con los temas de inseguridad que aquejan a sus respectivos Estados.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5088943",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229212",
+      "nombre_fuente": "Sen. Ricardo Anaya Cortés",
+      "person_id": "ricardo-anaya-cortes",
+      "referencia_sil": "9229212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Legislativo",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

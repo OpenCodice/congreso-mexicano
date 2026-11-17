@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4863311",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al gobierno de Guanajuato a acatar el Decreto Constitucional en materia de la Federalización del Sistema de Salud, para la adhesión al sistema de salud IMSS-Bienestar.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-25",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 25-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-25",
+  "id": "sil-4863311",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228581",
+      "nombre_fuente": "Dip. María Magdalena Rosales Cruz",
+      "person_id": "maria-magdalena-rosales-cruz",
+      "referencia_sil": "9228581",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4864986",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Desarrollo Social",
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

@@ -1,0 +1,69 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4919404",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Trabajo y Previsión Social",
+      "referencia": "2085590",
+      "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones de la Ley General de Educación, de la Ley General de Salud, de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de la Guardia Nacional, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, de la Ley Orgánica de la Armada de México y de la Ley General del Sistema Nacional de Seguridad Pública.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2026-06-05",
+    "resultado": "retirado",
+    "texto": "Retirada el 05-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-08-27",
+  "id": "sil-4919404",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229416",
+      "nombre_fuente": "Dip. Pablo Vázquez Ahued",
+      "person_id": "pablo-vazquez-ahued",
+      "referencia_sil": "9229416",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4920295",
+  "sources": [
+    {
+      "archivo": "fuentes/8c/8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894.html.gz",
+      "consultado": "2026-11-17T07:55:39Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2025",
+        "FECHA_INIC": "01/08/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "8cdf064f56f371a98cefa07f7b56402771b6f0076ca275f35420616c49b4c894",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral",
+    "Salud",
+    "Seguridad Nacional",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

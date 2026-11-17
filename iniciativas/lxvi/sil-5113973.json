@@ -1,0 +1,88 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5113973",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "2.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "3.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que expide la Ley General para la Prevención de la Violencia Asociada al Maltrato Animal y la Protección de Personas en Situación de Vulnerabilidad.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-05",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-05",
+  "id": "sil-5113973",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228379",
+      "nombre_fuente": "Dip. Ana Isabel González González",
+      "person_id": "ana-isabel-gonzalez-gonzalez",
+      "referencia_sil": "9228379",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118770",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
+      "consultado": "2026-11-17T07:58:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

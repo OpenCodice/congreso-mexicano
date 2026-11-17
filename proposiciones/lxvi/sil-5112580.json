@@ -1,0 +1,63 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5112580",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Agricultura y Desarrollo Rural a considerar las plantaciones y cultivos de nopal mexicano como una estrategia integral de reforestación, restauración de suelos y reactivación económica en territorios afectados por la desertificación y el cambio climático, así como instrumento para el acceso a financiamiento climático, bonos de carbono y mecanismos de compensación y restauración de biodiversidad en beneficio de agricultores y ganaderos de las zonas áridas y semiáridas del país.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-19",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 19-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-29",
+  "id": "sil-5112580",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228197",
+      "nombre_fuente": "Dip. Ruth Maricela Silva Andraca",
+      "person_id": "ruth-maricela-silva-andraca",
+      "referencia_sil": "9228197",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118706",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Campo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

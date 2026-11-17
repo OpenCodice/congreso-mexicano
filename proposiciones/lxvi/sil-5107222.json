@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5107222",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita la comparecencia de la titular de la Secretaría de Energía, Luz Elena González Escobar, para que informe sobre el incidente relacionado con la presencia de una sustancia con características de hidrocarburo en el Río Pánuco, sus posibles afectaciones ambientales y las acciones de contención y, en su caso, remediación correspondiente.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-07-01",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 01-JUL-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-07-01",
+  "id": "sil-5107222",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229147",
+      "nombre_fuente": "Dip. Fidel Daniel Chimal García",
+      "person_id": "fidel-daniel-chimal-garcia",
+      "referencia_sil": "9229147",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5109476",
+  "sources": [
+    {
+      "archivo": "fuentes/4d/4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536.html.gz",
+      "consultado": "2026-11-17T08:07:23Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/07/2026",
+        "FECHA_INIC": "01/07/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4da27d3b84d1c505dcf4819bf925bf7d23dc3c9993c899e3879fae70e1802536",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de comparecencia",
+  "temas": [
+    "Energía",
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

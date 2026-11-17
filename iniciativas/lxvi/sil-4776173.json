@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4776173",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona una fracción XVI al artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-03-25",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 25-MAR-2026"
+  },
+  "expediente_id": "sil-5047900",
+  "fecha_presentacion": "2024-09-24",
+  "id": "sil-4776173",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229164",
+      "nombre_fuente": "Sen. Ana Lilia Rivera Rivera",
+      "person_id": "ana-lilia-rivera-rivera",
+      "referencia_sil": "9229164",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5047900",
+  "sources": [
+    {
+      "archivo": "fuentes/27/273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6.html.gz",
+      "consultado": "2026-11-17T07:53:32Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Laboral"
+  ],
+  "tipo": "Iniciativa"
+}

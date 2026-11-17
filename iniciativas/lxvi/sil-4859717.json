@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "4859717",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reordenamiento Urbano y Vivienda",
+      "referencia": "2085534",
+      "texto": "1.-Senado -Reordenamiento Urbano y Vivienda.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona la fracción VII Bis al artículo 2 y, reforma los artículos 3, 5, 8, 9 y 21 de la Ley de Planeación y los artículos 1 y 2 de la Ley de Vivienda.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-03-20",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 20-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-20",
+  "id": "sil-4859717",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228996",
+      "nombre_fuente": "Sen. Enrique Vargas del Villar",
+      "person_id": "enrique-vargas-del-villar",
+      "referencia_sil": "9228996",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4866643",
+  "sources": [
+    {
+      "archivo": "fuentes/1b/1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115.html.gz",
+      "consultado": "2026-11-17T07:54:29Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1b207d45d7203e176e67f167bba2904b2dff802b58f67670d057de2318744115",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Vivienda"
+  ],
+  "tipo": "Iniciativa"
+}

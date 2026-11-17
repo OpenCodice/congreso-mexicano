@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5088865",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085505",
+      "texto": "1.-Senado -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta respetuosamente Secretaría de Salud, a la Secretaría de Educación Pública, al Sistema Nacional DIF, al Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes y al Consejo Nacional de Población, así como a las autoridades Estatales y Municipales, para que en el ámbito de sus competencias, implementen y fortalezcan acciones integrales de prevención, detección, atención y protección, con el objetivo de erradicar los matrimonios y uniones infantiles forzadas y, como consecuencia, prevenir el embarazo infantil de alto riesgo, atender la violencia intrafamiliar derivada de estas prácticas, evitar la deserción escolar de niñas y adolescentes, y reforzar la coordinación interinstitucional que garantice la protección integral de los derechos de niñas, niños y adolescentes.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5088865",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228720",
+      "nombre_fuente": "Sen. María de Jesús Díaz Marmolejo",
+      "person_id": "maria-de-jesus-diaz-marmolejo",
+      "referencia_sil": "9228720",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
+      "consultado": "2026-11-17T08:02:54Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "01/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

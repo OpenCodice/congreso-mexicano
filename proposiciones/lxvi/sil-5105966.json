@@ -1,0 +1,64 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5105966",
+  "comisiones": [
+    {
+      "referencia": "2085624",
+      "texto": "1.-Tercera Comisión de Trabajo: Asuntos Económicos (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que solicita al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, a través de la Dirección General del Registro Público Vehicular, así como a los gobiernos de las 32 entidades federativas, sus Congresos Locales, municipios y Alcaldías, respectivamente, a que realicen, o en su caso, continúen realizando diversas acciones y políticas públicas tendientes a regularizar el padrón vehicular de motocicletas, así como las correspondientes para inhibir la comisión de infracciones de tránsito por motociclistas, en las cuales se incluya el uso de sistemas automatizados de detección de infracciones, el endurecimiento de sanciones contra conductores y campañas de concientización sobre la alta mortalidad que pueden generar las maniobras imprudentes como el rebase entre carriles.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2026-08-12",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 12-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-23",
+  "id": "sil-5105966",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228216",
+      "nombre_fuente": "Dip. Estela Carina Piceno Navarro",
+      "person_id": "estela-carina-piceno-navarro",
+      "referencia_sil": "9228216",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5116234",
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58.html.gz",
+      "consultado": "2026-11-17T08:07:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a5adc92f1b6ace2f033dc5975e47a9142f1cbe7dda9715f6de0bda77777af58",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Comunicaciones y Transportes",
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

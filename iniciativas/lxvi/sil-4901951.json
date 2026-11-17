@@ -1,0 +1,66 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4901951",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 18-A de la Ley Federal de Derechos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-05-27",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 27-MAY-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-05-27",
+  "id": "sil-4901951",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229088",
+      "nombre_fuente": "Sen. Mayuli Latifa Martínez Simón",
+      "person_id": "mayuli-latifa-martinez-simon",
+      "referencia_sil": "9229088",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4903998",
+  "sources": [
+    {
+      "archivo": "fuentes/7e/7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab.html.gz",
+      "consultado": "2026-11-17T07:55:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2025",
+        "FECHA_INIC": "01/05/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,220 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5113963",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085512",
+      "texto": "1.-Senado -Reglamentos y Prácticas Parlamentarias.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos, Primera",
+      "referencia": "2085523",
+      "texto": "2.-Senado -Estudios Legislativos, Primera.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que expide el Reglamento de la Comisión Permanente del Congreso General de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-08-05",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 05-AGO-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-08-05",
+  "id": "sil-5113963",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229178",
+      "nombre_fuente": "Sen. Verónica Noemí Camino Farjat",
+      "person_id": "veronica-noemi-camino-farjat",
+      "referencia_sil": "9229178",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228280",
+      "nombre_fuente": "Dip. Karina Margarita Del Río Zenteno",
+      "person_id": "karina-margarita-del-rio-zenteno",
+      "referencia_sil": "9228280",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228890",
+      "nombre_fuente": "Sen. Sasil Dora Luz De León Villard",
+      "person_id": "sasil-dora-luz-de-leon-villard",
+      "referencia_sil": "9228890",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228284",
+      "nombre_fuente": "Dip. Joaquín Zebadúa Alva",
+      "person_id": "joaquin-zebadua-alva",
+      "referencia_sil": "9228284",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228750",
+      "nombre_fuente": "Sen. María Martina Kantún Can",
+      "person_id": "maria-martina-kantun-can",
+      "referencia_sil": "9228750",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229330",
+      "nombre_fuente": "Dip. Reginaldo Sandoval Flores",
+      "person_id": "reginaldo-sandoval-flores",
+      "referencia_sil": "9229330",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228469",
+      "nombre_fuente": "Dip. María del Rosario Orozco Caballero",
+      "person_id": "maria-del-rosario-orozco-caballero",
+      "referencia_sil": "9228469",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228393",
+      "nombre_fuente": "Dip. Beatriz Andrea Navarro Pérez",
+      "person_id": "beatriz-andrea-navarro-perez",
+      "referencia_sil": "9228393",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228838",
+      "nombre_fuente": "Dip. Gabino Morales Mendoza",
+      "person_id": "gabino-morales-mendoza",
+      "referencia_sil": "9228838",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229170",
+      "nombre_fuente": "Sen. Manuel Rafael Huerta Ladrón de Guevara",
+      "person_id": "manuel-rafael-huerta-ladron-de-guevara",
+      "referencia_sil": "9229170",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229182",
+      "nombre_fuente": "Sen. Jorge Carlos Ramírez Marín",
+      "person_id": "jorge-carlos-ramirez-marin",
+      "referencia_sil": "9229182",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228222",
+      "nombre_fuente": "Dip. Gabriel García Hernández",
+      "person_id": "gabriel-garcia-hernandez",
+      "referencia_sil": "9228222",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228950",
+      "nombre_fuente": "Sen. Sandra Simey Olvera Bautista",
+      "person_id": "sandra-simey-olvera-bautista",
+      "referencia_sil": "9228950",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228409",
+      "nombre_fuente": "Dip. Mary Carmen Bernal Martínez",
+      "person_id": "mary-carmen-bernal-martinez",
+      "referencia_sil": "9228409",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229072",
+      "nombre_fuente": "Sen. Lizeth Sánchez García",
+      "person_id": "lizeth-sanchez-garcia",
+      "referencia_sil": "9229072",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228242",
+      "nombre_fuente": "Dip. Margarita Corro Mendoza",
+      "person_id": "margarita-corro-mendoza",
+      "referencia_sil": "9228242",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228465",
+      "nombre_fuente": "Dip. Mario Miguel Carrillo Cubillas",
+      "person_id": "mario-miguel-carrillo-cubillas",
+      "referencia_sil": "9228465",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228561",
+      "nombre_fuente": "Dip. Alma Rosa De la Vega Vargas",
+      "person_id": "alma-rosa-de-la-vega-vargas",
+      "referencia_sil": "9228561",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228581",
+      "nombre_fuente": "Dip. María Magdalena Rosales Cruz",
+      "person_id": "maria-magdalena-rosales-cruz",
+      "referencia_sil": "9228581",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228131",
+      "nombre_fuente": "Dip. Gilberto Herrera Solórzano",
+      "person_id": "gilberto-herrera-solorzano",
+      "referencia_sil": "9228131",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229270",
+      "nombre_fuente": "Sen. Laura Itzel Castillo Juárez",
+      "person_id": "laura-itzel-castillo-juarez",
+      "referencia_sil": "9229270",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5118187",
+  "sources": [
+    {
+      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
+      "consultado": "2026-11-17T07:58:37Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/08/2026",
+        "FECHA_INIC": "01/08/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Iniciativa"
+}

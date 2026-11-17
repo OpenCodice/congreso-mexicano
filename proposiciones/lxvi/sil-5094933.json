@@ -1,0 +1,65 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5094933",
+  "comisiones": [
+    {
+      "referencia": "2085623",
+      "texto": "1.-Segunda Comisión de Trabajo: Asuntos Sociales (01/06/2026-31/08/2026).-Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Ejecutivo Federal, a los gobiernos de las 32 entidades federativas y a sus respectivos municipios, así como a las secretarías de Educación, Salud y Trabajo, a implementar un Programa Nacional Permanente de reconocimiento, fortalecimiento e incentivos para los cuerpos de emergencia y rescate, con el fin de garantizar su bienestar integral, el de sus familias y la dignificación de su labor en todo el país.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-05-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-MAY-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-05-21",
+  "id": "sil-5094933",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229206",
+      "nombre_fuente": "Dip. Mario Zamora Gastélum",
+      "person_id": "mario-zamora-gastelum",
+      "referencia_sil": "9229206",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5101305",
+  "sources": [
+    {
+      "archivo": "fuentes/99/99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c.html.gz",
+      "consultado": "2026-11-17T08:07:03Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/05/2026",
+        "FECHA_INIC": "01/05/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "99a327a2f94cce61bc7f91f1510614f1a0b7bd6721600f80c19df7462ba80a7c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura",
+    "Salud",
+    "Protección Civil"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

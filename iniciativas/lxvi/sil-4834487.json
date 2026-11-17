@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4834487",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Régimen, Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085586",
+      "texto": "1.-Diputados -Régimen, Reglamentos y Prácticas Parlamentarias .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "De decreto por el que se inscribe con letras de oro en el Muro de Honor de la Cámara de Diputados del Honorable Congreso de la Unión el nombre de Frida Kahlo.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-02-12",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 12-FEB-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-12",
+  "id": "sil-4834487",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228160",
+      "nombre_fuente": "Dip. Elda Esther del Carmen Castillo Quintana",
+      "person_id": "elda-esther-del-carmen-castillo-quintana",
+      "referencia_sil": "9228160",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4834925",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Iniciativa de carácter administrativo o de gobierno interior",
+  "temas": [
+    "Poder Legislativo",
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

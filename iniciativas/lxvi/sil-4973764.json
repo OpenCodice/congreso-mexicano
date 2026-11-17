@@ -1,0 +1,58 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4973764",
+  "comisiones": [],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en materia de cancelación y emisión de tarjetas de crédito y débito, emitidas por entidades financieras y comerciales.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2025-11-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de revisora el 19-NOV-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-12",
+  "id": "sil-4973764",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228822",
+      "nombre_fuente": "Dip. Ricardo Monreal Ávila",
+      "person_id": "ricardo-monreal-avila",
+      "referencia_sil": "9228822",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4974411",
+  "sources": [
+    {
+      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
+      "consultado": "2026-11-17T07:56:11Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Sistema Financiero"
+  ],
+  "tipo": "Iniciativa"
+}

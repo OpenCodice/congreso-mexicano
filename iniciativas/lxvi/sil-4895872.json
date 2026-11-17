@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4895872",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 414, 418 y 420 Bis del Código Penal Federal.",
+  "estatus": {
+    "estado": "Desechado en comisión(es) origen",
+    "fecha": "2026-04-21",
+    "resultado": "desechado",
+    "texto": "Desechado en comisión(es) origen el 21-ABR-2026"
+  },
+  "expediente_id": "sil-4983308",
+  "fecha_presentacion": "2025-04-30",
+  "id": "sil-4895872",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228758",
+      "nombre_fuente": "Dip. Miguel Ángel Sánchez Rivera",
+      "person_id": "miguel-angel-sanchez-rivera",
+      "referencia_sil": "9228758",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4983308",
+  "sources": [
+    {
+      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
+      "consultado": "2026-11-17T07:55:04Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2025",
+        "FECHA_INIC": "16/04/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Medio Ambiente",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4838960",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085479",
+      "texto": "1.-Senado -Hacienda y Crédito Público.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a la titular del Poder Ejecutivo; a que remita un informe detallado a esta soberanía sobre el proceso de descentralización de la Nacional Financiera, S.N.C. y su relocalización a Torreón, Coahuila, durante la administración anterior 2018-2024; el cual contenga las erogaciones realizadas por dicho traslado; el inventario de los muebles e inmuebles que se adquirieron para dicho proceso; la relación del personal que se trasladó a dicha sede y en su caso, el personal que será reubicado o dado de baja por el cierre de las oficinas; el impacto benéfico que tuvo trasladar dicha sede y los efectos que traerá su cierre en la entidad.",
+  "estatus": {
+    "estado": "Desechado",
+    "fecha": "2025-04-30",
+    "resultado": "desechado",
+    "texto": "Desechado el 30-ABR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-19",
+  "id": "sil-4838960",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228882",
+      "nombre_fuente": "Sen. Miguel Ángel Riquelme Solís",
+      "person_id": "miguel-angel-riquelme-solis",
+      "referencia_sil": "9228882",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4845831",
+  "sources": [
+    {
+      "archivo": "fuentes/e9/e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e.html.gz",
+      "consultado": "2026-11-17T08:00:57Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "e9fd6d6c35d7084861358cacc8801e059abd8322a60a4390bc5270ef1973d48e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Solicitud de información al Ejecutivo",
+  "temas": [
+    "Poder Ejecutivo",
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

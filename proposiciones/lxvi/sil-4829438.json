@@ -1,0 +1,68 @@
+{
+  "camara_origen": "permanente",
+  "clave": "4829438",
+  "comisiones": [
+    {
+      "camara": "Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025",
+      "comision": "31/01/2025)",
+      "referencia": "2085601",
+      "texto": "1.-Segunda Comisión de Trabajo: Relaciones Exteriores, Defensa Nacional y Educación Pública (21/01/2025 - 31/01/2025).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta al INM, a la CNDH y a la SHCP a reforzar la supervisión y protección de los derechos humanos de las personas migrantes en la frontera norte de México, así como mejorar la asignación de recursos para estos fines.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-01-21",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 21-ENE-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-01-21",
+  "id": "sil-4829438",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228900",
+      "nombre_fuente": "Sen. Juan Carlos Loera De La Rosa",
+      "person_id": "juan-carlos-loera-de-la-rosa",
+      "referencia_sil": "9228900",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4829536",
+  "sources": [
+    {
+      "archivo": "fuentes/53/53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c.html.gz",
+      "consultado": "2026-11-17T08:00:49Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/01/2025",
+        "FECHA_INIC": "01/01/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "53ed612920be4db0372e3499e0de000689c700bbcdde0eb6db9babf3edd2227c",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Derechos Humanos",
+    "Migración",
+    "Hacienda Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

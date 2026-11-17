@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4834484",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Desarrollo Urbano y Ordenamiento Territorial",
+      "referencia": "2085570",
+      "texto": "1.-Diputados -Desarrollo Urbano y Ordenamiento Territorial.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 22, 23, 34, 64 y 69 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.",
+  "estatus": {
+    "estado": "Retirada",
+    "fecha": "2025-06-23",
+    "resultado": "retirado",
+    "texto": "Retirada el 23-JUN-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-02-12",
+  "id": "sil-4834484",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228595",
+      "nombre_fuente": "Dip. Javier Taja Ramírez",
+      "person_id": "javier-taja-ramirez",
+      "referencia_sil": "9228595",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4834959",
+  "sources": [
+    {
+      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
+      "consultado": "2026-11-17T07:54:18Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2025",
+        "FECHA_INIC": "01/02/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Ordenamiento territorial"
+  ],
+  "tipo": "Iniciativa"
+}

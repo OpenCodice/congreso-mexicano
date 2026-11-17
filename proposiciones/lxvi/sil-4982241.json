@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4982241",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la SHCP a reintegrar a la Comisión Nacional de Áreas Naturales Protegidas, a la Comisión Nacional Forestal y a la Procuraduría Federal de Protección al Ambiente, la totalidad de los recursos recaudados por concepto de derechos derivados de sus actividades y servicios.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-12-10",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 10-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-11-25",
+  "id": "sil-4982241",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228763",
+      "nombre_fuente": "Dip. Eduardo Gaona Domínguez",
+      "person_id": "eduardo-gaona-dominguez",
+      "referencia_sil": "9228763",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5001593",
+  "sources": [
+    {
+      "archivo": "fuentes/3c/3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e.html.gz",
+      "consultado": "2026-11-17T08:02:12Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/11/2025",
+        "FECHA_INIC": "01/11/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3c202337d10d75866903f219fa366582dae8efb36e3330bee23f9c379926d92e",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Hacienda Pública",
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

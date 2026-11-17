@@ -1,0 +1,81 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5087479",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Seguridad Ciudadana",
+      "referencia": "2085588",
+      "texto": "2.-Diputados -Seguridad Ciudadana.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "3.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones del Código Penal Federal, de la Ley General de los Derechos de Niñas, Niños y Adolescentes, de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y de la Ley General del Sistema Nacional de Seguridad Pública, en materia de prevención, sanción y atención del reclutamiento de menores por parte de la delincuencia organizada.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-04-29",
+  "id": "sil-5087479",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "MC",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228780",
+      "nombre_fuente": "Dip. Gildardo Pérez Gabino",
+      "person_id": "gildardo-perez-gabino",
+      "referencia_sil": "9228780",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5092103",
+  "sources": [
+    {
+      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
+      "consultado": "2026-11-17T07:57:56Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/04/2026",
+        "FECHA_INIC": "24/04/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Seguridad Pública",
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

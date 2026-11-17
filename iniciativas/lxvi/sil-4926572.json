@@ -1,0 +1,58 @@
+{
+  "camara_origen": "diputados",
+  "clave": "4926572",
+  "comisiones": [],
+  "denominacion": "Que adiciona las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, en materia de cancelación de suscripciones y membresías con cobro recurrente.",
+  "estatus": {
+    "estado": "Publicado en DOF",
+    "fecha": "2025-12-12",
+    "resultado": "aprobado",
+    "texto": "Publicado en DOF el 12-DIC-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-09-17",
+  "id": "sil-4926572",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228822",
+      "nombre_fuente": "Dip. Ricardo Monreal Ávila",
+      "person_id": "ricardo-monreal-avila",
+      "referencia_sil": "9228822",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4927355",
+  "sources": [
+    {
+      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
+      "consultado": "2026-11-17T07:55:51Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2025",
+        "FECHA_INIC": "01/09/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}

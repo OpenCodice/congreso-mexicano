@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5022848",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona los artículos 203 Bis, 203 Ter, 203 Quáter, 203 Quintus y 203 Sextus de la Ley Federal de Derechos.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-FEB-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-02-24",
+  "id": "sil-5022848",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228884",
+      "nombre_fuente": "Sen. Virgilio Mendoza Amezcua",
+      "person_id": "virgilio-mendoza-amezcua",
+      "referencia_sil": "9228884",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5022858",
+  "sources": [
+    {
+      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
+      "consultado": "2026-11-17T07:56:45Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "28/02/2026",
+        "FECHA_INIC": "01/02/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

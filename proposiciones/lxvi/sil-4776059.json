@@ -1,0 +1,67 @@
+{
+  "camara_origen": "senado",
+  "clave": "4776059",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Gobernación",
+      "referencia": "2085531",
+      "texto": "1.-Senado -Gobernación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que exhorta a los honorables Congresos de las entidades federativas y de la Ciudad de México para que legislen en materia de acciones afirmativas en materia electoral dirigidas a asegurar la participación de personas con discapacidad, indígenas, afromexicanas y de la diversidad sexual, así como para que establezcan mecanismos legales que eviten que esas candidaturas sean usurpadas por personas que simulen pertenecer a esos grupos vulnerables.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2024-12-10",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 10-DIC-2024"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2024-09-24",
+  "id": "sil-4776059",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229000",
+      "nombre_fuente": "Sen. Reyna Celeste Ascencio Ortega",
+      "person_id": "reyna-celeste-ascencio-ortega",
+      "referencia_sil": "9229000",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4821786",
+  "sources": [
+    {
+      "archivo": "fuentes/1a/1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f.html.gz",
+      "consultado": "2026-11-17T08:00:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/09/2024",
+        "FECHA_INIC": "01/09/2024",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "1a0d84aadab30e02b76f5ecb5c38ffdb524e962c7038fc8bcce53e9d680bd05f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Derechos Humanos",
+    "Electoral"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

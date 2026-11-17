@@ -1,0 +1,67 @@
+{
+  "camara_origen": "permanente",
+  "clave": "5102035",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Atención a Grupos Vulnerables",
+      "referencia": "2085564",
+      "texto": "1.-Diputados -Atención a Grupos Vulnerables.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma los artículos 5°, 10 y 28 de la Ley de los Derechos de las Personas Adultas Mayores.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-06-10",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 10-JUN-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-06-10",
+  "id": "sil-5102035",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228509",
+      "nombre_fuente": "Dip. César Alejandro Domínguez Domínguez",
+      "person_id": "cesar-alejandro-dominguez-dominguez",
+      "referencia_sil": "9228509",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5106340",
+  "sources": [
+    {
+      "archivo": "fuentes/d6/d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0.html.gz",
+      "consultado": "2026-11-17T07:58:16Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "30/06/2026",
+        "FECHA_INIC": "01/06/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "d692ce81977991411a5eef5c612fae385c286b69b4752cc35b71c7218b3b96b0",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Derechos Humanos",
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

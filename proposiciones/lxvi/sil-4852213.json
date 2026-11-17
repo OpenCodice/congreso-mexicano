@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "4852213",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por la que se hace un enérgico extrañamiento a las autoridades del municipio de Cuautla, Morelos y se le exhorta a revocar los permisos otorgados a actividades ajenas a la festividad del Señor del Pueblo, así como respetar la zona de monumentos históricos decretada en el DOF, del santuario del Señor del Pueblo y Plaza Revolución del Sur, además de que se respeten las tradiciones, la identidad y se lleven a cabo actividades culturales en el marco de dicha festividad.",
+  "estatus": {
+    "estado": "Resuelto / Aprobado",
+    "fecha": "2025-03-27",
+    "resultado": "aprobado",
+    "texto": "Resuelto / Aprobado el 27-MAR-2025"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2025-03-11",
+  "id": "sil-4852213",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "4866592",
+  "sources": [
+    {
+      "archivo": "fuentes/73/7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270.html.gz",
+      "consultado": "2026-11-17T08:01:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "31/03/2025",
+        "FECHA_INIC": "01/03/2025",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "7367465251109bf9cca48d85cf0fddf6e0945f69b6e1fc9777ffcbe16b2d5270",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}
