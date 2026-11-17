@@ -21,7 +21,7 @@ commit que trajo la reforma a
 La reforma a los artículos 82, 116 y 122 de la Constitución (nacionalidad
 única), publicada en el DOF el 7 de octubre de 2026:
 
-- `decretos/2026/dof-5800617.json` — el decreto, el commit `5a22721` de
+- `decretos/2026/dof-5800617.json` — el decreto, el commit `260df83` de
   `constitucion-mexicana` que trajo el cambio, y los 22 congresos locales que
   la aprobaron.
 - `expedientes/sil-5128211.json` — las iniciativas (del Ejecutivo y de una
