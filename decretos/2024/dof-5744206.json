@@ -1,18 +1,5 @@
 {
-  "candidatos_expediente": [
-    {
-      "id": "sil-4784645",
-      "parecido": 0.62
-    },
-    {
-      "id": "sil-4785120",
-      "parecido": 0.47
-    },
-    {
-      "id": "sil-4798657",
-      "parecido": 0.43
-    }
-  ],
+  "candidatos_expediente": [],
   "codigo": 5744206,
   "dependencia": "SECRETARIA DE GOBERNACION",
   "documentos": [
@@ -28,7 +15,23 @@
     }
   ],
   "edicion": "VES",
-  "expedientes": [],
+  "expedientes": [
+    {
+      "criterio": "propuesto por un agente con citas textuales del decreto y del expediente, verificadas en sus fuentes, y confirmado por un segundo agente",
+      "evidencia": [
+        {
+          "fuente": "dof",
+          "texto": "reforma y adiciona la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras"
+        },
+        {
+          "fuente": "expediente",
+          "texto": "Con proyecto de decreto que reforma y adiciona la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras"
+        }
+      ],
+      "id": "sil-4784645",
+      "resolucion": "OpenCodice/congreso-extractor:resoluciones/decretos/2026-11-17-112617.json"
+    }
+  ],
   "fecha": "2024-12-02",
   "id": "dof-5744206",
   "pagina": 4,
@@ -37,6 +40,11 @@
       "consultado": "2026-11-17T11:18:57Z",
       "sha256": "ccd830ba62c5ad8b1610c6b0d24e94bbce75ebbb4230fcc032dd70320538475f",
       "url": "https://sidof.segob.gob.mx/dof/sidof/notas/02-12-2024"
+    },
+    {
+      "consultado": "2026-11-17T11:24:45Z",
+      "sha256": "4406c93bae114291d7954f792217ce104986ac8fd61aed730b06233be5ee60f7",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5744206"
     }
   ],
   "titulo": "Decreto por el que se reforma y adiciona la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de vivienda para las personas trabajadoras.",

@@ -1,10 +1,5 @@
 {
-  "candidatos_expediente": [
-    {
-      "id": "sil-4868955",
-      "parecido": 0.27
-    }
-  ],
+  "candidatos_expediente": [],
   "codigo": 5755218,
   "dependencia": "PRESIDENCIA DE LA REPUBLICA",
   "documentos": [
@@ -15,7 +10,23 @@
     }
   ],
   "edicion": "VES",
-  "expedientes": [],
+  "expedientes": [
+    {
+      "criterio": "propuesto por un agente con citas textuales del decreto y del expediente, verificadas en sus fuentes, y confirmado por un segundo agente",
+      "evidencia": [
+        {
+          "fuente": "dof",
+          "texto": "SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS"
+        },
+        {
+          "fuente": "expediente",
+          "texto": "Que reforma, adiciona y deroga diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas"
+        }
+      ],
+      "id": "sil-4868955",
+      "resolucion": "OpenCodice/congreso-extractor:resoluciones/decretos/2026-11-17-112617.json"
+    }
+  ],
   "fecha": "2025-04-16",
   "id": "dof-5755218",
   "pagina": 54,
@@ -24,6 +35,11 @@
       "consultado": "2026-11-17T11:20:22Z",
       "sha256": "0d446b9cb3b8b9f48a03f43dc2d4e538e9d992fcbeb5fea794552703652ca2fa",
       "url": "https://sidof.segob.gob.mx/dof/sidof/notas/16-04-2025"
+    },
+    {
+      "consultado": "2026-11-17T11:24:50Z",
+      "sha256": "8d7ce1d1fdd5e816c9b1313b94315e33b4848d47d7457c8c7d9bbba796468284",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5755218"
     }
   ],
   "titulo": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.",
