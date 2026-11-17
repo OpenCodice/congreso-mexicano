@@ -10,14 +10,19 @@
     }
   ],
   "edicion": "MAT",
-  "expedientes": [],
+  "expedientes": [
+    {
+      "criterio": "publicado en el DOF esa fecha, nombra al documento y su denominación es claramente la más parecida al título (0.32)",
+      "id": "sil-4746443"
+    }
+  ],
   "fecha": "2024-09-30",
   "id": "dof-5739950",
   "pagina": 322,
   "sources": [
     {
-      "consultado": "2026-11-16T18:55:16Z",
-      "sha256": "6e3dc521648b15801bdc2dd6273e81a694cd1f8d04e85c6dda09992f1a3a10d9",
+      "consultado": "2026-11-17T11:18:44Z",
+      "sha256": "0c711f065eefdc6d4b9e59434937a0eec6ebdd42c79a8997df493071c33eec3e",
       "url": "https://sidof.segob.gob.mx/dof/sidof/notas/30-09-2024"
     }
   ],

@@ -10,14 +10,19 @@
     }
   ],
   "edicion": "VES",
-  "expedientes": [],
+  "expedientes": [
+    {
+      "criterio": "único decreto y único expediente del SIL publicados en el DOF esa fecha que nombran al documento",
+      "id": "sil-4782817"
+    }
+  ],
   "fecha": "2024-10-14",
   "id": "dof-5741085",
   "pagina": 2,
   "sources": [
     {
-      "consultado": "2026-11-16T18:58:40Z",
-      "sha256": "fb8c536dc8cd4ff4598dff8fa8d08c533393f32ba54be005189ea14b008d6d9a",
+      "consultado": "2026-11-17T11:21:20Z",
+      "sha256": "c2197307d7215890854c0008b43001b0e2bf4ac240066801e443e5bd43041422",
       "url": "https://sidof.segob.gob.mx/dof/sidof/notas/14-10-2024"
     }
   ],
