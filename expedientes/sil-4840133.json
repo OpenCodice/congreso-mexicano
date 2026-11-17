@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/67/673f33a20dc5734a6882f1895a54e04168c91df4b0a1c1b16ec9de5fce52b197.html",
-      "consultado": "2026-11-16T15:59:00Z",
+      "consultado": "2026-11-17T06:34:40Z",
       "sha256": "673f33a20dc5734a6882f1895a54e04168c91df4b0a1c1b16ec9de5fce52b197",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4840133&Asunto=4841145"
     },
     {
       "archivo": "fuentes/33/33d6ab5fae19ad09aa1bb45d68da602f15d5dc9aa2b773a266d07106214bf6c6.html",
-      "consultado": "2026-11-16T15:59:04Z",
+      "consultado": "2026-11-17T06:34:44Z",
       "sha256": "33d6ab5fae19ad09aa1bb45d68da602f15d5dc9aa2b773a266d07106214bf6c6",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4841145&Seguimiento=4840133"
     }
@@ -368,5 +368,280 @@
     "sil-4841145-2",
     "sil-4847530-1",
     "sil-4847530-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado omitir su lectura."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 55, 59, 115, 116 y 122, y el primero transitorio formulada por la Sen. María Alejandra Barrales Magdaleno (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 82 formulada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 82 formulada por el Sen. Mario Humberto Vázquez Robles (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 55, 116 y 122, el Sen. José Clemente Castañeda Hoeflich (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 115 formulada por el Sen. Luis Donaldo Colosio Riojas (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva al artículo segundo transitorio, formulada por el Sen. Adán Augusto López Hernández (Morena), a nombre propio y del Sen. Manuel Velasco Coello (PVEM), para puntualizar que los procesos electorales, federales y locales, a los que se refiere el dictamen, se llevarán a cabo en el 2030."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo particular."
+    },
+    {
+      "asunto": "4841145",
+      "camara": "senado",
+      "fecha": "2025-02-25",
+      "result": "pass",
+      "texto": "Aprobado el artículo segundo transitorio reservado, formulado por el Sen. Adán Augusto López Hernández (Morena), a nombre propio y del Sen. Manuel Velasco Coello (PVEM), con las modificaciones admitidas por la asamblea."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó para tomar en consideración, para su discusión, la moción suspensiva de la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral. Se desecha."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. David Alejandro Cortés Mendoza (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Francisco Javier Farias Bailón (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Cristina Márquez Alcalá (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Mónica Elizabet Sandoval Hernández (PRI) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Mario Íñiguez Franco (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Noemi Berenice Luna Ayala (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Samperio Montaño (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Ernesto Sánchez Rodríguez (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María Isabel Rodríguez Heredia (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paola Michell Longoria López (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Annia Sarahí Gómez Cárdenas (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    },
+    {
+      "asunto": "4847530",
+      "camara": "diputados",
+      "fecha": "2025-03-04",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que reforma y adiciona los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral."
+    }
   ]
 }

@@ -117,13 +117,13 @@
   "sources": [
     {
       "archivo": "fuentes/88/88087a2013f40396288a587712ca704a00cc98439e77707ddebe9411c68d89b3.html",
-      "consultado": "2026-11-16T17:30:33Z",
+      "consultado": "2026-11-17T08:21:08Z",
       "sha256": "88087a2013f40396288a587712ca704a00cc98439e77707ddebe9411c68d89b3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4994876&Asunto=4997613"
     },
     {
       "archivo": "fuentes/4c/4c7453f533619fa404fd72a7949cd4c4ece297929e84951a4ebe3a456081e7f4.html",
-      "consultado": "2026-11-16T17:30:36Z",
+      "consultado": "2026-11-17T08:21:11Z",
       "sha256": "4c7453f533619fa404fd72a7949cd4c4ece297929e84951a4ebe3a456081e7f4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4997613&Seguimiento=4994876"
     }
@@ -302,5 +302,245 @@
   "votaciones": [
     "sil-4997613-1",
     "sil-4997613-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Salud en materia de prohibición de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos, y otras materias que fortalecen la atención de la salud de la población."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Salud en materia de prohibición de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos, y otras materias que fortalecen la atención de la salud de la población."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva del Dip. Ricardo Monreal Ávila (Morena) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Salud en materia de prohibición de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos, y otras materias que fortalecen la atención de la salud de la población."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Gloria Elizabeth Núñez Sánchez (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Emilio Lara Calderón (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Nancy Aracely Olguín Díaz (PAN) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Andrés Mauricio Cantú Ramírez (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Samperio Montaño (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Verónica Martínez García (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Manuel Hinojosa Pérez (PAN) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Claudia Ruiz Massieu Salinas (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Eduardo Gaona Domínguez (MC)al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Francisco Javier Farias Bailón (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ma. Lorena García Jimeno Alcocer (PAN) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Cristina Márquez Alcalá (PAN) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen."
+    },
+    {
+      "asunto": "4997613",
+      "camara": "diputados",
+      "fecha": "2025-12-09",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Claudia Quiñones Garrido (PAN) al dictamen."
+    }
   ]
 }

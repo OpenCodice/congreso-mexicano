@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/a7/a7bd16bbea235eca31859dac57375f310c69b0ecb84c49faaee01508dbc4515c.html",
-      "consultado": "2026-11-16T16:16:32Z",
+      "consultado": "2026-11-17T06:54:39Z",
       "sha256": "a7bd16bbea235eca31859dac57375f310c69b0ecb84c49faaee01508dbc4515c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4878829&Asunto=4878754"
     },
     {
       "archivo": "fuentes/96/96b043df59be5783eaf59a1bf9a0b891d6939fd1112723c6b076ea1d70571763.html",
-      "consultado": "2026-11-16T16:16:36Z",
+      "consultado": "2026-11-17T06:54:42Z",
       "sha256": "96b043df59be5783eaf59a1bf9a0b891d6939fd1112723c6b076ea1d70571763",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4878754&Seguimiento=4878829"
     }
@@ -96,5 +96,28 @@
   "ultimo_estatus": "Toma de protesta Aprobado 10/04/2025",
   "votaciones": [
     "sil-4878754-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4878754",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "pass",
+      "texto": "Aprobado incorporarlo en el orden del día de la sesión."
+    },
+    {
+      "asunto": "4878754",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de veinticuatro horas de publicación anticipada del dictamen."
+    },
+    {
+      "asunto": "4878754",
+      "camara": "senado",
+      "fecha": "2025-04-10",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
   ]
 }

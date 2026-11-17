@@ -1,0 +1,112 @@
+{
+  "asuntos": [
+    {
+      "clave": "4780870",
+      "denominacion": "Con el que remite el nombramiento de Juan Ramón de la Fuente Ramírez, como Secretario de Relaciones Exteriores.",
+      "estatus": "Toma de protesta 09/10/2024",
+      "fecha": "2024-10-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4780870_20241008_1728400787.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "4782744",
+      "denominacion": "Por el que se ratifica el nombramiento expedito por la titular del Poder Ejecutivo Federal a favor de Juan Ramón de la Fuente Ramírez como Secretario de Relaciones Exteriores.",
+      "estatus": "Toma de protesta 09/10/2024",
+      "fecha": "2024-10-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4782744_20241009_1728485965.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2024-10-08"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2024-10-09"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2024-10-09"
+    },
+    {
+      "estatus": "Toma de protesta",
+      "fecha": "2024-10-09"
+    }
+  ],
+  "denominacion": "Por el que se ratifica el nombramiento expedito por la titular del Poder Ejecutivo Federal a favor de Juan Ramón de la Fuente Ramírez como Secretario de Relaciones Exteriores.",
+  "id": "sil-4782972",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "4782972",
+  "sources": [
+    {
+      "archivo": "fuentes/2e/2ec826f3124dc31ec4015ca90a5402aa5be73da63886af8f73f2c05f76becfb6.html",
+      "consultado": "2026-11-17T06:07:28Z",
+      "sha256": "2ec826f3124dc31ec4015ca90a5402aa5be73da63886af8f73f2c05f76becfb6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4782972&Asunto=4782744"
+    },
+    {
+      "archivo": "fuentes/15/158e1631a2f2e11a4b0531bae9d1a59ee7302fc6a4ede2aca29054cc21372c85.html",
+      "consultado": "2026-11-17T06:07:31Z",
+      "sha256": "158e1631a2f2e11a4b0531bae9d1a59ee7302fc6a4ede2aca29054cc21372c85",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4782744&Seguimiento=4782972"
+    }
+  ],
+  "tramites": {
+    "4782744": [
+      {
+        "texto": "Aprobado omitir el requisito de la publicación del dictamen con veinticuatro horas de antelación.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "únicamente a la parte resolutiva.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "para dar lectura al artículo 76 del Reglamento del Senado de la República.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado considerar suficientemente discutido el dictamen.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 7,
+          "yes": 119
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 119 En contra: 7 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "de Juan Ramón de la Fuente Ramírez, como secretario de Relaciones Exteriores.",
+        "tipo": "Toma de protesta"
+      }
+    ]
+  },
+  "ultimo_estatus": "Toma de protesta Aprobado 09/10/2024",
+  "votaciones": [
+    "sil-4782744-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4782744",
+      "camara": "senado",
+      "fecha": "2024-10-09",
+      "result": "pass",
+      "texto": "Aprobado omitir el requisito de la publicación del dictamen con veinticuatro horas de antelación."
+    },
+    {
+      "asunto": "4782744",
+      "camara": "senado",
+      "fecha": "2024-10-09",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen."
+    }
+  ]
+}

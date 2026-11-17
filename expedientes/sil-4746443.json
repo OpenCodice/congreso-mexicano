@@ -1,0 +1,141 @@
+{
+  "asuntos": [
+    {
+      "clave": "4704021",
+      "denominacion": "Que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo.",
+      "estatus": "Publicado en DOF 30/09/2024",
+      "fecha": "2024-02-20",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4704021_20240220_1708444222.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4662498",
+      "denominacion": "Que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo.",
+      "estatus": "Publicado en DOF 30/09/2024",
+      "fecha": "2023-11-23",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2023/11/asun_4662498_20231122_1696956818.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "4743899",
+      "denominacion": "Con proyecto de decreto que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo.",
+      "estatus": "Publicado en DOF 30/09/2024",
+      "fecha": "2024-04-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/04/asun_4743899_20240417_1713364663.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4772005",
+      "denominacion": "Con proyecto de decreto que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo.",
+      "estatus": "Publicado en DOF 30/09/2024",
+      "fecha": "2024-09-05",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4772005_20240905_1725915612.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "4773921",
+      "denominacion": "Con proyecto de decreto que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo.",
+      "estatus": "Publicado en DOF 30/09/2024",
+      "fecha": "2024-09-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4773921_20240913_1725915615.pdf",
+      "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "4776264",
+      "denominacion": "Que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo, para establecer el 1o. de octubre de cada seis años, día de descanso obligatorio con motivo de la transmisión del Poder Ejecutivo Federal.",
+      "estatus": "Publicado en DOF 30/09/2024",
+      "fecha": "2024-09-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4776264_20240924_1727185550.pdf",
+      "tipo": "Minuta"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2024-09-18"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2024-09-18"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2024-09-18"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2024-09-24"
+    },
+    {
+      "estatus": "Sin turno a comisión(es) - Aprobado en revisora",
+      "fecha": "2024-09-24"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2024-09-24"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2024-09-30"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma la fracción VII del artículo 74 de la Ley Federal del Trabajo.",
+  "id": "sil-4746443",
+  "legislatura": "LXVI",
+  "publicado_dof": "2024-09-30",
+  "seguimiento": "4746443",
+  "sources": [
+    {
+      "archivo": "fuentes/07/0722881473b0fb2a26e53bf29ab4ecd32d60b13cfe2e28de0bc581470b986d83.html",
+      "consultado": "2026-11-17T05:58:16Z",
+      "sha256": "0722881473b0fb2a26e53bf29ab4ecd32d60b13cfe2e28de0bc581470b986d83",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4746443&Asunto=4773921"
+    },
+    {
+      "archivo": "fuentes/41/4193523ec25ec4cb385fd79ec833299237f877106367bd4301ab1eca2eb7d74a.html",
+      "consultado": "2026-11-17T05:58:19Z",
+      "sha256": "4193523ec25ec4cb385fd79ec833299237f877106367bd4301ab1eca2eb7d74a",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4773921&Seguimiento=4746443"
+    }
+  ],
+  "tramites": {
+    "4773921": [
+      {
+        "texto": "únicamente al encabezado.",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 120
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 120 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Publicado en DOF Aprobado 30/09/2024",
+  "votaciones": [
+    "sil-4773921-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4773921",
+      "camara": "senado",
+      "fecha": "2024-09-18",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
+  ]
+}

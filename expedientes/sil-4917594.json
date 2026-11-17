@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/77/77cddcf2959bc4ab334ca369511441d80300c4511077018d6c16106b68b12ddd.html",
-      "consultado": "2026-11-16T16:43:40Z",
+      "consultado": "2026-11-17T07:22:39Z",
       "sha256": "77cddcf2959bc4ab334ca369511441d80300c4511077018d6c16106b68b12ddd",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4917594&Asunto=4917471"
     },
     {
       "archivo": "fuentes/f6/f6b65f0adbdb4ef5104f3fc6cbd6a96b8229712e001e7637e25158712f810217.html",
-      "consultado": "2026-11-16T16:44:44Z",
+      "consultado": "2026-11-17T07:22:42Z",
       "sha256": "f6b65f0adbdb4ef5104f3fc6cbd6a96b8229712e001e7637e25158712f810217",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4917471&Seguimiento=4917594"
     }
@@ -92,5 +92,6 @@
   "ultimo_estatus": "Toma de protesta Aprobado 13/08/2025",
   "votaciones": [
     "sil-4917471-1"
-  ]
+  ],
+  "votaciones_economicas": []
 }

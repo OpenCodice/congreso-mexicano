@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/a2/a21885363b3cb02ea02df6e29066e76f660ea5b3e2363f5782042cc6984f88ac.html",
-      "consultado": "2026-11-16T16:25:00Z",
+      "consultado": "2026-11-17T07:04:19Z",
       "sha256": "a21885363b3cb02ea02df6e29066e76f660ea5b3e2363f5782042cc6984f88ac",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4890578&Asunto=4890531"
     },
     {
       "archivo": "fuentes/3b/3b8b3d67421acce2276b7fae137a6bb33f65487f289693e02a6d46dd7222157d.html",
-      "consultado": "2026-11-16T16:25:04Z",
+      "consultado": "2026-11-17T07:04:22Z",
       "sha256": "3b8b3d67421acce2276b7fae137a6bb33f65487f289693e02a6d46dd7222157d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4890531&Seguimiento=4890578"
     }
@@ -288,5 +288,189 @@
     "sil-4890531-2",
     "sil-4907221-1",
     "sil-4907221-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva formulada por la Dip. Katia Alejandra Castillo Lozano (Morena)."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la reserva formulada por la Dip. Katia Alejandra Castillo Lozano (Morena)."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado las modificaciones a los artículos reservados por la Dip. Katia Alejandra Castillo Lozano (Morena). Se acepta y se reserva para su votación particular."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la propuesta la reserva formulada por el Dip. Ricardo Monreal Ávila (Morena)."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la reserva formulada por el Dip. Ricardo Monreal Ávila (Morena)."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "pass",
+      "texto": "Aprobado las modificaciones a los artículos reservados por el Dip. Ricardo Monreal Ávila (Morena). Se acepta y se reserva para su votación particular."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Silvia Patricia Jiménez Delgado (PAN). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Yerico Abramo Masso (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Liliana Ortiz Pérez (PAN). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4890531",
+      "camara": "diputados",
+      "fecha": "2025-04-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Cristina Márquez Alcalá (PAN). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por la Sen. Tabita Ortiz Hernández (MC) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por el Sen. David Novoa Toscano (PAN) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por la Sen. Claudia Edith Anaya Mota (PRI) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por el Sen. Ángel García Yáñez (PRI) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por el Sen. José Clemente Castañeda Hoeflich (MC) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907221",
+      "camara": "senado",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó las reservas presentadas por el Sen. Néstor Camarillo Medina (PRI) al dictamen que expide la Ley Nacional para Eliminar Trámites Burocráticos. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    }
   ]
 }

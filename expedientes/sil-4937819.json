@@ -37,13 +37,13 @@
   "sources": [
     {
       "archivo": "fuentes/ab/ab953a0fd3c4ef41a65192409eaf0fea2b70609e068fa7820bfb41c446c396a5.html",
-      "consultado": "2026-11-16T16:54:04Z",
+      "consultado": "2026-11-17T07:31:50Z",
       "sha256": "ab953a0fd3c4ef41a65192409eaf0fea2b70609e068fa7820bfb41c446c396a5",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937819&Asunto=4937685"
     },
     {
       "archivo": "fuentes/57/57c5f0b86b1805ff165a8f0432b07aa9cb2177d7b2749cc31a682431c85f6a2e.html",
-      "consultado": "2026-11-16T16:54:08Z",
+      "consultado": "2026-11-17T07:31:54Z",
       "sha256": "57c5f0b86b1805ff165a8f0432b07aa9cb2177d7b2749cc31a682431c85f6a2e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4937685&Seguimiento=4937819"
     }
@@ -68,5 +68,6 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 07/10/2025",
   "votaciones": [
     "sil-4937685-1"
-  ]
+  ],
+  "votaciones_economicas": []
 }

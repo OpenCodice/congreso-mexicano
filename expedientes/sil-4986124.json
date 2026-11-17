@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/f3/f33ca8aac5912c591356024506e41f39b9986c8286c1412e5b06258038a725bb.html",
-      "consultado": "2026-11-16T17:23:05Z",
+      "consultado": "2026-11-17T08:14:45Z",
       "sha256": "f33ca8aac5912c591356024506e41f39b9986c8286c1412e5b06258038a725bb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986124&Asunto=4985212"
     },
     {
       "archivo": "fuentes/f3/f39d48a8845f88891adc970d947205f5870b04688b1cfdcde08c309c92056a94.html",
-      "consultado": "2026-11-16T17:23:09Z",
+      "consultado": "2026-11-17T08:14:48Z",
       "sha256": "f39d48a8845f88891adc970d947205f5870b04688b1cfdcde08c309c92056a94",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985212&Seguimiento=4986124"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
   "votaciones": [
     "sil-4985212-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4985212",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que reforma los artículos 15, 154 y 162 de la Ley de Desarrollo Rural Sustentable."
+    }
   ]
 }

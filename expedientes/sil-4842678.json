@@ -105,13 +105,13 @@
   "sources": [
     {
       "archivo": "fuentes/cc/cca4b4f0cd052f1a5cb415b3c16f53fdddcd6d6326059a1b612ae8f593c572d8.html",
-      "consultado": "2026-11-16T15:59:26Z",
+      "consultado": "2026-11-17T06:35:39Z",
       "sha256": "cca4b4f0cd052f1a5cb415b3c16f53fdddcd6d6326059a1b612ae8f593c572d8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4842678&Asunto=4843991"
     },
     {
       "archivo": "fuentes/ed/edf4cb246ee82ce6df37c6fe656adf20597567d1f44f6826a49d16427e5f933c.html",
-      "consultado": "2026-11-16T15:59:30Z",
+      "consultado": "2026-11-17T06:35:43Z",
       "sha256": "edf4cb246ee82ce6df37c6fe656adf20597567d1f44f6826a49d16427e5f933c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4843991&Seguimiento=4842678"
     }
@@ -316,5 +316,224 @@
     "sil-4843991-2",
     "sil-4854715-1",
     "sil-4854715-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó dividir el dictamen, a efecto de llevar a cabo la votación por bloques."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 3 y 6 de Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, formulada por la Sen. Julieta Andrea Ramírez Padilla (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Agustín Dorantes Lámbarri (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Francisco Daniel Barreda Pavón (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Enrique Vargas del Villar (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Maki Esther Ortiz Domínguez (PVEM). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Susana del Carmen Zataraín García (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4843991",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de la Empresa Pública del Estado, de la Comisión Federal de Electricidad; de la Ley de la Empresa Pública del Estado, de Petróleos Mexicanos; de la Ley del Sector Eléctrico; de la Ley del Sector Hidrocarburos; de la Ley de Planeación y Transición Energética; de la Ley de Biocombustibles; de la Ley de Geotermia y, de la Ley de La Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de la Empresa Pública del Estado, de la Comisión Federal de Electricidad; de la Ley de la Empresa Pública del Estado, de Petróleos Mexicanos; de la Ley del Sector Eléctrico; de la Ley del Sector Hidrocarburos; de la Ley de Planeación y Transición Energética; de la Ley de Biocombustibles; de la Ley de Geotermia y, de la Ley de La Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Tania Palacios Kuri (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paola Michell Longoria López (MC) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Adrián Martínez Terrazas (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Israel Betanzos Cortés (PRI) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Enrique García López (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Sánchez Rivera (MC) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Asael Hernández Cerón (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    },
+    {
+      "asunto": "4854715",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que propone el marco jurídico para las actividades de transición energética y, los sectores eléctrico y de hidrocarburos."
+    }
   ]
 }

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/74/74051e70b441ab0e90af5ded5b8d7f0f08e8774c8b4473e699f7091bbcc06bf3.html",
-      "consultado": "2026-11-16T18:40:26Z",
+      "consultado": "2026-11-17T09:42:01Z",
       "sha256": "74051e70b441ab0e90af5ded5b8d7f0f08e8774c8b4473e699f7091bbcc06bf3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5150717&Asunto=5177675"
     },
     {
       "archivo": "fuentes/80/8001b87cacd71536ee320a1db8ff494c66b7e76e02d62e570b448a9343ee2843.html",
-      "consultado": "2026-11-16T18:40:30Z",
+      "consultado": "2026-11-17T09:42:05Z",
       "sha256": "8001b87cacd71536ee320a1db8ff494c66b7e76e02d62e570b448a9343ee2843",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5177675&Seguimiento=5150717"
     }
@@ -166,5 +166,98 @@
   "votaciones": [
     "sil-5177675-1",
     "sil-5177675-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Patricia Flores Elizondo (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (MC) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    },
+    {
+      "asunto": "5177675",
+      "camara": "diputados",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera."
+    }
   ]
 }

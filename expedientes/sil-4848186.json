@@ -69,13 +69,13 @@
   "sources": [
     {
       "archivo": "fuentes/79/79c7ffe6df998d126ddf830568c34baac435e13a0ed16dcd22fdb2e987ef2da7.html",
-      "consultado": "2026-11-16T16:03:14Z",
+      "consultado": "2026-11-17T06:40:38Z",
       "sha256": "79c7ffe6df998d126ddf830568c34baac435e13a0ed16dcd22fdb2e987ef2da7",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4848186&Asunto=4860798"
     },
     {
       "archivo": "fuentes/fb/fb93f5fdd1bd8ddf698a1cdd3f60b69fd3dc65409354d6342df5794d303337f0.html",
-      "consultado": "2026-11-16T16:03:17Z",
+      "consultado": "2026-11-17T06:40:41Z",
       "sha256": "fb93f5fdd1bd8ddf698a1cdd3f60b69fd3dc65409354d6342df5794d303337f0",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4860798&Seguimiento=4848186"
     }
@@ -178,5 +178,119 @@
   "votaciones": [
     "sil-4860798-1",
     "sil-4860798-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; y se reforman diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena García Jimeno Alcocer (PAN) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (PRI) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    },
+    {
+      "asunto": "4860798",
+      "camara": "diputados",
+      "fecha": "2025-03-20",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la legislación secundaria del nuevo modelo de transparencia, anticorrupción y protección de datos personales."
+    }
   ]
 }

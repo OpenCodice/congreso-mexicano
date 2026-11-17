@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/f5/f50978e96fe6f836ebb7636c1c90ab2074aeed5fb8c3edc22b99342654f9589e.html",
-      "consultado": "2026-11-16T17:38:41Z",
+      "consultado": "2026-11-17T08:29:25Z",
       "sha256": "f50978e96fe6f836ebb7636c1c90ab2074aeed5fb8c3edc22b99342654f9589e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5014523&Asunto=5012846"
     },
     {
       "archivo": "fuentes/df/df53d403a08c3e6ca390aaa1f015f6e7d9762c6d3e45de556503b10ffbc81b7a.html",
-      "consultado": "2026-11-16T17:38:45Z",
+      "consultado": "2026-11-17T08:29:28Z",
       "sha256": "df53d403a08c3e6ca390aaa1f015f6e7d9762c6d3e45de556503b10ffbc81b7a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5012846&Seguimiento=5014523"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 11/02/2026",
   "votaciones": [
     "sil-5012846-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5012846",
+      "camara": "senado",
+      "fecha": "2026-02-11",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    }
   ]
 }

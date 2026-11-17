@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/3f/3f7f7e13b7f9c7c8bb11bf5310ff986dfa2e6f3e7ff87253f508a3dc26191123.html",
-      "consultado": "2026-11-16T17:21:04Z",
+      "consultado": "2026-11-17T08:12:55Z",
       "sha256": "3f7f7e13b7f9c7c8bb11bf5310ff986dfa2e6f3e7ff87253f508a3dc26191123",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986121&Asunto=4985197"
     },
     {
       "archivo": "fuentes/12/122cce955b85d5b2917f3d8cf6466303b9dca1c5e329a78e4d506e3cae8b1fff.html",
-      "consultado": "2026-11-16T17:21:08Z",
+      "consultado": "2026-11-17T08:12:58Z",
       "sha256": "122cce955b85d5b2917f3d8cf6466303b9dca1c5e329a78e4d506e3cae8b1fff",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985197&Seguimiento=4986121"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
   "votaciones": [
     "sil-4985197-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4985197",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular el dictamen que declara el 30 de octubre de cada año, como el -Día Nacional del Tianguis y el Tianguista-."
+    }
   ]
 }

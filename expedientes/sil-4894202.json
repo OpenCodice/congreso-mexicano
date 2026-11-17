@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/22/224ddb055935341b91669dbdf68fa5287887f314b5af1045be2bebb8a3031cf4.html",
-      "consultado": "2026-11-16T16:30:23Z",
+      "consultado": "2026-11-17T07:09:02Z",
       "sha256": "224ddb055935341b91669dbdf68fa5287887f314b5af1045be2bebb8a3031cf4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894202&Asunto=4893375"
     },
     {
       "archivo": "fuentes/6a/6aad18ae5b038a535070e1e39a7127b4a049d15891cf27167d20e9bd33e3cb29.html",
-      "consultado": "2026-11-16T16:30:27Z",
+      "consultado": "2026-11-17T07:09:05Z",
       "sha256": "6aad18ae5b038a535070e1e39a7127b4a049d15891cf27167d20e9bd33e3cb29",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4893375&Seguimiento=4894202"
     }
@@ -112,5 +112,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 07/05/2025",
   "votaciones": [
     "sil-4893375-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4893375",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, y en lo particular el dictamen que reforma diversas disposiciones del Reglamento de la Cámara de Diputados, en materia de lenguaje inclusivo y optimización de trámites y procedimientos parlamentarios."
+    }
   ]
 }

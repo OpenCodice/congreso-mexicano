@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/c2/c2a85e0dd9e620bd728250eb04ad6df3eaef647ea544cc7e966309f632f7c13c.html",
-      "consultado": "2026-11-16T16:07:10Z",
+      "consultado": "2026-11-17T06:46:23Z",
       "sha256": "c2a85e0dd9e620bd728250eb04ad6df3eaef647ea544cc7e966309f632f7c13c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4861106&Asunto=4910309"
     },
     {
       "archivo": "fuentes/90/90fc03b384a953ac8ce5d777307ac29bce04f0acf8ae07e2ce69e1c53f8e03d2.html",
-      "consultado": "2026-11-16T16:07:14Z",
+      "consultado": "2026-11-17T06:46:26Z",
       "sha256": "90fc03b384a953ac8ce5d777307ac29bce04f0acf8ae07e2ce69e1c53f8e03d2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4910309&Seguimiento=4861106"
     }
@@ -324,5 +324,308 @@
     "sil-4907872-2",
     "sil-4910309-1",
     "sil-4910309-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "pass",
+      "texto": "Aprobado se considera suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Anabell Ávalos Zempoalteca (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Cristina Ruíz Sandoval (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ricardo Anaya Cortés (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Edna Geraldina García Gordillo (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4910309",
+      "camara": "senado",
+      "fecha": "2025-07-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. David Novoa Toscano (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado incorporar la propuesta de modificación al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública presentada por integrantes de la Junta Directiva de la Comisión de Seguridad Ciudadana."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Yerico Abramo Masso (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera Lorena (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Calzada Mercado (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Christian Mishel Castro Bello (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Miguel Medellín Amaya (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Mario Zamora Gastélum (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Arturo Roberto Hernández Tapia (Morena) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Emma Mondragón Navarrete (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Moreno De Haro (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Fuensanta Guadalupe Guerrero Esquivel (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Antonio Meléndez Ortega (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    },
+    {
+      "asunto": "4907872",
+      "camara": "diputados",
+      "fecha": "2025-06-25",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que expide la Ley General del Sistema Nacional de Seguridad Pública."
+    }
   ]
 }

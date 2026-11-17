@@ -145,13 +145,13 @@
   "sources": [
     {
       "archivo": "fuentes/e6/e6b86704698844b5f38215d349c2260f72325b231421432e962d2eaa0f9b6860.html",
-      "consultado": "2026-11-16T16:56:41Z",
+      "consultado": "2026-11-17T07:34:08Z",
       "sha256": "e6b86704698844b5f38215d349c2260f72325b231421432e962d2eaa0f9b6860",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4944008&Asunto=4949143"
     },
     {
       "archivo": "fuentes/11/11ba97746af7137a0d4d475ae3e4b4ef9cb5f9a8b7f0245860920ced0aa5523a.html",
-      "consultado": "2026-11-16T16:56:45Z",
+      "consultado": "2026-11-17T07:34:12Z",
       "sha256": "11ba97746af7137a0d4d475ae3e4b4ef9cb5f9a8b7f0245860920ced0aa5523a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4949143&Seguimiento=4944008"
     }
@@ -400,5 +400,315 @@
     "sil-4943231-2",
     "sil-4949143-1",
     "sil-4949143-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Sen. Gina Gerardina Campuzano González (PAN) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. Marko Antonio Cortés Mendoza (PAN) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Sen. Ivideliza Reyes Hernández (PAN) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. Waldo Fernández González (PVEM) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. Miguel Ángel Riquelme Solís (PRI) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Sen. Mely Romero Celis (PRI) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. José Clemente Castañeda Hoeflich (MC) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. Enrique Vargas del Villar (PAN) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. Mario Humberto Vázquez Robles (PAN) al dictamen."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión las reservas del Sen. Homero Davis Castro (Morena) al artículo Primero Transitorio."
+    },
+    {
+      "asunto": "4949143",
+      "camara": "senado",
+      "fecha": "2025-10-14",
+      "result": "pass",
+      "texto": "Aprobado las reservas del Sen. Homero Davis Castro (Morena) al artículo Primero Transitorio."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó para tomar en consideración la moción suspensiva propuesta por el Dip. Christian Mishel Castro Bello (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Aduanera."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Aduanera."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Aduanera."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Roberto Sosa Pichardo (PAN)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Carlos Enrique Canturosas Villarreal (PVEM)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Patricia Flores Elizondo (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. David Azuara Zúñiga (PAN)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta presentada por el Dip. Juan Ignacio Samperio Montaño (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta del Dip. Dip. Gildardo Pérez Gabino (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reservas presentada por el Dip. Andrés Mauricio Cantú Ramírez (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Eduardo Gaona Domínguez (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Homero Ricardo Niño de Rivera Vela (PAN)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. María de Fátima García León (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reservada presentada por el Dip. Miguel Ángel Sánchez Rivera (MC)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Arturo Yáñez Cuéllar (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Julia Licet Jiménez Angulo (PAN)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva propuesta por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reservada presentada por la Dip. Eva María Vásquez Hernández (PAN)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI)."
+    },
+    {
+      "asunto": "4943231",
+      "camara": "diputados",
+      "fecha": "2025-10-07",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la reserva presentada por el Dip. Theodoros Kalionchiz De la Fuente (PAN)."
+    }
   ]
 }

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/7f/7fc34c1d72a124ffcea113fadb7fdac4169e85e973862a4c8a9a983f3985f1a4.html",
-      "consultado": "2026-11-16T17:16:36Z",
+      "consultado": "2026-11-17T08:07:57Z",
       "sha256": "7fc34c1d72a124ffcea113fadb7fdac4169e85e973862a4c8a9a983f3985f1a4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983303&Asunto=4987826"
     },
     {
       "archivo": "fuentes/43/43dcc5387174f0359aa19d1c946e3263e22fdc6991e55b26c6fc2591776dd507.html",
-      "consultado": "2026-11-16T17:16:40Z",
+      "consultado": "2026-11-17T08:08:00Z",
       "sha256": "43dcc5387174f0359aa19d1c946e3263e22fdc6991e55b26c6fc2591776dd507",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987826&Seguimiento=4983303"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
   "votaciones": [
     "sil-4987826-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4987826",
+      "camara": "senado",
+      "fecha": "2025-12-02",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
   ]
 }

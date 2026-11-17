@@ -93,13 +93,13 @@
   "sources": [
     {
       "archivo": "fuentes/d5/d592b99ea6816c9719404e760ca093845da71e4ef447140ab64b837356b7484c.html",
-      "consultado": "2026-11-16T16:19:59Z",
+      "consultado": "2026-11-17T06:58:37Z",
       "sha256": "d592b99ea6816c9719404e760ca093845da71e4ef447140ab64b837356b7484c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4884802&Asunto=4895179"
     },
     {
       "archivo": "fuentes/81/81734e4fdfeb252a8e76ce5bfb32f0f15774b1e99b70d9073f81a54b890d8f7d.html",
-      "consultado": "2026-11-16T16:20:03Z",
+      "consultado": "2026-11-17T06:58:40Z",
       "sha256": "81734e4fdfeb252a8e76ce5bfb32f0f15774b1e99b70d9073f81a54b890d8f7d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4895179&Seguimiento=4884802"
     }
@@ -164,5 +164,28 @@
   "votaciones": [
     "sil-4884072-1",
     "sil-4895179-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4895179",
+      "camara": "senado",
+      "fecha": "2025-04-30",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4884072",
+      "camara": "diputados",
+      "fecha": "2025-04-23",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Armas de Fuego y Explosivos."
+    },
+    {
+      "asunto": "4884072",
+      "camara": "diputados",
+      "fecha": "2025-04-23",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Armas de Fuego y Explosivos."
+    }
   ]
 }

@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/6c/6cce19d1be6e2ee3c402ac643bbe104094b3289cf1f3b67184dd73ad44946e38.html",
-      "consultado": "2026-11-16T16:35:43Z",
+      "consultado": "2026-11-17T07:13:27Z",
       "sha256": "6cce19d1be6e2ee3c402ac643bbe104094b3289cf1f3b67184dd73ad44946e38",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4907135&Asunto=4909299"
     },
     {
       "archivo": "fuentes/d5/d58629fac1c0f296a516009aef3c0e56219003d414a4777ac79ef01dff5d4422.html",
-      "consultado": "2026-11-16T16:35:46Z",
+      "consultado": "2026-11-17T07:13:30Z",
       "sha256": "d58629fac1c0f296a516009aef3c0e56219003d414a4777ac79ef01dff5d4422",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909299&Seguimiento=4907135"
     }
@@ -380,5 +380,392 @@
     "sil-4907183-2",
     "sil-4909299-1",
     "sil-4909299-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Edna Geraldina García Gordillo (PRI) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Enrique Vargas del Villar (PAN) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Mely Romero Celis (PRI) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Tabita Ortiz Hernández (MC)al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Cristina Ruíz Sandoval (PRI) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Jorge Carlos Ramírez Marín (PVEM) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Ivideliza Reyes Hernández (PAN) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Anabell Ávalos Zempoalteca (PRI) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ángel García Yáñez (PRI) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909299",
+      "camara": "senado",
+      "fecha": "2025-06-30",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Marko Antonio Cortés Mendoza (PAN) al dictamen que expide la Ley de la Guardia Nacional. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión las propuestas de modificación presentada por la Dip. Jessica Saiden Quiroz (Morena) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida las reservas."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Jessica Saiden Quiroz (Morena) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. David Azuara Zúñiga (PAN) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Raúl Bolaños Cacho Cué (PVEM) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida las reservas."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Raúl Bolaños Cacho Cué (PVEM) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Miguel Medellín Amaya (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gibrán Ramírez Reyes (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Martha Aracely Cruz Jiménez (PT) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida las reservas."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por la Dip. Martha Aracely Cruz Jiménez (PT) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Christian Mishel Castro Bello (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Andrés Mauricio Cantú Ramírez (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Francisco Javier Farias Bailon (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Antonio Meléndez Ortega (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó admitir la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Zavala Gutiérrez (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión las propuestas de modificación presentada por el Dip. Pablo Vázquez Ahued (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI)al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip.Emma Mondragón Navarrete (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. César Israel Damián Retes (PAN) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Rubén Ignacio Moreira Valdez (PRI) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    },
+    {
+      "asunto": "4907183",
+      "camara": "diputados",
+      "fecha": "2025-06-24",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley de la Guardia Nacional y reforma diversas leyes en materia de seguridad."
+    }
   ]
 }

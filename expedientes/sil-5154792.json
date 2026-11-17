@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/df/df69ef77f3fc64e89e31b0836c364cd95535b4b06a77dfb255870a633911852e.html",
-      "consultado": "2026-11-16T18:42:48Z",
+      "consultado": "2026-11-17T09:44:58Z",
       "sha256": "df69ef77f3fc64e89e31b0836c364cd95535b4b06a77dfb255870a633911852e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5154792&Asunto=5164814"
     },
     {
       "archivo": "fuentes/7c/7cd1cba650d885cc077e271b1a1272e426f14a7ab4e63794d08077c19463b415.html",
-      "consultado": "2026-11-16T18:42:51Z",
+      "consultado": "2026-11-17T09:45:01Z",
       "sha256": "7cd1cba650d885cc077e271b1a1272e426f14a7ab4e63794d08077c19463b415",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5164814&Seguimiento=5154792"
     }
@@ -270,5 +270,203 @@
     "sil-5164814-1",
     "sil-5164814-2",
     "sil-5164814-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Miguel Márquez Márquez (PAN)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Alma Carolina Viggiano Austria (PRI)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Gabriel Elizondo Pérez (PRI)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Ángel García Yáñez (PRI)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Ivideliza Reyes Hernández (PAN)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Francisco Javier Ramírez Acuña (PAN)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Claudia Edith Anaya Mota (PRI)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Laura Esquivel Torres (PAN)."
+    },
+    {
+      "asunto": "5164814",
+      "camara": "senado",
+      "fecha": "2026-10-14",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Anabell Ávalos Zempoalteca (PRI)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Nancy Aracely Olguín Díaz (PAN)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Gibrán Ramírez Reyes (MC)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Luis Gerardo Sánchez Sánchez (PRI)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Gildardo Pérez Gabino (MC)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Israel Betanzos Cortés (PRI)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. Laura Cristina Márquez Alcalá (PAN)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Dip. José Guillermo Anaya Llamas (PAN)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por Dip. Elena Edith Segura Trejo (Morena)."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "pass",
+      "texto": "Aprobado se considera suficientemente discutida la propuesta de modificación presentada por la Dip. Elena Edith Segura Trejo (Morena) al dictamen."
+    },
+    {
+      "asunto": "5153798",
+      "camara": "diputados",
+      "fecha": "2026-10-06",
+      "result": "pass",
+      "texto": "Aprobado la propuesta de modificación presentada por la Dip. Elena Edith Segura Trejo (Morena) para que las autoridades responsables podrán colaborar y coordinarse con el Instituto Nacional de Estadística y Geografía, como organismo público autónomo de carácter técnico, para el cumplimiento del objeto de la presente ley, dentro del ámbito de sus respectivas competencias."
+    }
   ]
 }

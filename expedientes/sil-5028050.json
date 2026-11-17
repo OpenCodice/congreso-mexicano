@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/56/56e742ef6e9d40ced2b0edf875c879440096cacb17bf7e2e5570918cd06538d0.html",
-      "consultado": "2026-11-16T17:52:05Z",
+      "consultado": "2026-11-17T08:42:17Z",
       "sha256": "56e742ef6e9d40ced2b0edf875c879440096cacb17bf7e2e5570918cd06538d0",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028050&Asunto=5026697"
     },
     {
       "archivo": "fuentes/18/18c298421234c4a64e50c79e8572766615ee03474acad944235a07fa35980336.html",
-      "consultado": "2026-11-16T17:52:09Z",
+      "consultado": "2026-11-17T08:42:20Z",
       "sha256": "18c298421234c4a64e50c79e8572766615ee03474acad944235a07fa35980336",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026697&Seguimiento=5028050"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
   "votaciones": [
     "sil-5026697-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5026697",
+      "camara": "diputados",
+      "fecha": "2026-03-03",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma la fracción II del artículo 83 Bis y se adiciona una fracción V al artículo 84 de la Ley Federal para Prevenir y Eliminar la Discriminación."
+    }
   ]
 }

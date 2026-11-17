@@ -81,13 +81,13 @@
   "sources": [
     {
       "archivo": "fuentes/13/13f1a678e20c6c69e18ba4dee766fde38a959979c0db8340eb1a5d7bccbc76ed.html",
-      "consultado": "2026-11-16T17:57:00Z",
+      "consultado": "2026-11-17T08:46:45Z",
       "sha256": "13f1a678e20c6c69e18ba4dee766fde38a959979c0db8340eb1a5d7bccbc76ed",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028061&Asunto=5026709"
     },
     {
       "archivo": "fuentes/0e/0e07cb037d262f83c98b5ef39600eef026260e3ae27806bde8ee2d5d8d961a4a.html",
-      "consultado": "2026-11-16T17:57:04Z",
+      "consultado": "2026-11-17T08:46:48Z",
       "sha256": "0e07cb037d262f83c98b5ef39600eef026260e3ae27806bde8ee2d5d8d961a4a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026709&Seguimiento=5028061"
     }
@@ -116,5 +116,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
   "votaciones": [
     "sil-5026709-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5026709",
+      "camara": "diputados",
+      "fecha": "2026-03-03",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones a los artículos 3° Ter y 132 de la Ley Federal del Trabajo."
+    }
   ]
 }

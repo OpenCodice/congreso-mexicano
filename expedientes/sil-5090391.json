@@ -313,13 +313,13 @@
   "sources": [
     {
       "archivo": "fuentes/bf/bf00524dd884c24f968450c03fc9044174e9dc3ef3b04bfb262b8c82f9e5688c.html",
-      "consultado": "2026-11-16T18:31:48Z",
+      "consultado": "2026-11-17T09:29:57Z",
       "sha256": "bf00524dd884c24f968450c03fc9044174e9dc3ef3b04bfb262b8c82f9e5688c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090391&Asunto=5088440"
     },
     {
       "archivo": "fuentes/51/519771a57f57bd74b4c598ec63556877552712839e9722e3c9e3585b501b0fa4.html",
-      "consultado": "2026-11-16T18:31:53Z",
+      "consultado": "2026-11-17T09:30:00Z",
       "sha256": "519771a57f57bd74b4c598ec63556877552712839e9722e3c9e3585b501b0fa4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088440&Seguimiento=5090391"
     }
@@ -352,5 +352,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-5088440-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5088440",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que reforma y adiciona diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de protección a entornos digitales, ciberacoso, violencia digital y protección de datos personales."
+    }
   ]
 }

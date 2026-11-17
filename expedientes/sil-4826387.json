@@ -93,13 +93,13 @@
   "sources": [
     {
       "archivo": "fuentes/05/054572a3db388770adc429d96f56682e8bd3f80f73ac6bf7374a6a0fe4317ad3.html",
-      "consultado": "2026-11-16T15:55:32Z",
+      "consultado": "2026-11-17T06:31:41Z",
       "sha256": "054572a3db388770adc429d96f56682e8bd3f80f73ac6bf7374a6a0fe4317ad3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4826387&Asunto=4835812"
     },
     {
       "archivo": "fuentes/ca/cae689199718c066f6f0a4492ebe674ed40b775357ca210002e514915ce5d9db.html",
-      "consultado": "2026-11-16T15:55:36Z",
+      "consultado": "2026-11-17T06:31:45Z",
       "sha256": "cae689199718c066f6f0a4492ebe674ed40b775357ca210002e514915ce5d9db",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4835812&Seguimiento=4826387"
     }
@@ -390,5 +390,378 @@
     "sil-4835812-1",
     "sil-4835812-2",
     "sil-4835812-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "pass",
+      "texto": "Aprobado omitir su lectura."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 3 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores formulada por el Sen. Agustín Dorantes Lámbarri (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Mely Romero Celis (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Verónica Rodríguez Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Ivideliza Reyes Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 3 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Susana del Carmen Zataraín García (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Julieta Andrea Ramírez Padilla (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Laura Estrada Mauro (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Miguel Ángel Riquelme Solís (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Verónica del Carmen Díaz Robles (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Mario Humberto Vázquez Robles (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Laura Esquivel Torres (PAN). En consecuencia, el dictamen permanece en sus términos"
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Sen. Francisco Javier Ramírez Acuña (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. María Lilly del Carmen Téllez García (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. María Martina Kantún Can (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. María Alejandra Barrales Magdaleno (MC)). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4835812",
+      "camara": "senado",
+      "fecha": "2025-02-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Sen. Anabell Ávalos Zempoalteca (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración la moción suspensiva de la Dip. Carmen Rocío González Alonso (PAN)."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paola Michell Longoria López (MC) a los artículos 42 y 18 Bis de la Ley del Instituto Nacional del Fondo Nacional de Vivienda para los Trabajadores. En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Andrés Mauricio Cantú Ramírez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Angélica Granados Trespalacios (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Hernández García (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Xitlalic Ceja García (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de Fátima García León (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Abigail Arredondo Ramos (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada al por el Dip. Héctor Saúl Téllez Hernández (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Irais Ballesteros Mancilla (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Martínez García (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Cristina Márquez Alcalá (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Luis Gerardo Sánchez Sánchez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Noemi Berenice Luna Ayala (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por Dip. Juan Ignacio Samperio Montaño (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Moreno De Haro (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Armando Ruiz Hernández (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 30 y 41 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y formulada por la Dip. Patricia Mercado Castro (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Amancay González Franco (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Silvia Patricia Jiménez Delgado (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Liliana Ortiz Pérez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4830503",
+      "camara": "diputados",
+      "fecha": "2025-02-01",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María Josefina Gamboa Torales (PAN). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

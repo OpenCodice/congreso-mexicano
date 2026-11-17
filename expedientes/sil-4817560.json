@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/38/38337c143ffb15f5888e7a55571ad3da0133f0c36a98f0b27aeb3776a0a7bea1.html",
-      "consultado": "2026-11-16T15:49:40Z",
+      "consultado": "2026-11-17T06:24:06Z",
       "sha256": "38337c143ffb15f5888e7a55571ad3da0133f0c36a98f0b27aeb3776a0a7bea1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4817560&Asunto=4818192"
     },
     {
       "archivo": "fuentes/e9/e9fbcdec4d76ae910ef9656598443bb973b22a8343eacf6eac24bf336309dc38.html",
-      "consultado": "2026-11-16T15:49:44Z",
+      "consultado": "2026-11-17T06:24:10Z",
       "sha256": "e9fbcdec4d76ae910ef9656598443bb973b22a8343eacf6eac24bf336309dc38",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4818192&Seguimiento=4817560"
     }
@@ -208,5 +208,42 @@
     "sil-4818192-2",
     "sil-4820837-1",
     "sil-4820837-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4818192",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4818192",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4818192",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 9, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820837",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820837",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

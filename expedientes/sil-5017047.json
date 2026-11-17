@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/30/30448eb5b2da34505cc8c7be404eaaca5eb8b5f76d91ebc8b8e04e093dc9810e.html",
-      "consultado": "2026-11-16T17:42:31Z",
+      "consultado": "2026-11-17T08:32:43Z",
       "sha256": "30448eb5b2da34505cc8c7be404eaaca5eb8b5f76d91ebc8b8e04e093dc9810e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017047&Asunto=5016213"
     },
     {
       "archivo": "fuentes/47/478bc08c0f6ae7b6647c260c9e67e895a694fb44ed27fabadd4ca0b6b22739e8.html",
-      "consultado": "2026-11-16T17:42:34Z",
+      "consultado": "2026-11-17T08:32:46Z",
       "sha256": "478bc08c0f6ae7b6647c260c9e67e895a694fb44ed27fabadd4ca0b6b22739e8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016213&Seguimiento=5017047"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
   "votaciones": [
     "sil-5016213-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5016213",
+      "camara": "diputados",
+      "fecha": "2026-02-17",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona el artículo 119 de la Ley General de Desarrollo Forestal Sustentable."
+    }
   ]
 }

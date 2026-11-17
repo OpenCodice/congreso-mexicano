@@ -49,13 +49,13 @@
   "sources": [
     {
       "archivo": "fuentes/f1/f192a71207f5f4a6ff4ea5748541697b9006bae0c36d9fc441189623b8c9d487.html",
-      "consultado": "2026-11-16T16:43:21Z",
+      "consultado": "2026-11-17T07:22:22Z",
       "sha256": "f192a71207f5f4a6ff4ea5748541697b9006bae0c36d9fc441189623b8c9d487",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4917555&Asunto=4917292"
     },
     {
       "archivo": "fuentes/5d/5dfc86f2942f8f8572a250c84343c894e3401dd26b41cb4136d371b34ca347fb.html",
-      "consultado": "2026-11-16T16:43:25Z",
+      "consultado": "2026-11-17T07:22:25Z",
       "sha256": "5dfc86f2942f8f8572a250c84343c894e3401dd26b41cb4136d371b34ca347fb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4917292&Seguimiento=4917555"
     }
@@ -96,5 +96,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 13/08/2025",
   "votaciones": [
     "sil-4917292-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4917292",
+      "camara": "permanente",
+      "fecha": "2025-08-13",
+      "result": "pass",
+      "texto": "Aprobado para incorporarlo en el orden del día."
+    }
   ]
 }

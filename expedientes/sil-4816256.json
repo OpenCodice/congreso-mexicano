@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/42/42caa7e1d2d98da2b76d07742562cbb151aa7a0b9c3d693ff9868a4eeaa1113a.html",
-      "consultado": "2026-11-16T15:46:54Z",
+      "consultado": "2026-11-17T06:21:09Z",
       "sha256": "42caa7e1d2d98da2b76d07742562cbb151aa7a0b9c3d693ff9868a4eeaa1113a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4816256&Asunto=4816462"
     },
     {
       "archivo": "fuentes/49/49910c3c2821732c53625ad78d333a622defa5129d19ce1d7f46cc84c003c5d4.html",
-      "consultado": "2026-11-16T15:46:58Z",
+      "consultado": "2026-11-17T06:21:12Z",
       "sha256": "49910c3c2821732c53625ad78d333a622defa5129d19ce1d7f46cc84c003c5d4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4816462&Seguimiento=4816256"
     }
@@ -218,5 +218,63 @@
     "sil-4816462-1",
     "sil-4816462-2",
     "sil-4823185-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4816462",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4816462",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado que la presentación y el posicionamiento de los dictámenes de las comisiones Unidas Para la Igualdad de Género y, de Estudios Legislativos se lleven a cabo de manera conjunta."
+    },
+    {
+      "asunto": "4816462",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4816462",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva al artículo 127 ter de la Ley General del Sistema Nacional de Seguridad Pública y, y tercero transitorio del dictamen, formulada por la Sen. Jesús Lucía Trasviña Waldenrath (Morena), a efecto de integrar en el texto la referencia de las demarcaciones territoriales de la Ciudad de México."
+    },
+    {
+      "asunto": "4816462",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado admitir las modificaciones de los artículos reservados 127 ter de la Ley General del Sistema Nacional de Seguridad Pública y, tercero y cuarto transitorios del dictamen, para integrar en el texto la referencia de las demarcaciones territoriales de la Ciudad de México."
+    },
+    {
+      "asunto": "4816462",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos segundo y cuarto transitorios, formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4823185",
+      "camara": "diputados",
+      "fecha": "2024-12-11",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Anayeli Muñoz Moreno (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4823185",
+      "camara": "diputados",
+      "fecha": "2024-12-11",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Carmen Rocío González Alonso (PAN). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

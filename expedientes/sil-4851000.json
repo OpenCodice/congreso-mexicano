@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/c2/c214631b8b10c47405e4fbea8cc3e84aef0b4c19a0a12810d0d1fe86729e82eb.html",
-      "consultado": "2026-11-16T16:03:43Z",
+      "consultado": "2026-11-17T06:41:03Z",
       "sha256": "c214631b8b10c47405e4fbea8cc3e84aef0b4c19a0a12810d0d1fe86729e82eb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4851000&Asunto=4851564"
     },
     {
       "archivo": "fuentes/c0/c0df82bf1fd2f616fe32900765cdc1ccabb603fdf41398a78053bc0ace681ee4.html",
-      "consultado": "2026-11-16T16:03:47Z",
+      "consultado": "2026-11-17T06:41:06Z",
       "sha256": "c0df82bf1fd2f616fe32900765cdc1ccabb603fdf41398a78053bc0ace681ee4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4851564&Seguimiento=4851000"
     }
@@ -176,5 +176,35 @@
   "votaciones": [
     "sil-4851564-1",
     "sil-4887450-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4851564",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado tramitar de manera conjunta los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público, y Estudios Legislativos, Primera."
+    },
+    {
+      "asunto": "4851564",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura de los cuatro dictámenes de las comisiones Unidas de Hacienda y Crédito Público y, de Estudios Legislativos, Primera, con el objeto de someterlos a discusión de inmediato."
+    },
+    {
+      "asunto": "4851564",
+      "camara": "senado",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general y en lo particular."
+    },
+    {
+      "asunto": "4887450",
+      "camara": "diputados",
+      "fecha": "2025-04-24",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que establece las características de veinte monedas de plata que integrarán la Colección Prehispánica."
+    }
   ]
 }

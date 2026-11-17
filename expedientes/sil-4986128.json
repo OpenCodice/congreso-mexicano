@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/96/96dd93da10500db59c51638f29124aae7441ae797130270349233bea2b9a0a15.html",
-      "consultado": "2026-11-16T17:24:33Z",
+      "consultado": "2026-11-17T08:15:57Z",
       "sha256": "96dd93da10500db59c51638f29124aae7441ae797130270349233bea2b9a0a15",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986128&Asunto=4984968"
     },
     {
       "archivo": "fuentes/a7/a72cf83252535fe8e2765bd93a53c0658c8d2bf37cb02ecf2f8fc53167642d63.html",
-      "consultado": "2026-11-16T17:24:36Z",
+      "consultado": "2026-11-17T08:16:00Z",
       "sha256": "a72cf83252535fe8e2765bd93a53c0658c8d2bf37cb02ecf2f8fc53167642d63",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4984968&Seguimiento=4986128"
     }
@@ -104,5 +104,42 @@
   "ultimo_estatus": "Toma de protesta Aprobado 26/11/2025",
   "votaciones": [
     "sil-4984968-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4984968",
+      "camara": "senado",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4984968",
+      "camara": "senado",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido."
+    },
+    {
+      "asunto": "4984968",
+      "camara": "senado",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado una propuesta de modificación al dictamen."
+    },
+    {
+      "asunto": "4984968",
+      "camara": "senado",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado la propuesta de modificación al dictamen."
+    },
+    {
+      "asunto": "4984968",
+      "camara": "senado",
+      "fecha": "2025-11-26",
+      "result": "fail",
+      "texto": "Se rechazó"
+    }
   ]
 }

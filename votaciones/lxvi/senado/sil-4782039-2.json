@@ -1,0 +1,41 @@
+{
+  "asunto": "4782039",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 124
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4774909",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4782039-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Reforma Constitucional",
+    "denominacion": "Con proyecto de decreto que reforma el primer párrafo de la fracción VI del Apartado A y se adiciona un tercer párrafo a la fracción IV del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de salarios.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados 124 y segundo transitorio, en términos del dictamen. A Favor: 124 En contra: 0 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/23/2358e45e0e590e337fa490fe4e521635cfd7646acbcd05e4dfd4c1dbcea88193.html",
+      "consultado": "2026-11-17T06:01:47Z",
+      "sha256": "2358e45e0e590e337fa490fe4e521635cfd7646acbcd05e4dfd4c1dbcea88193",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4782039"
+    }
+  ],
+  "start_date": "2024-10-09",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/ba/ba4a3c769a99168ff20ffb94d19f06e9fa22b006d5cbf8751fd784e3112bb835.html",
-      "consultado": "2026-11-16T18:39:09Z",
+      "consultado": "2026-11-17T09:40:57Z",
       "sha256": "ba4a3c769a99168ff20ffb94d19f06e9fa22b006d5cbf8751fd784e3112bb835",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5147029&Asunto=5149750"
     },
     {
       "archivo": "fuentes/00/00287a89bdc9981f018e2814eb6fe722374f87e788e4b5034b7fd24041a13da1.html",
-      "consultado": "2026-11-16T18:39:13Z",
+      "consultado": "2026-11-17T09:41:00Z",
       "sha256": "00287a89bdc9981f018e2814eb6fe722374f87e788e4b5034b7fd24041a13da1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5149750&Seguimiento=5147029"
     }
@@ -96,5 +96,6 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 06/10/2026",
   "votaciones": [
     "sil-5149750-1"
-  ]
+  ],
+  "votaciones_economicas": []
 }

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/a6/a6acbc120bd59bd98bc72db5357ed876988eb605ade47e734d6f715fd9100b15.html",
-      "consultado": "2026-11-16T17:12:00Z",
+      "consultado": "2026-11-17T08:02:54Z",
       "sha256": "a6acbc120bd59bd98bc72db5357ed876988eb605ade47e734d6f715fd9100b15",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972480&Asunto=4971452"
     },
     {
       "archivo": "fuentes/b5/b5dd38be672de5b48f2bf1260d82fbd95cf38ffcba1d6b995695fb99eef5ffa5.html",
-      "consultado": "2026-11-16T17:12:04Z",
+      "consultado": "2026-11-17T08:02:57Z",
       "sha256": "b5dd38be672de5b48f2bf1260d82fbd95cf38ffcba1d6b995695fb99eef5ffa5",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971452&Seguimiento=4972480"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
   "votaciones": [
     "sil-4971452-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4971452",
+      "camara": "diputados",
+      "fecha": "2025-11-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley General de Cambio Climático, en materia de captura, uso y almacenamiento del dióxido de carbono."
+    }
   ]
 }

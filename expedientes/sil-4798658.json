@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/23/23963cb15fb1a66e52807a16ff45357cde572b2c7e00ab4f35bc7ab18e0e35ed.html",
-      "consultado": "2026-11-16T15:39:48Z",
+      "consultado": "2026-11-17T06:11:42Z",
       "sha256": "23963cb15fb1a66e52807a16ff45357cde572b2c7e00ab4f35bc7ab18e0e35ed",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4798658&Asunto=4810782"
     },
     {
       "archivo": "fuentes/c7/c77973a707993a7a074eeec03cb053bcf3b5fdecaa5e09659dde83d67d22ce6c.html",
-      "consultado": "2026-11-16T15:39:52Z",
+      "consultado": "2026-11-17T06:11:45Z",
       "sha256": "c77973a707993a7a074eeec03cb053bcf3b5fdecaa5e09659dde83d67d22ce6c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4810782&Seguimiento=4798658"
     }
@@ -296,5 +296,196 @@
     "sil-4810782-1",
     "sil-4810782-2",
     "sil-4810782-3"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "pass",
+      "texto": "Aprobado considerar el dictamen suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Gina Gerardina Campuzano González (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. Laura Esquivel Torres (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. María Alejandra Barrales Magdaleno (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4810782",
+      "camara": "senado",
+      "fecha": "2024-11-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 19 y tercero transitorio, formulada por el Sen. Manuel Rafael Huerta Ladrón de Guevara (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó considerar a discusión la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen de la Comisión de Puntos Constitucionales por el que se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva formulada por el Dip. Ricardo Monreal Ávila (MORENA) al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "pass",
+      "texto": "Aprobado admitir la reserva formulada por el Dip. Ricardo Monreal Ávila (MORENA) al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se reserva para su votación nominal la modificación aceptada por la Asamblea."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia Ruiz Massieu Salinas (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Gloria Elizabeth Núñez Sánchez (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gildardo Pérez Gabino (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Lorena Piñón Rivera (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Moreno De Haro (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Juan Ignacio Zavala Gutiérrez (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Irais Virginia Reyes De la Torre (MC), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    },
+    {
+      "asunto": "4802167",
+      "camara": "diputados",
+      "fecha": "2024-11-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de los Dolores Padierna Luna (Morena), al dictamen que reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa. Se desecha."
+    }
   ]
 }

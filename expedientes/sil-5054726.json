@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/c4/c40489812df9e080218400630b573c5d5d25a0090d798d1a35f6b16a324b70b5.html",
-      "consultado": "2026-11-16T18:09:25Z",
+      "consultado": "2026-11-17T08:59:53Z",
       "sha256": "c40489812df9e080218400630b573c5d5d25a0090d798d1a35f6b16a324b70b5",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5054726&Asunto=5054584"
     },
     {
       "archivo": "fuentes/48/4839c9f6981f136481609fdf1005ece37835b2c9de8adecf6ce41c53e8518665.html",
-      "consultado": "2026-11-16T18:09:29Z",
+      "consultado": "2026-11-17T08:59:56Z",
       "sha256": "4839c9f6981f136481609fdf1005ece37835b2c9de8adecf6ce41c53e8518665",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5054584&Seguimiento=5054726"
     }
@@ -484,5 +484,455 @@
     "sil-5054584-4",
     "sil-5059290-1",
     "sil-5059290-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general el dictamen en materia de reducción privilegios y fortalecimiento de la revocación de mandato."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Cristina Ruíz Sandoval (PRI) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Gina Gerardina Campuzano González (PAN) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Anabell Ávalos Zempoalteca (PRI) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por el Sen. José Clemente Castañeda Hoeflich (MC) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Mely Romero Celis (PRI) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Alma Carolina Viggiano Austria (PRI) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Karina Isabel Ruiz Ruiz (Morena) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por la Sen. Juanita Guerra Mena (PVEM) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión de las reservas presentadas por el Sen. Higinio Martínez Miranda (Morena) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión de las reservas presentadas por la Sen. Lizeth Sánchez García (PT) al dictamen."
+    },
+    {
+      "asunto": "5054584",
+      "camara": "senado",
+      "fecha": "2026-03-25",
+      "result": "pass",
+      "texto": "Aprobado aceptar las reservas presentadas por la Sen. Lizeth Sánchez García (PT) al dictamen."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Carmen Rocío González Alonso (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva del Dip. Erubiel Lorenzo Alonso Que (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, en materia electoral."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) del dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Manuel Alejandro Cota Cárdenas (PVEM) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Mario Zamora Gastélum (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. César Israel Damián Retes (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Christian Mishel Castro Bello (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Blanca Leticia Gutiérrez Garza (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Gloria Elizabeth Núñez Sánchez (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Francisco Pelayo Covarrubias (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Diego Ángel Rodríguez Barroso (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos"
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Fidel Daniel Chimal García (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Pablo Vázquez Ahued (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Ivonne Aracely Ortega Pacheco (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Hugo Eduardo Gutiérrez Arroyo (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Zavala Gutiérrez(MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Carlos Eduardo Gutiérrez Mancilla (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa(MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. David Azuara Zúñiga (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Omar Antonio Borboa Becerra (PAN)al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Roberto Sosa Pichardo (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Verónica Pérez Herrera (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Asael Hernández Cerón (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Theodoros Kalionchiz De la Fuente (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Israel Betanzos Cortés (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Luis Armando Díaz (PT) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Arturo Yáñez Cuéllar (PRI) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Salim Alle (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "5059290",
+      "camara": "diputados",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que reforma los artículos 115, fracción I, párrafo primero; 116, fracción II, párrafo segundo y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos."
+    }
   ]
 }

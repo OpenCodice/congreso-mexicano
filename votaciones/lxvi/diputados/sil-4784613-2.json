@@ -1,0 +1,41 @@
+{
+  "asunto": "4784613",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 342
+    },
+    {
+      "option": "no",
+      "value": 128
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-4782817",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-4784613-2",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, en materia de elección de personas juzgadoras del Poder Judicial de la Federación.",
+    "text": "Aprobado en lo general y en lo particular de los artículos reservados en términos del dictamen. A Favor: 342 En contra: 128 Abstenciones 0"
+  },
+  "orden": 2,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/46/46fcba0926d9f0997585072ddffbbb41c5e865a8c3d20daf74da3c58fcecda83.html",
+      "consultado": "2026-11-17T07:49:27Z",
+      "sha256": "46fcba0926d9f0997585072ddffbbb41c5e865a8c3d20daf74da3c58fcecda83",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4784613"
+    }
+  ],
+  "start_date": "2024-10-14",
+  "votes": [],
+  "votos_publicados": false
+}

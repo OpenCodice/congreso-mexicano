@@ -125,13 +125,13 @@
   "sources": [
     {
       "archivo": "fuentes/f9/f9708377c8f95d983dd49e1b856e5cc25d8c6309b2719c9b3597b177c524af46.html",
-      "consultado": "2026-11-16T15:47:47Z",
+      "consultado": "2026-11-17T06:22:46Z",
       "sha256": "f9708377c8f95d983dd49e1b856e5cc25d8c6309b2719c9b3597b177c524af46",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4817558&Asunto=4818182"
     },
     {
       "archivo": "fuentes/d2/d24d2289f6676f6d04416b6f16bb9b7bc41a2e1898468ec70c373a434b7bcaa8.html",
-      "consultado": "2026-11-16T15:47:51Z",
+      "consultado": "2026-11-17T06:22:49Z",
       "sha256": "d24d2289f6676f6d04416b6f16bb9b7bc41a2e1898468ec70c373a434b7bcaa8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4818182&Seguimiento=4817558"
     }
@@ -260,5 +260,84 @@
     "sil-4818182-2",
     "sil-4820831-1",
     "sil-4820831-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4818182",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4818182",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4818182",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4818182",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 134, formulada por el Sen. Rolando Rodrigo Zapata Bello (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4818182",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva al artículo 273 formulada por la Sen. Blanca Judith Díaz Delgado (Morena)."
+    },
+    {
+      "asunto": "4818182",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado admitir la modificación al artículo 273 formulada por la Sen. Blanca Judith Díaz Delgado (Morena), a efecto de sustituir -dirección nacional- por -dirección ejecutiva nacional-"
+    },
+    {
+      "asunto": "4820831",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva de la Dip. Laura Irais Ballesteros Mancilla (MC)."
+    },
+    {
+      "asunto": "4820831",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Irais Ballesteros Mancilla (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820831",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Claudia Gabriela Salas Rodríguez (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820831",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Verónica Martínez García (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820831",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Carmen Rocío González Alonso (PAN). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

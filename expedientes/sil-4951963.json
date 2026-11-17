@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/85/85f9f07c3f9b237971934c4d78055136c8eab38a295803ff9c74c8113b83ed62.html",
-      "consultado": "2026-11-16T17:01:01Z",
+      "consultado": "2026-11-17T07:52:33Z",
       "sha256": "85f9f07c3f9b237971934c4d78055136c8eab38a295803ff9c74c8113b83ed62",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4951963&Asunto=4950222"
     },
     {
       "archivo": "fuentes/73/735b7a963d80130052fe99f59a7c1cd2b03dfcbd64105181f33e520ebfb4faf9.html",
-      "consultado": "2026-11-16T17:01:05Z",
+      "consultado": "2026-11-17T07:52:37Z",
       "sha256": "735b7a963d80130052fe99f59a7c1cd2b03dfcbd64105181f33e520ebfb4faf9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4950222&Seguimiento=4951963"
     }
@@ -324,5 +324,252 @@
     "sil-4950222-2",
     "sil-4963029-1",
     "sil-4963029-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Francisco Pelayo Covarrubias (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Cindy Winkler Trujillo (PVEM) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Ignacio Zavala Gutiérrez (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Julia Licet Jiménez Angulo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Pablo Vázquez Ahued (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ana María Balderas Trejo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Paulo Gonzalo Martínez López (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Carmen Rocío González Alonso (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutidas las propuestas de modificación presentadas por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "pass",
+      "texto": "Aprobado admitir las propuestas de modificación presentadas por el Dip. Reginaldo Sandoval Flores (PT) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Salim Alle Miguel Ángel (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4950222",
+      "camara": "diputados",
+      "fecha": "2025-10-15",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. José Elías Lixa Abimerhi (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó a discusión la moción suspensiva presentada por la Sen. Claudia Edith Anaya Mota (PRI) al dictamen."
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por el Sen. Francisco Daniel Barreda Pavón (MC)"
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por la Sen. Amalia Dolores García Medina (MC)"
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por la Sen. María Guadalupe Murguía Gutiérrez (PAN)"
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por el Sen. Luis Donaldo Colosio Riojas (MC)"
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por el Sen. Agustín Dorantes Lámbarri (PAN)"
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las propuestas de modificación presentadas por la Sen. Maki Esther Ortiz Domínguez (PVEM)"
+    },
+    {
+      "asunto": "4963029",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ricardo Anaya Cortés (PAN)"
+    }
   ]
 }

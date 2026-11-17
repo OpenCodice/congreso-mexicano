@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/48/489853097454ded7eb58a6bf9d39168c9036b818fb60582b2ff3a945c3e24404.html",
-      "consultado": "2026-11-16T16:52:16Z",
+      "consultado": "2026-11-17T07:30:21Z",
       "sha256": "489853097454ded7eb58a6bf9d39168c9036b818fb60582b2ff3a945c3e24404",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4937808&Asunto=4939310"
     },
     {
       "archivo": "fuentes/93/932cd6276d2b098e76b8af889f3b32efbe837751e1ae3605a450f852e23f8bce.html",
-      "consultado": "2026-11-16T16:52:20Z",
+      "consultado": "2026-11-17T07:30:24Z",
       "sha256": "932cd6276d2b098e76b8af889f3b32efbe837751e1ae3605a450f852e23f8bce",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4939310&Seguimiento=4937808"
     }
@@ -130,5 +130,35 @@
   "votaciones": [
     "sil-4939310-1",
     "sil-4939310-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4939310",
+      "camara": "diputados",
+      "fecha": "2025-10-01",
+      "result": "pass",
+      "texto": "Aprobado para someter a discusión la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que adiciona diversas disposiciones de la Ley General de Bienes Nacionales, y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente."
+    },
+    {
+      "asunto": "4939310",
+      "camara": "diputados",
+      "fecha": "2025-10-01",
+      "result": "pass",
+      "texto": "Aprobado para someter a discusión la propuesta de modificación presentada por el Dip. José Elías Lixa Abimerhi (PAN) a la reserva."
+    },
+    {
+      "asunto": "4939310",
+      "camara": "diputados",
+      "fecha": "2025-10-01",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutida la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que adiciona diversas disposiciones de la Ley General de Bienes Nacionales, y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente."
+    },
+    {
+      "asunto": "4939310",
+      "camara": "diputados",
+      "fecha": "2025-10-01",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que adiciona diversas disposiciones de la Ley General de Bienes Nacionales, y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Se reserva para su votación nominal en conjunto con la modificación aceptada por la Asamblea."
+    }
   ]
 }

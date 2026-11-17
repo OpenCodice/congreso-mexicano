@@ -53,13 +53,13 @@
   "sources": [
     {
       "archivo": "fuentes/c1/c1d51bb793393b3b48a622580249b3ff0532a191e8e5fcc4cc1bab5441d450f9.html",
-      "consultado": "2026-11-16T16:06:41Z",
+      "consultado": "2026-11-17T06:45:59Z",
       "sha256": "c1d51bb793393b3b48a622580249b3ff0532a191e8e5fcc4cc1bab5441d450f9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4855621&Asunto=4855595"
     },
     {
       "archivo": "fuentes/ca/cab55de16f969c0ce1a926737e1209f005504769964dd9701c78f05990b7bc1d.html",
-      "consultado": "2026-11-16T16:06:45Z",
+      "consultado": "2026-11-17T06:46:02Z",
       "sha256": "cab55de16f969c0ce1a926737e1209f005504769964dd9701c78f05990b7bc1d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4855595&Seguimiento=4855621"
     }
@@ -104,5 +104,21 @@
   "ultimo_estatus": "Toma de protesta Aprobado 12/03/2025",
   "votaciones": [
     "sil-4855595-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4855595",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "pass",
+      "texto": "Aprobado considerar el dictamen de obvia y urgente resolución para su discusión y votación."
+    },
+    {
+      "asunto": "4855595",
+      "camara": "diputados",
+      "fecha": "2025-03-12",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen que ratifica los nombramientos que la Titular del Poder Ejecutivo Federal expidió a favor de Édgar Abraham Amador Zamora como Secretario de Hacienda y Crédito Público; de Carlos Gabriel Lerma Cotera como Subsecretario de Ingresos; y de Roberto Carlos Fernández González como Tesorero de la Federación, todos en su carácter de empleados superiores de hacienda."
+    }
   ]
 }

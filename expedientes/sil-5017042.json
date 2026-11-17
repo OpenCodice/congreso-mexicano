@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/11/115f7b230fec7c3054b946eff00ecd60227e52e33e63842e109e1865b70ff0f4.html",
-      "consultado": "2026-11-16T17:39:58Z",
+      "consultado": "2026-11-17T08:30:31Z",
       "sha256": "115f7b230fec7c3054b946eff00ecd60227e52e33e63842e109e1865b70ff0f4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5017042&Asunto=5016201"
     },
     {
       "archivo": "fuentes/23/239f968d7035f2ec797aa1816b9c9cb7d27d295f7111c8e9f6358dd637f02c25.html",
-      "consultado": "2026-11-16T17:40:02Z",
+      "consultado": "2026-11-17T08:30:34Z",
       "sha256": "239f968d7035f2ec797aa1816b9c9cb7d27d295f7111c8e9f6358dd637f02c25",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5016201&Seguimiento=5017042"
     }
@@ -108,5 +108,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/02/2026",
   "votaciones": [
     "sil-5016201-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5016201",
+      "camara": "diputados",
+      "fecha": "2026-02-17",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma el artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes."
+    }
   ]
 }

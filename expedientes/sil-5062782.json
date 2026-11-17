@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/fa/fac14ac13b17268cd78f34853b6b56ec642efaf69b0ec3d6aa91169f4e7dc7fb.html",
-      "consultado": "2026-11-16T18:12:04Z",
+      "consultado": "2026-11-17T09:01:21Z",
       "sha256": "fac14ac13b17268cd78f34853b6b56ec642efaf69b0ec3d6aa91169f4e7dc7fb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5062782&Asunto=5062610"
     },
     {
       "archivo": "fuentes/91/91813c2107358b5d0d57efd46a5baf92b8292a21b9799841fa5451fa6e4d612b.html",
-      "consultado": "2026-11-16T18:12:07Z",
+      "consultado": "2026-11-17T09:01:25Z",
       "sha256": "91813c2107358b5d0d57efd46a5baf92b8292a21b9799841fa5451fa6e4d612b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5062610&Seguimiento=5062782"
     }
@@ -234,5 +234,112 @@
     "sil-5062610-1",
     "sil-5062610-2",
     "sil-5079160-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general el dictamen."
+    },
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. José Clemente Castañeda Hoeflich (MC) al dictamen."
+    },
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Sen. Anabell Ávalos Zempoalteca (PRI) al dictamen."
+    },
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas del Sen. Miguel Márquez Márquez (PAN) al dictamen."
+    },
+    {
+      "asunto": "5062610",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas de la Sen. Gina Gerardina Campuzano González (PAN) al dictamen."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana María Baladeras Trejo (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. María de Fátima García León (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paola Michell Longoria López (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    },
+    {
+      "asunto": "5079160",
+      "camara": "diputados",
+      "fecha": "2026-04-22",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal del Trabajo, en materia de reducción de la jornada laboral."
+    }
   ]
 }

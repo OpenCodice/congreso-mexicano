@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/17/17d955017861d10552003b9566e2576b99633a9aaf648daf56f466b561198269.html",
-      "consultado": "2026-11-16T17:18:44Z",
+      "consultado": "2026-11-17T08:09:45Z",
       "sha256": "17d955017861d10552003b9566e2576b99633a9aaf648daf56f466b561198269",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4983321&Asunto=4987838"
     },
     {
       "archivo": "fuentes/d0/d05ad9be06081726fd7262796228fa20a6d2807cd21cac283e9708f769bfd8c5.html",
-      "consultado": "2026-11-16T17:18:48Z",
+      "consultado": "2026-11-17T08:09:49Z",
       "sha256": "d05ad9be06081726fd7262796228fa20a6d2807cd21cac283e9708f769bfd8c5",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4987838&Seguimiento=4983321"
     }
@@ -104,5 +104,21 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 03/12/2025",
   "votaciones": [
     "sil-4987838-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4987838",
+      "camara": "senado",
+      "fecha": "2025-12-02",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4987838",
+      "camara": "senado",
+      "fecha": "2025-12-02",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general el dictamen."
+    }
   ]
 }

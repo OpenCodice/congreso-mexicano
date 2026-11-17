@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/1c/1ce88c41b079a2509655267bd4783f9bb357c05786a1eff5cfa77b0c155bf54f.html",
-      "consultado": "2026-11-16T18:30:50Z",
+      "consultado": "2026-11-17T09:29:10Z",
       "sha256": "1ce88c41b079a2509655267bd4783f9bb357c05786a1eff5cfa77b0c155bf54f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090385&Asunto=5088455"
     },
     {
       "archivo": "fuentes/71/716f269431a6ba546051f9436576b6658d96a9e33ee80873399590a209a97543.html",
-      "consultado": "2026-11-16T18:30:54Z",
+      "consultado": "2026-11-17T09:29:13Z",
       "sha256": "716f269431a6ba546051f9436576b6658d96a9e33ee80873399590a209a97543",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088455&Seguimiento=5090385"
     }
@@ -112,5 +112,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-5088455-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5088455",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que adicionan diversas disposiciones a la Ley Nacional del Registro de Detenciones, en materia de gestión de riesgos y seguridad de bases de datos."
+    }
   ]
 }

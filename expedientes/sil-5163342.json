@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/8d/8d3e3945bed44df8b2b32e6088920583aa86aa23e1e4e32083f1c7b69259a199.html",
-      "consultado": "2026-11-16T18:47:06Z",
+      "consultado": "2026-11-17T09:49:43Z",
       "sha256": "8d3e3945bed44df8b2b32e6088920583aa86aa23e1e4e32083f1c7b69259a199",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163342&Asunto=5175816"
     },
     {
       "archivo": "fuentes/96/96bce8c7264f1cc73d9dbba8c363e8fb7984a7d59f63caf27d0ce9e5b40b6557.html",
-      "consultado": "2026-11-16T18:47:10Z",
+      "consultado": "2026-11-17T09:49:47Z",
       "sha256": "96bce8c7264f1cc73d9dbba8c363e8fb7984a7d59f63caf27d0ce9e5b40b6557",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5175816&Seguimiento=5163342"
     }
@@ -454,5 +454,476 @@
     "sil-5175816-3",
     "sil-5175816-4",
     "sil-5175816-5"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado para omitir la segunda lectura."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por Sen. Gina Gerardina Campuzano González (PAN)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Javier Ramírez Acuña (PAN)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Gabriel Elizondo Pérez (PRI)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Daniel Barreda Pavón (MC)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Miguel Márquez Márquez (PAN)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Amalia Dolores García Medina (MC)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Agustín Dorantes Lámbarri (PAN)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Laura Esquivel Torres (PAN)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Maki Esther Ortiz Domínguez (PVEM)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Carlos Humberto Suárez Flores (PVEM)."
+    },
+    {
+      "asunto": "5175816",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Mario Humberto Vázquez Robles (PAN)."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido, en lo general, el dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Ernesto Sánchez Rodríguez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Irais Ballesteros Mancilla (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Anayeli Muñoz Moreno (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Mariana Guadalupe Jiménez Zamora (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Armando Ruiz Hernández (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Francisco Espinoza Eguia (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Leticia Barrera Maldonado (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Verónica Martínez García (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Andrés Mauricio Cantú Ramírez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Theodoros Kalionchiz De la Fuente (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Víctor Samuel Palma César (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Francisco Pelayo Covarrubias (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Paulina Rubio Fernández (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Liliana Ortiz Pérez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alan Sahir Márquez Becerra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Margarita Ester Zavala Gómez del Campo (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "pass",
+      "texto": "Aprobado para admitir a discusión la reserva presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida la reserva presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "pass",
+      "texto": "Aprobado aceptar la reserva presentada por el Dip. Ricardo Monreal Ávila (Morena) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027 para para -otorgar un estímulo fiscal a las personas físicas y morales que tengan a su cargo créditos fiscales firmes o consentidos, cuya administración y recaudación corresponda al Servicio de Administración Tributaria o a la Agencia Nacional de Aduanas de México-, eliminado el texto -cuyos ingresos totales en el ejercicio fiscal 2025, para los efectos de la Ley del Impuesto sobre la Renta, no hayan excedido de 300 millones de pesos."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Hernández García (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Irais Virginia Reyes De la Torre (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Tecutli José Guadalupe Gómez Villalobos (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Paloma Domínguez Ugarte (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Diego Ángel Rodríguez Barroso (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Diana Estefanía Gutiérrez Valtierra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Elizabeth Martínez Álvarez (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Claudia Quiñones Garrido (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Moreno De Haro (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Noemi Berenice Luna Ayala (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Héctor Saúl Téllez Hernández (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. César Israel Damián Retes (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Ignacio Zavala Gutiérrez (MC) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "asunto": "5161814",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Federico Döring Casar (PAN) al dictamen que expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    }
   ]
 }

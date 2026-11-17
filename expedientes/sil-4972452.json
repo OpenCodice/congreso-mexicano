@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/b3/b3629cbfc9613559ff2d8995a5de87319726b4126eaf03f24715ef539a0685b9.html",
-      "consultado": "2026-11-16T17:10:01Z",
+      "consultado": "2026-11-17T08:01:16Z",
       "sha256": "b3629cbfc9613559ff2d8995a5de87319726b4126eaf03f24715ef539a0685b9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972452&Asunto=4971440"
     },
     {
       "archivo": "fuentes/2d/2dc6ce03b01ce6d953d0ad05ac81313bb92f50cb5d49cc1d7d61f3e854e08738.html",
-      "consultado": "2026-11-16T17:10:05Z",
+      "consultado": "2026-11-17T08:01:19Z",
       "sha256": "2dc6ce03b01ce6d953d0ad05ac81313bb92f50cb5d49cc1d7d61f3e854e08738",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971440&Seguimiento=4972452"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
   "votaciones": [
     "sil-4971440-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4971440",
+      "camara": "diputados",
+      "fecha": "2025-11-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforman los artículos 72 y 73 de la Ley General de Salud, en materia de fortalecimiento de la salud mental."
+    }
   ]
 }

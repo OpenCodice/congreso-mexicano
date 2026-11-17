@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/ba/ba120b86e900f749a5ec9533fbcf3c93cf6717e58f1d0ed9ecd0e98a4d9be0b1.html",
-      "consultado": "2026-11-16T17:02:09Z",
+      "consultado": "2026-11-17T07:53:31Z",
       "sha256": "ba120b86e900f749a5ec9533fbcf3c93cf6717e58f1d0ed9ecd0e98a4d9be0b1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4955430&Asunto=4963033"
     },
     {
       "archivo": "fuentes/be/bebb9eee0fc764179ae9fc760fc6c3500b301fdffd1697057f66fef41bff5fb0.html",
-      "consultado": "2026-11-16T17:02:13Z",
+      "consultado": "2026-11-17T07:53:35Z",
       "sha256": "bebb9eee0fc764179ae9fc760fc6c3500b301fdffd1697057f66fef41bff5fb0",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4963033&Seguimiento=4955430"
     }
@@ -178,5 +178,56 @@
     "sil-4955927-1",
     "sil-4963033-1",
     "sil-4963033-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4963033",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4963033",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4963033",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó la moción suspensiva del Sen. Añorve Baños Manuel (PRI)."
+    },
+    {
+      "asunto": "4963033",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó las reservas al dictamen, presentada por la Sen. Anaya Mota Claudia Edith (PRI)."
+    },
+    {
+      "asunto": "4963033",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó las reservas al dictamen, presentadas por la Sen. Gina Gerardina Campuzano González (PAN)."
+    },
+    {
+      "asunto": "4955927",
+      "camara": "diputados",
+      "fecha": "2025-10-22",
+      "result": "fail",
+      "texto": "Se rechazó tomar en consideración, para su discusión, la moción suspensiva presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que expide la Ley Orgánica de la Armada de México."
+    },
+    {
+      "asunto": "4955927",
+      "camara": "diputados",
+      "fecha": "2025-10-22",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que expide la Ley Orgánica de la Armada de México."
+    }
   ]
 }

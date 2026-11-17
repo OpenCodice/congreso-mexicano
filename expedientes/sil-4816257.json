@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/dc/dc12feab2a8e0aed774feee2fbd02b51ae1890ba409265828a769bdeedd125d5.html",
-      "consultado": "2026-11-16T15:47:21Z",
+      "consultado": "2026-11-17T06:22:06Z",
       "sha256": "dc12feab2a8e0aed774feee2fbd02b51ae1890ba409265828a769bdeedd125d5",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4816257&Asunto=4816467"
     },
     {
       "archivo": "fuentes/c6/c6f6db6db492dbf8ed675a7ba04410b212785b6ec7c5a1684026328e938b2912.html",
-      "consultado": "2026-11-16T15:47:25Z",
+      "consultado": "2026-11-17T06:22:09Z",
       "sha256": "c6f6db6db492dbf8ed675a7ba04410b212785b6ec7c5a1684026328e938b2912",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4816467&Seguimiento=4816257"
     }
@@ -190,5 +190,28 @@
     "sil-4816467-1",
     "sil-4816467-2",
     "sil-4823189-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4816467",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4816467",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4816467",
+      "camara": "senado",
+      "fecha": "2024-12-04",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres, al artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y, la adición de los artículos cuarto, quinto, sexto y séptimo transitorios, formulada por el Sen. Miguel Márquez Márquez (PAN). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

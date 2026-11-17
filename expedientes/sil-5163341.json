@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/1b/1b9a772af1ed6f807727f7ab49b96280e6ecfd867de902eb183399e9a558fff4.html",
-      "consultado": "2026-11-16T18:45:22Z",
+      "consultado": "2026-11-17T09:48:11Z",
       "sha256": "1b9a772af1ed6f807727f7ab49b96280e6ecfd867de902eb183399e9a558fff4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163341&Asunto=5175811"
     },
     {
       "archivo": "fuentes/40/403d3a02b92ca39e9eae4b0697a6b5110d543feb14925bba30f22670fbabfa75.html",
-      "consultado": "2026-11-16T18:45:26Z",
+      "consultado": "2026-11-17T09:48:15Z",
       "sha256": "403d3a02b92ca39e9eae4b0697a6b5110d543feb14925bba30f22670fbabfa75",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5175811&Seguimiento=5163341"
     }
@@ -364,5 +364,217 @@
     "sil-5175811-1",
     "sil-5175811-2",
     "sil-5186070-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado para omitir la segunda lectura."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Gabriel Elizondo Pérez (PRI)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Gina Gerardina Campuzano González (PAN)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Carlos Humberto Suárez Flores (PVEM)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Jorge Carlos Ramírez Marín (PVEM)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Miguel Márquez Márquez (PAN)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Karla Guadalupe Toledo Zamora (PRI)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Alma Carolina Viggiano Austria (PRI)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva presentada por el Sen. Emmanuel Reyes Carmona (Morena)."
+    },
+    {
+      "asunto": "5175811",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado la reserva presentada por el Sen. Emmanuel Reyes Carmona (Morena) al artículo 78-E."
+    },
+    {
+      "asunto": "5186070",
+      "camara": "diputados",
+      "fecha": "2026-11-03",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo particular el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto sobre la Renta y se expiden disposiciones de vigencia transitoria, devuelto por el Senado de la República para los efectos de la fracción E del artículo 72 constitucional."
+    },
+    {
+      "asunto": "5186070",
+      "camara": "diputados",
+      "fecha": "2026-11-03",
+      "result": "fail",
+      "texto": "Se rechazó para aceptar a discusión la propuesta de modificación presentada por el Dip. Miguel Ángel Salim Alle (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto sobre la Renta y se expiden disposiciones de vigencia transitoria, devuelto por el Senado de la República para los efectos de la fracción E del artículo 72 constitucional."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "pass",
+      "texto": "Aprobado para considera suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto sobre la Renta y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Patricia Mercado Castro (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Juan Moreno De Haro (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Yerico Abramo Masso (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Arturo Yáñez Cuéllar (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Xitlalic Ceja García (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Fuensanta Guadalupe Guerrero Esquivel (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Armando Tejeda Cid (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. David Azuara Zúñiga (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Julia Licet Jiménez Angulo (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. José Mario Íñiguez Franco (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Genoveva Huerta Villegas (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "asunto": "5161811",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Roberto Sosa Pichardo (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley del Impuesto Sobre la Renta; y se expiden disposiciones de vigencia transitoria."
+    }
   ]
 }

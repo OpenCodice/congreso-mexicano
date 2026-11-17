@@ -53,13 +53,13 @@
   "sources": [
     {
       "archivo": "fuentes/ed/ed2cdfcacd3e5812e591bf109fb4e057853e18f482993bc7033a3ee2c50f3b8d.html",
-      "consultado": "2026-11-16T18:11:45Z",
+      "consultado": "2026-11-17T09:01:04Z",
       "sha256": "ed2cdfcacd3e5812e591bf109fb4e057853e18f482993bc7033a3ee2c50f3b8d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5059218&Asunto=5061495"
     },
     {
       "archivo": "fuentes/d4/d4f0f289c55c09d30be67d0c41be3b7032034e8dcc79d756ed413c531013cd60.html",
-      "consultado": "2026-11-16T18:11:49Z",
+      "consultado": "2026-11-17T09:01:07Z",
       "sha256": "d4f0f289c55c09d30be67d0c41be3b7032034e8dcc79d756ed413c531013cd60",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5061495&Seguimiento=5059218"
     }
@@ -92,5 +92,21 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 20/04/2026",
   "votaciones": [
     "sil-5061495-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5061495",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato"
+    },
+    {
+      "asunto": "5061495",
+      "camara": "senado",
+      "fecha": "2026-04-08",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido el dictamen."
+    }
   ]
 }

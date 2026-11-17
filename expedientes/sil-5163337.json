@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/dd/dd8b4750ff0f85f25e662fb63a11b5cfe31865bd692988fe72be1c6fef9a234c.html",
-      "consultado": "2026-11-16T18:44:34Z",
+      "consultado": "2026-11-17T09:47:33Z",
       "sha256": "dd8b4750ff0f85f25e662fb63a11b5cfe31865bd692988fe72be1c6fef9a234c",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5163337&Asunto=5175806"
     },
     {
       "archivo": "fuentes/3b/3bd7f3a2cbc564fb2ab005c1e75c737a2f14ca5f8b5f242069290c919e6a445e.html",
-      "consultado": "2026-11-16T18:44:38Z",
+      "consultado": "2026-11-17T09:47:36Z",
       "sha256": "3bd7f3a2cbc564fb2ab005c1e75c737a2f14ca5f8b5f242069290c919e6a445e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5175806&Seguimiento=5163337"
     }
@@ -406,5 +406,392 @@
     "sil-5175806-3",
     "sil-5175806-4",
     "sil-5175806-5"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó la moción suspensiva a los dictámenes presentada por la Sen. Claudia Edith Anaya Mota (PRI)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Rolando Rodrigo Zapata Bello (PRI)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Susana del Carmen Zatarain García (PAN)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Ángel García Yáñez (PRI)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Miguel Márquez Márquez (PAN)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Amalia Dolores García Medina (MC)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Jorge Carlos Ramírez Marín (PVEM)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Manuel Añorve Baños (PRI)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Enrique Vargas del Villar (PAN)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Gina Gerardina Campuzano González (PAN)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Claudia Edith Anaya Mota (PRI)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Karla Guadalupe Toledo Zamora (PRI)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Maki Esther Ortiz Domínguez (PVEM)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por la Sen. Amalia Dolores García Medina (MC)."
+    },
+    {
+      "asunto": "5175806",
+      "camara": "senado",
+      "fecha": "2026-10-27",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva presentada por el Sen. Francisco Alejandro Carrillo Flores (Morena)."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para tomar en consideración la moción suspensiva del Dip. José Elías Lixa Abimerhi (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "pass",
+      "texto": "Aprobado para considera suficientemente discutido, en lo general, el dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Claudia Ruiz Massieu Salinas (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reservas presentadas por la Dip. Laura Hernández García (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Alfonso Armando Vidales Vargas Ochoa (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Gustavo Adolfo De Hoyos Walther (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Miguel Alejandro Alonso Reyes (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. César Alejandro Domínguez Domínguez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Mónica Elizabeth Sandoval Hernández (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Verónica Martínez García (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Abigail Arredondo Ramos (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Tania Palacios Kuri (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Éctor Jaime Ramírez Barba (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Omar Antonio Borboa Becerra (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Miguel Ángel Monraz Ibarra (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Víctor Manuel Pérez Díaz (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Noemi Berenice Luna Ayala (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Claudia Gabriela Salas Rodríguez (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Lorena Piñón Rivera (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Theodoros Kalionchiz De la Fuente (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Ana Isabel González González (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Yerico Abramo Masso (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Armando Díaz (PT) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Noel Chávez Velázquez (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Nancy Aracely Olguín Díaz (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Paulo Gonzalo Martínez López (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. María Angélica Granados Trespalacios (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Luis Agustín Rodríguez Torres (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por la Dip. Silvia Patricia Jiménez Delgado (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "asunto": "5161808",
+      "camara": "diputados",
+      "fecha": "2026-10-13",
+      "result": "fail",
+      "texto": "Se rechazó para admitir a discusión la reserva presentada por el Dip. Fernando Torres Graciano (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Derechos."
+    }
   ]
 }

@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/45/450a259e73611105469d82a1844d7b9bbe750194319a8c3f4fd5d4a1f3d4cb7a.html",
-      "consultado": "2026-11-16T17:22:37Z",
+      "consultado": "2026-11-17T08:14:20Z",
       "sha256": "450a259e73611105469d82a1844d7b9bbe750194319a8c3f4fd5d4a1f3d4cb7a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4986123&Asunto=4985203"
     },
     {
       "archivo": "fuentes/fb/fbabf7baee9a9abd82e4d7274554476c59129c972fd5c3fc16e51c7d05b052a8.html",
-      "consultado": "2026-11-16T17:22:41Z",
+      "consultado": "2026-11-17T08:14:24Z",
       "sha256": "fbabf7baee9a9abd82e4d7274554476c59129c972fd5c3fc16e51c7d05b052a8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4985203&Seguimiento=4986123"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/12/2025",
   "votaciones": [
     "sil-4985203-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4985203",
+      "camara": "diputados",
+      "fecha": "2025-11-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que adiciona los artículos 3 y 7 de la Ley General de Movilidad y Seguridad Vial."
+    }
   ]
 }

@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/ea/ea15deeb20f1a9598d694dcbac601169a6970d316f3f28538fdf4807437b87f2.html",
-      "consultado": "2026-11-16T17:28:46Z",
+      "consultado": "2026-11-17T08:19:38Z",
       "sha256": "ea15deeb20f1a9598d694dcbac601169a6970d316f3f28538fdf4807437b87f2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990626&Asunto=4989535"
     },
     {
       "archivo": "fuentes/75/7583ecd92d1fcd67ca55a5de600c615bac0748098b405b4ec189f5171ed3f9d6.html",
-      "consultado": "2026-11-16T17:28:50Z",
+      "consultado": "2026-11-17T08:19:42Z",
       "sha256": "7583ecd92d1fcd67ca55a5de600c615bac0748098b405b4ec189f5171ed3f9d6",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989535&Seguimiento=4990626"
     }
@@ -112,5 +112,14 @@
   "ultimo_estatus": "Publicado en DOF Aprobado 17/12/2025",
   "votaciones": [
     "sil-4989535-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4989535",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general y en lo particular, el dictamen."
+    }
   ]
 }

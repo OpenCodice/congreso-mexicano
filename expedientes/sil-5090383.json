@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/1a/1a4a9046d2ee6f97caf5f6efed8e3e7f0066cba89566edc8d5d0bb8435a4c32d.html",
-      "consultado": "2026-11-16T18:29:34Z",
+      "consultado": "2026-11-17T09:28:06Z",
       "sha256": "1a4a9046d2ee6f97caf5f6efed8e3e7f0066cba89566edc8d5d0bb8435a4c32d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090383&Asunto=5088452"
     },
     {
       "archivo": "fuentes/00/0062c3c50fbc21e333688c4eaa6c78a5cbcc2143ef148fdc5448ca114c536ee1.html",
-      "consultado": "2026-11-16T18:29:38Z",
+      "consultado": "2026-11-17T09:28:09Z",
       "sha256": "0062c3c50fbc21e333688c4eaa6c78a5cbcc2143ef148fdc5448ca114c536ee1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088452&Seguimiento=5090383"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 02/09/2026",
   "votaciones": [
     "sil-5088452-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5088452",
+      "camara": "diputados",
+      "fecha": "2026-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido en lo general y en lo particular el dictamen que reforma y adiciona diversas disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad, en materia de armonización de la reforma constitucional para el apoyo a personas con discapacidad."
+    }
   ]
 }

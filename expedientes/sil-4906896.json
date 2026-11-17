@@ -77,13 +77,13 @@
   "sources": [
     {
       "archivo": "fuentes/93/93e3fdfe58d8cb05877d0f8e7208db3c9a19811e09dacc609a4f8baa587e562b.html",
-      "consultado": "2026-11-16T16:33:36Z",
+      "consultado": "2026-11-17T07:11:42Z",
       "sha256": "93e3fdfe58d8cb05877d0f8e7208db3c9a19811e09dacc609a4f8baa587e562b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4906896&Asunto=4909044"
     },
     {
       "archivo": "fuentes/51/5107a41cb2dfe743a169286c52dbb4830835d71714611f4d91e41cd74b9e13ae.html",
-      "consultado": "2026-11-16T16:33:40Z",
+      "consultado": "2026-11-17T07:11:45Z",
       "sha256": "5107a41cb2dfe743a169286c52dbb4830835d71714611f4d91e41cd74b9e13ae",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909044&Seguimiento=4906896"
     }
@@ -232,5 +232,140 @@
     "sil-4906804-2",
     "sil-4909044-1",
     "sil-4909044-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. David Novoa Toscano (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Tabita Ortiz Hernández (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Edna Geraldina García Gordillo (PRI) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Susana del Carmen Zataraín García (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909044",
+      "camara": "senado",
+      "fecha": "2025-06-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen que reforma, adiciona y deroga diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "pass",
+      "texto": "Aprobado considerarse suficientemente discutido el dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Yerico Abramo Masso (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Mario Zamora Gastélum (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Mario Calzada Mercado (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Patricia Mercado Castro (MC). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ofelia Socorro Jasso Nieto (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Gibrán Ramírez Reyes (MC). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Paloma Domínguez Ugarte (PRI). Se reserva para su votación nominal en términos del dictamen."
+    },
+    {
+      "asunto": "4906804",
+      "camara": "diputados",
+      "fecha": "2025-06-23",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Emma Mondragón Navarrete (PRI). Se reserva para su votación nominal en términos del dictamen."
+    }
   ]
 }

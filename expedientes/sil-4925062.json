@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/c9/c9e2f90a09855b0b81909fec62d47880ceb87a987b1736cdac1fa029cc18d786.html",
-      "consultado": "2026-11-16T16:45:56Z",
+      "consultado": "2026-11-17T07:24:47Z",
       "sha256": "c9e2f90a09855b0b81909fec62d47880ceb87a987b1736cdac1fa029cc18d786",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4925062&Asunto=4924999"
     },
     {
       "archivo": "fuentes/5d/5d2566e57b6fbf5bd93544ef156d100a605aecc8f46981c1da84d1de4f85bde9.html",
-      "consultado": "2026-11-16T16:46:00Z",
+      "consultado": "2026-11-17T07:24:51Z",
       "sha256": "5d2566e57b6fbf5bd93544ef156d100a605aecc8f46981c1da84d1de4f85bde9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4924999&Seguimiento=4925062"
     }
@@ -256,5 +256,91 @@
     "sil-4924999-2",
     "sil-4931422-1",
     "sil-4931422-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4924999",
+      "camara": "senado",
+      "fecha": "2025-09-10",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4924999",
+      "camara": "senado",
+      "fecha": "2025-09-10",
+      "result": "pass",
+      "texto": "Aprobado dispensar la lectura del dictamen con el objeto de someterlo a discusión y votación de inmediato."
+    },
+    {
+      "asunto": "4924999",
+      "camara": "senado",
+      "fecha": "2025-09-10",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4924999",
+      "camara": "senado",
+      "fecha": "2025-09-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Luis Donaldo Colosio Riojas (MC) al artículo 78 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por la Dip. Laura Cristina Márquez Alcalá (PAN)."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por la Dip. Abigail Arredondo Ramos (PRI)."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por el Dip. Erubiel Lorenzo Alonso Que (PRI)."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN)."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por la Dip. Ana Isabel González González (PRI)."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI)."
+    },
+    {
+      "asunto": "4931422",
+      "camara": "diputados",
+      "fecha": "2025-09-23",
+      "result": "fail",
+      "texto": "Se rechazó no se admite a discusión la propuesta de modificación presentada por la Dip. Ma. Lorena García Jimeno Alcocer (PAN)."
+    }
   ]
 }

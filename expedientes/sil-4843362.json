@@ -133,13 +133,13 @@
   "sources": [
     {
       "archivo": "fuentes/da/da571f42a3995151275072922f16907bd273496ba9a17356c2927ee4e180fc3d.html",
-      "consultado": "2026-11-16T16:02:47Z",
+      "consultado": "2026-11-17T06:40:05Z",
       "sha256": "da571f42a3995151275072922f16907bd273496ba9a17356c2927ee4e180fc3d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4843362&Asunto=4845540"
     },
     {
       "archivo": "fuentes/62/62f2bc2ce3b80bb14d8d75d46fcab2865384db2e762e5aa160ebe6e7be858453.html",
-      "consultado": "2026-11-16T16:02:51Z",
+      "consultado": "2026-11-17T06:40:08Z",
       "sha256": "62f2bc2ce3b80bb14d8d75d46fcab2865384db2e762e5aa160ebe6e7be858453",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4845540&Seguimiento=4843362"
     }
@@ -335,5 +335,189 @@
     "sil-4845540-1",
     "sil-4845540-2",
     "sil-4852412-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen y, ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen, en lo general."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva, para adicionar un párrafo al numeral 4 del Apartado C, consideraciones del dictamen, formulada por la Sen. María del Rocío Corona Nakamura (PVEM). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Marko Antonio Cortés Mendoza (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Mario Humberto Vázquez Robles (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. José Clemente Castañeda Hoeflich (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por la Sen. María de Jesús Díaz Marmolejo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 19, formulada por el Sen. Juan Antonio Martín del Campo Martín del Campo (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 19 y 40, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 40, formulada por la Sen. Cristina Ruíz Sandoval (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4845540",
+      "camara": "senado",
+      "fecha": "2025-02-26",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo Segundo Transitorio, formulada por la Sen. Mayuli Latifa Martínez Simón (PAN). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Monraz Ibarra Miguel Ángel (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Humberto Ambriz Delgadillo (PRI) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Fernando Torres Graciano (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Ivonne Ruiz Moreno (PRI) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Roberto Sosa Pichardo (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Enrique García López (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ofelia Socorro Jasso Nieto (PRI) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Eva María Vásquez Hernández (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Luis Gerardo Sánchez Sánchez (PRI) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María Josefina Gamboa Torales (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    },
+    {
+      "asunto": "4852412",
+      "camara": "diputados",
+      "fecha": "2025-03-11",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Federico Döring Casar (PAN) al dictamen que reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, en materia de fortalecimiento de la soberanía nacional."
+    }
   ]
 }

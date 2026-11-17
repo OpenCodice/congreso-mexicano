@@ -57,13 +57,13 @@
   "sources": [
     {
       "archivo": "fuentes/2b/2bc5922550b21019e9a806cae80c359a664caac8456a7ce73751076472afc32d.html",
-      "consultado": "2026-11-16T18:35:56Z",
+      "consultado": "2026-11-17T09:37:28Z",
       "sha256": "2bc5922550b21019e9a806cae80c359a664caac8456a7ce73751076472afc32d",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5104678&Asunto=5104672"
     },
     {
       "archivo": "fuentes/86/86f5294e00bde622ee85f5748ae03bb6f7168e30f1b67cfd6774278f3a7587a4.html",
-      "consultado": "2026-11-16T18:35:59Z",
+      "consultado": "2026-11-17T09:37:31Z",
       "sha256": "86f5294e00bde622ee85f5748ae03bb6f7168e30f1b67cfd6774278f3a7587a4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5104672&Seguimiento=5104678"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 17/06/2026",
   "votaciones": [
     "sil-5104672-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5104672",
+      "camara": "permanente",
+      "fecha": "2026-06-17",
+      "result": "pass",
+      "texto": "Aprobado autorizar integrar el asunto en el Orden del Día."
+    }
   ]
 }

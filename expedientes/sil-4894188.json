@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/78/78b38d962f01b3548a548aacccdaa7f705cf589acebd892e28b0296ab29281b4.html",
-      "consultado": "2026-11-16T16:29:13Z",
+      "consultado": "2026-11-17T07:07:02Z",
       "sha256": "78b38d962f01b3548a548aacccdaa7f705cf589acebd892e28b0296ab29281b4",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4894188&Asunto=4894343"
     },
     {
       "archivo": "fuentes/77/77cc594b46db7dd3538c3e2b81932bcbca0321ba98cc69b4e152540bc309a48f.html",
-      "consultado": "2026-11-16T16:29:17Z",
+      "consultado": "2026-11-17T07:07:05Z",
       "sha256": "77cc594b46db7dd3538c3e2b81932bcbca0321ba98cc69b4e152540bc309a48f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4894343&Seguimiento=4894188"
     }
@@ -128,5 +128,63 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 30/04/2025",
   "votaciones": [
     "sil-4894343-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida, la modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado admitir la propuesta de modificación presentada por el Dip. Marcelo de Jesús Torres Cofiño (PAN) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Ariana del Rocío Rejón Lara (PRI) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado someter a discusión la propuesta de modificación presentada por el Dip. Raymundo Vázquez Conchas (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutida, la modificación presentada por el Dip. Raymundo Vázquez Conchas (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado mitir la propuesta de modificación presentada por el Dip. Raymundo Vázquez Conchas (Morena) al dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    },
+    {
+      "asunto": "4894343",
+      "camara": "diputados",
+      "fecha": "2025-04-29",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, y en lo particular con las modificaciones aceptadas por la Asamblea, el dictamen que reforma y adiciona diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo en hoteles, restaurantes, bares, empresas deportivas, de entretenimiento, en estaciones de servicio de combustibles y otros establecimientos análogos."
+    }
   ]
 }

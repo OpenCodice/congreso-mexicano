@@ -225,13 +225,13 @@
   "sources": [
     {
       "archivo": "fuentes/29/29bc336ec9b2961c733ca704720e9328aae52ce670656aaf574ec5a21866e985.html",
-      "consultado": "2026-11-16T18:39:35Z",
+      "consultado": "2026-11-17T09:41:18Z",
       "sha256": "29bc336ec9b2961c733ca704720e9328aae52ce670656aaf574ec5a21866e985",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5147520&Asunto=5146382"
     },
     {
       "archivo": "fuentes/f5/f5689ed624da1cf136abab37a1a6db68eb8eb8b517aa7e559cb2e571edefd5ac.html",
-      "consultado": "2026-11-16T18:39:39Z",
+      "consultado": "2026-11-17T09:41:21Z",
       "sha256": "f5689ed624da1cf136abab37a1a6db68eb8eb8b517aa7e559cb2e571edefd5ac",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5146382&Seguimiento=5147520"
     }
@@ -294,5 +294,56 @@
   "votaciones": [
     "sil-5146382-1",
     "sil-5146382-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "pass",
+      "texto": "Aprobado para dispensar su lectura."
+    },
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido el dictamen."
+    },
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Imelda Margarita Sanmiguel Sánchez (PAN)."
+    },
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva del Sen. Francisco Javier Ramírez Acuña (PAN)."
+    },
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva de la Sen. Alma Carolina Viggiano Austria (PRI)."
+    },
+    {
+      "asunto": "5146382",
+      "camara": "senado",
+      "fecha": "2026-09-29",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión la reserva de los senadores Moisés Ignacio Mier Velazco (Morena), Higinio Martínez Miranda (Morena) y la senadora Verónica Noemí Camino Farjat (Morena)."
+    }
   ]
 }

@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/a8/a805842ca58eb738e3c364fe7d7dddda177a66b8dcc08c41e579db58d649aebe.html",
-      "consultado": "2026-11-16T15:49:14Z",
+      "consultado": "2026-11-17T06:23:26Z",
       "sha256": "a805842ca58eb738e3c364fe7d7dddda177a66b8dcc08c41e579db58d649aebe",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4817559&Asunto=4818187"
     },
     {
       "archivo": "fuentes/95/957341f239f1b000287ca5daf58edc8fd6cb9184f9539e809ffa38001b4dc332.html",
-      "consultado": "2026-11-16T15:49:18Z",
+      "consultado": "2026-11-17T06:23:29Z",
       "sha256": "957341f239f1b000287ca5daf58edc8fd6cb9184f9539e809ffa38001b4dc332",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4818187&Seguimiento=4817559"
     }
@@ -212,5 +212,49 @@
     "sil-4818187-2",
     "sil-4820834-1",
     "sil-4820834-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4818187",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4818187",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4818187",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4818187",
+      "camara": "senado",
+      "fecha": "2024-12-05",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva al artículo 13, formulada por el Sen. Néstor Camarillo Medina (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820834",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por la Dip. Ofelia Socorro Jasso Nieto (PRI). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4820834",
+      "camara": "diputados",
+      "fecha": "2024-12-10",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva formulada por el Dip. Luis Gerardo Sánchez Sánchez (PRI). En consecuencia, el dictamen permanece en sus términos."
+    }
   ]
 }

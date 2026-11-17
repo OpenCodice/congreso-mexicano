@@ -53,13 +53,13 @@
   "sources": [
     {
       "archivo": "fuentes/9a/9a16d0d4f6930f51835c506ab12cbfbea7760698ba35813e8144a208f26bd254.html",
-      "consultado": "2026-11-16T17:30:03Z",
+      "consultado": "2026-11-17T08:20:44Z",
       "sha256": "9a16d0d4f6930f51835c506ab12cbfbea7760698ba35813e8144a208f26bd254",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990651&Asunto=4989538"
     },
     {
       "archivo": "fuentes/f8/f8fe8b6b89e4b3acf689e024d42dccbe6478a04706c271c29fbb64273408f8e9.html",
-      "consultado": "2026-11-16T17:30:07Z",
+      "consultado": "2026-11-17T08:20:47Z",
       "sha256": "f8fe8b6b89e4b3acf689e024d42dccbe6478a04706c271c29fbb64273408f8e9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989538&Seguimiento=4990651"
     }
@@ -92,5 +92,14 @@
   "ultimo_estatus": "Toma de protesta Aprobado 02/12/2025",
   "votaciones": [
     "sil-4989538-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4989538",
+      "camara": "diputados",
+      "fecha": "2025-12-02",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general y en lo particular, el dictamen."
+    }
   ]
 }

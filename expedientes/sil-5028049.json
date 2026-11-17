@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/1e/1e2b5c5c337829efda702f7fdc09b0371745b6d4914cec38b6eb2e2f15fb3e77.html",
-      "consultado": "2026-11-16T17:51:39Z",
+      "consultado": "2026-11-17T08:41:55Z",
       "sha256": "1e2b5c5c337829efda702f7fdc09b0371745b6d4914cec38b6eb2e2f15fb3e77",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028049&Asunto=5029764"
     },
     {
       "archivo": "fuentes/d7/d7703d73bd8054f358222c960ba90c2d869293620f61bb4739724e80ef9056ae.html",
-      "consultado": "2026-11-16T17:51:43Z",
+      "consultado": "2026-11-17T08:41:58Z",
       "sha256": "d7703d73bd8054f358222c960ba90c2d869293620f61bb4739724e80ef9056ae",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5029764&Seguimiento=5028049"
     }
@@ -112,5 +112,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
   "votaciones": [
     "sil-5029764-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5029764",
+      "camara": "senado",
+      "fecha": "2026-03-04",
+      "result": "pass",
+      "texto": "Aprobado dispensar su segunda lectura y ponerse a discusión de inmediato."
+    }
   ]
 }

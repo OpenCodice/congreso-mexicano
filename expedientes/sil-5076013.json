@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/fd/fd752fccfc844f90389a8dee5a869c86387a469eac6d10f9997133c0cc450647.html",
-      "consultado": "2026-11-16T18:23:47Z",
+      "consultado": "2026-11-17T09:23:13Z",
       "sha256": "fd752fccfc844f90389a8dee5a869c86387a469eac6d10f9997133c0cc450647",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5076013&Asunto=5074747"
     },
     {
       "archivo": "fuentes/e1/e108b6dac1a395793a5c59583e90bcc92a14c0a59794a9ac53533914b2c64b0f.html",
-      "consultado": "2026-11-16T18:23:51Z",
+      "consultado": "2026-11-17T09:23:17Z",
       "sha256": "e108b6dac1a395793a5c59583e90bcc92a14c0a59794a9ac53533914b2c64b0f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5074747&Seguimiento=5076013"
     }
@@ -116,5 +116,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 28/04/2026",
   "votaciones": [
     "sil-5074747-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5074747",
+      "camara": "diputados",
+      "fecha": "2026-04-21",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma y adiciona diversas disposiciones de la Ley General de Turismo, en materia de turismo accesible."
+    }
   ]
 }

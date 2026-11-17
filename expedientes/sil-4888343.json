@@ -81,13 +81,13 @@
   "sources": [
     {
       "archivo": "fuentes/de/de3c1488656e7822acafa23a6056230c89dc958cd123c0ce5ac6540e5d1f1833.html",
-      "consultado": "2026-11-16T16:22:50Z",
+      "consultado": "2026-11-17T07:01:09Z",
       "sha256": "de3c1488656e7822acafa23a6056230c89dc958cd123c0ce5ac6540e5d1f1833",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4888343&Asunto=4909289"
     },
     {
       "archivo": "fuentes/97/9719e94571069e29a20d6f61a52b7ea847c6ca56a608b7ac4e235409d55c738f.html",
-      "consultado": "2026-11-16T16:22:54Z",
+      "consultado": "2026-11-17T07:01:12Z",
       "sha256": "9719e94571069e29a20d6f61a52b7ea847c6ca56a608b7ac4e235409d55c738f",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4909289&Seguimiento=4888343"
     }
@@ -226,5 +226,182 @@
   "votaciones": [
     "sil-4909289-1",
     "sil-4909289-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado dispensar el requisito de veinticuatro horas de publicación previas a la discusión y votación del dictamen."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado suficientemente discutido en lo general."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ángel García Yáñez (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Waldo Fernández González (PVEM) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Claudia Edith Anaya Mota (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Amalia Dolores García Medina (MC) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Tabita Ortiz Hernández (MC) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Erik Iván Jaimes Archundia (Sin Partido) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Ricardo Anaya Cortés (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Laura Esquivel Torres (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Agustín Dorantes Lámbarri (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Gustavo Sánchez Vásquez (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Mely Romero Celis (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Cristina Ruíz Sandoval (PRI) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Sandra Simey Olvera Bautista (Morena) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. María Guadalupe Murguía Gutiérrez (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión las reservas presentadas por el Sen. Francisco Ricardo Sheffield Padilla (Morena) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado las reservas presentadas por el Sen. Francisco Ricardo Sheffield Padilla (Morena) a los artículos 185 fracción XII y 273 de la Ley en Materia de Telecomunicaciones y Radiodifusión. La votación de los artículos reservados se realizará con las modificaciones admitidas por la asamblea."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Lizeth Sánchez García (PT) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Enrique Vargas del Villar (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por la Sen. Imelda Margarita Sanmiguel Sánchez (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Mario Humberto Vázquez Robles (PAN) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión. Se desechan y se informa que los artículos reservados quedan en sus términos."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado admitir a discusión las reservas presentadas por el Sen. Javier Corral Jurado (Morena) al dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión."
+    },
+    {
+      "asunto": "4909289",
+      "camara": "senado",
+      "fecha": "2025-06-28",
+      "result": "pass",
+      "texto": "Aprobado las reservas presentadas por el Sen. Javier Corral Jurado (Morena) a los artículos 10 fracción 53 y Noveno transitorio del dictamen que expide la Ley en Materia de Telecomunicaciones y Radiodifusión."
+    }
   ]
 }

@@ -109,13 +109,13 @@
   "sources": [
     {
       "archivo": "fuentes/58/5887b829065c9f3c144f497eb8fcfc658cfab3629c00ef0f312a1544183310fc.html",
-      "consultado": "2026-11-16T15:53:12Z",
+      "consultado": "2026-11-17T06:29:25Z",
       "sha256": "5887b829065c9f3c144f497eb8fcfc658cfab3629c00ef0f312a1544183310fc",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4825070&Asunto=4825838"
     },
     {
       "archivo": "fuentes/3c/3c6935d4fdaa87f57607367f74eef317936d9c2907ab1f022f32d236bc05466a.html",
-      "consultado": "2026-11-16T15:53:16Z",
+      "consultado": "2026-11-17T06:29:28Z",
       "sha256": "3c6935d4fdaa87f57607367f74eef317936d9c2907ab1f022f32d236bc05466a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4825838&Seguimiento=4825070"
     }
@@ -228,5 +228,77 @@
     "sil-4825838-2",
     "sil-4839841-1",
     "sil-4839841-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4825838",
+      "camara": "senado",
+      "fecha": "2024-12-13",
+      "result": "pass",
+      "texto": "Aprobado dispensar la segunda lectura del dictamen y ponerlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4825838",
+      "camara": "senado",
+      "fecha": "2024-12-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la moción suspensiva presentada por el Sen. Ángel García Yáñez (PRI). Se desecha la moción."
+    },
+    {
+      "asunto": "4825838",
+      "camara": "senado",
+      "fecha": "2024-12-13",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido el dictamen en lo general."
+    },
+    {
+      "asunto": "4825838",
+      "camara": "senado",
+      "fecha": "2024-12-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 217 y 223, formulada por la Sen. Amalia Dolores García Medina (MC). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4825838",
+      "camara": "senado",
+      "fecha": "2024-12-13",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión la reserva a los artículos 1, 7, 15, 27, 60, 61, 73, 97, 120, 133, 134, 137, 152, 164, 165, 166, 169, 170, 173, 211, 217, 223, 249 y 255, formulada por la Sen. María Martina Kantún Can (Morena). En consecuencia, el dictamen permanece en sus términos."
+    },
+    {
+      "asunto": "4839841",
+      "camara": "diputados",
+      "fecha": "2025-02-19",
+      "result": "fail",
+      "texto": "Se rechazó considerar suficientemente discutido, en lo general, el dictamen que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "4839841",
+      "camara": "diputados",
+      "fecha": "2025-02-19",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general, el dictamen que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "4839841",
+      "camara": "diputados",
+      "fecha": "2025-02-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. María de Fátima García León (MC) al dictamen que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "4839841",
+      "camara": "diputados",
+      "fecha": "2025-02-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por la Dip. Laura Hernández García (MC) al dictamen que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "asunto": "4839841",
+      "camara": "diputados",
+      "fecha": "2025-02-19",
+      "result": "fail",
+      "texto": "Se rechazó someter a discusión la propuesta de modificación presentada por el Dip. Gildardo Pérez Gabino (MC) al dictamen que reforma y deroga diversas disposiciones de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    }
   ]
 }

@@ -45,13 +45,13 @@
   "sources": [
     {
       "archivo": "fuentes/7a/7aee1d38b856de079baf2edeb5ed22dd64bde32f6806a7841f146b73379e33c3.html",
-      "consultado": "2026-11-16T17:14:55Z",
+      "consultado": "2026-11-17T08:05:28Z",
       "sha256": "7aee1d38b856de079baf2edeb5ed22dd64bde32f6806a7841f146b73379e33c3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4975305&Asunto=4974204"
     },
     {
       "archivo": "fuentes/b6/b6b390d97b96ee7d48e36e309ad2c42ae3058ffb36dbf67a6fb8446ae7ceadfc.html",
-      "consultado": "2026-11-16T17:14:59Z",
+      "consultado": "2026-11-17T08:05:31Z",
       "sha256": "b6b390d97b96ee7d48e36e309ad2c42ae3058ffb36dbf67a6fb8446ae7ceadfc",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4974204&Seguimiento=4975305"
     }
@@ -84,5 +84,21 @@
   "ultimo_estatus": "Turnado al Ejecutivo Aprobado 12/11/2025",
   "votaciones": [
     "sil-4974204-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4974204",
+      "camara": "senado",
+      "fecha": "2025-11-12",
+      "result": "pass",
+      "texto": "Aprobado dispensar el plazo de 24 horas de publicación anticipada."
+    },
+    {
+      "asunto": "4974204",
+      "camara": "senado",
+      "fecha": "2025-11-12",
+      "result": "pass",
+      "texto": "Aprobado únicamente a la parte resolutiva."
+    }
   ]
 }

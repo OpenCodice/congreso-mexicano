@@ -73,13 +73,13 @@
   "sources": [
     {
       "archivo": "fuentes/50/50a9794adfa64fd93bf0c84c180388e928aeba7069e94b6f5b5c03012da0db17.html",
-      "consultado": "2026-11-16T17:05:46Z",
+      "consultado": "2026-11-17T07:56:38Z",
       "sha256": "50a9794adfa64fd93bf0c84c180388e928aeba7069e94b6f5b5c03012da0db17",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4961529&Asunto=4964141"
     },
     {
       "archivo": "fuentes/cc/cc6b5a1b41e639ba9762f0b4c01f3e51e1dc245363b83cd78ef7a3b60adca803.html",
-      "consultado": "2026-11-16T17:05:50Z",
+      "consultado": "2026-11-17T07:56:42Z",
       "sha256": "cc6b5a1b41e639ba9762f0b4c01f3e51e1dc245363b83cd78ef7a3b60adca803",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4964141&Seguimiento=4961529"
     }
@@ -126,5 +126,28 @@
   "votaciones": [
     "sil-4964141-1",
     "sil-4964141-2"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4964141",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "pass",
+      "texto": "Aprobado para incorporarlo al orden del día."
+    },
+    {
+      "asunto": "4964141",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    },
+    {
+      "asunto": "4964141",
+      "camara": "senado",
+      "fecha": "2025-10-29",
+      "result": "fail",
+      "texto": "Se rechazó admitir a discusión las reservas presentadas por el Sen. Jorge Carlos Ramírez Marín (PVEM)"
+    }
   ]
 }

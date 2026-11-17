@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/6f/6fd5d9c34278e9c6666241c2d17abbb3bbc88164432fc4374bed9f5792b4e183.html",
-      "consultado": "2026-11-16T17:11:29Z",
+      "consultado": "2026-11-17T08:02:30Z",
       "sha256": "6fd5d9c34278e9c6666241c2d17abbb3bbc88164432fc4374bed9f5792b4e183",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4972476&Asunto=4971449"
     },
     {
       "archivo": "fuentes/76/76e50ddb7bc4a6bccf92959d7977e9c8e9293ccf83589594020f62f3bbf1312b.html",
-      "consultado": "2026-11-16T17:11:33Z",
+      "consultado": "2026-11-17T08:02:33Z",
       "sha256": "76e50ddb7bc4a6bccf92959d7977e9c8e9293ccf83589594020f62f3bbf1312b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4971449&Seguimiento=4972476"
     }
@@ -104,5 +104,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 19/11/2025",
   "votaciones": [
     "sil-4971449-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "4971449",
+      "camara": "diputados",
+      "fecha": "2025-11-11",
+      "result": "pass",
+      "texto": "Aprobado considerar suficientemente discutido, en lo general y en lo particular, el dictamen que reforma el artículo 18 de la Ley General de Turismo."
+    }
   ]
 }

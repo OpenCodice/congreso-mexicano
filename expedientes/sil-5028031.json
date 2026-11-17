@@ -65,13 +65,13 @@
   "sources": [
     {
       "archivo": "fuentes/52/5260f0ea45b80bd6bb8a15fd97ca35c55606703f1397a3ea1d2538f163e83969.html",
-      "consultado": "2026-11-16T17:49:01Z",
+      "consultado": "2026-11-17T08:39:31Z",
       "sha256": "5260f0ea45b80bd6bb8a15fd97ca35c55606703f1397a3ea1d2538f163e83969",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5028031&Asunto=5026691"
     },
     {
       "archivo": "fuentes/48/48c195d930795a3d7ee8e540805dcfda1742a1b919e374a55bef9cc3b430ecba.html",
-      "consultado": "2026-11-16T17:49:04Z",
+      "consultado": "2026-11-17T08:39:34Z",
       "sha256": "48c195d930795a3d7ee8e540805dcfda1742a1b919e374a55bef9cc3b430ecba",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5026691&Seguimiento=5028031"
     }
@@ -100,5 +100,14 @@
   "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 10/03/2026",
   "votaciones": [
     "sil-5026691-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5026691",
+      "camara": "diputados",
+      "fecha": "2026-03-03",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular, el dictamen que reforma la fracción III del artículo 10 de la Ley de Educación Naval."
+    }
   ]
 }
