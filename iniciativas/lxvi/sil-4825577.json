@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversas disposiciones del artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2024-12-13",
+    "estado": "De primera lectura en origen",
+    "fecha": "2026-11-17",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 13-DIC-2024"
+    "texto": "De primera lectura en origen el 17-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2024-12-13",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "4826971",
+  "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
-      "consultado": "2026-11-17T07:54:01Z",
+      "archivo": "fuentes/18/180bf4bfa3618eb3a6355963b34d74fab65be8ca60f9f542955e781f3dbfa387.html.gz",
+      "consultado": "2026-11-18T12:16:30Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "sha256": "180bf4bfa3618eb3a6355963b34d74fab65be8ca60f9f542955e781f3dbfa387",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona la fracción XV al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2025-10-15",
+    "estado": "De primera lectura en origen",
+    "fecha": "2026-11-17",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 15-OCT-2025"
+    "texto": "De primera lectura en origen el 17-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-10-15",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "5002945",
+  "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
-      "consultado": "2026-11-17T07:56:01Z",
+      "archivo": "fuentes/02/02ec843521381a0a0c5e71a18fd527fd850357be0606423c8ec91ef1e047a982.html.gz",
+      "consultado": "2026-11-18T12:18:06Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "sha256": "02ec843521381a0a0c5e71a18fd527fd850357be0606423c8ec91ef1e047a982",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -118,8 +118,8 @@
   "seguimiento": "5195982",
   "sources": [
     {
-      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
-      "consultado": "2026-11-17T08:07:54Z",
+      "archivo": "fuentes/b7/b754f9a222dda30adf1b10b64af709491d37e16ebdd6012705d18b8ed2956697.html.gz",
+      "consultado": "2026-11-18T12:33:42Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -138,14 +138,14 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "sha256": "b754f9a222dda30adf1b10b64af709491d37e16ebdd6012705d18b8ed2956697",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
   "subclasificacion": "Exhorto al Poder Ejecutivo",
   "temas": [
-    "Seguridad Pública",
-    "Comunicaciones y Transportes"
+    "Comunicaciones y Transportes",
+    "Seguridad Pública"
   ],
   "tipo": "Proposición con punto de acuerdo"
 }

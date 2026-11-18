@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma, adiciona y deroga diversas disposiciones al Código de Comercio.",
   "estatus": {
-    "estado": "De primera lectura en origen",
-    "fecha": "2026-11-03",
+    "estado": "De primera lectura en origen el 03-NOV-2026 De primera lectura en origen",
+    "fecha": "2026-11-17",
     "resultado": "pendiente",
-    "texto": "De primera lectura en origen el 03-NOV-2026"
+    "texto": "De primera lectura en origen el 03-NOV-2026 De primera lectura en origen el 17-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-11-19",
@@ -41,8 +41,8 @@
   "seguimiento": "5187428",
   "sources": [
     {
-      "archivo": "fuentes/42/42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e.html.gz",
-      "consultado": "2026-11-17T07:56:11Z",
+      "archivo": "fuentes/22/22b379a97acc48670c43d39f2d27b0fb096097d8a74f03e8444f819e640091f0.html.gz",
+      "consultado": "2026-11-18T12:18:12Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "42ab50b073a96f4b646134580004c6c495ccb8ee5ff40fa80f1e689aa5a1d38e",
+      "sha256": "22b379a97acc48670c43d39f2d27b0fb096097d8a74f03e8444f819e640091f0",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
