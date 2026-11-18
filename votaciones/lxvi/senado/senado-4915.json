@@ -23,18 +23,6 @@
   "expediente_id": "sil-4861106",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4915",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/9fec6e217537957d205e9dd37d8f99b2ab3478f76064d922750a43bfd21e7a34.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Seguridad Pública y de Estudios Legislativos, el que contiene minuta con proyecto de decreto por el que se expide la Ley General del Sistema Nacional de Seguridad Pública.",

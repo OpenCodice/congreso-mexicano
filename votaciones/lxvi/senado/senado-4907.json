@@ -23,18 +23,6 @@
   "expediente_id": "sil-4909273",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4907",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/6a89b4962b1dd221dcec950816a5b961c360ef1604ee5bf1d6b73bd68098a7c3.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Gobernación y de Estudios Legislativos, el que contiene iniciativa con proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en materia de desaparición forzada de personas, desaparición cometida por particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas.",

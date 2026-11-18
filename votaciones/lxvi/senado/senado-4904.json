@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4904",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/fe235561f3e8e6b23b77644c292d314607b6bae17d5133aba902a8f6d0a0b2b2.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Bienestar y de Estudios Legislativos, Primera, el que contiene proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental.",

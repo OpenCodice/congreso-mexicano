@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4910",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/4c6c7279cda5bceb44a0ccf4a598a4db453f8705189b6fc842d5b5b3579be9c2.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Economía y de Estudios Legislativos, el que contiene proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.",

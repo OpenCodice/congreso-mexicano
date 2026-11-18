@@ -23,18 +23,6 @@
   "expediente_id": "sil-4890578",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4882",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/3fb23d6423d6725c0e0062d90d97d7059d0b6617ab3f10e5379dda9fb7420679.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Gobernación, de Economía; y de Estudios Legislativos, el que contiene proyecto de decreto por el que se expide la Ley Nacional para Eliminar Trámites Burocráticos.",

@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4905",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/d9bbac66529b1f9d59d4e786a37b9952060646a341427e55b3171e13a6bb0a5d.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Reglamentos y Prácticas Parlamentarias; de Anticorrupción y Transparencia; y de Estudios Legislativos, el que contiene proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",

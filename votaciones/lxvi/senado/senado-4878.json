@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4878",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/48a5f78226d003b18f2e0285b2ffd96760bef3732ac8735fe0581e0e340c8c8d.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Gobernación; Para la Igualdad de Género; y de Estudios Legislativos, Primera, el que contiene proyecto de decreto por el que se reforma el artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, en materia de reconocimiento a las mujeres que han transformado nuestra patria.",

@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4917",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/f916e19592ea3e0ecef633baf58451f5ab14fff3d832e1ed849da81b17a14047.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Seguridad Pública y de Estudios Legislativos, el que contiene minuta con proyecto de decreto por el que se expide la Ley del Sistema Nacional de Investigación e Inteligencia, en Materia de Seguridad Pública.",

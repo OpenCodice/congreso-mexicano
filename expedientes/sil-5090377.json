@@ -64,15 +64,15 @@
   "seguimiento": "5090377",
   "sources": [
     {
-      "archivo": "fuentes/48/487bfefcdc7e86f45507507cbf7c7257ad1b07e19b27627b2f908e75979ab99d.html",
-      "consultado": "2026-11-17T09:27:01Z",
-      "sha256": "487bfefcdc7e86f45507507cbf7c7257ad1b07e19b27627b2f908e75979ab99d",
+      "archivo": "fuentes/52/52c938b049ed382c19d608e7cac31cf4ba48c678e5e5f0ecb0f2968eb82e0822.html",
+      "consultado": "2026-11-18T10:15:15Z",
+      "sha256": "52c938b049ed382c19d608e7cac31cf4ba48c678e5e5f0ecb0f2968eb82e0822",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5090377&Asunto=5088446"
     },
     {
-      "archivo": "fuentes/b1/b198cf4df500a3beeec84bf19ebad2cdae54d82dc291f51a6b06e53b888b613b.html",
-      "consultado": "2026-11-17T09:27:04Z",
-      "sha256": "b198cf4df500a3beeec84bf19ebad2cdae54d82dc291f51a6b06e53b888b613b",
+      "archivo": "fuentes/a7/a74af2085641936c5da13665b5fb3d0ab101410cff5469841050b7480d463e82.html",
+      "consultado": "2026-11-18T10:15:21Z",
+      "sha256": "a74af2085641936c5da13665b5fb3d0ab101410cff5469841050b7480d463e82",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5088446&Seguimiento=5090377"
     }
   ],

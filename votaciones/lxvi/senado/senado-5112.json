@@ -23,18 +23,6 @@
   "expediente_id": "sil-5097525",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-5112",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/3273b29f3184fd71880ff2958ad5f6d8cdf60b2725d2ba523b88040e58b27862.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Puntos Constitucionales y de Estudios Legislativos Primera, con proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.",

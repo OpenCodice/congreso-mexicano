@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4881",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/e1104096f0246ab1e9ce323c512c2c523d50f6471f1ff7a57c295c5df6e7b200.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Hacienda y Crédito Público; y de Estudios Legislativos, Primera, el que contiene proyecto de decreto por el que se reforman y adicionan diversas disposiciones de la Ley de los Impuestos Generales de Importación y Exportación.",
