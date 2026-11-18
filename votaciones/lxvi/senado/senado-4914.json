@@ -23,18 +23,6 @@
   "expediente_id": "sil-4907135",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4914",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/977a0631c9818917a686bdcd1895af1ee1552c1a445ef221d1c4878c18e060ab.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Guardia Nacional y Estudios Legislativos, Primera, el que contiene minuta con proyecto de decreto por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, del Código de Justicia Militar y del Código Militar de Procedimientos Penales.",

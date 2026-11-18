@@ -23,18 +23,6 @@
   "expediente_id": "sil-4907052",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4900",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/d7c3bdf11d3168378798e735bda7929b9a5122943da4b8abd65d02dc2473abbc.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Justicia y de Estudios Legislativos, el que contiene proyecto de decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y se reforman los artículos 11 bis y 400 bis del Código Penal Federal.",

@@ -23,18 +23,6 @@
   "expediente_id": "sil-5097530",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-5113",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/099a8957c993310b39e57ccd75429f953bc51ff9d820171c1dd6133fbb25893f.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Puntos Constitucionales y de Estudios Legislativos, Primera, el que contiene minuta con proyecto de decreto por el que se adiciona un inciso a la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para introducir una nueva causal de nulidad de elecciones por intervención extranjera.",

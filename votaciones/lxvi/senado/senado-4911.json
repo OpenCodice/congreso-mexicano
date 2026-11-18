@@ -31,18 +31,6 @@
   "expediente_id": "sil-4888343",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4911",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/a68d5d1b4d35b1e3f029c391b75f85851ccc2567cf9334369032b97c6d428671.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Radio, Televisión y Cinematografía; de Comunicaciones y Transportes; y de Estudios Legislativos, el que contiene proyecto de decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión.",

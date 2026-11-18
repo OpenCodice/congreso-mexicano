@@ -91,21 +91,21 @@
   "result": "pass",
   "sources": [
     {
-      "archivo": "fuentes/ad/ad6ab7428e364554566def8e86a3ae1c6cd28710c1352163e3f6969eae9ff691.html",
-      "consultado": "2026-11-17T07:48:51Z",
-      "sha256": "ad6ab7428e364554566def8e86a3ae1c6cd28710c1352163e3f6969eae9ff691",
+      "archivo": "fuentes/75/752984a1659aeed4ded26b0353456cbffbcbd3e1012ad136d2ebd7f1cccaf50b.html",
+      "consultado": "2026-11-18T08:14:03Z",
+      "sha256": "752984a1659aeed4ded26b0353456cbffbcbd3e1012ad136d2ebd7f1cccaf50b",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=4776267"
     },
     {
-      "archivo": "fuentes/cf/cf2a5ba884e476513fc8fb983c1f8605861456594f52766d8d1e57112ec6f1c5.html",
-      "consultado": "2026-11-17T07:48:59Z",
-      "sha256": "cf2a5ba884e476513fc8fb983c1f8605861456594f52766d8d1e57112ec6f1c5",
+      "archivo": "fuentes/83/8307775c51a93f4f7bf6cebddd62fdaad6e5a305e8c1fb238ec7a3fe94fe6c0b.html",
+      "consultado": "2026-11-18T08:14:13Z",
+      "sha256": "8307775c51a93f4f7bf6cebddd62fdaad6e5a305e8c1fb238ec7a3fe94fe6c0b",
       "url": "http://sil.gobernacion.gob.mx/ActividadLegislativa/Votacion/DetalleVotacion.php?SID=&ClaveAsunto=4776267"
     },
     {
-      "archivo": "fuentes/2f/2f5ab0d821b4ca757ccd3bad5f29c1c2291e1a1b7d13a0e8b38dece2de145316.html",
-      "consultado": "2026-11-17T07:49:23Z",
-      "sha256": "2f5ab0d821b4ca757ccd3bad5f29c1c2291e1a1b7d13a0e8b38dece2de145316",
+      "archivo": "fuentes/0a/0af2f139a996ad885e4f709d1380c57fe6608c12ee32d32f2e9347377a14bcd9.html",
+      "consultado": "2026-11-18T08:14:36Z",
+      "sha256": "0af2f139a996ad885e4f709d1380c57fe6608c12ee32d32f2e9347377a14bcd9",
       "url": "http://sil.gobernacion.gob.mx/ActividadLegislativa/Votacion/LegisladoresVotacionAsunto.php?SID=&ClaveAsunto=4776267&ClaveTramite=4776852"
     }
   ],

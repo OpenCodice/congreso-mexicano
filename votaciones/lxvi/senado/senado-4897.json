@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4897",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/3d76f385ee07a2324a364167ecc7c95b6166a451aef8ba3e7577e5a7dbce9680.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de la Comisión de Relaciones Exteriores, el que contiene proyecto de decreto por el que se aprueba el Acuerdo en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar relativo a la Conservación y el Uso Sostenible de la Diversidad Biológica Marina de las Zonas Situadas fuera de la Jurisdicción Nacional, adoptado en Nueva York el diecinueve de junio de dos mil veintitrés.",

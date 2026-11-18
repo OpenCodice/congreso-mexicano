@@ -1,0 +1,762 @@
+{
+  "asunto": null,
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 67
+    },
+    {
+      "option": "no",
+      "value": 20
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "expediente_id": null,
+  "fecha_fuente": "fecha de la sesión en el sitio del Senado",
+  "id": "senado-4820",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "denominacion": "Dictamen de las Comisiones Unidas de Gobernación y de Estudios Legislativos, Primera, con opinión de la Comisión de Anticorrupción y Transparencia, el que contiene proyecto de decreto por el que se expide la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y se reforman diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+    "text": "VOTACIÓN EN LO PARTICULAR DE LOS ARTÍCULOS 2, 34, 38, 112, 160, 184, 185, 186, 187 Y 188 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; Y QUINTO, OCTAVO Y DÉCIMO TERCERO TRANSITORIOS DEL PROYECTO DE DECRETO EN LOS TÉRMINOS DEL DICTAMEN. ARTÍCULOS 39 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; Y 3, 16, 64, 95 Y LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO OCTAVO DE LA LEY GENERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS, CON LAS MODIFICACIONES ACEPTADAS."
+  },
+  "organization_id": "senado",
+  "result": null,
+  "sources": [
+    {
+      "archivo": "fuentes/97/976e30fceb8db812bca747f62b220b7ffb568b0471cb916144733ca1a75a2190.html",
+      "consultado": "2026-11-18T11:52:04Z",
+      "sha256": "976e30fceb8db812bca747f62b220b7ffb568b0471cb916144733ca1a75a2190",
+      "url": "https://www.senado.gob.mx/66/votacion/4820"
+    },
+    {
+      "archivo": "fuentes/97/97fe01bdf1f5ad2a18a8aba47e0a310a5cd41f14f32007dfa380434e9f95ef2c.html",
+      "consultado": "2026-11-18T11:51:03Z",
+      "sha256": "97fe01bdf1f5ad2a18a8aba47e0a310a5cd41f14f32007dfa380434e9f95ef2c",
+      "url": "https://www.senado.gob.mx/66/app/votaciones/functions/viewTableVot.php?action=ajax&cell=1&order=DESC&votacion=4820&q="
+    }
+  ],
+  "start_date": "2025-03-04",
+  "votes": [
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229132",
+      "option": "yes",
+      "senado_id": "1579",
+      "voter_id": "heriberto-marcelo-aguilar-castillo"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229162",
+      "option": "yes",
+      "senado_id": "1587",
+      "voter_id": "jose-antonio-cruz-alvarez-lima"
+    },
+    {
+      "group_id": "partido-pt",
+      "grupo_fuente": "PT",
+      "mandato_id": "sil-9229236",
+      "option": "yes",
+      "senado_id": "1696",
+      "voter_id": "alberto-anaya-gutierrez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229137",
+      "option": "yes",
+      "senado_id": "1676",
+      "voter_id": "alejandra-berenice-arias-trevilla"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229000",
+      "option": "yes",
+      "senado_id": "1548",
+      "voter_id": "reyna-celeste-ascencio-ortega"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228726",
+      "option": "yes",
+      "senado_id": "1507",
+      "voter_id": "armando-ayala-robles"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229169",
+      "option": "yes",
+      "senado_id": "1685",
+      "voter_id": "raquel-bonilla-herrera"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9229024",
+      "option": "yes",
+      "senado_id": "1554",
+      "voter_id": "jasmine-maria-bugarin-rodriguez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229178",
+      "option": "yes",
+      "senado_id": "1593",
+      "voter_id": "veronica-noemi-camino-farjat"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229138",
+      "option": "yes",
+      "senado_id": "1582",
+      "voter_id": "oscar-canton-zetina"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229270",
+      "option": "yes",
+      "senado_id": "1731",
+      "voter_id": "laura-itzel-castillo-juarez"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9228913",
+      "option": "yes",
+      "senado_id": "1617",
+      "voter_id": "karen-castrejon-trujillo"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229124",
+      "option": "yes",
+      "senado_id": "1575",
+      "voter_id": "imelda-castro-castro"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229286",
+      "option": "yes",
+      "senado_id": "1711",
+      "voter_id": "alfonso-cepeda-salas"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228898",
+      "option": "yes",
+      "senado_id": "1518",
+      "voter_id": "andrea-chavez-trevino"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229263",
+      "option": "yes",
+      "senado_id": "1743",
+      "voter_id": "maria-guadalupe-chavira-de-la-rosa"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228911",
+      "option": "yes",
+      "senado_id": "1616",
+      "voter_id": "francisco-chiguil-figueroa"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9228966",
+      "option": "yes",
+      "senado_id": "1546",
+      "voter_id": "maria-del-rocio-corona-nakamura"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229066",
+      "option": "yes",
+      "senado_id": "1561",
+      "voter_id": "luisa-cortes-garcia"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228892",
+      "option": "yes",
+      "senado_id": "1516",
+      "voter_id": "jose-manuel-cruz-castellanos"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228744",
+      "option": "yes",
+      "senado_id": "1510",
+      "voter_id": "homero-davis-castro"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229060",
+      "option": "yes",
+      "senado_id": "1558",
+      "voter_id": "blanca-judith-diaz-delgado"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229188",
+      "option": "yes",
+      "senado_id": "1596",
+      "voter_id": "veronica-del-carmen-diaz-robles"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229068",
+      "option": "yes",
+      "senado_id": "1562",
+      "voter_id": "laura-estrada-mauro"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228973",
+      "option": "yes",
+      "senado_id": "1628",
+      "voter_id": "sandra-luz-falcon-venegas"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229268",
+      "option": "yes",
+      "senado_id": "1727",
+      "voter_id": "jose-gerardo-rodolfo-fernandez-norona"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229082",
+      "option": "yes",
+      "senado_id": "1569",
+      "voter_id": "alma-anahi-gonzalez-hernandez"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9229092",
+      "option": "yes",
+      "senado_id": "1572",
+      "voter_id": "ruth-miriam-gonzalez-silva"
+    },
+    {
+      "group_id": "partido-pt",
+      "grupo_fuente": "PT",
+      "mandato_id": "sil-9228916",
+      "option": "yes",
+      "senado_id": "1530",
+      "voter_id": "alejandro-gonzalez-yanez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228880",
+      "option": "yes",
+      "senado_id": "1525",
+      "voter_id": "cecilia-guadalupe-guadiana-mandujano"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9229016",
+      "option": "yes",
+      "senado_id": "1552",
+      "voter_id": "juanita-guerra-mena"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228976",
+      "option": "yes",
+      "senado_id": "1534",
+      "voter_id": "mariela-gutierrez-escalante"
+    },
+    {
+      "group_id": "partido-pt",
+      "grupo_fuente": "PT",
+      "mandato_id": "sil-9228886",
+      "option": "yes",
+      "senado_id": "1528",
+      "voter_id": "ana-karen-hernandez-aceves"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9229094",
+      "option": "yes",
+      "senado_id": "1573",
+      "voter_id": "gilberto-hernandez-villafuerte"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229140",
+      "option": "yes",
+      "senado_id": "1583",
+      "voter_id": "jose-sabino-herrera-dagdug"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229170",
+      "option": "yes",
+      "senado_id": "1591",
+      "voter_id": "manuel-rafael-huerta-ladron-de-guevara"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229126",
+      "option": "yes",
+      "senado_id": "1576",
+      "voter_id": "enrique-inzunza-cazarez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229030",
+      "option": "yes",
+      "senado_id": "1555",
+      "voter_id": "miguel-pavel-jarero-velazquez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228750",
+      "option": "yes",
+      "senado_id": "1512",
+      "voter_id": "maria-martina-kantun-can"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228914",
+      "option": "yes",
+      "senado_id": "1523",
+      "voter_id": "cynthia-iliana-lopez-castro"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229258",
+      "option": "yes",
+      "senado_id": "1725",
+      "voter_id": "adan-augusto-lopez-hernandez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229298",
+      "option": "yes",
+      "senado_id": "1723",
+      "voter_id": "edith-lopez-hernandez"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9228930",
+      "option": "yes",
+      "senado_id": "1537",
+      "voter_id": "virginia-marie-magana-fonseca"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9228884",
+      "option": "yes",
+      "senado_id": "1527",
+      "voter_id": "virgilio-mendoza-amezcua"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229012",
+      "option": "yes",
+      "senado_id": "1551",
+      "voter_id": "victor-aureliano-mercado-salgado"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229070",
+      "option": "yes",
+      "senado_id": "1563",
+      "voter_id": "moises-ignacio-mier-velazco"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228940",
+      "option": "yes",
+      "senado_id": "1539",
+      "voter_id": "beatriz-mojica-morga"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229192",
+      "option": "yes",
+      "senado_id": "1597",
+      "voter_id": "saul-monreal-avila"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229064",
+      "option": "yes",
+      "senado_id": "1560",
+      "voter_id": "antonino-morales-toledo"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229004",
+      "option": "yes",
+      "senado_id": "1549",
+      "voter_id": "raul-moron-orozco"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229294",
+      "option": "yes",
+      "senado_id": "1719",
+      "voter_id": "alejandro-ismael-murat-hinojosa"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228950",
+      "option": "yes",
+      "senado_id": "1542",
+      "voter_id": "sandra-simey-olvera-bautista"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9229397",
+      "option": "yes",
+      "senado_id": "1717",
+      "voter_id": "maki-esther-ortiz-dominguez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228752",
+      "option": "yes",
+      "senado_id": "1513",
+      "voter_id": "anibal-ostoa-ortega"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228724",
+      "option": "yes",
+      "senado_id": "1506",
+      "voter_id": "julieta-andrea-ramirez-padilla"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229275",
+      "option": "yes",
+      "senado_id": "1750",
+      "voter_id": "emmanuel-reyes-carmona"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229164",
+      "option": "yes",
+      "senado_id": "1588",
+      "voter_id": "ana-lilia-rivera-rivera"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229080",
+      "option": "yes",
+      "senado_id": "1568",
+      "voter_id": "beatriz-silvia-robles-gutierrez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229290",
+      "option": "yes",
+      "senado_id": "1713",
+      "voter_id": "karina-isabel-ruiz-ruiz"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228722",
+      "option": "yes",
+      "senado_id": "1505",
+      "voter_id": "nora-ruvalcaba-gamez"
+    },
+    {
+      "group_id": "partido-pt",
+      "grupo_fuente": "PT",
+      "mandato_id": "sil-9229072",
+      "option": "yes",
+      "senado_id": "1564",
+      "voter_id": "lizeth-sanchez-garcia"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229086",
+      "option": "yes",
+      "senado_id": "1570",
+      "voter_id": "eugenio-segura-vazquez"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228926",
+      "option": "yes",
+      "senado_id": "1536",
+      "voter_id": "francisco-ricardo-sheffield-padilla"
+    },
+    {
+      "group_id": "partido-pvem",
+      "grupo_fuente": "PVEM",
+      "mandato_id": "sil-9229312",
+      "option": "yes",
+      "senado_id": "1710",
+      "voter_id": "luis-alfonso-silva-romo"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9229142",
+      "option": "yes",
+      "senado_id": "1584",
+      "voter_id": "olga-patricia-sosa-ruiz"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228740",
+      "option": "yes",
+      "senado_id": "1509",
+      "voter_id": "jesus-lucia-trasvina-waldenrath"
+    },
+    {
+      "group_id": "partido-morena",
+      "grupo_fuente": "MORENA",
+      "mandato_id": "sil-9228918",
+      "option": "yes",
+      "senado_id": "1531",
+      "voter_id": "lilia-margarita-valdez-martinez"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229212",
+      "option": "no",
+      "senado_id": "1694",
+      "voter_id": "ricardo-anaya-cortes"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-mc",
+      "grupo_fuente": "MC",
+      "mandato_id": "sil-9229250",
+      "option": "no",
+      "senado_id": "1702",
+      "voter_id": "maria-alejandra-barrales-magdaleno"
+    },
+    {
+      "group_id": "partido-mc",
+      "grupo_fuente": "MC",
+      "mandato_id": "sil-9228755",
+      "option": "no",
+      "senado_id": "1514",
+      "voter_id": "francisco-daniel-barreda-pavon"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228922",
+      "option": "no",
+      "senado_id": "1532",
+      "voter_id": "gina-gerardina-campuzano-gonzalez"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229204",
+      "option": "no",
+      "senado_id": "1716",
+      "voter_id": "marko-antonio-cortes-mendoza"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228720",
+      "option": "no",
+      "senado_id": "1504",
+      "voter_id": "maria-de-jesus-diaz-marmolejo"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229078",
+      "option": "no",
+      "senado_id": "1567",
+      "voter_id": "agustin-dorantes-lambarri"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229216",
+      "option": "no",
+      "senado_id": "1724",
+      "voter_id": "laura-esquivel-torres"
+    },
+    {
+      "group_id": "partido-mc",
+      "grupo_fuente": "MC",
+      "mandato_id": "sil-9229252",
+      "option": "no",
+      "senado_id": "1729",
+      "voter_id": "amalia-dolores-garcia-medina"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229208",
+      "option": "no",
+      "senado_id": "1730",
+      "voter_id": "karen-michel-gonzalez-marquez"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228936",
+      "option": "no",
+      "senado_id": "1538",
+      "voter_id": "miguel-marquez-marquez"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228714",
+      "option": "no",
+      "senado_id": "1503",
+      "voter_id": "juan-antonio-martin-del-campo-martin-del-campo"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229088",
+      "option": "no",
+      "senado_id": "1571",
+      "voter_id": "mayuli-latifa-martinez-simon"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228968",
+      "option": "no",
+      "senado_id": "1547",
+      "voter_id": "francisco-javier-ramirez-acuna"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229032",
+      "option": "no",
+      "senado_id": "1556",
+      "voter_id": "ivideliza-reyes-hernandez"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229096",
+      "option": "no",
+      "senado_id": "1574",
+      "voter_id": "veronica-rodriguez-hernandez"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229160",
+      "option": "no",
+      "senado_id": "1586",
+      "voter_id": "imelda-margarita-sanmiguel-sanchez"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228906",
+      "option": "no",
+      "senado_id": "1520",
+      "voter_id": "mario-humberto-vazquez-robles"
+    },
+    {
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9229435",
+      "option": "no",
+      "senado_id": "1706",
+      "voter_id": "mauricio-vila-dosal"
+    },
+    {
+      "enlace": "nombre abreviado",
+      "group_id": "partido-pan",
+      "grupo_fuente": "PAN",
+      "mandato_id": "sil-9228748",
+      "option": "no",
+      "senado_id": "1511",
+      "voter_id": "susana-del-carmen-zatarain-garcia"
+    }
+  ],
+  "votos_publicados": true
+}

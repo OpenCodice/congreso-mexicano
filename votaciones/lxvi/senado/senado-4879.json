@@ -22,18 +22,6 @@
   "expediente_id": null,
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4879",
-  "lecturas": [
-    {
-      "pagina": "votacion",
-      "por": "agente",
-      "registro": "OpenCodice/congreso-extractor:lecturas/senado/votacion/9c043d36176f4a1ba8f94ecd7b65654296c4845fd0ca3c0500b6d8fcb6c6667c.json",
-      "verificacion": [
-        "cada nombre y cada cifra están en la página",
-        "las listas suman los totales que declara la fuente",
-        "las etiquetas de grupo y sentido son las del catálogo"
-      ]
-    }
-  ],
   "legislative_period_id": "lxvi",
   "motion": {
     "denominacion": "Dictamen de las Comisiones Unidas de Medio Ambiente, Recursos Naturales y Cambio Climático; y de Estudios Legislativos, Primera a la minuta con proyecto de decreto por el que el que reforman los párrafos primero y cuarto y se adiciona un párrafo quinto, recorriéndose el subsecuente en su orden, al artículo 60 bis de la Ley General de Vida Silvestre.",
