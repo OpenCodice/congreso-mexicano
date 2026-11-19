@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la titular de la Secretaría de las Mujeres del estado de Morelos a fortalecer, implementar y evaluar acciones y políticas públicas efectivas para prevenir, atender, disminuir y erradicar la violencia contra las mujeres, particularmente ante el incremento y gravedad de los feminicidios recientes en la entidad, así como a rendir un informe detallado sobre los resultados obtenidos.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-25",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 25-MAR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-03-25",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5201652",
   "sources": [
     {
-      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
-      "consultado": "2026-11-17T08:02:44Z",
+      "archivo": "fuentes/34/34e13a0a5b3746e9c361579bc845a1f45201f029610463ffc650a8111a856dce.html.gz",
+      "consultado": "2026-11-19T13:20:05Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "sha256": "34e13a0a5b3746e9c361579bc845a1f45201f029610463ffc650a8111a856dce",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

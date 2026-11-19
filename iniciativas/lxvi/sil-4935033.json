@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona los artículos 22 Bis, 22 Ter, 22 Quarter y 22 Quintis de la Ley Federal de Sanidad Animal.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2025-09-30",
@@ -48,8 +48,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/a4/a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1.html.gz",
-      "consultado": "2026-11-17T07:55:51Z",
+      "archivo": "fuentes/87/877aab06ade92581646e1d0d1405147ca289c6e9c6a81a66df75cd94c1f4e5a4.html.gz",
+      "consultado": "2026-11-19T12:24:24Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "a4e0a7c23c543618ef90779a282f8deeaacafcebe9a2cb7d5083932fea8b14e1",
+      "sha256": "877aab06ade92581646e1d0d1405147ca289c6e9c6a81a66df75cd94c1f4e5a4",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

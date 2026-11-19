@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que se exhorta respetuosamente a la Secretaría de Salud para que, en coordinación con sus homólogas en las 32 entidades federativas, impulse la emisión, adopción e implementación de lineamientos de transparencia que obliguen a los centros hospitalarios y demás establecimientos particulares de salud a informar, exhibir y mantener actualizados, de manera clara, visible y accesible, los costos de los servicios que ofrecen, en beneficio de las personas usuarias.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-11",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 11-MAR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-03-11",
@@ -59,11 +59,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5201146",
   "sources": [
     {
-      "archivo": "fuentes/b5/b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a.html.gz",
-      "consultado": "2026-11-17T08:02:44Z",
+      "archivo": "fuentes/34/34e13a0a5b3746e9c361579bc845a1f45201f029610463ffc650a8111a856dce.html.gz",
+      "consultado": "2026-11-19T13:20:05Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -82,7 +82,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "b5e979031c12a7ea62f2486c5bf053555d0f3ad4fc9df0226dbebbe4ae2a179a",
+      "sha256": "34e13a0a5b3746e9c361579bc845a1f45201f029610463ffc650a8111a856dce",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

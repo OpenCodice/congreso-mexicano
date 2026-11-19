@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona un párrafo octavo al artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2026-07-15",
@@ -41,8 +41,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
-      "consultado": "2026-11-17T07:58:26Z",
+      "archivo": "fuentes/82/82c9eb1a5a9262be6e271e7705403af7bcfff43ab158928d5569533b079b8a7d.html.gz",
+      "consultado": "2026-11-19T13:17:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "sha256": "82c9eb1a5a9262be6e271e7705403af7bcfff43ab158928d5569533b079b8a7d",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

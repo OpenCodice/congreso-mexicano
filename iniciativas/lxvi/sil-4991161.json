@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona diversas disposiciones de la Ley General en materia de Humanidades Ciencias, Tecnologías e Innovación.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-10",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 10-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 18-NOV-2026"
   },
   "expediente_id": "sil-5187430",
   "fecha_presentacion": "2025-12-03",
@@ -41,8 +41,8 @@
   "seguimiento": "5187430",
   "sources": [
     {
-      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
-      "consultado": "2026-11-17T07:56:24Z",
+      "archivo": "fuentes/fc/fca2196d195facaa5ee8cdcb053bd018f1c1912915bbe85073020d38740eb723.html.gz",
+      "consultado": "2026-11-19T12:24:43Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "sha256": "fca2196d195facaa5ee8cdcb053bd018f1c1912915bbe85073020d38740eb723",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

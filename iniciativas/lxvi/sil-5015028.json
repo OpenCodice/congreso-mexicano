@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que expide la Ley General para el Bienestar y Cuidado de Animales Domésticos Comunitarios.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2026-02-17",
@@ -48,8 +48,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
-      "consultado": "2026-11-17T07:56:45Z",
+      "archivo": "fuentes/d3/d3cd0ef58551704b65e7b4da305a1b3a6fea72aef433deb491a5d4537a67454f.html.gz",
+      "consultado": "2026-11-19T12:25:06Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "sha256": "d3cd0ef58551704b65e7b4da305a1b3a6fea72aef433deb491a5d4537a67454f",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

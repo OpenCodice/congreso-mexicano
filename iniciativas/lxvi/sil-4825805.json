@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que declara el 9 de diciembre de cada año, como el -Día Nacional de las Personas Migrantes-.",
   "estatus": {
-    "estado": "De primera lectura en origen",
-    "fecha": "2026-03-19",
+    "estado": "Turnado a revisora",
+    "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "De primera lectura en origen el 19-MAR-2026"
+    "texto": "Turnado a revisora el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2024-12-13",
@@ -41,8 +41,8 @@
   "seguimiento": "5047899",
   "sources": [
     {
-      "archivo": "fuentes/ab/abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994.html.gz",
-      "consultado": "2026-11-17T07:54:01Z",
+      "archivo": "fuentes/18/18b2d30811b33e3ffe885572aada5db9ca87ef0d23f8d821e158f71546156871.html.gz",
+      "consultado": "2026-11-19T12:23:05Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "abe4f5f561983f5699341cf0d88da461be7378fd69750868b71062bb2ae1a994",
+      "sha256": "18b2d30811b33e3ffe885572aada5db9ca87ef0d23f8d821e158f71546156871",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

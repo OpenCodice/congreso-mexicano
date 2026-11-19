@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta respetuosamente a la Secretaría de Educación Pública para que en los libros de texto gratuitos se retome en la portada de al menos un libro de cada grado escolar, el uso de la obra intitulada “la patria” del artista Jorge González Camarena, quien se inspiró en la C. Victoria Dorantes Sosa, originaria de Tlaxcala; Asimismo se exhorta al gobierno del estado de Tlaxcala y al municipio de Tlaxco, Tlaxcala para que, en coordinación, establezcan un sitio memorial-mausoleo donde puedan ser depositados los restos de la C. Victoria Dorantes Sosa, donde haya un gran mural con la imagen de -la Patria” y se pueda instalar un museo relativo a los libros de texto gratuito-.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-25",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 25-FEB-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-02-25",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5200947",
   "sources": [
     {
-      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
-      "consultado": "2026-11-17T08:02:36Z",
+      "archivo": "fuentes/72/72b350cc76ae1324b6270118c34b1e3b0bf21bb1be8bc4b5e99dfc1e9a9712eb.html.gz",
+      "consultado": "2026-11-19T13:19:47Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "sha256": "72b350cc76ae1324b6270118c34b1e3b0bf21bb1be8bc4b5e99dfc1e9a9712eb",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona un artículo 87 Bis 3 a la Ley General de Equilibrio Ecológico y la Protección al Ambiente.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2026-03-11",
@@ -69,8 +69,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
-      "consultado": "2026-11-17T07:56:58Z",
+      "archivo": "fuentes/69/69dbb42b48c0be631e12b574e53062c71dada037fc8d033f09fa597ea7332a92.html.gz",
+      "consultado": "2026-11-19T12:25:14Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -89,7 +89,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "sha256": "69dbb42b48c0be631e12b574e53062c71dada037fc8d033f09fa597ea7332a92",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
