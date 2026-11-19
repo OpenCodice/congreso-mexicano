@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma el artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2026-05-25",
@@ -41,8 +41,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/1f/1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3.html.gz",
-      "consultado": "2026-11-17T07:58:05Z",
+      "archivo": "fuentes/be/be2f893607066d05b57e473a5207f5b3189af2c3c443396dd376a4822a041465.html.gz",
+      "consultado": "2026-11-19T13:16:44Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "1f5f923270c4e0df5f130e76831416115a6203c983f9060d669b7460d2cc2ee3",
+      "sha256": "be2f893607066d05b57e473a5207f5b3189af2c3c443396dd376a4822a041465",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

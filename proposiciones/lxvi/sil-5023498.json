@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a los gobiernos de las entidades federativas para que diseñen e implementen medidas que incentiven el uso del transporte público y analicen la viabilidad de establecer esquemas de transparencia y sostenibilidad, a fin de asegurar que los sistemas de transporte urbano funcionen en beneficio de las personas usuarias y del medio ambiente.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-25",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 25-FEB-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-02-25",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5200946",
   "sources": [
     {
-      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
-      "consultado": "2026-11-17T08:02:36Z",
+      "archivo": "fuentes/72/72b350cc76ae1324b6270118c34b1e3b0bf21bb1be8bc4b5e99dfc1e9a9712eb.html.gz",
+      "consultado": "2026-11-19T13:19:47Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "sha256": "72b350cc76ae1324b6270118c34b1e3b0bf21bb1be8bc4b5e99dfc1e9a9712eb",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

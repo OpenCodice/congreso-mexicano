@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres.",
   "estatus": {
-    "estado": "De primera lectura en origen",
-    "fecha": "2026-11-17",
+    "estado": "Turnado a revisora",
+    "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "De primera lectura en origen el 17-NOV-2026"
+    "texto": "Turnado a revisora el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-11-27",
@@ -41,8 +41,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/22/22b379a97acc48670c43d39f2d27b0fb096097d8a74f03e8444f819e640091f0.html.gz",
-      "consultado": "2026-11-18T12:18:12Z",
+      "archivo": "fuentes/a2/a2e228f160ab8ed5b225b030c730a51917b7b919ca6fc10276b0ff0ccbaefcac.html.gz",
+      "consultado": "2026-11-19T12:24:36Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "22b379a97acc48670c43d39f2d27b0fb096097d8a74f03e8444f819e640091f0",
+      "sha256": "a2e228f160ab8ed5b225b030c730a51917b7b919ca6fc10276b0ff0ccbaefcac",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que expide la Ley General para el Bienestar Animal y el Control Ético Poblacional de Perros y Gatos y la Protección de la Salud Pública, Humana, Animal y Ambiental.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2026-08-24",
@@ -41,8 +41,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/fe/fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915.html.gz",
-      "consultado": "2026-11-17T07:58:37Z",
+      "archivo": "fuentes/df/dfe80b2b841c5dcd88051e3eb014b327c5a36998800a3cd0e6e452debb09679e.html.gz",
+      "consultado": "2026-11-19T13:17:17Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "fec82bd226a7d900c63a94094331959eca6a013718a2936cbccea5d209b4e915",
+      "sha256": "dfe80b2b841c5dcd88051e3eb014b327c5a36998800a3cd0e6e452debb09679e",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

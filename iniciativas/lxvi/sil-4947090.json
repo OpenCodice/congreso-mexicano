@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma y adiciona la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Código Penal Federal.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2025-10-14",
@@ -41,8 +41,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/00/00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08.html.gz",
-      "consultado": "2026-11-17T07:56:01Z",
+      "archivo": "fuentes/ce/cea89a9cac0c80714f6f589ea5546b09053d9bf833f12587e6235673ae59ff30.html.gz",
+      "consultado": "2026-11-19T12:24:30Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "00e7245dc19d0a2f7f0e7f776be3ae326253d484836b66c658d6ff764dbadb08",
+      "sha256": "cea89a9cac0c80714f6f589ea5546b09053d9bf833f12587e6235673ae59ff30",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a las entidades federativas para que armonicen y, en su caso, reformen sus ordenamientos en materia de tránsito, movilidad y seguridad vial, de conformidad con lo establecido en la Ley General de Movilidad y Seguridad Vial, con el objeto de establecer de manera expresa la obligatoriedad del uso de cascos de protección certificados.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-02-18",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-02-18",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5200926",
   "sources": [
     {
-      "archivo": "fuentes/f2/f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118.html.gz",
-      "consultado": "2026-11-17T08:02:36Z",
+      "archivo": "fuentes/72/72b350cc76ae1324b6270118c34b1e3b0bf21bb1be8bc4b5e99dfc1e9a9712eb.html.gz",
+      "consultado": "2026-11-19T13:19:47Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "f2d8a50d5e6e9117c90f196cf9aabb15c3a5bfe6f444a44d6c8b6e9c203d1118",
+      "sha256": "72b350cc76ae1324b6270118c34b1e3b0bf21bb1be8bc4b5e99dfc1e9a9712eb",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

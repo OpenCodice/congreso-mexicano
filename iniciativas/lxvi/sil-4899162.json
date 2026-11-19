@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona un Capítulo VI al Título Décimo de la Ley Federal de Sanidad Animal; reforma la fracción XVIII del artículo 3° y adiciona un artículo 87 Bis 3 y 87 Bis 4 a la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2025-05-14",
@@ -41,8 +41,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/7e/7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab.html.gz",
-      "consultado": "2026-11-17T07:55:12Z",
+      "archivo": "fuentes/98/9862256bee6f95deb09f7f56ab684f66057c56d575c65aded7df48ef95181522.html.gz",
+      "consultado": "2026-11-19T12:23:46Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "7e48d14627de12b1de76defda8c2f46fd13f39320aff19dbf89f8c15b343d5ab",
+      "sha256": "9862256bee6f95deb09f7f56ab684f66057c56d575c65aded7df48ef95181522",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

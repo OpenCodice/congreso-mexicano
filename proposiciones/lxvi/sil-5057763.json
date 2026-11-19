@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que se exhorta al Antropólogo Víctor Hugo Valencia Valera, Director del Centro INAH Morelos, a realizar las denuncias correspondientes respecto de los comercios ambulantes que ocupan e invaden la Zona de Monumentos Históricos en el Centro Histórico de Cuautla, Morelos.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-07",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 07-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-07",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5202436",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/a3/a3981c5027882cc98a6bb4ce4802e5bf6aae6527ee0af9feb590206ec28b4c1e.html.gz",
+      "consultado": "2026-11-19T13:20:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "a3981c5027882cc98a6bb4ce4802e5bf6aae6527ee0af9feb590206ec28b4c1e",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

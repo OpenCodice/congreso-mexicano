@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversas disposiciones del artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
   "estatus": {
-    "estado": "De primera lectura en origen",
-    "fecha": "2026-11-17",
+    "estado": "Turnado a revisora",
+    "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "De primera lectura en origen el 17-NOV-2026"
+    "texto": "Turnado a revisora el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2024-12-13",
@@ -41,8 +41,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/18/180bf4bfa3618eb3a6355963b34d74fab65be8ca60f9f542955e781f3dbfa387.html.gz",
-      "consultado": "2026-11-18T12:16:30Z",
+      "archivo": "fuentes/18/18b2d30811b33e3ffe885572aada5db9ca87ef0d23f8d821e158f71546156871.html.gz",
+      "consultado": "2026-11-19T12:23:05Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "180bf4bfa3618eb3a6355963b34d74fab65be8ca60f9f542955e781f3dbfa387",
+      "sha256": "18b2d30811b33e3ffe885572aada5db9ca87ef0d23f8d821e158f71546156871",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y de la Ley General para la Igualdad entre Mujeres y Hombres.",
   "estatus": {
-    "estado": "De primera lectura en origen",
-    "fecha": "2026-11-17",
+    "estado": "Turnado a revisora",
+    "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "De primera lectura en origen el 17-NOV-2026"
+    "texto": "Turnado a revisora el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-12-10",
@@ -41,8 +41,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/37/375401db05121786bb36422ce7b1bba29bc1a6f1ef8f7f335d93683539d982aa.html.gz",
-      "consultado": "2026-11-18T12:18:20Z",
+      "archivo": "fuentes/fc/fca2196d195facaa5ee8cdcb053bd018f1c1912915bbe85073020d38740eb723.html.gz",
+      "consultado": "2026-11-19T12:24:43Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "375401db05121786bb36422ce7b1bba29bc1a6f1ef8f7f335d93683539d982aa",
+      "sha256": "fca2196d195facaa5ee8cdcb053bd018f1c1912915bbe85073020d38740eb723",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

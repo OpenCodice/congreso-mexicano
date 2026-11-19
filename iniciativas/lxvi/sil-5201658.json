@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5201658",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Energía",
+      "referencia": "2085551",
+      "texto": "1.-Diputados -Energía .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Planeación y Transición Energética, en materia de paneles solares y eficiencia energética.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5201658",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228351",
+      "nombre_fuente": "Dip. Ricardo Astudillo Suárez",
+      "person_id": "ricardo-astudillo-suarez",
+      "referencia_sil": "9228351",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5201664",
+  "sources": [
+    {
+      "archivo": "fuentes/6c/6c143b582a0c932fd6ad1eba78203885ed26e97c3c700cc10511d19a314c50d7.html.gz",
+      "consultado": "2026-11-19T00:11:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "19/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6c143b582a0c932fd6ad1eba78203885ed26e97c3c700cc10511d19a314c50d7",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Energía"
+  ],
+  "tipo": "Iniciativa"
+}

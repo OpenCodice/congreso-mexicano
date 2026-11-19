@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que modifica diversas disposiciones de la Ley General de Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-11",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 11-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 18-NOV-2026"
   },
   "expediente_id": "sil-5187426",
   "fecha_presentacion": "2024-09-24",
@@ -41,8 +41,8 @@
   "seguimiento": "5187426",
   "sources": [
     {
-      "archivo": "fuentes/27/273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6.html.gz",
-      "consultado": "2026-11-17T07:53:32Z",
+      "archivo": "fuentes/22/22258571d5c12c6b308037e2e67f8dfaefe1ec48e6addccb621e1a6e1abc20bc.html.gz",
+      "consultado": "2026-11-19T12:22:35Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "273f72fdff4b4b36bcca66d45d1419f2324e1ed88f3813033a92966584df3bb6",
+      "sha256": "22258571d5c12c6b308037e2e67f8dfaefe1ec48e6addccb621e1a6e1abc20bc",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

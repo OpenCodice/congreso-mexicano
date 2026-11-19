@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que expide la Ley General en Materia de Bienestar, Cuidado y Protección de los Animales.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de revisora",
-    "fecha": "2026-09-30",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de revisora el 30-SEP-2026"
+    "estado": "Turnado al Ejecutivo",
+    "fecha": "2026-11-18",
+    "resultado": "aprobado",
+    "texto": "Turnado al Ejecutivo el 18-NOV-2026"
   },
   "expediente_id": "sil-5147520",
   "fecha_presentacion": "2025-02-18",
@@ -61,8 +61,8 @@
   "seguimiento": "5147520",
   "sources": [
     {
-      "archivo": "fuentes/04/04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7.html.gz",
-      "consultado": "2026-11-17T07:54:18Z",
+      "archivo": "fuentes/aa/aae27580204f6aec9195382da91802046b4fa85786cd209d1f6882befd48a7d3.html.gz",
+      "consultado": "2026-11-19T12:23:17Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -81,7 +81,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "04652726b39b57fbb27a81124e9b8333bde8e0077b27a706b11686f668d8b9c7",
+      "sha256": "aae27580204f6aec9195382da91802046b4fa85786cd209d1f6882befd48a7d3",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

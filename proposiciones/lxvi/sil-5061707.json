@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la Secretaría de Seguridad y Protección Ciudadana para que, en coordinación con la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus atribuciones, fortalezcan las estrategias de prevención, detección e investigación de fraudes digitales, así como los relacionados con el uso de la inteligencia artificial; y se realicen mesas de diálogo con el sector privado, particularmente empresas tecnológicas e instituciones del sector financiero, detecten oportunamente estas conductas que afectan a las y los mexicanos.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-08",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 08-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-08",
@@ -59,11 +59,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5202441",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/a3/a3981c5027882cc98a6bb4ce4802e5bf6aae6527ee0af9feb590206ec28b4c1e.html.gz",
+      "consultado": "2026-11-19T13:20:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -82,7 +82,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "a3981c5027882cc98a6bb4ce4802e5bf6aae6527ee0af9feb590206ec28b4c1e",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
