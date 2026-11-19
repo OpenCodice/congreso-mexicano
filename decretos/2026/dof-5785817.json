@@ -18,6 +18,41 @@
   ],
   "fecha": "2026-04-23",
   "id": "dof-5785817",
+  "legislaturas_estatales": {
+    "aprobaron": [
+      "baja-california",
+      "baja-california-sur",
+      "campeche",
+      "cdmx",
+      "chiapas",
+      "colima",
+      "edomex",
+      "guerrero",
+      "hidalgo",
+      "oaxaca",
+      "puebla",
+      "quintana-roo",
+      "san-luis-potosi",
+      "sinaloa",
+      "tabasco",
+      "tamaulipas",
+      "tlaxcala",
+      "veracruz",
+      "yucatan"
+    ],
+    "asunto": "5066169",
+    "fecha": "2026-04-14",
+    "fuente": "aspectos relevantes de la declaratoria en el SIL",
+    "nota": "el SIL solo lista los congresos con voto aprobatorio; el resto no tiene registro",
+    "sources": [
+      {
+        "consultado": "2026-11-19T11:18:03Z",
+        "sha256": "904507ca3e510b032338241cda0efbb4ce413121ccb6e917ac9fc2a0eab57839",
+        "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5054726&Asunto=5066169"
+      }
+    ],
+    "votos_aprobatorios": 19
+  },
   "pagina": 3,
   "sources": [
     {
