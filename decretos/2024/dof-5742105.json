@@ -22,6 +22,45 @@
   ],
   "fecha": "2024-10-31",
   "id": "dof-5742105",
+  "legislaturas_estatales": {
+    "aprobaron": [
+      "baja-california",
+      "baja-california-sur",
+      "campeche",
+      "cdmx",
+      "chiapas",
+      "colima",
+      "durango",
+      "edomex",
+      "guerrero",
+      "hidalgo",
+      "morelos",
+      "nayarit",
+      "oaxaca",
+      "puebla",
+      "quintana-roo",
+      "san-luis-potosi",
+      "sinaloa",
+      "sonora",
+      "tabasco",
+      "tamaulipas",
+      "tlaxcala",
+      "yucatan",
+      "zacatecas"
+    ],
+    "asunto": "4795678",
+    "fecha": "2024-10-31",
+    "fuente": "aspectos relevantes de la declaratoria en el SIL",
+    "nota": "el SIL solo lista los congresos con voto aprobatorio; el resto no tiene registro",
+    "sources": [
+      {
+        "consultado": "2026-11-19T11:15:33Z",
+        "sha256": "29f25bbbccc953779365771f573f85e93418fb300340447477a2e2e457288675",
+        "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4791544&Asunto=4795678"
+      }
+    ],
+    "votos_aprobatorios": 23
+  },
   "pagina": 2,
   "sources": [
     {

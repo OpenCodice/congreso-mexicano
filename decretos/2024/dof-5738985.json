@@ -18,6 +18,51 @@
   ],
   "fecha": "2024-09-15",
   "id": "dof-5738985",
+  "legislaturas_estatales": {
+    "aprobaron": [
+      "baja-california",
+      "baja-california-sur",
+      "campeche",
+      "cdmx",
+      "colima",
+      "durango",
+      "edomex",
+      "guerrero",
+      "hidalgo",
+      "morelos",
+      "nayarit",
+      "oaxaca",
+      "puebla",
+      "quintana-roo",
+      "san-luis-potosi",
+      "sinaloa",
+      "sonora",
+      "tabasco",
+      "tamaulipas",
+      "tlaxcala",
+      "veracruz",
+      "yucatan",
+      "zacatecas"
+    ],
+    "asunto": "4773525",
+    "asuntos_no_aprobaron": [
+      "4773525"
+    ],
+    "fecha": "2024-09-13",
+    "fuente": "aspectos relevantes de la declaratoria en el SIL",
+    "no_aprobaron": [
+      "jalisco"
+    ],
+    "nota": "el SIL lista los congresos con voto aprobatorio y, cuando lo dice, los que votaron en contra; el resto no tiene registro",
+    "sources": [
+      {
+        "consultado": "2026-11-19T11:15:03Z",
+        "sha256": "0f72bb0ccd49cc1f4f328150823a4a975f94e6b37a904991474a55c5ba9f0087",
+        "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4770610&Asunto=4773525"
+      }
+    ],
+    "votos_aprobatorios": 23
+  },
   "pagina": 2,
   "sources": [
     {

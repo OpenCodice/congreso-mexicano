@@ -18,6 +18,44 @@
   ],
   "fecha": "2025-01-17",
   "id": "dof-5747305",
+  "legislaturas_estatales": {
+    "aprobaron": [
+      "baja-california",
+      "campeche",
+      "cdmx",
+      "chiapas",
+      "colima",
+      "durango",
+      "edomex",
+      "hidalgo",
+      "michoacan",
+      "nayarit",
+      "oaxaca",
+      "puebla",
+      "quintana-roo",
+      "san-luis-potosi",
+      "sinaloa",
+      "sonora",
+      "tabasco",
+      "tamaulipas",
+      "tlaxcala",
+      "veracruz",
+      "yucatan",
+      "zacatecas"
+    ],
+    "asunto": "4827330",
+    "fecha": "2025-01-08",
+    "fuente": "aspectos relevantes de la declaratoria en el SIL",
+    "nota": "el SIL solo lista los congresos con voto aprobatorio; el resto no tiene registro",
+    "sources": [
+      {
+        "consultado": "2026-11-19T11:16:34Z",
+        "sha256": "1b8ab178d671d9518d92a2a847187eed240d9962b7d01c1169357e236c2a83a7",
+        "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4809133&Asunto=4827330"
+      }
+    ],
+    "votos_aprobatorios": 22
+  },
   "pagina": 4,
   "sources": [
     {
