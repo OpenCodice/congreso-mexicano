@@ -1,0 +1,41 @@
+{
+  "asunto": "5199291",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 102
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5199594",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5199291-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por la que se ratifican 234 ascensos de Generales, Coroneles y Tenientes Coroneles del Ejército, Fuerza Aérea Mexicanos y Guardia Nacional.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/82/828061033a444f0e0f4513bca762e6295fba314cda0a239e9aec5e478cc35db0.html",
+      "consultado": "2026-11-18T20:23:16Z",
+      "sha256": "828061033a444f0e0f4513bca762e6295fba314cda0a239e9aec5e478cc35db0",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5199291"
+    }
+  ],
+  "start_date": "2026-11-17",
+  "votes": [],
+  "votos_publicados": false
+}

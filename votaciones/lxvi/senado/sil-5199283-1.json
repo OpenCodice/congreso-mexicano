@@ -1,0 +1,41 @@
+{
+  "asunto": "5199283",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 91
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5199595",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5199283-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ratificación de nombramientos",
+    "denominacion": "Por la que se ratifican 108 ascensos de diversos grados navales de la Armada de México.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 91 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/d1/d1cf864c712bfcb748dfefbbec35423e6e30ce0f69396bda26353c47a2e07db3.html",
+      "consultado": "2026-11-18T20:24:03Z",
+      "sha256": "d1cf864c712bfcb748dfefbbec35423e6e30ce0f69396bda26353c47a2e07db3",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5199283"
+    }
+  ],
+  "start_date": "2026-11-17",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -19,7 +19,26 @@
       "value": 0
     }
   ],
-  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado",
+  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado; votación 1 de 2 del asunto en ambas fuentes sin contar las mociones que registra el SIL",
+  "discrepancias": [
+    {
+      "counts_sil": [
+        {
+          "option": "yes",
+          "value": 76
+        },
+        {
+          "option": "no",
+          "value": 39
+        },
+        {
+          "option": "abstain",
+          "value": 0
+        }
+      ],
+      "votacion": "sil-4940816-2"
+    }
+  ],
   "expediente_id": "sil-4940827",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4942",
@@ -45,6 +64,7 @@
     }
   ],
   "start_date": "2025-10-01",
+  "votacion_sil": "sil-4940816-2",
   "votes": [
     {
       "group_id": "partido-morena",

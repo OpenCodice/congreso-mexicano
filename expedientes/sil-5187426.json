@@ -3,7 +3,7 @@
     {
       "clave": "4776185",
       "denominacion": "Que modifica diversas disposiciones de la Ley General de Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
-      "estatus": "Turnado a revisora 11/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2024-09-24",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4776185_20240924_1727198383.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "5184487",
       "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
-      "estatus": "Turnado a revisora 11/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-03",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5184487_20261103_1793744546.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -19,10 +19,18 @@
     {
       "clave": "5195094",
       "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
-      "estatus": "Turnado a revisora 11/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-11",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5195094_20261111_1794422129.pdf",
       "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5196184",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático, en materia de arborización urbana.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
+      "fecha": "2026-11-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5196184_20261118_1795021069.pdf",
+      "tipo": "Minuta"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -39,6 +47,14 @@
     {
       "estatus": "Turnado a revisora",
       "fecha": "2026-11-11"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-18"
     }
   ],
   "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; y de la Ley General de Cambio Climático.",
@@ -48,15 +64,15 @@
   "seguimiento": "5187426",
   "sources": [
     {
-      "archivo": "fuentes/0e/0eba1c5c877d8d51694db6c2d6f834efc2fc390c0d54ede47cc7d3a9d79d9c97.html",
-      "consultado": "2026-11-18T10:48:20Z",
-      "sha256": "0eba1c5c877d8d51694db6c2d6f834efc2fc390c0d54ede47cc7d3a9d79d9c97",
+      "archivo": "fuentes/2a/2af2d6c25fe434f4b9acb62202a1c9f7963b4fda06da5ab7aef11da3d41e9271.html",
+      "consultado": "2026-11-19T11:50:20Z",
+      "sha256": "2af2d6c25fe434f4b9acb62202a1c9f7963b4fda06da5ab7aef11da3d41e9271",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5187426&Asunto=5195094"
     },
     {
-      "archivo": "fuentes/f9/f9c7d33d3a87d360ce241395b2a10ac6fbff66c4b522656f959adb0dfb56b4e5.html",
-      "consultado": "2026-11-18T10:48:26Z",
-      "sha256": "f9c7d33d3a87d360ce241395b2a10ac6fbff66c4b522656f959adb0dfb56b4e5",
+      "archivo": "fuentes/e1/e19fe7247f0f5ecdec73ae015680a71e7f52756f345078acd796ec7f9b0134ac.html",
+      "consultado": "2026-11-19T11:50:26Z",
+      "sha256": "e19fe7247f0f5ecdec73ae015680a71e7f52756f345078acd796ec7f9b0134ac",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5195094&Seguimiento=5187426"
     }
   ],
@@ -81,7 +97,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado a revisora Pendiente 11/11/2026",
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/11/2026",
   "votaciones": [
     "sil-5195094-1"
   ],
