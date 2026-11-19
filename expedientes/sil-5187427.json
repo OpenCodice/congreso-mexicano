@@ -3,7 +3,7 @@
     {
       "clave": "4862055",
       "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2025-03-25",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4862055_20250324_1741107040.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "5186075",
       "denominacion": "Con proyecto de decreto por el que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-03",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5186075_20261103_1793763015.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -19,7 +19,7 @@
     {
       "clave": "5190381",
       "denominacion": "Con proyecto de decreto por el que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-04",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5190381_20261104_1793825423.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -27,10 +27,18 @@
     {
       "clave": "5192318",
       "denominacion": "Con proyecto de decreto por el que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-10",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5192318_20261110_1793825424.pdf",
       "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5196182",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
+      "fecha": "2026-11-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5196182_20261118_1795021025.pdf",
+      "tipo": "Minuta"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -47,6 +55,14 @@
     {
       "estatus": "Turnado a revisora",
       "fecha": "2026-11-10"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-18"
     }
   ],
   "denominacion": "Con proyecto de decreto por el que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
@@ -56,15 +72,15 @@
   "seguimiento": "5187427",
   "sources": [
     {
-      "archivo": "fuentes/74/74140fb931e9cd6409fc1de47af5dca58b42c8be4d27fc2b3f1953283bc0dc8f.html",
-      "consultado": "2026-11-18T10:48:44Z",
-      "sha256": "74140fb931e9cd6409fc1de47af5dca58b42c8be4d27fc2b3f1953283bc0dc8f",
+      "archivo": "fuentes/72/7248914034dbf97ef3d393cbda5e836bf1e7e3845a24138ae49740d4a2d24426.html",
+      "consultado": "2026-11-19T11:50:44Z",
+      "sha256": "7248914034dbf97ef3d393cbda5e836bf1e7e3845a24138ae49740d4a2d24426",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5187427&Asunto=5192318"
     },
     {
-      "archivo": "fuentes/0c/0ce4b4aeb60b771745e8c8f7d4711bab407e29c0dc14d456dcaca8615fe0b8da.html",
-      "consultado": "2026-11-18T10:49:02Z",
-      "sha256": "0ce4b4aeb60b771745e8c8f7d4711bab407e29c0dc14d456dcaca8615fe0b8da",
+      "archivo": "fuentes/40/4078151f2a31c9f8687c0fa4a11f28eed899db45bfcab4e7b582986b0b45b1ac.html",
+      "consultado": "2026-11-19T11:51:03Z",
+      "sha256": "4078151f2a31c9f8687c0fa4a11f28eed899db45bfcab4e7b582986b0b45b1ac",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5192318&Seguimiento=5187427"
     }
   ],
@@ -106,7 +122,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado a revisora Pendiente 10/11/2026",
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/11/2026",
   "votaciones": [
     "sil-5192318-1",
     "sil-5192318-2"

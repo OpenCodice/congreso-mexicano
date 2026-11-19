@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "5196264",
+      "denominacion": "Con el que remite 234 expedientes de ascensos de CC. Generales, Coroneles y Tenientes Coroneles del Ejército, Fuerza Aérea Mexicanos y Guardia Nacional.",
+      "estatus": "Turnado al Ejecutivo 17/11/2026",
+      "fecha": "2026-11-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5196264_20261117_1794953358.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5199291",
+      "denominacion": "Por la que se ratifican 234 ascensos de Generales, Coroneles y Tenientes Coroneles del Ejército, Fuerza Aérea Mexicanos y Guardia Nacional.",
+      "estatus": "Turnado al Ejecutivo 17/11/2026",
+      "fecha": "2026-11-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199291_20261117_1794960597.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2026-11-17"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2026-11-17"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-11-17"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-11-17"
+    }
+  ],
+  "denominacion": "Por la que se ratifican 234 ascensos de Generales, Coroneles y Tenientes Coroneles del Ejército, Fuerza Aérea Mexicanos y Guardia Nacional.",
+  "id": "sil-5199594",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5199594",
+  "sources": [
+    {
+      "archivo": "fuentes/d5/d59ca803b50267ef9fad8eb73db3c985174467cc3effde4fef71ce96fc554cc2.html",
+      "consultado": "2026-11-18T20:23:03Z",
+      "sha256": "d59ca803b50267ef9fad8eb73db3c985174467cc3effde4fef71ce96fc554cc2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199594&Asunto=5199291"
+    },
+    {
+      "archivo": "fuentes/a9/a9dc73e212f6219934d66c8c6f33f11a42e2b94cdf54ea5f3bd7ca63e378054f.html",
+      "consultado": "2026-11-18T20:23:09Z",
+      "sha256": "a9dc73e212f6219934d66c8c6f33f11a42e2b94cdf54ea5f3bd7ca63e378054f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5199291&Seguimiento=5199594"
+    }
+  ],
+  "tramites": {
+    "5199291": [
+      {
+        "texto": "Aprobado omitir el requisito de 24 horas de publicación del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 102
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 102 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 17/11/2026",
+  "votaciones": [
+    "sil-5199291-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5199291",
+      "camara": "senado",
+      "fecha": "2026-11-17",
+      "result": "pass",
+      "texto": "Aprobado omitir el requisito de 24 horas de publicación del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}

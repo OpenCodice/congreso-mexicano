@@ -19,7 +19,15 @@
       "value": 0
     }
   ],
-  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado",
+  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado; votación 1 de 2 del asunto en ambas fuentes sin contar las mociones que registra el SIL",
+  "discrepancias": [
+    {
+      "no_listados_en_sil": [
+        "mauricio-vila-dosal"
+      ],
+      "votacion": "sil-4810782-2"
+    }
+  ],
   "expediente_id": "sil-4798658",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4757",
@@ -45,6 +53,7 @@
     }
   ],
   "start_date": "2024-11-27",
+  "votacion_sil": "sil-4810782-2",
   "votes": [
     {
       "group_id": "partido-morena",

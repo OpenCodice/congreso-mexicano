@@ -3,7 +3,7 @@
     {
       "clave": "4991161",
       "denominacion": "Que adiciona diversas disposiciones de la Ley General en materia de Humanidades Ciencias, Tecnologías e Innovación.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2025-12-03",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4991161_20251203_1764781234.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "5186089",
       "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-03",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5186089_20261103_1793764200.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -19,10 +19,18 @@
     {
       "clave": "5192314",
       "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.",
-      "estatus": "Turnado a revisora 10/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
       "fecha": "2026-11-10",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5192314_20261110_1793764202.pdf",
       "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5196180",
+      "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación.",
+      "estatus": "Pendiente en comisión(es) de revisora 18/11/2026",
+      "fecha": "2026-11-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5196180_20261118_1795020950.pdf",
+      "tipo": "Minuta"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -39,6 +47,14 @@
     {
       "estatus": "Turnado a revisora",
       "fecha": "2026-11-10"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-18"
     }
   ],
   "denominacion": "Con proyecto de decreto por el que adiciona diversas disposiciones de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.",
@@ -48,15 +64,15 @@
   "seguimiento": "5187430",
   "sources": [
     {
-      "archivo": "fuentes/54/54ae4525bfddee6891b681e277d334a0b25c7883505a9a174c1b7e452e04514e.html",
-      "consultado": "2026-11-18T10:50:03Z",
-      "sha256": "54ae4525bfddee6891b681e277d334a0b25c7883505a9a174c1b7e452e04514e",
+      "archivo": "fuentes/70/701ac6d7ee4fcaf526152e7680b8d33ec940b239d85b5d1b85c2631f609ecabf.html",
+      "consultado": "2026-11-19T11:52:03Z",
+      "sha256": "701ac6d7ee4fcaf526152e7680b8d33ec940b239d85b5d1b85c2631f609ecabf",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5187430&Asunto=5192314"
     },
     {
-      "archivo": "fuentes/e1/e16d5267cc0127834304009f6e5e53f23af591e07a0cb034a7bf6ade6f35f08e.html",
-      "consultado": "2026-11-18T10:50:08Z",
-      "sha256": "e16d5267cc0127834304009f6e5e53f23af591e07a0cb034a7bf6ade6f35f08e",
+      "archivo": "fuentes/3c/3c6386d0d379c5b434c9e5031fce8157b5916d0bbd39c9dc5b18021592b06abf.html",
+      "consultado": "2026-11-19T11:52:08Z",
+      "sha256": "3c6386d0d379c5b434c9e5031fce8157b5916d0bbd39c9dc5b18021592b06abf",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5192314&Seguimiento=5187430"
     }
   ],
@@ -85,7 +101,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado a revisora Pendiente 10/11/2026",
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 18/11/2026",
   "votaciones": [
     "sil-5192314-1"
   ],

@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "5195343",
+      "denominacion": "Con el que remite 108 expedientes de servicio de personal naval, para ratificación de diversos grados.",
+      "estatus": "Turnado al Ejecutivo 17/11/2026",
+      "fecha": "2026-11-11",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5195343_20261111_1794423709.pdf",
+      "tipo": "Ratificación de nombramientos"
+    },
+    {
+      "clave": "5199283",
+      "denominacion": "Por la que se ratifican 108 ascensos de diversos grados navales de la Armada de México.",
+      "estatus": "Turnado al Ejecutivo 17/11/2026",
+      "fecha": "2026-11-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199283_20261117_1794959157.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": null,
+  "cronologia": [
+    {
+      "estatus": "Aprobado en comisión(es) origen",
+      "fecha": "2026-11-17"
+    },
+    {
+      "estatus": "Dictamen presentado en pleno de origen",
+      "fecha": "2026-11-17"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-11-17"
+    },
+    {
+      "estatus": "Turnado al Ejecutivo",
+      "fecha": "2026-11-17"
+    }
+  ],
+  "denominacion": "Por la que se ratifican 108 ascensos de diversos grados navales de la Armada de México.",
+  "id": "sil-5199595",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5199595",
+  "sources": [
+    {
+      "archivo": "fuentes/78/78d046984d4c4df120998dff59cfe0c4eea51fb915d91333c1a32766cdc7c987.html",
+      "consultado": "2026-11-18T20:23:28Z",
+      "sha256": "78d046984d4c4df120998dff59cfe0c4eea51fb915d91333c1a32766cdc7c987",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199595&Asunto=5199283"
+    },
+    {
+      "archivo": "fuentes/e9/e9dc64f19afc4fbcbca0051722801d6ff822eb45d0cc28be24f51bcc200ab953.html",
+      "consultado": "2026-11-18T20:23:34Z",
+      "sha256": "e9dc64f19afc4fbcbca0051722801d6ff822eb45d0cc28be24f51bcc200ab953",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5199283&Seguimiento=5199595"
+    }
+  ],
+  "tramites": {
+    "5199283": [
+      {
+        "texto": "Aprobado omitir el requisito de 24 horas con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "",
+        "tipo": "Se dio lectura al asunto"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 91
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 91 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 17/11/2026",
+  "votaciones": [
+    "sil-5199283-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5199283",
+      "camara": "senado",
+      "fecha": "2026-11-17",
+      "result": "pass",
+      "texto": "Aprobado omitir el requisito de 24 horas con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}
