@@ -1,0 +1,41 @@
+{
+  "asunto": "5200531",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 86
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5199597",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5200531-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 86 En contra: 1 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/93/932593d570076167612e78518df2405adeddb58765e3da42c74fe7e6c0d1240c.html",
+      "consultado": "2026-11-19T21:18:15Z",
+      "sha256": "932593d570076167612e78518df2405adeddb58765e3da42c74fe7e6c0d1240c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5200531"
+    }
+  ],
+  "start_date": "2026-11-18",
+  "votes": [],
+  "votos_publicados": false
+}

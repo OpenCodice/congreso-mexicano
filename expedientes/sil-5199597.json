@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "5010740",
+      "denominacion": "Que reforma los artículos 9, 10, 10 bis, 10 ter, 11, 12, 13, 14, 15, 16, 17, 19, 20, 22, 24, 24 ter, 35, 36, 44, 51, 52, 53 y octavo transitorio de la Ley de la Comisión Nacional de los Derechos Humanos.",
+      "estatus": "Turnado a revisora 18/11/2026",
+      "fecha": "2026-02-10",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5010740_20260210_1770144069.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5199039",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
+      "estatus": "Turnado a revisora 18/11/2026",
+      "fecha": "2026-11-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199039_20261117_1794938204.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5200531",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
+      "estatus": "Turnado a revisora 18/11/2026",
+      "fecha": "2026-11-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5200531_20261118_1794938205.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-18"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
+  "id": "sil-5199597",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5199597",
+  "sources": [
+    {
+      "archivo": "fuentes/b9/b9f98c927588f7e30e5088dfe8d3dddfc7ff71b3e5569be5294d3016eae7f8d6.html",
+      "consultado": "2026-11-19T21:18:03Z",
+      "sha256": "b9f98c927588f7e30e5088dfe8d3dddfc7ff71b3e5569be5294d3016eae7f8d6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199597&Asunto=5200531"
+    },
+    {
+      "archivo": "fuentes/20/2042296106391a3037bd63371d6727be74421d8147966f16cd13bf12707ac480.html",
+      "consultado": "2026-11-19T21:18:09Z",
+      "sha256": "2042296106391a3037bd63371d6727be74421d8147966f16cd13bf12707ac480",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5200531&Seguimiento=5199597"
+    }
+  ],
+  "tramites": {
+    "5200531": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 1,
+          "yes": 86
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 86 En contra: 1 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 18/11/2026",
+  "votaciones": [
+    "sil-5200531-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5200531",
+      "camara": "senado",
+      "fecha": "2026-11-18",
+      "result": "pass",
+      "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}

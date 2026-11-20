@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "4825805",
+      "denominacion": "Que declara el 9 de diciembre de cada año, como el -Día Nacional de las Personas Migrantes-.",
+      "estatus": "Turnado a revisora 18/11/2026",
+      "fecha": "2024-12-13",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825805_20241213_1733857192.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5042778",
+      "denominacion": "Con proyecto de decreto por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
+      "estatus": "Turnado a revisora 18/11/2026",
+      "fecha": "2026-03-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042778_20260319_1773942357.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5200540",
+      "denominacion": "Por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
+      "estatus": "Turnado a revisora 18/11/2026",
+      "fecha": "2026-11-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5200540_20261118_1794949599.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-18"
+    }
+  ],
+  "denominacion": "Por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
+  "id": "sil-5047899",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5047899",
+  "sources": [
+    {
+      "archivo": "fuentes/39/39ca380c9d509d809aeca6f1de7d571b70a05732a64154f7442bf2e7f2724650.html",
+      "consultado": "2026-11-19T21:17:03Z",
+      "sha256": "39ca380c9d509d809aeca6f1de7d571b70a05732a64154f7442bf2e7f2724650",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5047899&Asunto=5200540"
+    },
+    {
+      "archivo": "fuentes/93/935ca12869e89e536a249803d69f87bad84234de56e5908fe3e3367977015fd6.html",
+      "consultado": "2026-11-19T21:17:09Z",
+      "sha256": "935ca12869e89e536a249803d69f87bad84234de56e5908fe3e3367977015fd6",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5200540&Seguimiento=5047899"
+    }
+  ],
+  "tramites": {
+    "5200540": [
+      {
+        "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 18/11/2026",
+  "votaciones": [
+    "sil-5200540-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5200540",
+      "camara": "senado",
+      "fecha": "2026-11-18",
+      "result": "pass",
+      "texto": "Aprobado omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}

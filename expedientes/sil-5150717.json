@@ -3,7 +3,7 @@
     {
       "clave": "5120731",
       "denominacion": "Con Proyecto de Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera.",
-      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "estatus": "Publicado en DOF 19/11/2026",
       "fecha": "2026-09-02",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5120731_20260902_1788366105.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "5149755",
       "denominacion": "Con proyecto de decreto por el que se reforma, adiciona y deroga diversas disposiciones a la Ley de Inversión Extranjera.",
-      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "estatus": "Publicado en DOF 19/11/2026",
       "fecha": "2026-09-30",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/09/asun_5149755_20260930_1791218097.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -19,7 +19,7 @@
     {
       "clave": "5151066",
       "denominacion": "Que reforma, adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
-      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "estatus": "Publicado en DOF 19/11/2026",
       "fecha": "2026-10-06",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5151066_20261006_1791306722.pdf",
       "tipo": "Minuta"
@@ -27,7 +27,7 @@
     {
       "clave": "5176014",
       "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
-      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "estatus": "Publicado en DOF 19/11/2026",
       "fecha": "2026-10-27",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5176014_20261027_1793292144.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -35,7 +35,7 @@
     {
       "clave": "5177675",
       "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
-      "estatus": "Turnado al Ejecutivo 27/10/2026",
+      "estatus": "Publicado en DOF 19/11/2026",
       "fecha": "2026-10-27",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/10/asun_5177675_20261027_1793128907.pdf",
       "tipo": "Dictamen a discusión"
@@ -55,24 +55,28 @@
     {
       "estatus": "Turnado al Ejecutivo",
       "fecha": "2026-10-27"
+    },
+    {
+      "estatus": "Publicado en DOF",
+      "fecha": "2026-11-19"
     }
   ],
   "denominacion": "Que reforma adiciona y deroga diversas disposiciones de la Ley de Inversión Extranjera.",
   "id": "sil-5150717",
   "legislatura": "LXVI",
-  "publicado_dof": null,
+  "publicado_dof": "2026-11-19",
   "seguimiento": "5150717",
   "sources": [
     {
-      "archivo": "fuentes/74/74051e70b441ab0e90af5ded5b8d7f0f08e8774c8b4473e699f7091bbcc06bf3.html",
-      "consultado": "2026-11-19T11:35:26Z",
-      "sha256": "74051e70b441ab0e90af5ded5b8d7f0f08e8774c8b4473e699f7091bbcc06bf3",
+      "archivo": "fuentes/b5/b5dcf7a345630da86e13d864ee8de00c569546cfe0b4e17e81d3176d51c038e5.html",
+      "consultado": "2026-11-20T12:30:26Z",
+      "sha256": "b5dcf7a345630da86e13d864ee8de00c569546cfe0b4e17e81d3176d51c038e5",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5150717&Asunto=5177675"
     },
     {
-      "archivo": "fuentes/80/8001b87cacd71536ee320a1db8ff494c66b7e76e02d62e570b448a9343ee2843.html",
-      "consultado": "2026-11-19T11:35:32Z",
-      "sha256": "8001b87cacd71536ee320a1db8ff494c66b7e76e02d62e570b448a9343ee2843",
+      "archivo": "fuentes/f6/f6fe30d2fd6f8da935292935272c9154a7699e97439448b45e45d3349aa713c1.html",
+      "consultado": "2026-11-20T12:30:32Z",
+      "sha256": "f6fe30d2fd6f8da935292935272c9154a7699e97439448b45e45d3349aa713c1",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5177675&Seguimiento=5150717"
     }
   ],
@@ -162,7 +166,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado al Ejecutivo Aprobado 27/10/2026",
+  "ultimo_estatus": "Publicado en DOF Aprobado 19/11/2026",
   "votaciones": [
     "sil-5177675-1",
     "sil-5177675-2"

@@ -1,0 +1,41 @@
+{
+  "asunto": "5200939",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 470
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 2
+    }
+  ],
+  "expediente_id": "sil-5147520",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5200939-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que expide la Ley General en Materia de Bienestar, Cuidado y Protección de los Animales y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Sanidad Animal; de la Ley General de Vida Silvestre; de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; de la Ley General de Protección Civil; y de la Ley Federal de Cine y el Audiovisual.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 470 En contra: 0 Abstenciones 2"
+  },
+  "orden": 1,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/70/70777e2d86954ad4417d739c8130b041531a8c03ebb0d9a550e7c4f3118ed677.html",
+      "consultado": "2026-11-19T21:17:28Z",
+      "sha256": "70777e2d86954ad4417d739c8130b041531a8c03ebb0d9a550e7c4f3118ed677",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5200939"
+    }
+  ],
+  "start_date": "2026-11-18",
+  "votes": [],
+  "votos_publicados": false
+}

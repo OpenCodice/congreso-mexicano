@@ -6,7 +6,7 @@
       "estatus": "Toma de protesta 02/12/2025",
       "fecha": "2025-11-25",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4980960_20251125_1764092143.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4988380",
@@ -53,14 +53,14 @@
   "sources": [
     {
       "archivo": "fuentes/9a/9a16d0d4f6930f51835c506ab12cbfbea7760698ba35813e8144a208f26bd254.html",
-      "consultado": "2026-11-18T22:46:32Z",
+      "consultado": "2026-11-19T23:37:09Z",
       "sha256": "9a16d0d4f6930f51835c506ab12cbfbea7760698ba35813e8144a208f26bd254",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4990651&Asunto=4989538"
     },
     {
-      "archivo": "fuentes/f8/f8fe8b6b89e4b3acf689e024d42dccbe6478a04706c271c29fbb64273408f8e9.html",
-      "consultado": "2026-11-18T22:46:38Z",
-      "sha256": "f8fe8b6b89e4b3acf689e024d42dccbe6478a04706c271c29fbb64273408f8e9",
+      "archivo": "fuentes/08/08bf7a409fcf8dda5618c28498b23f36bc56a043d6857447852e81448f7f4096.html",
+      "consultado": "2026-11-19T23:37:15Z",
+      "sha256": "08bf7a409fcf8dda5618c28498b23f36bc56a043d6857447852e81448f7f4096",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4989538&Seguimiento=4990651"
     }
   ],

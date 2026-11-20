@@ -6,7 +6,7 @@
       "estatus": "Resuelto / Aprobado 13/11/2024",
       "fecha": "2024-11-12",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800089_20241112_1731423794.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4803242",
@@ -45,14 +45,14 @@
   "sources": [
     {
       "archivo": "fuentes/71/71268a1bcfcf1bdb9e3659182e4dfcf22d7e2385a9f6886ab7053a7685de177a.html",
-      "consultado": "2026-11-18T19:46:27Z",
+      "consultado": "2026-11-19T20:46:03Z",
       "sha256": "71268a1bcfcf1bdb9e3659182e4dfcf22d7e2385a9f6886ab7053a7685de177a",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4803933&Asunto=4803242"
     },
     {
-      "archivo": "fuentes/60/605ca1d81a0fc675bb92b6744f5061991f14b90b80c159648e0f462595766ff9.html",
-      "consultado": "2026-11-18T19:46:28Z",
-      "sha256": "605ca1d81a0fc675bb92b6744f5061991f14b90b80c159648e0f462595766ff9",
+      "archivo": "fuentes/6c/6cb05aa04f9cdbf6c067b6e1c3d62227affbb66dc5b88cdff0b424ec8c331dcb.html",
+      "consultado": "2026-11-19T20:46:09Z",
+      "sha256": "6cb05aa04f9cdbf6c067b6e1c3d62227affbb66dc5b88cdff0b424ec8c331dcb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4803242&Seguimiento=4803933"
     }
   ],

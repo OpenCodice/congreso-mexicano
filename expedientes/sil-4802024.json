@@ -6,7 +6,7 @@
       "estatus": "Toma de protesta 13/11/2024",
       "fecha": "2024-11-12",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800602_20241112_1731426569.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4800605",
@@ -14,7 +14,7 @@
       "estatus": "Toma de protesta 13/11/2024",
       "fecha": "2024-11-12",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800605_20241112_1731426593.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4800608",
@@ -22,7 +22,7 @@
       "estatus": "Toma de protesta 13/11/2024",
       "fecha": "2024-11-12",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4800608_20241112_1731426607.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4800623",
@@ -65,14 +65,14 @@
   "sources": [
     {
       "archivo": "fuentes/4b/4ba294af087ab3df71381cf133e2dda1c3b23186300b4188135171e6afbcf2cb.html",
-      "consultado": "2026-11-18T19:45:34Z",
+      "consultado": "2026-11-19T20:45:20Z",
       "sha256": "4ba294af087ab3df71381cf133e2dda1c3b23186300b4188135171e6afbcf2cb",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4802024&Asunto=4800623"
     },
     {
-      "archivo": "fuentes/7a/7a7f20338fc80e181c1f5a38b7a02fc461b803f8b6a30711f25b293a5fb85fe6.html",
-      "consultado": "2026-11-18T19:45:40Z",
-      "sha256": "7a7f20338fc80e181c1f5a38b7a02fc461b803f8b6a30711f25b293a5fb85fe6",
+      "archivo": "fuentes/b6/b6d1b88c054f62ad5b1f023e655dbe28f0f384c9151166bb37d96bda39a500d2.html",
+      "consultado": "2026-11-19T20:45:26Z",
+      "sha256": "b6d1b88c054f62ad5b1f023e655dbe28f0f384c9151166bb37d96bda39a500d2",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4800623&Seguimiento=4802024"
     }
   ],
