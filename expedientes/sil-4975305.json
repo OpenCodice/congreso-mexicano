@@ -6,7 +6,7 @@
       "estatus": "Turnado al Ejecutivo 12/11/2025",
       "fecha": "2025-11-11",
       "pdf": null,
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4974204",
@@ -45,14 +45,14 @@
   "sources": [
     {
       "archivo": "fuentes/7a/7aee1d38b856de079baf2edeb5ed22dd64bde32f6806a7841f146b73379e33c3.html",
-      "consultado": "2026-11-18T23:58:02Z",
+      "consultado": "2026-11-20T00:11:45Z",
       "sha256": "7aee1d38b856de079baf2edeb5ed22dd64bde32f6806a7841f146b73379e33c3",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4975305&Asunto=4974204"
     },
     {
-      "archivo": "fuentes/b6/b6b390d97b96ee7d48e36e309ad2c42ae3058ffb36dbf67a6fb8446ae7ceadfc.html",
-      "consultado": "2026-11-18T23:58:08Z",
-      "sha256": "b6b390d97b96ee7d48e36e309ad2c42ae3058ffb36dbf67a6fb8446ae7ceadfc",
+      "archivo": "fuentes/83/83146b6a112e4ef938f3f6df308c122fb7224cedd137b0e4c66727f9bef07287.html",
+      "consultado": "2026-11-20T00:12:20Z",
+      "sha256": "83146b6a112e4ef938f3f6df308c122fb7224cedd137b0e4c66727f9bef07287",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4974204&Seguimiento=4975305"
     }
   ],

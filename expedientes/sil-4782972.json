@@ -6,7 +6,7 @@
       "estatus": "Toma de protesta 09/10/2024",
       "fecha": "2024-10-08",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4780870_20241008_1728400787.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "4782744",
@@ -14,7 +14,7 @@
       "estatus": "Toma de protesta 09/10/2024",
       "fecha": "2024-10-09",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4782744_20241009_1728485965.pdf",
-      "tipo": "Dictamen a discusión"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -44,15 +44,15 @@
   "seguimiento": "4782972",
   "sources": [
     {
-      "archivo": "fuentes/2e/2ec826f3124dc31ec4015ca90a5402aa5be73da63886af8f73f2c05f76becfb6.html",
-      "consultado": "2026-11-18T19:33:03Z",
-      "sha256": "2ec826f3124dc31ec4015ca90a5402aa5be73da63886af8f73f2c05f76becfb6",
+      "archivo": "fuentes/36/361b4b6a22d04a6885890075c91cbed4d53a21f633d0b7d28a23970b11b16b60.html",
+      "consultado": "2026-11-19T20:32:44Z",
+      "sha256": "361b4b6a22d04a6885890075c91cbed4d53a21f633d0b7d28a23970b11b16b60",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=4782972&Asunto=4782744"
     },
     {
-      "archivo": "fuentes/15/158e1631a2f2e11a4b0531bae9d1a59ee7302fc6a4ede2aca29054cc21372c85.html",
-      "consultado": "2026-11-18T19:33:09Z",
-      "sha256": "158e1631a2f2e11a4b0531bae9d1a59ee7302fc6a4ede2aca29054cc21372c85",
+      "archivo": "fuentes/fb/fb009f9cc1d559fb19b2716cc173b56fcb1af784fa2efb3e27d87915b4b33681.html",
+      "consultado": "2026-11-19T20:33:02Z",
+      "sha256": "fb009f9cc1d559fb19b2716cc173b56fcb1af784fa2efb3e27d87915b4b33681",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=4782744&Seguimiento=4782972"
     }
   ],

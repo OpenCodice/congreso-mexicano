@@ -265,13 +265,13 @@
   "sources": [
     {
       "archivo": "fuentes/38/380ce02d755d7e053a10a215e558fe37e9a803237e54110d779e732c1cf68b86.html",
-      "consultado": "2026-11-19T11:34:15Z",
+      "consultado": "2026-11-20T12:29:15Z",
       "sha256": "380ce02d755d7e053a10a215e558fe37e9a803237e54110d779e732c1cf68b86",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5147520&Asunto=5146382"
     },
     {
       "archivo": "fuentes/90/90648d70685b43f119125402cd1a9c18afe160887ff564f44222f50136687497.html",
-      "consultado": "2026-11-19T11:34:21Z",
+      "consultado": "2026-11-20T12:29:21Z",
       "sha256": "90648d70685b43f119125402cd1a9c18afe160887ff564f44222f50136687497",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5146382&Seguimiento=5147520"
     }
@@ -328,12 +328,44 @@
         "texto": "",
         "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
       }
+    ],
+    "5200939": [
+      {
+        "texto": "La presidencia de la Mesa Directiva informa de la presentación del dictamen de la Comisión de Medio Ambiente y Recursos Naturales, que expide la Ley General del Equilibrio Ecológico y la Protección al Ambiente.",
+        "tipo": "Instrucciones de la Mesa Directiva"
+      },
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "texto": "la presidencia de la Mesa Directiva informa que se integrarán en el Diario de los Debates.",
+        "tipo": "Reserva de artículos"
+      },
+      {
+        "texto": "",
+        "tipo": "No hubo registro de oradores"
+      },
+      {
+        "conteos": {
+          "abstain": 2,
+          "no": 0,
+          "yes": 470
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 470 En contra: 0 Abstenciones 2",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese al Ejecutivo Federal"
+      }
     ]
   },
   "ultimo_estatus": "Turnado al Ejecutivo Aprobado 18/11/2026",
   "votaciones": [
     "sil-5146382-1",
-    "sil-5146382-2"
+    "sil-5146382-2",
+    "sil-5200939-1"
   ],
   "votaciones_economicas": [
     {
@@ -384,6 +416,13 @@
       "fecha": "2026-09-29",
       "result": "pass",
       "texto": "Aprobado admitir a discusión la reserva de los senadores Moisés Ignacio Mier Velazco (Morena), Higinio Martínez Miranda (Morena) y la senadora Verónica Noemí Camino Farjat (Morena)."
+    },
+    {
+      "asunto": "5200939",
+      "camara": "diputados",
+      "fecha": "2026-11-18",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular."
     }
   ]
 }

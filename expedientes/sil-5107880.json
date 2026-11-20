@@ -6,7 +6,7 @@
       "estatus": "Toma de protesta 01/07/2026",
       "fecha": "2026-07-01",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/07/asun_5106921_20260701_1782838051.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "5107628",
@@ -49,14 +49,14 @@
   "sources": [
     {
       "archivo": "fuentes/84/842c9caaa0fc3a58f311963cca3095d06ffd5e0ce5d3ec9efb8ab8401570c851.html",
-      "consultado": "2026-11-19T11:27:44Z",
+      "consultado": "2026-11-20T12:22:44Z",
       "sha256": "842c9caaa0fc3a58f311963cca3095d06ffd5e0ce5d3ec9efb8ab8401570c851",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5107880&Asunto=5107628"
     },
     {
-      "archivo": "fuentes/66/66ac4e72c2783de488c5a1051d6d44eca5e5e3efaab244248a1724e60a1437eb.html",
-      "consultado": "2026-11-19T11:28:02Z",
-      "sha256": "66ac4e72c2783de488c5a1051d6d44eca5e5e3efaab244248a1724e60a1437eb",
+      "archivo": "fuentes/8c/8cbe1397da08044c6865f993eb3c3dc80a9dc09469c27a2e3095a7303aa47578.html",
+      "consultado": "2026-11-20T12:23:02Z",
+      "sha256": "8cbe1397da08044c6865f993eb3c3dc80a9dc09469c27a2e3095a7303aa47578",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5107628&Seguimiento=5107880"
     }
   ],

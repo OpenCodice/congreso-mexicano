@@ -27,6 +27,10 @@
   "orden": 1,
   "organization_id": "comision-permanente",
   "result": "pass",
+  "retirada_de_la_fuente": {
+    "detectada": "2026-11-20",
+    "nota": "la fuente dejó de publicarlo; se conserva la última versión obtenida"
+  },
   "sources": [
     {
       "archivo": "fuentes/5d/5dde0c6f25d87ec127aecec45f1f21bfdac85d2e2bbeb03284c8fc4cb58a5e08.html",

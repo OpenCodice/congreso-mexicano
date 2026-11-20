@@ -6,7 +6,7 @@
       "estatus": "Turnado al Ejecutivo 17/11/2026",
       "fecha": "2026-11-11",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5195343_20261111_1794423709.pdf",
-      "tipo": "Ratificación de nombramientos"
+      "tipo": "Ratificación de nombramientos del Ejecutivo Federal"
     },
     {
       "clave": "5199283",
@@ -45,14 +45,14 @@
   "sources": [
     {
       "archivo": "fuentes/78/78d046984d4c4df120998dff59cfe0c4eea51fb915d91333c1a32766cdc7c987.html",
-      "consultado": "2026-11-18T20:23:28Z",
+      "consultado": "2026-11-19T22:05:26Z",
       "sha256": "78d046984d4c4df120998dff59cfe0c4eea51fb915d91333c1a32766cdc7c987",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199595&Asunto=5199283"
     },
     {
-      "archivo": "fuentes/e9/e9dc64f19afc4fbcbca0051722801d6ff822eb45d0cc28be24f51bcc200ab953.html",
-      "consultado": "2026-11-18T20:23:34Z",
-      "sha256": "e9dc64f19afc4fbcbca0051722801d6ff822eb45d0cc28be24f51bcc200ab953",
+      "archivo": "fuentes/db/db92c5ee6327c54cc0a570d5c541193a06a36993df4e3f1eab6060fd96dfd817.html",
+      "consultado": "2026-11-19T22:05:32Z",
+      "sha256": "db92c5ee6327c54cc0a570d5c541193a06a36993df4e3f1eab6060fd96dfd817",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5199283&Seguimiento=5199595"
     }
   ],

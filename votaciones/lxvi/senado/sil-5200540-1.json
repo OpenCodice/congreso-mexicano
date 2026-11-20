@@ -1,0 +1,41 @@
+{
+  "asunto": "5200540",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 90
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5047899",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5200540-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/01/0173ce1ab1acd83eae7a837bc803a13dde396e365f1ef4c3b1dd6e1ece4a7555.html",
+      "consultado": "2026-11-19T21:17:16Z",
+      "sha256": "0173ce1ab1acd83eae7a837bc803a13dde396e365f1ef4c3b1dd6e1ece4a7555",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5200540"
+    }
+  ],
+  "start_date": "2026-11-18",
+  "votes": [],
+  "votos_publicados": false
+}
