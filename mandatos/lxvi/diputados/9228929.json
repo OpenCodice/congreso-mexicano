@@ -1,0 +1,37 @@
+{
+  "area": {
+    "entidad": "puebla"
+  },
+  "calidad": "suplente",
+  "comisiones": [],
+  "estatus": "Activo(a)",
+  "formula": null,
+  "id": "sil-9228929",
+  "identifiers": [
+    {
+      "identifier": "9228929",
+      "scheme": "sil-referencia"
+    }
+  ],
+  "legislative_period_id": "lxvi",
+  "licencias": [],
+  "on_behalf_of_id": "partido-morena",
+  "organization_id": "camara-de-diputados",
+  "partido_fuente": "Morena",
+  "person_id": "luvithelman-del-rosario-grajales-gutierrez",
+  "principio": "representacion-proporcional",
+  "role": "diputado",
+  "sources": [
+    {
+      "consultado": "2026-11-19T20:02:04Z",
+      "sha256": "9809dca40db5e37c09a918a6e5b2882b6c5a98d690eb7b9d703cb241dfff34cb",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
+    },
+    {
+      "consultado": "2026-11-19T21:02:09Z",
+      "sha256": "24fff9058bcaaed452ef245d1bf40954ee62bb1924a37f6b752eb6762b20b929",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228929"
+    }
+  ],
+  "start_date": "2026-11-18"
+}
