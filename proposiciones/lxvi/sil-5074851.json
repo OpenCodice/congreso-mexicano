@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta al gobierno del estado de Zacatecas, a través de la Secretaría del Campo para que, en coordinación con las autoridades federales en la materia, refuercen de manera inmediata las acciones de vigilancia epidemiológica, control sanitario y contención del gusano barrenador del ganado, a fin de evitar su propagación en la entidad y en regiones colindantes, así como a implementar los mecanismos de inspección, movilización y control de ganado, con el objetivo de prevenir la diseminación del gusano barrenador y proteger la sanidad animal y la economía de las y los productores.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-21",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 21-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-21",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5204977",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/b7/b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a.html.gz",
+      "consultado": "2026-11-20T14:21:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

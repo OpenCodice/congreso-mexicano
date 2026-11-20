@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que expide la Ley General de Justicia Cívica e Itinerante.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-15",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 15-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-15",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5202489",
   "sources": [
     {
-      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
-      "consultado": "2026-11-17T07:57:22Z",
+      "archivo": "fuentes/b2/b2cf106f28bb853460d31feabc0acb7996be485af7cbf865c73f214e7cc9d595.html.gz",
+      "consultado": "2026-11-20T14:17:18Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "sha256": "b2cf106f28bb853460d31feabc0acb7996be485af7cbf865c73f214e7cc9d595",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

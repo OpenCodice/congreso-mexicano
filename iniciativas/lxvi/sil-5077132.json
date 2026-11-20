@@ -26,10 +26,10 @@
   ],
   "denominacion": "Que reforma el artículo 26 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-22",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 22-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-22",
@@ -45,11 +45,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5204986",
   "sources": [
     {
-      "archivo": "fuentes/c7/c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a.html.gz",
-      "consultado": "2026-11-17T07:57:42Z",
+      "archivo": "fuentes/80/807a44e6a2a32b52de5a28fed3e9f3b594e76f59e6d526ca0eba709732543da0.html.gz",
+      "consultado": "2026-11-20T14:17:31Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "c78ebb42be118fc277933a8e53183c3b9ece46f921ec5e79e762a8334c2bd82a",
+      "sha256": "807a44e6a2a32b52de5a28fed3e9f3b594e76f59e6d526ca0eba709732543da0",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

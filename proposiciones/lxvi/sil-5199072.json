@@ -1,0 +1,143 @@
+{
+  "camara_origen": "senado",
+  "clave": "5199072",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a los congresos de las entidades federativas que aún penalizan el aborto a realizar la armonización legislativa en sus códigos penales para eliminar el tipo penal.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-17",
+  "id": "sil-5199072",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229165",
+      "nombre_fuente": "Sen. Eréndira Olimpia Cova Brindis",
+      "person_id": "erendira-olimpia-cova-brindis",
+      "referencia_sil": "9229165",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228723",
+      "nombre_fuente": "Sen. Jennifer Kristel Parra Salas",
+      "person_id": "jennifer-kristel-parra-salas",
+      "referencia_sil": "9228723",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228950",
+      "nombre_fuente": "Sen. Sandra Simey Olvera Bautista",
+      "person_id": "sandra-simey-olvera-bautista",
+      "referencia_sil": "9228950",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229168",
+      "nombre_fuente": "Sen. Claudia Tello Espinosa",
+      "person_id": "claudia-tello-espinosa",
+      "referencia_sil": "9229168",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229263",
+      "nombre_fuente": "Sen. María Guadalupe Chavira De La Rosa",
+      "person_id": "maria-guadalupe-chavira-de-la-rosa",
+      "referencia_sil": "9229263",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229252",
+      "nombre_fuente": "Sen. Amalia Dolores García Medina",
+      "person_id": "amalia-dolores-garcia-medina",
+      "referencia_sil": "9229252",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229137",
+      "nombre_fuente": "Sen. Alejandra Berenice Arias Trevilla",
+      "person_id": "alejandra-berenice-arias-trevilla",
+      "referencia_sil": "9229137",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229125",
+      "nombre_fuente": "Sen. Ana Francis Chiquete Elizalde",
+      "person_id": "ana-francis-chiquete-elizalde",
+      "referencia_sil": "9229125",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228918",
+      "nombre_fuente": "Sen. Lilia Margarita Valdez Martínez",
+      "person_id": "lilia-margarita-valdez-martinez",
+      "referencia_sil": "9228918",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229271",
+      "nombre_fuente": "Sen. Blanca Elizabeth Fiesco Díaz",
+      "person_id": "blanca-elizabeth-fiesco-diaz",
+      "referencia_sil": "9229271",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229080",
+      "nombre_fuente": "Sen. Beatriz Silvia Robles Gutiérrez",
+      "person_id": "beatriz-silvia-robles-gutierrez",
+      "referencia_sil": "9229080",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229276",
+      "nombre_fuente": "Sen. Martha Lucía Micher Camarena",
+      "person_id": "martha-lucia-micher-camarena",
+      "referencia_sil": "9229276",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/a5/a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304.html.gz",
+      "consultado": "2026-11-20T00:12:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "20/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

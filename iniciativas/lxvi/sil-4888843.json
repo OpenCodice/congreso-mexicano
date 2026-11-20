@@ -31,7 +31,7 @@
     "resultado": "pendiente",
     "texto": "Turnado a revisora el 18-NOV-2026"
   },
-  "expediente_id": null,
+  "expediente_id": "sil-5199599",
   "fecha_presentacion": "2025-04-28",
   "id": "sil-4888843",
   "legislative_period_id": "lxvi",
@@ -48,8 +48,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/76/761a55697074f30c9bf1c05997a29ec14f5f91fd8b4a015ff967924bdf359333.html.gz",
-      "consultado": "2026-11-19T12:23:41Z",
+      "archivo": "fuentes/13/13a558fee88c0878e0d1bd3665bf0e6583878713cf1f003d7769e39af6a1e2a9.html.gz",
+      "consultado": "2026-11-20T13:18:25Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "761a55697074f30c9bf1c05997a29ec14f5f91fd8b4a015ff967924bdf359333",
+      "sha256": "13a558fee88c0878e0d1bd3665bf0e6583878713cf1f003d7769e39af6a1e2a9",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

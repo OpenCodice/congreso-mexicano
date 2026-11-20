@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5202672",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Justicia",
+      "referencia": "2085555",
+      "texto": "1.-Diputados -Justicia .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma diversas disposiciones del Código Nacional de Procedimientos Penales, en materia de solicitud del procedimiento abreviado por parte del acusado.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-19",
+  "id": "sil-5202672",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228826",
+      "nombre_fuente": "Dip. Arturo Ávila Anaya",
+      "person_id": "arturo-avila-anaya",
+      "referencia_sil": "9228826",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5204290",
+  "sources": [
+    {
+      "archivo": "fuentes/11/11f5a1cb24e7a91aa3dc5eb9d17ee4b4ec9045421f1b9a83a5efeb9a4f454891.html.gz",
+      "consultado": "2026-11-20T00:12:05Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "20/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "11f5a1cb24e7a91aa3dc5eb9d17ee4b4ec9045421f1b9a83a5efeb9a4f454891",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Justicia"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2025-07-16",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 16-JUL-2025"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-07-16",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5202491",
   "sources": [
     {
-      "archivo": "fuentes/5f/5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800.html.gz",
-      "consultado": "2026-11-17T07:55:30Z",
+      "archivo": "fuentes/c5/c55460b0d48477901548439a493dec8fe3975b8f49d67a8fd4f98956533bf31a.html.gz",
+      "consultado": "2026-11-20T13:18:42Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "5f86a4ef64808b20c8ea15a44b69c5b700ecd3047df23a950b6e7d18af203800",
+      "sha256": "c55460b0d48477901548439a493dec8fe3975b8f49d67a8fd4f98956533bf31a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
