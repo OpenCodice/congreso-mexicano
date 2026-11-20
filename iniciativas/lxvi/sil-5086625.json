@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de Aviación Civil.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-29",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5205030",
   "sources": [
     {
-      "archivo": "fuentes/4a/4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b.html.gz",
-      "consultado": "2026-11-17T07:57:56Z",
+      "archivo": "fuentes/b5/b5eeb3d4143e2985cce8c6f8c664dc8b16c7d9c8fe6dc229bbc0a881d6e9de8a.html.gz",
+      "consultado": "2026-11-20T14:17:41Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "4a5ef872f3ff7e6c0acc0807c77a8a8e8f203fa95cd609b3538c25b46691d44b",
+      "sha256": "b5eeb3d4143e2985cce8c6f8c664dc8b16c7d9c8fe6dc229bbc0a881d6e9de8a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

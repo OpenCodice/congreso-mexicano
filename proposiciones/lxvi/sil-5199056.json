@@ -1,0 +1,129 @@
+{
+  "camara_origen": "senado",
+  "clave": "5199056",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Educación",
+      "referencia": "2085517",
+      "texto": "1.-Senado -Educación.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Secretaría de Educación Pública para que lleva a cabo mesas de trabajo con los pueblos y comunidades afromexicanas, para la elaboración de materiales educativos culturalmente pertinentes, con enfoque regional, que incorporen su historia, conocimientos, tradiciones, patrimonio cultural y aportaciones a la conformación pluricultural de la Nación mexicana.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-17",
+  "id": "sil-5199056",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228945",
+      "nombre_fuente": "Sen. Francisco Arturo Pérez Pérez",
+      "person_id": "francisco-arturo-perez-perez",
+      "referencia_sil": "9228945",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228748",
+      "nombre_fuente": "Sen. Susana del Carmen Zatarain García",
+      "person_id": "susana-del-carmen-zatarain-garcia",
+      "referencia_sil": "9228748",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229032",
+      "nombre_fuente": "Sen. Ivideliza Reyes Hernández",
+      "person_id": "ivideliza-reyes-hernandez",
+      "referencia_sil": "9229032",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229264",
+      "nombre_fuente": "Sen. Susana Harp Iturribarría",
+      "person_id": "susana-harp-iturribarria",
+      "referencia_sil": "9229264",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229066",
+      "nombre_fuente": "Sen. Luisa Cortés García",
+      "person_id": "luisa-cortes-garcia",
+      "referencia_sil": "9229066",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229000",
+      "nombre_fuente": "Sen. Reyna Celeste Ascencio Ortega",
+      "person_id": "reyna-celeste-ascencio-ortega",
+      "referencia_sil": "9229000",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228750",
+      "nombre_fuente": "Sen. María Martina Kantún Can",
+      "person_id": "maria-martina-kantun-can",
+      "referencia_sil": "9228750",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229298",
+      "nombre_fuente": "Sen. Edith López Hernández",
+      "person_id": "edith-lopez-hernandez",
+      "referencia_sil": "9229298",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228941",
+      "nombre_fuente": "Sen. Patricia Guadalupe Ramírez Bazán",
+      "person_id": "patricia-guadalupe-ramirez-bazan",
+      "referencia_sil": "9228941",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/a5/a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304.html.gz",
+      "consultado": "2026-11-20T00:12:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "20/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Educación y Cultura"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

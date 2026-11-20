@@ -4,10 +4,10 @@
   "comisiones": [],
   "denominacion": "Por el que se se exhorta a las Juntas de Coordinación Política del Senado y la Cámara de Diputados del Honorable Congreso de la Unión a emitir un acuerdo relativo a la creación de una Comisión Especial de Diálogo Parlamentario entre el Congreso mexicano y el de los Estados Unidos de América.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-15",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 15-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-15",
@@ -30,11 +30,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5204960",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/b7/b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a.html.gz",
+      "consultado": "2026-11-20T14:21:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -53,7 +53,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

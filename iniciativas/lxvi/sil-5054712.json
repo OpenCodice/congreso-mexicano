@@ -19,10 +19,10 @@
   ],
   "denominacion": "Por la que se reforman los artículos 2, 8 y 301 de la Ley del Seguro Social.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-03-25",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 25-MAR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-03-25",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5202493",
   "sources": [
     {
-      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
-      "consultado": "2026-11-17T07:56:58Z",
+      "archivo": "fuentes/4c/4c14f6c1a58f0a0efe0db216cdcd710d5437368b805ff8c5702c79bf275cc1ac.html.gz",
+      "consultado": "2026-11-20T13:19:43Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "sha256": "4c14f6c1a58f0a0efe0db216cdcd710d5437368b805ff8c5702c79bf275cc1ac",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5199091",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Seguimiento a la Implementación y Revisión del T-MEC",
+      "referencia": "2085541",
+      "texto": "1.-Senado -Seguimiento a la Implementación y Revisión del T-MEC.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a sus órganos de gobierno a promover la pronta realización de una Reunión Interparlamentaria con el Senado de los Estados Unidos durante el primer trimestre de 2027, contribuyendo a facilitar una revisión exitosa del Tratado entre México, Estados Unidos y Canadá (T-MEC), impulsar un entendimiento en materia migratoria y apuntalar una agenda parlamentaria de cooperación entre ambos países.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-17",
+  "id": "sil-5199091",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229212",
+      "nombre_fuente": "Sen. Ricardo Anaya Cortés",
+      "person_id": "ricardo-anaya-cortes",
+      "referencia_sil": "9229212",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/a5/a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304.html.gz",
+      "consultado": "2026-11-20T00:12:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "20/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto / solicitud al Poder Legislativo",
+  "temas": [
+    "Poder Legislativo"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

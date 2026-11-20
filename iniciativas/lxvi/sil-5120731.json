@@ -19,10 +19,10 @@
   ],
   "denominacion": "Con Proyecto de Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera.",
   "estatus": {
-    "estado": "Turnado al Ejecutivo",
-    "fecha": "2026-10-27",
+    "estado": "Publicado en DOF",
+    "fecha": "2026-11-19",
     "resultado": "aprobado",
-    "texto": "Turnado al Ejecutivo el 27-OCT-2026"
+    "texto": "Publicado en DOF el 19-NOV-2026"
   },
   "expediente_id": "sil-5150717",
   "fecha_presentacion": "2026-09-02",
@@ -38,8 +38,8 @@
   "seguimiento": "5150717",
   "sources": [
     {
-      "archivo": "fuentes/e9/e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b.html.gz",
-      "consultado": "2026-11-17T07:58:49Z",
+      "archivo": "fuentes/53/53f23ea122cee018afa21664de2e94d42e976cf378b1346431171c92948b7303.html.gz",
+      "consultado": "2026-11-20T14:18:25Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -58,7 +58,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "e93757fa28f0e869bdfaccfc2131a448b061e7f1c4e8fa988ca719c131c22f0b",
+      "sha256": "53f23ea122cee018afa21664de2e94d42e976cf378b1346431171c92948b7303",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

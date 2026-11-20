@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que expresa preocupación por las sentencias emitidas en los casos PES-420/2025 y SG-JDC-17/2026, al considerar que establecen criterios que restringen desproporcionadamente la libertad de expresión y vulneran la privacidad de las comunicaciones protegidas por los artículos 6° y 16 de la Constitución. Asimismo, se solicita a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación que, al resolver los medios de impugnación correspondientes y otros casos que involucren conflictos entre derechos fundamentales, privilegie una interpretación que salvaguarde la libertad de expresión y el derecho a la privacidad conforme a la Constitución y a los estándares más protectores de derechos humanos, evitando su uso como mecanismo de censura, y exhorta a las autoridades electorales a aplicar el test de proporcionalidad y un escrutinio más estricto tratándose de expresiones dirigidas a personas que ejercen o aspiran a funciones públicas.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-15",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 15-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-15",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5204959",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/b7/b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a.html.gz",
+      "consultado": "2026-11-20T14:21:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

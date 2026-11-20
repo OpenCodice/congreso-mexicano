@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la Secretaría de Seguridad y Protección Ciudadana, a la Guardia Nacional, a la Policía Cibernética, a la Procuraduría Federal del Consumidor, a la Agencia de Transformación Digital y Telecomunicaciones y a la Comisión Nacional Bancada y de Valores a fortalecer las acciones de prevención de fraudes en la compra de boletos en línea con motivo de la Copa Mundial de la FIFA 2026.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-22",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 22-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-22",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5204997",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/b7/b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a.html.gz",
+      "consultado": "2026-11-20T14:21:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

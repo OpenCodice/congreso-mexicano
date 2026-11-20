@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la Secretaría de Educación Pública, para que, en coordinación con la Secretaría de Cultura, así como a sus homólogas en las 32 entidades federativas, fortalezcan y amplien la disponibilidad de plataformas digitales gratuitas que faciliten el acceso a libros electrónicos, audiolibros y materiales educativos, a fin de ampliar las alternativas de acceso a contenidos educativos y de lectura.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-21",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 21-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-21",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5204981",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/b7/b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a.html.gz",
+      "consultado": "2026-11-20T14:21:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

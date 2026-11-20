@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5199081",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Para la Igualdad de Género",
+      "referencia": "2085497",
+      "texto": "1.-Senado -Para la Igualdad de Género.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Suprema Corte Justicia de la Nación, al Instituto Nacional Electoral, a los Partidos Políticos, al Tribunal Electoral del Poder Judicial de la Federación, al Sistema Nacional para el Desarrollo Integral de la Familia, a los Tribunales Superiores de Justicia de las entidades federativas, a los Organismos Públicos Locales Electorales, y a los Sistemas Estatales para el Desarrollo Integral de las Familias, para que establezcan un mecanismo para emitir las constancias a las personas candidatas a ocupar cargos de elección popular en 2027, en relación con los supuestos señalados en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-17",
+  "id": "sil-5199081",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229276",
+      "nombre_fuente": "Sen. Martha Lucía Micher Camarena",
+      "person_id": "martha-lucia-micher-camarena",
+      "referencia_sil": "9229276",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/a5/a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304.html.gz",
+      "consultado": "2026-11-20T00:12:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "20/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Poder Judicial"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

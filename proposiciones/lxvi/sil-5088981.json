@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la Secretaría de Educación Pública y a sus homólogas en las 32 entidades federativas a diseñar, fortalecer e implementar estrategias integrales de prevención de la deserción escolar de niñas, niños y adolescentes con discapacidad, que incluyan acompañamiento académico y psicosocial, así como acciones que atiendan las barreras económicas, sociales y educativas que inciden en el abandono escolar.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-04-29",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 29-ABR-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-04-29",
@@ -59,11 +59,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5205042",
   "sources": [
     {
-      "archivo": "fuentes/61/61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9.html.gz",
-      "consultado": "2026-11-17T08:02:54Z",
+      "archivo": "fuentes/b7/b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a.html.gz",
+      "consultado": "2026-11-20T14:21:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -82,7 +82,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "61b72b2ddc02561365ac81de91455aa2471ee45d5c4bb3b8995714eaaed325d9",
+      "sha256": "b7d1b7234a3066e413968ffca174050851ce350043b596ae26e83528d246691a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
