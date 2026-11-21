@@ -95,6 +95,10 @@
   "orden": 1,
   "organization_id": "senado",
   "result": "pass",
+  "retirada_de_la_fuente": {
+    "detectada": "2026-11-21",
+    "nota": "la fuente dejó de publicarlo; se conserva la última versión obtenida"
+  },
   "sources": [
     {
       "archivo": "fuentes/b7/b79e47240a64371af432629e13ddd791a715c49502557ad311de63b3e62a07c6.html",

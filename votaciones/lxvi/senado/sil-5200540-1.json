@@ -4,7 +4,7 @@
   "counts": [
     {
       "option": "yes",
-      "value": 90
+      "value": 93
     },
     {
       "option": "no",
@@ -22,16 +22,16 @@
   "motion": {
     "clasificacion": "Otro",
     "denominacion": "Por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
-    "text": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0"
+    "text": "Aprobado en lo general y en lo particular A Favor: 93 En contra: 0 Abstenciones 0"
   },
   "orden": 1,
   "organization_id": "senado",
   "result": "pass",
   "sources": [
     {
-      "archivo": "fuentes/01/0173ce1ab1acd83eae7a837bc803a13dde396e365f1ef4c3b1dd6e1ece4a7555.html",
-      "consultado": "2026-11-19T21:17:16Z",
-      "sha256": "0173ce1ab1acd83eae7a837bc803a13dde396e365f1ef4c3b1dd6e1ece4a7555",
+      "archivo": "fuentes/e2/e2566b11800bfb6fc5c73ce9c24e42321be8da87d6f903c2701dd344725e92a8.html",
+      "consultado": "2026-11-20T23:04:14Z",
+      "sha256": "e2566b11800bfb6fc5c73ce9c24e42321be8da87d6f903c2701dd344725e92a8",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5200540"
     }
   ],
