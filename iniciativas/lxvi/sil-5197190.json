@@ -1,0 +1,67 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5197190",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Medio Ambiente y Recursos Naturales",
+      "referencia": "2085557",
+      "texto": "1.-Diputados -Medio Ambiente y Recursos Naturales .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de calidad, continuidad y transparencia del servicio público de recolección de residuos sólidos urbano.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5197190",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228628",
+      "nombre_fuente": "Dip. Guillermo Rafael Santiago Rodríguez",
+      "person_id": "guillermo-rafael-santiago-rodriguez",
+      "referencia_sil": "9228628",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5205215",
+  "sources": [
+    {
+      "archivo": "fuentes/0a/0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f.html.gz",
+      "consultado": "2026-11-21T00:12:06Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "21/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Federalismo",
+    "Medio Ambiente"
+  ],
+  "tipo": "Iniciativa"
+}

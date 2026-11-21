@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5197139",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Igualdad de Género",
+      "referencia": "2085553",
+      "texto": "1.-Diputados -Igualdad de Género .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 42 de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, en materia de prevención de sesgos y estereotipos de género en sistemas de inteligencia artificial.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-18",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 18-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5197139",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229226",
+      "nombre_fuente": "Dip. Marcela Guerra Castillo",
+      "person_id": "marcela-guerra-castillo",
+      "referencia_sil": "9229226",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5205213",
+  "sources": [
+    {
+      "archivo": "fuentes/0a/0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f.html.gz",
+      "consultado": "2026-11-21T00:12:06Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "21/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social"
+  ],
+  "tipo": "Iniciativa"
+}

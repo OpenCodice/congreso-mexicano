@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5200830",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Junta de Coordinación Política-Cámara de Diputados LXVI (01/09/2026-31/08/2027)",
+      "referencia": "2246",
+      "texto": "1.-Diputados -Junta de Coordinación Política-Cámara de Diputados LXVI (01/09/2026-31/08/2027).-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhortar a la Jucopo a crear la Comisión Especial de seguimiento a la implementación del nuevo Código Nacional de Procedimientos Civiles y Familiares.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5200830",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228246",
+      "nombre_fuente": "Dip. Marisela Zúñiga Cerón",
+      "person_id": "marisela-zuniga-ceron",
+      "referencia_sil": "9228246",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/59/5968023546858c599b46ad4848d6a65d8ebd53efda903d290eca12d412a5b7e4.html.gz",
+      "consultado": "2026-11-21T00:12:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "21/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5968023546858c599b46ad4848d6a65d8ebd53efda903d290eca12d412a5b7e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Creación de comisiones o grupos de trabajo",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

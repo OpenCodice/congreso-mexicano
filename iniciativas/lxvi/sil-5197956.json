@@ -1,0 +1,87 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5197956",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Economía, Comercio y Competitividad",
+      "referencia": "2085550",
+      "texto": "1.-Diputados -Economía, Comercio y Competitividad .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona diversas disposiciones al Código de Comercio, en materia de reconocimiento y profesionalización de los agentes internacionales de carga.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5197956",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228579",
+      "nombre_fuente": "Dip. Miguel Ángel Salim Alle",
+      "person_id": "miguel-angel-salim-alle",
+      "referencia_sil": "9228579",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228800",
+      "nombre_fuente": "Dip. Pedro Miguel Haces Barba",
+      "person_id": "pedro-miguel-haces-barba",
+      "referencia_sil": "9228800",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228808",
+      "nombre_fuente": "Dip. Carlos Alfonso Candelaria López",
+      "person_id": "carlos-alfonso-candelaria-lopez",
+      "referencia_sil": "9228808",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228876",
+      "nombre_fuente": "Dip. Luz María Rodríguez Pérez",
+      "person_id": "luz-maria-rodriguez-perez",
+      "referencia_sil": "9228876",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/0a/0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f.html.gz",
+      "consultado": "2026-11-21T00:12:06Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "21/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Iniciativa"
+}
