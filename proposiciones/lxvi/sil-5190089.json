@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la Secretaría de Salud del gobierno federal, al Instituto Mexicano del Seguro Social, al Instituto de Seguridad y Servicios Sociales de los trabajadores del Estado y a las autoridades sanitarias de las 32 entidades federativas a implementar mecanismos que garanticen la atención psicológica integral, gratuita, oportuna y continua, como componente obligatorio de los protocolos de atención médica de las personas diagnosticadas con cáncer en los establecimientos hospitalarios públicos y privados del país.",
   "estatus": {
-    "estado": "Pendiente",
-    "fecha": null,
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-04",
     "resultado": "pendiente",
-    "texto": "Pendiente"
+    "texto": "Pendiente en comisión(es) de origen el 04-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-11-04",
@@ -31,18 +31,18 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": null,
+  "seguimiento": "5205147",
   "sources": [
     {
-      "archivo": "fuentes/53/533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5.html.gz",
-      "consultado": "2026-11-17T08:08:00Z",
+      "archivo": "fuentes/59/5968023546858c599b46ad4848d6a65d8ebd53efda903d290eca12d412a5b7e4.html.gz",
+      "consultado": "2026-11-21T00:12:10Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "17/11/2026",
+        "FECHA_FIN": "21/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "533c616fad72089f70132924c3c64598afe66535eb27e15800f1968c13b3e5a5",
+      "sha256": "5968023546858c599b46ad4848d6a65d8ebd53efda903d290eca12d412a5b7e4",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

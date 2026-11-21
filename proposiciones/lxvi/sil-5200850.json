@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5200850",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Deporte",
+      "referencia": "2085547",
+      "texto": "1.-Diputados -Deporte .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhortar a la Conade a diseñar e implementar campañas nacionales de difusión y concientización para definir, identificar y prevenir la violencia en el deporte, en términos de la Ley General de Cultura Física y Deporte.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5200850",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229420",
+      "nombre_fuente": "Dip. María Graciela Gaitán Díaz",
+      "person_id": "maria-graciela-gaitan-diaz",
+      "referencia_sil": "9229420",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/59/5968023546858c599b46ad4848d6a65d8ebd53efda903d290eca12d412a5b7e4.html.gz",
+      "consultado": "2026-11-21T00:12:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "21/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "5968023546858c599b46ad4848d6a65d8ebd53efda903d290eca12d412a5b7e4",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "No aplica"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}
