@@ -55,7 +55,7 @@
   "role": "diputado",
   "sources": [
     {
-      "consultado": "2026-11-20T21:02:04Z",
+      "consultado": "2026-11-21T22:02:06Z",
       "sha256": "9809dca40db5e37c09a918a6e5b2882b6c5a98d690eb7b9d703cb241dfff34cb",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
     },
@@ -63,6 +63,12 @@
       "consultado": "2026-11-17T09:13:24Z",
       "sha256": "03910e32e331bb9b89e7ebda5d76d7f8e7b856b7345471c5fab94ee57cc760af",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228151"
+    },
+    {
+      "archivo": "fuentes/a1/a1f5e7c168c81c2c26efc81de9275fcabfe5a4a5c7fb091c3c17e6c93d8c2200.jpg",
+      "consultado": "2026-11-22T12:36:22Z",
+      "sha256": "a1f5e7c168c81c2c26efc81de9275fcabfe5a4a5c7fb091c3c17e6c93d8c2200",
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Fotos/9228151.jpg"
     }
   ],
   "start_date": "2026-04-29"

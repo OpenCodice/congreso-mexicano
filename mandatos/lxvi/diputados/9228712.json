@@ -63,7 +63,7 @@
   "role": "diputado",
   "sources": [
     {
-      "consultado": "2026-11-20T21:02:04Z",
+      "consultado": "2026-11-21T22:02:06Z",
       "sha256": "9809dca40db5e37c09a918a6e5b2882b6c5a98d690eb7b9d703cb241dfff34cb",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=&Orden=11"
     },
@@ -71,6 +71,12 @@
       "consultado": "2026-11-17T07:37:49Z",
       "sha256": "817bee7e4e92c9c6c63c409d45dc58874294f97ef32dced031657a0bb29ed78e",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228712"
+    },
+    {
+      "archivo": "fuentes/01/01054eb3499418cddb4cf980e0c1212d5b8bc4af8ae97939ec260cf6fee0348d.jpg",
+      "consultado": "2026-11-22T12:24:09Z",
+      "sha256": "01054eb3499418cddb4cf980e0c1212d5b8bc4af8ae97939ec260cf6fee0348d",
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Fotos/9228712.jpg"
     }
   ],
   "start_date": "2024-08-29"
