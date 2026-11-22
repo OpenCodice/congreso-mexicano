@@ -19,7 +19,7 @@
       "value": 0
     }
   ],
-  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado",
+  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado; únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación del Senado y en el SIL",
   "expediente_id": "sil-5097530",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-5113",
@@ -45,6 +45,7 @@
     }
   ],
   "start_date": "2026-05-28",
+  "votacion_sil": "sil-5098677-2",
   "votes": [
     {
       "group_id": "partido-morena",

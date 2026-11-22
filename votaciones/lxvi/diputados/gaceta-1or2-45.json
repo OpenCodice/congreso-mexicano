@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "4893371",
   "camara": "diputados",
   "counts": [
     {
@@ -23,7 +23,16 @@
       "value": 56
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación de la Gaceta y en el SIL, y los votos nominales coinciden salvo en 1",
+  "discrepancias": [
+    {
+      "votacion": "sil-4893371-1",
+      "votantes_ausentes_en_sil": [
+        "luis-fernando-torres-jimenez"
+      ]
+    }
+  ],
+  "expediente_id": "sil-4894174",
   "fecha_fuente": "fecha de la votación en la Gaceta Parlamentaria",
   "group_results": [
     {
@@ -114,6 +123,7 @@
     }
   ],
   "start_date": "2025-04-29",
+  "votacion_sil": "sil-4893371-1",
   "votes": [
     {
       "group_id": "partido-morena",

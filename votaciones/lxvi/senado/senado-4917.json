@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "4910314",
   "camara": "senado",
   "counts": [
     {
@@ -19,7 +19,16 @@
       "value": 0
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación del Senado y en el SIL, y los votos nominales coinciden salvo en 2",
+  "discrepancias": [
+    {
+      "votacion": "sil-4910314-1",
+      "votantes_distintos": [
+        "cuauhtemoc-ochoa-fernandez"
+      ]
+    }
+  ],
+  "expediente_id": "sil-4861114",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4917",
   "legislative_period_id": "lxvi",
@@ -44,6 +53,7 @@
     }
   ],
   "start_date": "2025-07-01",
+  "votacion_sil": "sil-4910314-1",
   "votes": [
     {
       "group_id": "partido-morena",

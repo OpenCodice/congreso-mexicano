@@ -23,7 +23,7 @@
       "value": 57
     }
   ],
-  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación de la Gaceta",
+  "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación de la Gaceta; únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación de la Gaceta y en el SIL",
   "expediente_id": "sil-4843362",
   "fecha_fuente": "fecha de la votación en la Gaceta Parlamentaria",
   "group_results": [
@@ -115,6 +115,7 @@
     }
   ],
   "start_date": "2025-03-11",
+  "votacion_sil": "sil-4852412-1",
   "votes": [
     {
       "group_id": "partido-morena",

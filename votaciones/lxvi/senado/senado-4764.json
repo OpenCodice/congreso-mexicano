@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "4815505",
   "camara": "senado",
   "counts": [
     {
@@ -19,7 +19,8 @@
       "value": 0
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación del Senado y en el SIL, y el mismo asunto en la votación del Senado que senado-4763, ligada a ese asunto del SIL por sus votos nominales",
+  "expediente_id": "sil-4809131",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4764",
   "legislative_period_id": "lxvi",
@@ -44,6 +45,7 @@
     }
   ],
   "start_date": "2024-12-03",
+  "votacion_sil": "sil-4815505-3",
   "votes": [
     {
       "group_id": "partido-morena",
