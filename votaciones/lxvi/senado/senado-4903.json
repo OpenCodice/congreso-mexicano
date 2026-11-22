@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "4909044",
   "camara": "senado",
   "counts": [
     {
@@ -19,7 +19,16 @@
       "value": 0
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación del Senado y en el SIL, y los votos nominales coinciden salvo en 1",
+  "discrepancias": [
+    {
+      "votacion": "sil-4909044-1",
+      "votantes_ausentes_en_sil": [
+        "tabita-ortiz-hernandez"
+      ]
+    }
+  ],
+  "expediente_id": "sil-4906896",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-4903",
   "legislative_period_id": "lxvi",
@@ -44,6 +53,7 @@
     }
   ],
   "start_date": "2025-06-26",
+  "votacion_sil": "sil-4909044-1",
   "votes": [
     {
       "group_id": "partido-morena",

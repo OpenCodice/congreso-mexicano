@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "5016201",
   "camara": "diputados",
   "counts": [
     {
@@ -23,7 +23,8 @@
       "value": 68
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación de la Gaceta y en el SIL, y los votos nominales coinciden",
+  "expediente_id": "sil-5017042",
   "fecha_fuente": "fecha de la votación en la Gaceta Parlamentaria",
   "group_results": [
     {
@@ -114,6 +115,7 @@
     }
   ],
   "start_date": "2026-02-17",
+  "votacion_sil": "sil-5016201-1",
   "votes": [
     {
       "group_id": "partido-morena",

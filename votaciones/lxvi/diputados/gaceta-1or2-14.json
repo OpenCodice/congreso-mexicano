@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "4844300",
   "camara": "diputados",
   "counts": [
     {
@@ -23,7 +23,17 @@
       "value": 22
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación de la Gaceta y en el SIL, y los votos nominales coinciden salvo en 2",
+  "discrepancias": [
+    {
+      "votacion": "sil-4844300-1",
+      "votantes_distintos": [
+        "ariadna-barrera-vazquez",
+        "diana-karina-barreras-samaniego"
+      ]
+    }
+  ],
+  "expediente_id": "sil-4843216",
   "fecha_fuente": "fecha de la votación en la Gaceta Parlamentaria",
   "group_results": [
     {
@@ -114,6 +124,7 @@
     }
   ],
   "start_date": "2025-02-26",
+  "votacion_sil": "sil-4844300-1",
   "votes": [
     {
       "group_id": "partido-morena",

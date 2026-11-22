@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "5153795",
   "camara": "diputados",
   "counts": [
     {
@@ -23,7 +23,8 @@
       "value": 48
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación de la Gaceta y en el SIL, y el mismo asunto en la votación de la Gaceta que gaceta-3or1-7, ligada a ese asunto del SIL por sus votos nominales",
+  "expediente_id": "sil-5154780",
   "fecha_fuente": "fecha de la votación en la Gaceta Parlamentaria",
   "group_results": [
     {
@@ -114,6 +115,7 @@
     }
   ],
   "start_date": "2026-10-06",
+  "votacion_sil": "sil-5153795-2",
   "votes": [
     {
       "group_id": "partido-morena",

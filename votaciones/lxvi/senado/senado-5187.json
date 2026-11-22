@@ -20,25 +20,6 @@
     }
   ],
   "criterio": "misma fecha y el asunto del SIL contenido en el título de la votación del Senado; votación 1 de 1 del asunto en ambas fuentes",
-  "discrepancias": [
-    {
-      "counts_sil": [
-        {
-          "option": "yes",
-          "value": 96
-        },
-        {
-          "option": "no",
-          "value": 0
-        },
-        {
-          "option": "abstain",
-          "value": 0
-        }
-      ],
-      "votacion": "sil-5200536-1"
-    }
-  ],
   "expediente_id": "sil-5199599",
   "fecha_fuente": "fecha de la sesión en el sitio del Senado",
   "id": "senado-5187",

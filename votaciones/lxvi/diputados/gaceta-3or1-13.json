@@ -1,5 +1,5 @@
 {
-  "asunto": null,
+  "asunto": "5161808",
   "camara": "diputados",
   "counts": [
     {
@@ -23,7 +23,17 @@
       "value": 54
     }
   ],
-  "expediente_id": null,
+  "criterio": "únicas votaciones sin par con la misma fecha y las mismas cuentas en la votación de la Gaceta y en el SIL, y los votos nominales coinciden salvo en 2",
+  "discrepancias": [
+    {
+      "votacion": "sil-5161808-1",
+      "votantes_distintos": [
+        "jorge-alfredo-lozoya-santillan",
+        "paola-michell-longoria-lopez"
+      ]
+    }
+  ],
+  "expediente_id": "sil-5163337",
   "fecha_fuente": "fecha de la votación en la Gaceta Parlamentaria",
   "group_results": [
     {
@@ -114,6 +124,7 @@
     }
   ],
   "start_date": "2026-10-13",
+  "votacion_sil": "sil-5161808-1",
   "votes": [
     {
       "group_id": "partido-morena",
