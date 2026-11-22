@@ -88,7 +88,7 @@
   "role": "senador",
   "sources": [
     {
-      "consultado": "2026-11-21T05:02:05Z",
+      "consultado": "2026-11-22T06:02:04Z",
       "sha256": "8f1ba37c3aa022bb030ee19897482a6a6f6fd728179990851667b396d3ffa377",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
     },
@@ -96,6 +96,12 @@
       "consultado": "2026-11-17T05:46:58Z",
       "sha256": "628d957bd38f63d62d832333e832dbbedfc38f3bde073ea5fd8ef181aa46af25",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229280"
+    },
+    {
+      "archivo": "fuentes/55/55337bb150fae9581c3ddf074dd7d2a92b54346abdee1f30364c5d498ae7bda7.jpg",
+      "consultado": "2026-11-22T13:31:39Z",
+      "sha256": "55337bb150fae9581c3ddf074dd7d2a92b54346abdee1f30364c5d498ae7bda7",
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Fotos/9229280.jpg"
     }
   ],
   "start_date": "2024-08-29"
