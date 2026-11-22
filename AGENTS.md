@@ -29,7 +29,7 @@ Un registro por archivo JSON.
 | Carpeta | Qué es | Popolo |
 |---|---|---|
 | `organizaciones/` | Cámaras, Comisión Permanente, partidos y los 32 congresos locales (`congreso-<estado>`, con la clave de `leyes-estatales`). | Organization |
-| `personas/{id}.json` | Una persona, con las `Referencia` del SIL de cada mandato en `identifiers`. | Person |
+| `personas/{id}.json` | Una persona, con las `Referencia` del SIL de cada mandato en `identifiers` y, si el SIL la tiene, su foto oficial en `image`: la URL de la foto de su mandato más reciente que tenga una. | Person |
 | `mandatos/{legislatura}/{camara}/{referencia}.json` | Un mandato: cámara, legislatura, partido, calidad (propietario o suplente), principio de elección, entidad, distrito o circunscripción, licencias y comisiones. | Membership |
 | `iniciativas/{legislatura}/sil-{clave}.json` | Una iniciativa: quién la presentó (ligado a su mandato por la `Referencia` del SIL, o el grupo, congreso local o Ejecutivo), a qué comisiones se turnó, su estatus con fecha (`estatus.resultado`: pendiente, aprobado, desechado, retirado) y su expediente si llegó a votarse. | extensión |
 | `proposiciones/{legislatura}/sil-{clave}.json` | Una proposición con punto de acuerdo, con los mismos campos. | extensión |
@@ -39,7 +39,7 @@ Un registro por archivo JSON.
 | `votaciones/{legislatura}/senado/senado-{clave}.json` | Una votación nominal según el sitio del Senado, con el voto de cada senador (también las de lo particular). | VoteEvent + Vote |
 | `votaciones/{legislatura}/diputados/gaceta-{tabla}.json` | Una votación nominal según la Gaceta Parlamentaria, con el voto de cada diputado (también las de lo particular). | VoteEvent + Vote |
 | `decretos/{año}/dof-{codigo}.json` | Un decreto del DOF: qué documentos reforma (con el commit que lo trajo a cada repo de leyes), su expediente y, en reformas constitucionales, los congresos locales que la aprobaron. | extensión |
-| `fuentes/` | Copias de las páginas oficiales en que se basan los datos, nombradas por el sha256 de lo descargado (`.html.gz`: comprimida; la huella es del original). | — |
+| `fuentes/` | Copias de las páginas oficiales en que se basan los datos, nombradas por el sha256 de lo descargado (`.html.gz`: comprimida; la huella es del original), y las fotos oficiales de los legisladores (`.jpg` o `.png`, según lo que sirve el SIL). Cada foto la cita su mandato en `sources`, con su URL y su huella. | — |
 
 Opciones de voto: `yes`, `no`, `abstain`, `absent` y `not voting` (Popolo; la
 Gaceta lo llama "quórum": pasó lista y no votó).

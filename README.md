@@ -41,7 +41,7 @@ está en [AGENTS.md](AGENTS.md).
 
 ```
 organizaciones/   cámaras, partidos y los 32 congresos locales
-personas/         una persona por archivo
+personas/         una persona por archivo, con su foto oficial del SIL
 mandatos/         lxvi/diputados/…, lxvi/senado/… (cargo, partido, distrito, licencias)
 iniciativas/      lxvi/sil-{clave}.json: autor, comisiones, estatus y desenlace
 proposiciones/    lxvi/… (puntos de acuerdo), con los mismos campos
@@ -50,7 +50,7 @@ expedientes/      el proceso de cada asunto en el SIL
 votaciones/       lxvi/{diputados,senado,permanente}/… con el voto de cada legislador
                   (sil-…: del SIL; senado-… y gaceta-…: de cada cámara)
 decretos/         {año}/dof-{código}.json
-fuentes/          copias de las páginas oficiales, por su sha256
+fuentes/          copias de las páginas oficiales y de las fotos, por su sha256
 ```
 
 ## Límites
