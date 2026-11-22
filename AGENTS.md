@@ -84,8 +84,14 @@ persona ─ mandato ─ voto ─ votación ─ expediente ─ decreto ─ (Docum
   nombre tal como lo escribe la fuente (`nombres_fuente`).
 - **Votación de la cámara → votación del SIL**: misma fecha, la denominación
   del SIL contenida en el título de la fuente y el mismo número de votaciones
-  del asunto en ambas, emparejadas en orden. Si no es inequívoco, solo se liga
-  al expediente, o a nada.
+  del asunto en ambas, emparejadas en orden. Lo que así queda sin par se liga
+  por sus cuentas: la única votación sin par de cada fuente con esa fecha y
+  esos votos a favor, en contra y abstenciones, y además el mismo asunto por
+  título, los votos nominales iguales persona por persona (a lo más dos en
+  otro sentido) o el mismo asunto en la fuente que una ligada por sus votos.
+  Las cuentas solas nunca ligan: el mismo día hay votaciones distintas con
+  cuentas idénticas. Cada enlace dice cuál fue en `criterio`. Si no es
+  inequívoco, solo se liga al expediente, o a nada.
 - **Persona**: el SIL da una `Referencia` por mandato, no por persona. La
   persona es el nombre completo normalizado; dos mandatos de la misma cámara y
   legislatura con el mismo nombre detienen el padrón.
