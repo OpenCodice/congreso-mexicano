@@ -4,7 +4,7 @@
   },
   "calidad": "suplente",
   "comisiones": [],
-  "estatus": "Baja(a)",
+  "estatus": "Activo(a)",
   "formula": null,
   "id": "sil-9229287",
   "identifiers": [
@@ -16,35 +16,42 @@
   "legislative_period_id": "lxvi",
   "licencias": [
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2025-11-27",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2026-09-22",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
+      "estatus": "Activo",
+      "fin": null,
+      "inicio": "2026-11-17",
+      "tipo": "Reincorporación"
+    },
+    {
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": "2027-08-31",
       "inicio": "2024-12-10",
       "tipo": "Toma de protesta"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2025-12-09",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2025-12-02",
@@ -59,13 +66,13 @@
   "role": "senador",
   "sources": [
     {
-      "consultado": "2026-11-22T06:02:04Z",
-      "sha256": "8f1ba37c3aa022bb030ee19897482a6a6f6fd728179990851667b396d3ffa377",
+      "consultado": "2026-11-23T06:15:33Z",
+      "sha256": "07d81f9fc76ad193a191d93f7afd295ab4629b409d86f9930aa3923ae4ce889a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
     },
     {
-      "consultado": "2026-11-17T05:49:45Z",
-      "sha256": "0630ca7be448c701e5cf196f49eec40ebb269ea87db8cb08d63e5b62613b348c",
+      "consultado": "2026-11-23T06:26:38Z",
+      "sha256": "ee6fa5eb90afbd1e1c50e616672bbab3a316f24f2083ac7c47030f064b0a7284",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229287"
     },
     {

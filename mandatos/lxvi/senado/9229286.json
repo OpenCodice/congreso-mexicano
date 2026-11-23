@@ -61,7 +61,7 @@
       "puesto": "Presidente"
     }
   ],
-  "estatus": "Activo(a)",
+  "estatus": "Baja(a)",
   "formula": "María Luisa Gutiérrez Santoyo",
   "formula_id": "sil-9229287",
   "id": "sil-9229286",
@@ -74,70 +74,77 @@
   "legislative_period_id": "lxvi",
   "licencias": [
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2025-11-28",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Baja",
       "fin": "2025-11-27",
       "inicio": "2025-11-27",
       "tipo": "Licencia por tiempo definido"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2026-09-24",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Baja",
       "fin": "2026-09-23",
       "inicio": "2026-09-22",
       "tipo": "Licencia por tiempo definido"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
+      "estatus": "Baja",
+      "fin": "2026-11-18",
+      "inicio": "2026-11-17",
+      "tipo": "Licencia por tiempo definido"
+    },
+    {
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2024-12-13",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2025-12-10",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Baja",
       "fin": "2024-12-13",
       "inicio": "2024-12-10",
       "tipo": "Licencia por tiempo definido"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Baja",
       "fin": "2025-12-09",
       "inicio": "2025-12-09",
       "tipo": "Licencia por tiempo definido"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Activo",
       "fin": null,
       "inicio": "2025-12-05",
       "tipo": "Reincorporación"
     },
     {
-      "en_funciones": "Propietario",
+      "en_funciones": "Suplente",
       "estatus": "Baja",
       "fin": "2025-12-04",
       "inicio": "2025-12-02",
@@ -152,13 +159,13 @@
   "role": "senador",
   "sources": [
     {
-      "consultado": "2026-11-22T06:02:04Z",
-      "sha256": "8f1ba37c3aa022bb030ee19897482a6a6f6fd728179990851667b396d3ffa377",
+      "consultado": "2026-11-23T06:15:33Z",
+      "sha256": "07d81f9fc76ad193a191d93f7afd295ab4629b409d86f9930aa3923ae4ce889a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
     },
     {
-      "consultado": "2026-11-17T05:46:30Z",
-      "sha256": "35c507a18a513b14be66a6194e891de67d9dfbcfcb3bd1567506d74daae91fb9",
+      "consultado": "2026-11-23T06:19:44Z",
+      "sha256": "497efa0be465df0998e79566437dae0471083ef667f7709805287b5a1e64ed96",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229286"
     },
     {
