@@ -130,14 +130,20 @@
   "role": "senador",
   "sources": [
     {
-      "consultado": "2026-11-22T06:02:04Z",
-      "sha256": "8f1ba37c3aa022bb030ee19897482a6a6f6fd728179990851667b396d3ffa377",
+      "consultado": "2026-11-23T06:15:33Z",
+      "sha256": "07d81f9fc76ad193a191d93f7afd295ab4629b409d86f9930aa3923ae4ce889a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
     },
     {
-      "consultado": "2026-11-17T05:50:00Z",
-      "sha256": "f14f72cc1c3ddcb7f7c544e1b6e2bca84788c8ffa22ea2aa0c0dffb170006421",
+      "consultado": "2026-11-23T06:27:14Z",
+      "sha256": "db4bc6b983453101b12b1f744c90e0a5c5c911fdaaad8190c0c0ac6bc27de7ee",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229291"
+    },
+    {
+      "archivo": "fuentes/6d/6dc82d605846722c76fd2c20b7831149c7dfa419fb67f9b9091ecf47e35c92be.jpg",
+      "consultado": "2026-11-23T07:04:03Z",
+      "sha256": "6dc82d605846722c76fd2c20b7831149c7dfa419fb67f9b9091ecf47e35c92be",
+      "url": "http://sil.gobernacion.gob.mx/Archivos/Fotos/9229291.jpg"
     }
   ],
   "start_date": "2026-09-29"

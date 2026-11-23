@@ -23,13 +23,13 @@
   "role": "senador",
   "sources": [
     {
-      "consultado": "2026-11-22T06:02:04Z",
-      "sha256": "8f1ba37c3aa022bb030ee19897482a6a6f6fd728179990851667b396d3ffa377",
+      "consultado": "2026-11-23T06:15:33Z",
+      "sha256": "07d81f9fc76ad193a191d93f7afd295ab4629b409d86f9930aa3923ae4ce889a",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=&Orden=11"
     },
     {
-      "consultado": "2026-11-17T16:40:25Z",
-      "sha256": "fbe7661a88ad439bcd2fb2de215f02f0e0303fa57d6e18aab7c4b712e9cf24b3",
+      "consultado": "2026-11-23T17:20:14Z",
+      "sha256": "4bdab4141d5413081c60ffda05c0fcba0bf4a3e128b27de15222e6d0dcc1c355",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229127"
     }
   ],
