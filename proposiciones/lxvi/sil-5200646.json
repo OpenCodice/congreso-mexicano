@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5200646",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Economía",
+      "referencia": "2085515",
+      "texto": "1.-Senado -Economía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta al Instituto Mexicano de la Propiedad Industrial a que desista de la sanción impuesta a la editorial Penguin Random House por el uso del nombre y fotografías de una figura pública ya que restringe indebidamente la libertad de expresión y sienta un precedente negativo a la libertad de prensa.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-18",
+  "id": "sil-5200646",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229220",
+      "nombre_fuente": "Sen. Rafael Alejandro Moreno Cárdenas",
+      "person_id": "rafael-alejandro-moreno-cardenas",
+      "referencia_sil": "9229220",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/89/89518f2dea541723f4da20c0425817842b3d4f084d1e3619c01e99049a0935ad.html.gz",
+      "consultado": "2026-11-24T00:16:10Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "24/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "89518f2dea541723f4da20c0425817842b3d4f084d1e3619c01e99049a0935ad",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Economía"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

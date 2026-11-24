@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "5194747",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Cultura",
+      "referencia": "2085494",
+      "texto": "1.-Senado -Cultura.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Reglamentos y Prácticas Parlamentarias",
+      "referencia": "2085512",
+      "texto": "2.-Senado -Reglamentos y Prácticas Parlamentarias.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que se inscribe con letras doradas, en el Muro de Honor del Salón de Sesiones del Senado de la República, el nombre de José María Leyva -CAJEME-, líder del pueblo Yaqui.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-11",
+  "id": "sil-5194747",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229132",
+      "nombre_fuente": "Sen. Heriberto Marcelo Aguilar Castillo",
+      "person_id": "heriberto-marcelo-aguilar-castillo",
+      "referencia_sil": "9229132",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/3f/3f719c34cb4f069184b75370051cd592adbc7547833dfefacb7ad08042b43e31.html.gz",
+      "consultado": "2026-11-24T00:16:06Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "24/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "3f719c34cb4f069184b75370051cd592adbc7547833dfefacb7ad08042b43e31",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Democrático"
+  ],
+  "tipo": "Iniciativa"
+}

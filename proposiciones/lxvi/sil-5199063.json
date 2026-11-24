@@ -34,15 +34,15 @@
   "seguimiento": null,
   "sources": [
     {
-      "archivo": "fuentes/a5/a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304.html.gz",
-      "consultado": "2026-11-20T00:12:10Z",
+      "archivo": "fuentes/89/89518f2dea541723f4da20c0425817842b3d4f084d1e3619c01e99049a0935ad.html.gz",
+      "consultado": "2026-11-24T00:16:10Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "20/11/2026",
+        "FECHA_FIN": "24/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -54,12 +54,13 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "a54a4442c8751c419a2104a0be268874b6b41ec3c846476ba21018541bae8304",
+      "sha256": "89518f2dea541723f4da20c0425817842b3d4f084d1e3619c01e99049a0935ad",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
   "subclasificacion": "Otro",
   "temas": [
+    "Economía",
     "Electoral"
   ],
   "tipo": "Proposición con punto de acuerdo"
