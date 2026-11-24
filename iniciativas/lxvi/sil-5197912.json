@@ -41,15 +41,15 @@
   "seguimiento": "5205268",
   "sources": [
     {
-      "archivo": "fuentes/78/78acd5b2b054d76f67c8cc350bbf49f9cd8b1488e06e6858683ec62968da35cd.html.gz",
-      "consultado": "2026-11-22T00:11:06Z",
+      "archivo": "fuentes/3f/3f719c34cb4f069184b75370051cd592adbc7547833dfefacb7ad08042b43e31.html.gz",
+      "consultado": "2026-11-24T00:16:06Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "22/11/2026",
+        "FECHA_FIN": "24/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -61,12 +61,13 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "78acd5b2b054d76f67c8cc350bbf49f9cd8b1488e06e6858683ec62968da35cd",
+      "sha256": "3f719c34cb4f069184b75370051cd592adbc7547833dfefacb7ad08042b43e31",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
   "subclasificacion": "Ley Secundaria",
   "temas": [
+    "Derechos Humanos",
     "Desarrollo Social"
   ],
   "tipo": "Iniciativa"
