@@ -19,12 +19,12 @@
   ],
   "denominacion": "Que declara el 28 de octubre de cada año como el Día Nacional del Espacio Público.",
   "estatus": {
-    "estado": "De primera lectura en origen",
-    "fecha": "2026-11-17",
+    "estado": "Turnado a revisora",
+    "fecha": "2026-11-24",
     "resultado": "pendiente",
-    "texto": "De primera lectura en origen el 17-NOV-2026"
+    "texto": "Turnado a revisora el 24-NOV-2026"
   },
-  "expediente_id": null,
+  "expediente_id": "sil-5199598",
   "fecha_presentacion": "2024-10-22",
   "id": "sil-4788178",
   "legislative_period_id": "lxvi",
@@ -41,8 +41,8 @@
   "seguimiento": "5199598",
   "sources": [
     {
-      "archivo": "fuentes/97/97c5272671e59ecc83a59d38ec2ea91bb7f460651db7be5d58fdafefc57bd467.html.gz",
-      "consultado": "2026-11-18T12:16:19Z",
+      "archivo": "fuentes/7b/7b55ded37ff1dbd7b0aafd693a62e63a95584afc234ba5ab5783bbe4934d8475.html.gz",
+      "consultado": "2026-11-25T17:29:19Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "97c5272671e59ecc83a59d38ec2ea91bb7f460651db7be5d58fdafefc57bd467",
+      "sha256": "7b55ded37ff1dbd7b0aafd693a62e63a95584afc234ba5ab5783bbe4934d8475",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

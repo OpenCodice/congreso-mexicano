@@ -12,10 +12,10 @@
   ],
   "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2026-07-29",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 29-JUL-2026"
+    "estado": "Retirada",
+    "fecha": "2026-11-09",
+    "resultado": "retirado",
+    "texto": "Retirada el 09-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-07-29",
@@ -34,8 +34,8 @@
   "seguimiento": "5116363",
   "sources": [
     {
-      "archivo": "fuentes/8e/8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c.html.gz",
-      "consultado": "2026-11-17T07:58:26Z",
+      "archivo": "fuentes/ec/ecb5c3bd6c50d4bd864cc667913a45801476aad1e7e3f17703ea1ad65fa26819.html.gz",
+      "consultado": "2026-11-24T18:21:12Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "8e84e7a5d2d7476600054cb767f82f3363b17207b2a3276267347adb3f8cf86c",
+      "sha256": "ecb5c3bd6c50d4bd864cc667913a45801476aad1e7e3f17703ea1ad65fa26819",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

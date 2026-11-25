@@ -26,10 +26,10 @@
   ],
   "denominacion": "Que expide la Ley General de Denunciantes y Protección a Personas Alertadoras, y reforma y adiciona diversas disposiciones de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas, de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y de la Ley Federal de Procedimiento Administrativo.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2026-02-11",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 11-FEB-2026"
+    "estado": "Retirada",
+    "fecha": "2026-11-18",
+    "resultado": "retirado",
+    "texto": "Retirada el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-02-11",
@@ -48,8 +48,8 @@
   "seguimiento": "5030995",
   "sources": [
     {
-      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
-      "consultado": "2026-11-17T07:56:45Z",
+      "archivo": "fuentes/e0/e0f74fbc220c343f0134b2c012037fcb6baa99cdb3d3ff94c86006665f696889.html.gz",
+      "consultado": "2026-11-25T17:31:30Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "sha256": "e0f74fbc220c343f0134b2c012037fcb6baa99cdb3d3ff94c86006665f696889",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

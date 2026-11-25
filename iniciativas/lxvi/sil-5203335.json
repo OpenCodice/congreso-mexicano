@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5203335",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Gobernación y Población",
+      "referencia": "2085576",
+      "texto": "1.-Diputados -Gobernación y Población .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que adiciona el artículo 19 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, en materia de evaluaciones de impacto y riesgo en sistemas de reconocimiento biométrico.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-19",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 19-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-19",
+  "id": "sil-5203335",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PRI",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228206",
+      "nombre_fuente": "Dip. Mónica Elizabeth Sandoval Hernández",
+      "person_id": "monica-elizabeth-sandoval-hernandez",
+      "referencia_sil": "9228206",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5208366",
+  "sources": [
+    {
+      "archivo": "fuentes/2a/2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea.html.gz",
+      "consultado": "2026-11-25T00:17:07Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "25/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Transparencia y Rendición de Cuentas"
+  ],
+  "tipo": "Iniciativa"
+}

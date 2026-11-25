@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que expide la Ley General de Sociedades Cooperativas y se abroga la Ley General de Sociedades Cooperativas, publicada en el Diario Oficial de la Federación el 3 de agosto de 1994.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2026-03-19",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 19-MAR-2026"
+    "estado": "Retirada",
+    "fecha": "2026-11-18",
+    "resultado": "retirado",
+    "texto": "Retirada el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-03-19",
@@ -41,8 +41,8 @@
   "seguimiento": "5045752",
   "sources": [
     {
-      "archivo": "fuentes/2d/2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0.html.gz",
-      "consultado": "2026-11-17T07:56:58Z",
+      "archivo": "fuentes/df/df52672f2f94ab84ba6fc729fee4782801b68df5a5f18c2edabc51527955a1c5.html.gz",
+      "consultado": "2026-11-25T17:31:37Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "2d207f3f0e1aee62e2647f4ec8664ae3042d017cb054b7f3ce341b87049ab8c0",
+      "sha256": "df52672f2f94ab84ba6fc729fee4782801b68df5a5f18c2edabc51527955a1c5",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma la fracción XIII del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2025-12-09",
+    "estado": "De primera lectura en origen",
+    "fecha": "2026-11-24",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 09-DIC-2025"
+    "texto": "De primera lectura en origen el 24-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-12-09",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "5002831",
+  "seguimiento": "5208762",
   "sources": [
     {
-      "archivo": "fuentes/5a/5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5.html.gz",
-      "consultado": "2026-11-17T07:56:24Z",
+      "archivo": "fuentes/4a/4a3c69d77eb4f7f6d4e7ad842403a9a633bf3d7bb16bfa8785e264b1405c0800.html.gz",
+      "consultado": "2026-11-25T17:31:19Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "5af62a72aaa9e023d2ea109327b433e0d9da08272f97a4464e48317499ceb2f5",
+      "sha256": "4a3c69d77eb4f7f6d4e7ad842403a9a633bf3d7bb16bfa8785e264b1405c0800",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

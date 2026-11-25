@@ -1,0 +1,73 @@
+{
+  "camara_origen": "senado",
+  "clave": "5207216",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Salud",
+      "referencia": "2085526",
+      "texto": "1.-Senado -Salud.-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Senado",
+      "comision": "Estudios Legislativos",
+      "referencia": "2085521",
+      "texto": "2.-Senado -Estudios Legislativos.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 7 de la Ley General de Salud.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-24",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 24-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-24",
+  "id": "sil-5207216",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "Morena",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229192",
+      "nombre_fuente": "Sen. Saúl Monreal Ávila",
+      "person_id": "saul-monreal-avila",
+      "referencia_sil": "9229192",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5208727",
+  "sources": [
+    {
+      "archivo": "fuentes/2a/2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea.html.gz",
+      "consultado": "2026-11-25T00:17:07Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "25/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}
