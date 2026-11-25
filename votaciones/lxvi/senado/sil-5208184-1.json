@@ -1,0 +1,41 @@
+{
+  "asunto": "5208184",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 83
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5199598",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5208184-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Proposición con punto de acuerdo",
+    "denominacion": "Por el que declara el 28 de octubre de cada año como el -Día Nacional del Espacio Público-.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 83 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/40/40097ff4b3ffe1f3a645ccaf58b9ac030d1d3d65af9a751013c3c2fc781d92d2.html",
+      "consultado": "2026-11-25T02:13:03Z",
+      "sha256": "40097ff4b3ffe1f3a645ccaf58b9ac030d1d3d65af9a751013c3c2fc781d92d2",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5208184"
+    }
+  ],
+  "start_date": "2026-11-24",
+  "votes": [],
+  "votos_publicados": false
+}

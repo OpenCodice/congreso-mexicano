@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "4976096",
+      "denominacion": "Que reforma, adiciona y deroga diversas disposiciones al Código de Comercio.",
+      "estatus": "Turnado a revisora 24/11/2026",
+      "fecha": "2025-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4976096_20251119_1763679299.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5199035",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones del Código de Comercio.",
+      "estatus": "Turnado a revisora 24/11/2026",
+      "fecha": "2026-11-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199035_20261117_1794937697.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5208188",
+      "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones del Código de Comercio.",
+      "estatus": "Turnado a revisora 24/11/2026",
+      "fecha": "2026-11-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5208188_20261124_1794937699.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-24"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-24"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-24"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones del Código de Comercio.",
+  "id": "sil-5199596",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5199596",
+  "sources": [
+    {
+      "archivo": "fuentes/9f/9fde8a6abf15dfd377878e4bd11b0b89c25f37d8b58d76892bcf0981ce7007ed.html",
+      "consultado": "2026-11-25T02:12:04Z",
+      "sha256": "9fde8a6abf15dfd377878e4bd11b0b89c25f37d8b58d76892bcf0981ce7007ed",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199596&Asunto=5208188"
+    },
+    {
+      "archivo": "fuentes/7a/7a549730283acdde9890371584793c44f038034f5c83c64b328de1595e4480d7.html",
+      "consultado": "2026-11-25T02:12:09Z",
+      "sha256": "7a549730283acdde9890371584793c44f038034f5c83c64b328de1595e4480d7",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5208188&Seguimiento=5199596"
+    }
+  ],
+  "tramites": {
+    "5208188": [
+      {
+        "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 24/11/2026",
+  "votaciones": [
+    "sil-5208188-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5208188",
+      "camara": "senado",
+      "fecha": "2026-11-24",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}
