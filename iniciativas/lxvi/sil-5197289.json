@@ -8,6 +8,13 @@
       "referencia": "2085590",
       "texto": "1.-Diputados -Trabajo y Previsión Social .-Para dictamen",
       "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "2.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
     }
   ],
   "denominacion": "Que reforma y adiciona diversas disposiciones de Ley Federal del Trabajo y de la Ley General de Salud, en materia de permanencia laboral digna, no discriminación y atención integral durante el climaterio, la perimenopausia, la menopausia y la posmenopausia.",
@@ -34,15 +41,15 @@
   "seguimiento": "5205219",
   "sources": [
     {
-      "archivo": "fuentes/0a/0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f.html.gz",
-      "consultado": "2026-11-21T00:12:06Z",
+      "archivo": "fuentes/2a/2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea.html.gz",
+      "consultado": "2026-11-25T00:17:07Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "21/11/2026",
+        "FECHA_FIN": "25/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -54,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "0a11f7a04224b46073a62338ed86e292701ac32bfb90246ed5269d870abaee0f",
+      "sha256": "2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

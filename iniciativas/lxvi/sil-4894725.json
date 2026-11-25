@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversas disposiciones de la Ley de Desarrollo Rural Sustentable.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2025-04-30",
+    "estado": "De primera lectura en origen",
+    "fecha": "2026-11-24",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 30-ABR-2025"
+    "texto": "De primera lectura en origen el 24-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2025-04-30",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "4898756",
+  "seguimiento": "5208764",
   "sources": [
     {
-      "archivo": "fuentes/6d/6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5.html.gz",
-      "consultado": "2026-11-17T07:55:04Z",
+      "archivo": "fuentes/14/148e2c7b67681950ae150bacf3d767556feccbb175cee7a1a4584713dfe7049d.html.gz",
+      "consultado": "2026-11-25T17:30:19Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "6d15ca9d772296bd7b2b3495e7bc848cd2b1351dfb699749cd0e64cb72859ac5",
+      "sha256": "148e2c7b67681950ae150bacf3d767556feccbb175cee7a1a4584713dfe7049d",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
