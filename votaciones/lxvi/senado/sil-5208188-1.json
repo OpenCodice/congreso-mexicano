@@ -1,0 +1,41 @@
+{
+  "asunto": "5208188",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 90
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5199596",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5208188-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma y adiciona diversas disposiciones del Código de Comercio.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/a1/a1b06208b2d12555e4b8c7dc4cea6da069516ea5f5046543a9123bb1d384d82e.html",
+      "consultado": "2026-11-25T02:12:16Z",
+      "sha256": "a1b06208b2d12555e4b8c7dc4cea6da069516ea5f5046543a9123bb1d384d82e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5208188"
+    }
+  ],
+  "start_date": "2026-11-24",
+  "votes": [],
+  "votos_publicados": false
+}

@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "4788178",
+      "denominacion": "Que declara el 28 de octubre de cada año como el Día Nacional del Espacio Público.",
+      "estatus": "Turnado a revisora 24/11/2026",
+      "fecha": "2024-10-22",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/10/asun_4788178_20241022_1729618642.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5199047",
+      "denominacion": "Con proyecto de decreto por el que declara el 28 de octubre de cada año como el -Día Nacional del Espacio Público-.",
+      "estatus": "Turnado a revisora 24/11/2026",
+      "fecha": "2026-11-17",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199047_20261117_1794949241.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5208184",
+      "denominacion": "Por el que declara el 28 de octubre de cada año como el -Día Nacional del Espacio Público-.",
+      "estatus": "Turnado a revisora 24/11/2026",
+      "fecha": "2026-11-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5208184_20261124_1795539895.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-24"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-24"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-24"
+    }
+  ],
+  "denominacion": "Por el que declara el 28 de octubre de cada año como el -Día Nacional del Espacio Público-.",
+  "id": "sil-5199598",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5199598",
+  "sources": [
+    {
+      "archivo": "fuentes/d2/d28652824d1af071212734870c717604a0ebd7acedce3a8ec22e219d93a6887d.html",
+      "consultado": "2026-11-25T02:12:28Z",
+      "sha256": "d28652824d1af071212734870c717604a0ebd7acedce3a8ec22e219d93a6887d",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199598&Asunto=5208184"
+    },
+    {
+      "archivo": "fuentes/e0/e0a7adb77cac3b74438e01a619bd6ae143c3d530202d17ed6b08f2136239a824.html",
+      "consultado": "2026-11-25T02:12:34Z",
+      "sha256": "e0a7adb77cac3b74438e01a619bd6ae143c3d530202d17ed6b08f2136239a824",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5208184&Seguimiento=5199598"
+    }
+  ],
+  "tramites": {
+    "5208184": [
+      {
+        "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 83
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 83 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 24/11/2026",
+  "votaciones": [
+    "sil-5208184-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5208184",
+      "camara": "senado",
+      "fecha": "2026-11-24",
+      "result": "pass",
+      "texto": "Aprobado omitir la segunda lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}
