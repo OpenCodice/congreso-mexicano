@@ -50,6 +50,8 @@ expedientes/      el proceso de cada asunto en el SIL
 votaciones/       lxvi/{diputados,senado,permanente}/… con el voto de cada legislador
                   (sil-…: del SIL; senado-… y gaceta-…: de cada cámara)
 decretos/         {año}/dof-{código}.json
+cronologia/       {documento}.json: los decretos de reforma de cada ley desde su
+                  publicación original, con enlace al archivo oficial de cada uno
 fuentes/          copias de las páginas oficiales y de las fotos, por su sha256
 ```
 
