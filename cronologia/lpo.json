@@ -1,0 +1,39 @@
+{
+  "decretos": [],
+  "documento": "lpo",
+  "nombre": "Ley de Productos Orgánicos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2006-02-07",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpo/LPO_orig_07feb06.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpo/LPO_orig_07feb06.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpo/LPO_orig_07feb06_ima.pdf"
+          }
+        ],
+        "fecha": "2006-02-07"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Productos Orgánicos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:01:09Z",
+      "sha256": "a5ee8128926084663dda3891f94bb75182e5a33cfe80aa11f3dbe69af1a4f313",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpo.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpo.htm"
+}

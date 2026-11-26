@@ -1,0 +1,53 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrcdn/LRCDN_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrcdn/LRCDN_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lrcdn",
+  "nombre": "Ley de Responsabilidad Civil por Daños Nucleares",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1974-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrcdn/LRCDN_orig_31dic74_ima.pdf"
+          }
+        ],
+        "fecha": "1974-12-31"
+      }
+    ],
+    "titulo": "LEY de Responsabilidad Civil por Daños Nucleares."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:10:03Z",
+      "sha256": "c9290d90c9bed9b16ad69f5d391de5ff2fece4101d715c7c940e71ca324429f3",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrcdn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrcdn.htm"
+}

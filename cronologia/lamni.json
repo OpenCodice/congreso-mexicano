@@ -1,0 +1,31 @@
+{
+  "decretos": [],
+  "documento": "lamni",
+  "nombre": "Ley de Amnistía",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1994-01-22",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamni/LAmni_orig_22ene94_ima.pdf"
+          }
+        ],
+        "fecha": "1994-01-22"
+      }
+    ],
+    "titulo": "LEY de Amnistía."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:23:06Z",
+      "sha256": "266dcca1d32db01ecf72d8b6149a13372f28afdd54b1c44483d9926a97d18831",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamni.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamni.htm"
+}

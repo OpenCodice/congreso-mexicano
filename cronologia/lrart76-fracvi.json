@@ -1,0 +1,62 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi/LRArt76_fracVI_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi/LRArt76_fracVI_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lrart76-fracvi",
+  "nombre": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2007-08-31",
+    "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/044_DOF_31ago07.pdf",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi/LRArt76_fracVI_orig_31ago07.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi/LRArt76_fracVI_orig_31ago07.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi/LRArt76_fracVI_orig_31ago07_ima.pdf"
+          }
+        ],
+        "fecha": "2007-08-31"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:03:12Z",
+      "sha256": "b1c79a0c2f08ce1b64bbfab9e7315ef09cb70010c9626920bebe2d1ecafaedbf",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi.htm"
+}

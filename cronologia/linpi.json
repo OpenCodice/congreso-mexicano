@@ -1,0 +1,99 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2022-04-28",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_ref01_28abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_ref01_28abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-28"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacional de los Pueblos Indígenas, la Ley General de Derechos Lingüísticos de los Pueblos Indígenas y la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de paridad de género."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-05-18",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_ref02_18may22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_ref02_18may22.doc"
+            }
+          ],
+          "fecha": "2022-05-18"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un inciso l) a la fracción II del artículo 12 de la Ley del Instituto Nacional de los Pueblos Indígenas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-12-29",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_ref03_29dic23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_ref03_29dic23.doc"
+            }
+          ],
+          "fecha": "2023-12-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción XXVII del artículo 4 de la Ley del Instituto Nacional de los Pueblos Indígenas."
+    }
+  ],
+  "documento": "linpi",
+  "nombre": "Ley del Instituto Nacional de los Pueblos Indígenas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2018-12-04",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_orig_04dic18.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi/LINPI_orig_04dic18.doc"
+          }
+        ],
+        "fecha": "2018-12-04"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley del Instituto Nacional de los Pueblos Indígenas y se abroga la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:41:12Z",
+      "sha256": "772ca794764c8944a00e41bd405aa8fd4763d83d6972271ecd33733dda40fd2b",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi.htm"
+}

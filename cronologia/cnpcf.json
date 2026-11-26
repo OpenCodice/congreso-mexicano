@@ -1,0 +1,131 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2024-06-04",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref01_04jun24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref01_04jun24.doc"
+            }
+          ],
+          "fecha": "2024-06-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se adicionan los artículos 314 y 1144 del Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-12-16",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref02_16dic24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref02_16dic24.doc"
+            }
+          ],
+          "fecha": "2024-12-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2026-01-15",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref03_15ene26.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_ref03_15ene26.doc"
+            }
+          ],
+          "fecha": "2026-01-15"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales."
+    }
+  ],
+  "documento": "cnpcf",
+  "nombre": "Código Nacional de Procedimientos Civiles y Familiares",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2023-06-07",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_orig_07jun23.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_orig_07jun23.doc"
+          }
+        ],
+        "fecha": "2023-06-07"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide el Código Nacional de Procedimientos Civiles y Familiares."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2024-12-04",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_sent01_notifica_14ago24.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2024-08-14"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_sent01_dof_04dic24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf/CNPCF_sent01_dof_04dic24.doc"
+            }
+          ],
+          "fecha": "2024-12-04"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 154/2023, así como los Votos Concurrentes de la señora Ministra Presidenta Norma Lucía Piña Hernández y de los señores Ministros Juan Luis González Alcántara Carrancá y Luis María Aguilar Morales."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:12:09Z",
+      "sha256": "b135a6dc6f5e275aee259d64ff2943eea0880a7b54218b8194e91a9fc9d81a38",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm"
+}

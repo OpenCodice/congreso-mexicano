@@ -1,0 +1,141 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2019-05-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref01_14may19.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref01_14may19.doc"
+            }
+          ],
+          "fecha": "2019-05-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción XX del artículo 41 de la Ley Orgánica de la Administración Pública Federal y la fracción IX del artículo 8 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2020-01-06",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref02_06ene20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref02_06ene20.doc"
+            }
+          ],
+          "fecha": "2020-01-06"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona una fracción XXIX Bis al artículo 3 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2020-12-01",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref03_01dic20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref03_01dic20.doc"
+            }
+          ],
+          "fecha": "2020-12-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un segundo párrafo al artículo 74 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-06-01",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref04_01jun21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref04_01jun21.doc"
+            }
+          ],
+          "fecha": "2021-06-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref05_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_ref05_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lgahotdu",
+  "nombre": "Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-11-28",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_orig_28nov16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu/LGAHOTDU_orig_28nov16.doc"
+          }
+        ],
+        "fecha": "2016-11-28"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y se reforma el Artículo 3o. de la Ley de Planeación."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:08:12Z",
+      "sha256": "39d48ce98bbee0a637828d169d65d3816269ac5f09fb5e24e22444e802f363b7",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu.htm"
+}

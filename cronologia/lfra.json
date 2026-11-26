@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra/LFRA_ref01_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra/LFRA_ref01_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra/LFRA_ref02_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra/LFRA_ref02_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lfra",
+  "nombre": "Ley Federal de Responsabilidad Ambiental",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2013-06-07",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra/LFRA_orig_07jun13.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra/LFRA_orig_07jun13.doc"
+          }
+        ],
+        "fecha": "2013-06-07"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:21:02Z",
+      "sha256": "68b6823879c43e7e3a14b9b3ffc3e01db651987455b9a059b88dd872db58b195",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra.htm"
+}

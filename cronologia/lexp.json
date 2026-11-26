@@ -1,0 +1,162 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1949-12-30",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref01_30dic49_ima.pdf"
+            }
+          ],
+          "fecha": "1949-12-30"
+        }
+      ],
+      "titulo": "DECRETO que adiciona la fracción III del artículo 1º de la Ley de Expropiación."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1993-12-22",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref02_22dic93.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref02_22dic93.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref02_22dic93_ima.pdf"
+            }
+          ],
+          "fecha": "1993-12-22"
+        }
+      ],
+      "titulo": "DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1997-12-04",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref03_04dic97.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref03_04dic97.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref03_04dic97_ima.pdf"
+            }
+          ],
+          "fecha": "1997-12-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2009-06-05",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref04_05jun09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref04_05jun09.doc"
+            }
+          ],
+          "fecha": "2009-06-05"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-01-16",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref05_16ene12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref05_16ene12.doc"
+            }
+          ],
+          "fecha": "2012-01-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de Asociaciones Público Privadas, y se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-01-27",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref06_27ene12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_ref06_27ene12.doc"
+            }
+          ],
+          "fecha": "2012-01-27"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman el artículo 6o. y el segundo párrafo del artículo 20 BIS de la Ley de Expropiación."
+    }
+  ],
+  "documento": "lexp",
+  "nombre": "Ley de Expropiación",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1936-11-25",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp/LExp_orig_25nov36_ima.pdf"
+          }
+        ],
+        "fecha": "1936-11-25"
+      }
+    ],
+    "titulo": "LEY de Expropiación."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:38:15Z",
+      "sha256": "d22b4b8b18cb0b4381437dc7cb736639bc63cdae010b2e0b5cf55ea9f5bd4a91",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp.htm"
+}

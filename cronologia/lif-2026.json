@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lif-2026",
+  "nombre": "Ley de Ingresos de la Federación 2026",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-11-07",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2026/LIF_2026_orig_07nov25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2026/LIF_2026_orig_07nov25.doc"
+          }
+        ],
+        "fecha": "2025-11-07"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:01:02Z",
+      "sha256": "03fda1c071eff558d308be231d17d6dd7979ce11d415aafd6e8f1a871421e66a",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2026.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2026.htm"
+}

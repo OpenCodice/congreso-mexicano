@@ -1,0 +1,70 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1950-12-11",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal/LINBAL_ref01_11dic50_ima.pdf"
+            }
+          ],
+          "fecha": "1950-12-11"
+        }
+      ],
+      "titulo": "DECRETO que modifica la fracción III del artículo 4º de la ley de 31 de diciembre de 1946, que creó el Instituto Nacional de Bellas Artes y Literatura, desincorporando de su patrimonio la finca Núms. 14 y 16 de las calles de Moneda, en esta capital."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2015-12-17",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal/LINBAL_ref02_17dic15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal/LINBAL_ref02_17dic15.doc"
+            }
+          ],
+          "fecha": "2015-12-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura."
+    }
+  ],
+  "documento": "linbal",
+  "nombre": "Ley que crea el Instituto Nacional de Bellas Artes y Literatura",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1946-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal/LINBAL_orig_31dic46_ima.pdf"
+          }
+        ],
+        "fecha": "1946-12-31"
+      }
+    ],
+    "titulo": "LEY que crea el Instituto Nacional de Bellas Artes y Literatura."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:41:09Z",
+      "sha256": "ca1e13c10836d802165882fce1bd33571d8a12c10709b40d5f5eeb4356304a71",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal.htm"
+}

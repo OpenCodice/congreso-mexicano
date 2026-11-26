@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-28",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf/LOPJF_ref01_28nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf/LOPJF_ref01_28nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-28"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación."
+    }
+  ],
+  "documento": "lopjf",
+  "nombre": "Ley Orgánica del Poder Judicial de la Federación",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2024-12-20",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf/LOPJF_orig_20dic24.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf/LOPJF_orig_20dic24.doc"
+          }
+        ],
+        "fecha": "2024-12-20"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:56:21Z",
+      "sha256": "a8c4d0e327938fa42a4ea53b807ccd88c851713f5f1bc03803ca582d41ac5e59",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf.htm"
+}

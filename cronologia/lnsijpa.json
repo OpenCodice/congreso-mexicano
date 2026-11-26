@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2020-12-01",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa/LNSIJPA_ref01_01dic20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa/LNSIJPA_ref01_01dic20.doc"
+            }
+          ],
+          "fecha": "2020-12-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción V del artículo 102 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-12-20",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa/LNSIJPA_ref02_20dic22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa/LNSIJPA_ref02_20dic22.doc"
+            }
+          ],
+          "fecha": "2022-12-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes."
+    }
+  ],
+  "documento": "lnsijpa",
+  "nombre": "Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-06-16",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa/LNSIJPA_orig_16jun16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa/LNSIJPA_orig_16jun16.doc"
+          }
+        ],
+        "fecha": "2016-06-16"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:50:12Z",
+      "sha256": "be8850f4002901336822ebe48062f2fe9ec777fe05972655db8db890c913fec5",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa.htm"
+}

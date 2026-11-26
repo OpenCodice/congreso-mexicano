@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lgec",
+  "nombre": "Ley General de Economía Circular",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2026-01-19",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgec/LGEC_orig_19ene26.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgec/LGEC_orig_19ene26.doc"
+          }
+        ],
+        "fecha": "2026-01-19"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Economía Circular y, se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:19:09Z",
+      "sha256": "f669d35a2370fffcae5553ac49e39858c0a9ed4b98db95eccc8cde5ef595856b",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgec.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgec.htm"
+}

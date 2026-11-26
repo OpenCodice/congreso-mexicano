@@ -1,0 +1,39 @@
+{
+  "decretos": [],
+  "documento": "ldparm",
+  "nombre": "Ley de Disciplina para el Personal de la Armada de México",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2002-12-13",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm/LDPArm_orig_13dic02.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm/LDPArm_orig_13dic02.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm/LDPArm_orig_13dic02_ima.pdf"
+          }
+        ],
+        "fecha": "2002-12-13"
+      }
+    ],
+    "titulo": "LEY de Disciplina para el Personal de la Armada de México."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:33:12Z",
+      "sha256": "deaebe6b22d71d3940cb8907ec41f1e2ab1c2afbf77bd4ff9adee52f4c8b3966",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm.htm"
+}

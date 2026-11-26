@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2017-05-17",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen/LIISPCEN_ref01_17may17.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen/LIISPCEN_ref01_17may17.doc"
+            }
+          ],
+          "fecha": "2017-05-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman los artículos 2, 3, 11 y 14 de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-17",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen/LIISPCEN_ref02_17abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen/LIISPCEN_ref02_17abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+    }
+  ],
+  "documento": "liispcen",
+  "nombre": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2015-05-06",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen/LIISPCEN_orig_06may15.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen/LIISPCEN_orig_06may15.doc"
+          }
+        ],
+        "fecha": "2015-05-06"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, y se adiciona un artículo 21 Bis a la Ley de Planeación."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:41:03Z",
+      "sha256": "3a8ded5b1cee69845f46ac5b4a00bc048ab09907ae63557859bf87f33b3cd5a2",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen.htm"
+}

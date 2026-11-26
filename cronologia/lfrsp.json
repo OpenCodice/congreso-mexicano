@@ -1,0 +1,422 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1991-01-11",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref01_11ene91_ima.pdf"
+            }
+          ],
+          "fecha": "1991-01-11"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref01_fe_14ene91_ima.pdf"
+            }
+          ],
+          "etiqueta": "Fe de erratas",
+          "fecha": "1991-01-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma y adiciona la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1992-07-21",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref02_21jul92_ima.pdf"
+            }
+          ],
+          "fecha": "1992-07-21"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref02_fe_22jul92_ima.pdf"
+            }
+          ],
+          "etiqueta": "Fe de erratas",
+          "fecha": "1992-07-22"
+        }
+      ],
+      "titulo": "DECRETO que reforma, adiciona y deroga diversas disposiciones de la Ley Federal de Responsabilidades de los Servicios Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1994-01-10",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref03_10ene94.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref03_10ene94.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref03_10ene94_ima.pdf"
+            }
+          ],
+          "fecha": "1994-01-10"
+        }
+      ],
+      "titulo": "DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales, del Código de Procedimientos Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1995-05-26",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref04_26may95.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref04_26may95.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref04_26may95_ima.pdf"
+            }
+          ],
+          "fecha": "1995-05-26"
+        }
+      ],
+      "titulo": "Ley Orgánica del Poder Judicial de la Federación."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1995-12-12",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref05_12dic95.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref05_12dic95.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref05_12dic95_ima.pdf"
+            }
+          ],
+          "fecha": "1995-12-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1996-12-24",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref06_24dic96.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref06_24dic96.DOC"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref06_24dic96_ima.pdf"
+            }
+          ],
+          "fecha": "1996-12-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1997-12-04",
+      "numero": 7,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref07_04dic97.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref07_04dic97.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref07_04dic97_ima.pdf"
+            }
+          ],
+          "fecha": "1997-12-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2000-12-31",
+      "numero": 8,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref08_31dic00.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref08_31dic00.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref08_31dic00_ima.pdf"
+            }
+          ],
+          "fecha": "2000-12-31"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones fiscales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2002-03-13",
+      "numero": 9,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref09_13mar02.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref09_13mar02.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref09_13mar02_ima.pdf"
+            }
+          ],
+          "fecha": "2002-03-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Coordinación Fiscal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2003-06-13",
+      "numero": 10,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref10_13jun03.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref10_13jun03.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref10_13jun03_ima.pdf"
+            }
+          ],
+          "fecha": "2003-06-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversos artículos de la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 11,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref11_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref11_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2013-12-24",
+      "numero": 12,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref12_24dic13.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref12_24dic13.doc"
+            }
+          ],
+          "fecha": "2013-12-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona la fracción XXI bis al artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-03-24",
+      "numero": 13,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref13_24mar16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref13_24mar16.doc"
+            }
+          ],
+          "fecha": "2016-03-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-07-18",
+      "numero": 14,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref14_18jul16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref14_18jul16.doc"
+            }
+          ],
+          "fecha": "2016-07-18"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-12-20",
+      "numero": 15,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref15_20dic23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref15_20dic23.doc"
+            }
+          ],
+          "fecha": "2023-12-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 16,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref16_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_ref16_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lfrsp",
+  "nombre": "Ley Federal de Responsabilidades de los Servidores Públicos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1982-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_orig_31dic82_ima.pdf"
+          }
+        ],
+        "fecha": "1982-12-31"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp/LFRSP_orig_fe_10mar83_ima.pdf"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "1983-03-10"
+      }
+    ],
+    "titulo": "Ley Federal de Responsabilidades de los Servidores Públicos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:32:02Z",
+      "sha256": "1de29ea43e6a175762457206236ebe8d1c4da8a1811894f8e1634a26be47ef2c",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp.htm"
+}

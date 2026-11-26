@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2024-01-26",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja/LOTFJA_ref01_26ene24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja/LOTFJA_ref01_26ene24.doc"
+            }
+          ],
+          "fecha": "2024-01-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley General de Mecanismos Alternativos de Solución de Controversias y se reforma y adiciona la Ley Orgánica del Poder Judicial de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Administrativa."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-10-16",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja/LOTFJA_ref02_16oct25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja/LOTFJA_ref02_16oct25.doc"
+            }
+          ],
+          "fecha": "2025-10-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa."
+    }
+  ],
+  "documento": "lotfja",
+  "nombre": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-07-18",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja/LOTFJA_orig_18jul16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja/LOTFJA_orig_18jul16.doc"
+          }
+        ],
+        "fecha": "2016-07-18"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:59:02Z",
+      "sha256": "292f5af26198a6fb95e1b2597641fe82c8aed04429de5031f2899cf1d5ba7ec8",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja.htm"
+}

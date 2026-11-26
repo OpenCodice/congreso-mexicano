@@ -1,0 +1,100 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2015-03-12",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_ref01_12mar15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_ref01_12mar15.doc"
+            }
+          ],
+          "fecha": "2015-03-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman los artículos 222 y 222 Bis del Código Penal Federal y el artículo 13 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-06-17",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_ref02_17jun16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_ref02_17jun16.doc"
+            }
+          ],
+          "fecha": "2016-06-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_ref03_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_ref03_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    }
+  ],
+  "documento": "lfppipp",
+  "nombre": "Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2012-06-08",
+    "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lxi/248_DOF_08jun12.pdf",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_orig_08jun12.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp/LFPPIPP_orig_08jun12.doc"
+          }
+        ],
+        "fecha": "2012-06-08"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; y se reforma el artículo 31 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:58:09Z",
+      "sha256": "4b3fd83fd413cc44802dd961dfdaf4027468cdcecffb6861d336ae6a57d6f59c",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp.htm"
+}

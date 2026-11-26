@@ -1,0 +1,59 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1972-01-12",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut/LRMNYUT_ref01_12ene72_ima.pdf"
+            }
+          ],
+          "fecha": "1972-01-12"
+        }
+      ],
+      "titulo": "LEY Orgánica del Instituto Nacional de Energía Nuclear."
+    }
+  ],
+  "documento": "lrmnyut",
+  "nombre": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1950-01-26",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut/LRMNYUT_orig_26ene50_ima.pdf"
+          }
+        ],
+        "fecha": "1950-01-26"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut/LRMNYUT_orig_acla_03feb50_ima.pdf"
+          }
+        ],
+        "etiqueta": "Aclaración",
+        "fecha": "1950-02-03"
+      }
+    ],
+    "titulo": "LEY que declara reservas mineras nacionales los yacimientos de uranio, torio y las demás substancias de las cuales se obtengan isótopos hendibles que puedan producir energía nuclear."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:06:16Z",
+      "sha256": "66c8ebedb6a3c8d461e4812694a488fc46bf72d7e0fc6b65c07bb20b2224813f",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut.htm"
+}

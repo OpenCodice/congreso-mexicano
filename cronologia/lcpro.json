@@ -1,0 +1,39 @@
+{
+  "decretos": [],
+  "documento": "lcpro",
+  "nombre": "Ley de Capitalización del Procampo",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2001-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpro/LCPro_orig_31dic01.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpro/LCPro_orig_31dic01.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpro/LCPro_orig_31dic01_ima.pdf"
+          }
+        ],
+        "fecha": "2001-12-31"
+      }
+    ],
+    "titulo": "LEY de Capitalización del PROCAMPO."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:31:13Z",
+      "sha256": "3a22eeb404b2996dccc4d272904cfecbd0c6d3be1f9b1dda305e61893b5606df",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpro.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpro.htm"
+}

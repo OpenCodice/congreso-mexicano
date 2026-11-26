@@ -1,0 +1,124 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-05-22",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_ref01_22may18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_ref01_22may18.doc"
+            }
+          ],
+          "fecha": "2018-05-22"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman los artículos 1 y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-11-22",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_ref02_22nov21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_ref02_22nov21.doc"
+            }
+          ],
+          "fecha": "2021-11-22"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-01-17",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_ref03_17ene22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_ref03_17ene22.doc"
+            }
+          ],
+          "fecha": "2022-01-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-07-16",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAGN_ref04_16jul25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAGN_ref04_16jul25.doc"
+            }
+          ],
+          "fecha": "2025-07-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales."
+    }
+  ],
+  "documento": "lemefam",
+  "nombre": "Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2005-12-23",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_orig_23dic05.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_orig_23dic05.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam/LEMEFAM_orig_23dic05_ima.pdf"
+          }
+        ],
+        "fecha": "2005-12-23"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:37:09Z",
+      "sha256": "e55d98d4ad7d74ab11950c3226b0b20d8d3e4f970bcc3cd1c97b01887304f51a",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam.htm"
+}

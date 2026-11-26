@@ -1,0 +1,99 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-03-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_ref01_09mar18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_ref01_09mar18.doc"
+            }
+          ],
+          "fecha": "2018-03-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley para Regular las Instituciones de Tecnología Financiera y se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-01-24",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_ref02_24ene24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_ref02_24ene24.doc"
+            }
+          ],
+          "fecha": "2024-01-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en materia de procedimiento administrativo."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_ref03_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_ref03_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lraf",
+  "nombre": "Ley para Regular las Agrupaciones Financieras",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2014-01-10",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_orig_10ene14.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf/LRAF_orig_10ene14.doc"
+          }
+        ],
+        "fecha": "2014-01-10"
+      }
+    ],
+    "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:02:05Z",
+      "sha256": "db8edfb485f8120347c38013c355b1aaaab571be807b28d8fed6cb0ff3f4dcd3",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf.htm"
+}

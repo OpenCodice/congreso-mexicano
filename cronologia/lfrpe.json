@@ -1,0 +1,126 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2009-04-30",
+      "numero": 1,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/165_DOF_30abr09.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref01_30abr09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref01_30abr09.doc"
+            }
+          ],
+          "fecha": "2009-04-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma y adiciona el artículo 2 de la Ley Federal de Responsabilidad Patrimonial del Estado."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2009-06-12",
+      "numero": 2,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/194_DOF_12jun09.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref02_12jun09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref02_12jun09.doc"
+            }
+          ],
+          "fecha": "2009-06-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidad Patrimonial del Estado y de la Ley Federal de Procedimiento Contencioso Administrativo."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref03_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref03_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-12-29",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref04_29dic23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_ref04_29dic23.doc"
+            }
+          ],
+          "fecha": "2023-12-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el primer párrafo del artículo 1 de la Ley Federal de Responsabilidad Patrimonial del Estado."
+    }
+  ],
+  "documento": "lfrpe",
+  "nombre": "Ley Federal de Responsabilidad Patrimonial del Estado",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2004-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_orig_31dic04.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_orig_31dic04.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe/LFRPE_orig_31dic04_ima.pdf"
+          }
+        ],
+        "fecha": "2004-12-31"
+      }
+    ],
+    "titulo": "LEY Federal de Responsabilidad Patrimonial del Estado."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:03:16Z",
+      "sha256": "bffe6df6584e3c1d6c2c760b1d25a724369b3832f9f975e8dd7235d020ddafb0",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm"
+}

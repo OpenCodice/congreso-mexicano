@@ -1,0 +1,53 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsrlip/LSRLIP_ref01_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsrlip/LSRLIP_ref01_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "lsrlip",
+  "nombre": "Ley de Sociedades de Responsabilidad Limitada de Interés Público",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1934-08-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsrlip/LSRLIP_orig_31ago34_ima.pdf"
+          }
+        ],
+        "fecha": "1934-08-31"
+      }
+    ],
+    "titulo": "LEY de Sociedades de responsabilidad limitada de interés público."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:16:15Z",
+      "sha256": "896bf682bcc6f9cc264d33b48bf06aa5deb233103a5ed246cc72c67ae7d6e5cd",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsrlip.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsrlip.htm"
+}

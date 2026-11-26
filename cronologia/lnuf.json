@@ -1,0 +1,89 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2024-01-24",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_ref01_24ene24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_ref01_24ene24.doc"
+            }
+          ],
+          "fecha": "2024-01-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan los artículos 3, 4 y 6 de la Ley Nacional Sobre el Uso de la Fuerza."
+    }
+  ],
+  "documento": "lnuf",
+  "nombre": "Ley Nacional sobre el Uso de la Fuerza",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2019-05-27",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_orig_27may19.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_orig_27may19.doc"
+          }
+        ],
+        "fecha": "2019-05-27"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Nacional sobre el Uso de la Fuerza."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2022-04-08",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_sent01_notifica_29oct21.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2021-10-29"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_sent01_08abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf/LNUF_sent01_08abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-08"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 64/2019, así como los Votos Particulares de los señores Ministros Juan Luis González Alcántara Carrancá y Luis María Aguilar Morales y de Minoría de la señora Ministra Norma Lucía Piña Hernández y de los señores Ministros Alfredo Gutiérrez Ortiz Mena y Juan Luis González Alcántara Carrancá."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:50:16Z",
+      "sha256": "b87dd3475b8a7ff0738cf112b5e649dd31e77f0791ef6521f3adadd7f7e6d6b2",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf.htm"
+}

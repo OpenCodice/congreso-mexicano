@@ -1,0 +1,31 @@
+{
+  "decretos": [],
+  "documento": "lounam",
+  "nombre": "Ley Orgánica de la Universidad Nacional Autónoma de México",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1945-01-06",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lounam/LOUNAM_orig_06ene45_ima.pdf"
+          }
+        ],
+        "fecha": "1945-01-06"
+      }
+    ],
+    "titulo": "LEY Orgánica de la Universidad Nacional Autónoma de México."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:59:12Z",
+      "sha256": "ad526cdf73d10939cb9ca04c78ae8ba0ff057227445fea079fd10ac69f8b1409",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lounam.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lounam.htm"
+}

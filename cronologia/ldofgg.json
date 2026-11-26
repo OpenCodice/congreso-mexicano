@@ -1,0 +1,89 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-06-05",
+      "numero": 1,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lxi/237_DOF_05jun12.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_ref01_05jun12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_ref01_05jun12.doc"
+            }
+          ],
+          "fecha": "2012-06-05"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2019-05-31",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_ref02_31may19.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_ref02_31may19.doc"
+            }
+          ],
+          "fecha": "2019-05-31"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_ref02_fe_10jun19.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_ref02_fe_10jun19.doc"
+            }
+          ],
+          "etiqueta": "Fe de erratas",
+          "fecha": "2019-06-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales."
+    }
+  ],
+  "documento": "ldofgg",
+  "nombre": "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1986-12-24",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg/LDOFGG_orig_24dic86_ima.pdf"
+          }
+        ],
+        "fecha": "1986-12-24"
+      }
+    ],
+    "titulo": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:33:06Z",
+      "sha256": "5b06f1061eb7d6d04f6e4fcf1860a919b7157753927bd621229adc745b10250f",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg.htm"
+}

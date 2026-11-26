@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "ledpde",
+  "nombre": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2026-11-04",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ledpde/LEDPDE_orig_04nov26.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ledpde/LEDPDE_orig_04nov26.doc"
+          }
+        ],
+        "fecha": "2026-11-04"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:37:02Z",
+      "sha256": "058443561f45f56c1b933890bac4f943f86ec643c0c7e2977c3c96189bafed7b",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ledpde.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ledpde.htm"
+}

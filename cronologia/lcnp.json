@@ -1,0 +1,53 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-06-21",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp/LCNP_ref01_21jun18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp/LCNP_ref01_21jun18.doc"
+            }
+          ],
+          "fecha": "2018-06-21"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y derogan diversas disposiciones del Código de Justicia Militar, del Código Militar de Procedimientos Penales, del Código Penal Federal y de la Ley para Conservar la Neutralidad del País."
+    }
+  ],
+  "documento": "lcnp",
+  "nombre": "Ley para Conservar la Neutralidad del País",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1939-11-10",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp/LCNP_orig_10nov39_ima.pdf"
+          }
+        ],
+        "fecha": "1939-11-10"
+      }
+    ],
+    "titulo": "LEY para conservar la neutralidad del país."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:31:06Z",
+      "sha256": "d28b1b5bcd92688f7969a78dd28a429decbd348827a84bf2e6df4f95b5a4ca6a",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp.htm"
+}

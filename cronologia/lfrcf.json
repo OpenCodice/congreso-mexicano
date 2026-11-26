@@ -1,0 +1,113 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-01-11",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref01_11ene21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref01_11ene21.doc"
+            }
+          ],
+          "fecha": "2021-01-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref02_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref02_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2026-05-14",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref03_14may26.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref03_14may26.doc"
+            }
+          ],
+          "fecha": "2026-05-14"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref03_fe_15may26.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_ref03_fe_15may26.doc"
+            }
+          ],
+          "etiqueta": "Fe de erratas",
+          "fecha": "2026-05-15"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación y de la Ley General de Contabilidad Gubernamental."
+    }
+  ],
+  "documento": "lfrcf",
+  "nombre": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-07-18",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_orig_18jul16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf/LFRCF_orig_18jul16.doc"
+          }
+        ],
+        "fecha": "2016-07-18"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación; y se reforman el artículo 49 de la Ley de Coordinación Fiscal, y el artículo 70 de la Ley General de Contabilidad Gubernamental."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:21:05Z",
+      "sha256": "7ad7cd4c195c07e4411b91dea084377e1a93c51f7f83b4179772744d2db39525",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf.htm"
+}

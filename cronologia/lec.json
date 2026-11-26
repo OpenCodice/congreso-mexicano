@@ -1,0 +1,61 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-12-28",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec/LEC_ref01_28dic12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec/LEC_ref01_28dic12.doc"
+            }
+          ],
+          "fecha": "2012-12-28"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un segundo párrafo al artículo 9o. de la Ley de Energía para el Campo."
+    }
+  ],
+  "documento": "lec",
+  "nombre": "Ley de Energía para el Campo",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2002-12-30",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec/LEC_orig_30dic02.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec/LEC_orig_30dic02.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec/LEC_orig_30dic02_ima.pdf"
+          }
+        ],
+        "fecha": "2002-12-30"
+      }
+    ],
+    "titulo": "LEY de Energía para el Campo."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:41:05Z",
+      "sha256": "a648678c89638ae8b76f47f704cc4fd1f6959f42af35235e62ef7c6b4a88c36e",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec.htm"
+}

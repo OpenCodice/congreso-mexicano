@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2023-03-24",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len/LEN_ref01_24mar23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len/LEN_ref01_24mar23.doc"
+            }
+          ],
+          "fecha": "2023-03-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción III del artículo 10 de la Ley de Educación Naval."
+    }
+  ],
+  "documento": "len",
+  "nombre": "Ley de Educación Naval",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2019-03-12",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len/LEN_orig_12mar19.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len/LEN_orig_12mar19.doc"
+          }
+        ],
+        "fecha": "2019-03-12"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Educación Naval."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:37:12Z",
+      "sha256": "52556fb71e45793e63337f91e8cbdde25d88bf56eaff05310b4a65dcff9e3610",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len.htm"
+}

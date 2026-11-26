@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-19",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo/LFCPo_ref01_19may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo/LFCPo_ref01_19may21.doc"
+            }
+          ],
+          "fecha": "2021-05-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Consulta Popular."
+    }
+  ],
+  "documento": "lfcpo",
+  "nombre": "Ley Federal de Consulta Popular",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2014-03-14",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo/LFCPo_orig_14mar14.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo/LFCPo_orig_14mar14.doc"
+          }
+        ],
+        "fecha": "2014-03-14"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Consulta Popular."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:42:16Z",
+      "sha256": "769f6ae6ceb769bc551ea29141f2a1c3d5c39e272cef083d1a9045c91ffc8684",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo.htm"
+}

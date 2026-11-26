@@ -1,0 +1,158 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2003-06-13",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref01_13jun03.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref01_13jun03.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref01_13jun03_ima.pdf"
+            }
+          ],
+          "fecha": "2003-06-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley de Transparencia y Fomento a la Competencia en el Crédito Garantizado."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2005-02-07",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref02_07feb05.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref02_07feb05.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref02_07feb05_ima.pdf"
+            }
+          ],
+          "fecha": "2005-02-07"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Transparencia y Fomento a la Competencia en el Crédito Garantizado."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2007-06-15",
+      "numero": 3,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/025_DOF_15jun07.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref03_15jun07.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref03_15jun07.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref03_15jun07_ima.pdf"
+            }
+          ],
+          "fecha": "2007-06-15"
+        }
+      ],
+      "titulo": "DECRETO por el que se abroga la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, publicada el 26 de enero de 2004, se expide la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito y de la Ley de Protección y Defensa al Usuario de Servicios Financieros y la Ley de la Comisión Nacional Bancaria y de Valores."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2010-05-25",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref04_25may10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref04_25may10.doc"
+            }
+          ],
+          "fecha": "2010-05-25"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley de Instituciones de Crédito, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado, y de la Ley del Banco de México."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2014-01-10",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref05_10ene14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_ref05_10ene14.doc"
+            }
+          ],
+          "fecha": "2014-01-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras."
+    }
+  ],
+  "documento": "ltfccg",
+  "nombre": "Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2002-12-30",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_orig_30dic02.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_orig_30dic02.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg/LTFCCG_orig_30dic02_ima.pdf"
+          }
+        ],
+        "fecha": "2002-12-30"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:17:15Z",
+      "sha256": "c21010ae1f521339a9556b439b6002dcc8dba0973fb5b30097a92f3be7764d2a",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg.htm"
+}

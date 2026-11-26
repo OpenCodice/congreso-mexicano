@@ -1,0 +1,152 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-06-21",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref01_21jun18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref01_21jun18.doc"
+            }
+          ],
+          "fecha": "2018-06-21"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y derogan diversas disposiciones del Código de Justicia Militar, del Código Militar de Procedimientos Penales, del Código Penal Federal y de la Ley para Conservar la Neutralidad del País."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref02_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref02_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-07-16",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref03_16jul25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref03_16jul25.doc"
+            }
+          ],
+          "fecha": "2025-07-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref04_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_ref04_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "cmpp",
+  "nombre": "Código Militar de Procedimientos Penales",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-05-16",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_orig_16may16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_orig_16may16.doc"
+          }
+        ],
+        "fecha": "2016-05-16"
+      }
+    ],
+    "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Justicia Militar y se expide el Código Militar de Procedimientos Penales."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2023-09-05",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_sent01_notifica_19abr23.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2023-04-19"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_sent01_dof_05sep23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp/CMPP_sent01_dof_05sep23.doc"
+            }
+          ],
+          "fecha": "2023-09-05"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, así como los Votos Particulares de la señora Ministra Presidenta Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales, Particular, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá, Concurrentes de la señora Ministra Yasmín Esquivel Mossa y del señor Ministro Alfredo Gutiérrez Ortiz Mena, Concurrente, Particular y Aclaratorio del señor Ministro Arturo Zaldívar Lelo de Larrea y Aclaratorio y Particular de la señora Ministra Loretta Ortiz Ahlf."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:12:05Z",
+      "sha256": "f3465fe101abce68eec939914672c20d9b9521706ec2ebe8879c928dfd78f0b3",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp.htm"
+}

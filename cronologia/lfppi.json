@@ -1,0 +1,120 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2026-01-15",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref02_15ene26.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref02_15ene26.doc"
+            }
+          ],
+          "fecha": "2026-01-15"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2026-04-03",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref03_03abr26.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref03_03abr26.doc"
+            }
+          ],
+          "fecha": "2026-04-03"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Protección a la Propiedad Industrial, en materia de Transferencia de Tecnología y de Simplificación del Proceso de Protección de Patentes y Registros."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2026-11-13",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref04_13nov26.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_ref04_13nov26.doc"
+            }
+          ],
+          "fecha": "2026-11-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal y de la Ley Federal de Protección a la Propiedad Industrial."
+    }
+  ],
+  "documento": "lfppi",
+  "nombre": "Ley Federal de Protección a la Propiedad Industrial",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2020-07-01",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_orig_01jul20.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi/LFPPI_orig_01jul20.doc"
+          }
+        ],
+        "fecha": "2020-07-01"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Protección a la Propiedad Industrial y se abroga la Ley de la Propiedad Industrial."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:58:05Z",
+      "sha256": "98bc1c8fadabe534c2c65ef9557470cf2f364d5b8e31409d01c1b3a18ae455eb",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi.htm"
+}

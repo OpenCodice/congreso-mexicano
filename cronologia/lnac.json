@@ -1,0 +1,103 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2004-12-02",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref01_02dic04.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref01_02dic04.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref01_02dic04_ima.pdf"
+            }
+          ],
+          "fecha": "2004-12-02"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo cuarto transitorio de la Ley de Nacionalidad."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2005-01-12",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref02_12ene05.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref02_12ene05.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref02_12ene05_ima.pdf"
+            }
+          ],
+          "fecha": "2005-01-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona la Ley de Nacionalidad."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-23",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref03_23abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_ref03_23abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un segundo párrafo al inciso a) de la fracción I del artículo 20 de la Ley de Nacionalidad."
+    }
+  ],
+  "documento": "lnac",
+  "nombre": "Ley de Nacionalidad",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1998-01-23",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac/LNac_orig_23ene98_ima.pdf"
+          }
+        ],
+        "fecha": "1998-01-23"
+      }
+    ],
+    "titulo": "LEY de Nacionalidad."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:47:15Z",
+      "sha256": "db7dc456b9d344822a613641b0c9ac1f6a770b8f6fea33e38b4783a2122253bb",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac.htm"
+}

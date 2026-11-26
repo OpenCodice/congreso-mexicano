@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lfpdppp",
+  "nombre": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-03-20",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_orig_20mar25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_orig_20mar25.doc"
+          }
+        ],
+        "fecha": "2025-03-20"
+      }
+    ],
+    "titulo": "DECRETO por el que se expiden la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; y se reforma el artículo 37, fracción XV, de la Ley Orgánica de la Administración Pública Federal."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:19:03Z",
+      "sha256": "9477fed59e61451f638c7b94f7607e62cbf510ddae2f2cc92f8b6fa0e2a42d7c",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm"
+}

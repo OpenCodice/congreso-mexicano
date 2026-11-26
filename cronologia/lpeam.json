@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lpeam",
+  "nombre": "Ley de Protección del Espacio Aéreo Mexicano",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2023-03-01",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpeam/LPEAM_orig_01mar23.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpeam/LPEAM_orig_01mar23.doc"
+          }
+        ],
+        "fecha": "2023-03-01"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Protección del Espacio Aéreo Mexicano."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:00:09Z",
+      "sha256": "ba879368af8a11e2eba2414838721251d254ccec4c6414a1ff3352e3c12c47da",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpeam.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpeam.htm"
+}

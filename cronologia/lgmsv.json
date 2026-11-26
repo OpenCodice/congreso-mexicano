@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2023-05-08",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv/LGMSV_ref01_08may23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv/LGMSV_ref01_08may23.doc"
+            }
+          ],
+          "fecha": "2023-05-08"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona el artículo 49 de la Ley General de Movilidad y Seguridad Vial."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-12-29",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv/LGMSV_ref02_29dic23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv/LGMSV_ref02_29dic23.doc"
+            }
+          ],
+          "fecha": "2023-12-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Movilidad y Seguridad Vial."
+    }
+  ],
+  "documento": "lgmsv",
+  "nombre": "Ley General de Movilidad y Seguridad Vial",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2022-05-17",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv/LGMSV_orig_17may22.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv/LGMSV_orig_17may22.doc"
+          }
+        ],
+        "fecha": "2022-05-17"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Movilidad y Seguridad Vial."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:24:15Z",
+      "sha256": "19a05b4a4a70ac80bf893790a9d8b265c930fcf5f12f132f91b9624cba67485d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv.htm"
+}

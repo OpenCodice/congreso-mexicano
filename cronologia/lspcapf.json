@@ -1,0 +1,90 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2005-09-01",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_ref01_01sep05.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_ref01_01sep05.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_ref01_01sep05_ima.pdf"
+            }
+          ],
+          "fecha": "2005-09-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 8 de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2006-01-09",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_ref02_09ene06.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_ref02_09ene06.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_ref02_09ene06_ima.pdf"
+            }
+          ],
+          "fecha": "2006-01-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal."
+    }
+  ],
+  "documento": "lspcapf",
+  "nombre": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2003-04-10",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_orig_10abr03.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_orig_10abr03.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf/LSPCAPF_orig_10abr03_ima.pdf"
+          }
+        ],
+        "fecha": "2003-04-10"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley del Servicio Profesional de Carrera en la Administración Pública Federal; se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Presupuesto, Contabilidad y Gasto Público Federal; y se adiciona la Ley de Planeación."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:21:02Z",
+      "sha256": "ebd19a6939f1cc0f803eb97f91ea848df5e8f2a509c83098a08c7a173c98ca8d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf.htm"
+}

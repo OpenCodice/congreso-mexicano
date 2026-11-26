@@ -1,0 +1,147 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2007-07-26",
+      "numero": 1,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/040_DOF_26jul07.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref01_26jul07.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref01_26jul07.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref01_26jul07_ima.pdf"
+            }
+          ],
+          "fecha": "2007-07-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Sanidad Vegetal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2011-11-16",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref02_16nov11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref02_16nov11.doc"
+            }
+          ],
+          "fecha": "2011-11-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 77 de la Ley Federal de Sanidad Vegetal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2017-12-26",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref03_26dic17.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref03_26dic17.doc"
+            }
+          ],
+          "fecha": "2017-12-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un artículo 47-K a la Ley Federal de Sanidad Vegetal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-05-11",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref04_11may22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_ref04_11may22.doc"
+            }
+          ],
+          "fecha": "2022-05-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género."
+    }
+  ],
+  "documento": "lfsv",
+  "nombre": "Ley Federal de Sanidad Vegetal",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1994-01-05",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_orig_05ene94_ima.pdf"
+          }
+        ],
+        "fecha": "1994-01-05"
+      }
+    ],
+    "titulo": "LEY Federal de Sanidad Vegetal."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2008-11-18",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_sent01_18nov08.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_sent01_18nov08.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv/LFSV_sent01_18nov08_ima.pdf"
+            }
+          ],
+          "fecha": "2008-11-18"
+        }
+      ],
+      "titulo": "SENTENCIA dictada en la Acción de Inconstitucionalidad 157/2007, promovida por el Procurador General de la República, en contra del Congreso de la Unión y otras autoridades."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:07:02Z",
+      "sha256": "7da8d10d47b87b393885ca7dc6544321adda0bfd34da26597fee135a735e9d1d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv.htm"
+}

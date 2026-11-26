@@ -1,0 +1,120 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2017-01-27",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref01_27ene17.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref01_27ene17.doc"
+            }
+          ],
+          "fecha": "2017-01-27"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref02_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref02_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-07-16",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref03_16jul25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref03_16jul25.doc"
+            }
+          ],
+          "fecha": "2025-07-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref04_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_ref04_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lfce",
+  "nombre": "Ley Federal de Competencia Económica",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2014-05-23",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_orig_23may14.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce/LFCE_orig_23may14.doc"
+          }
+        ],
+        "fecha": "2014-05-23"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Competencia Económica y se reforman y adicionan diversos artículos del Código Penal Federal."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:42:09Z",
+      "sha256": "5e91190c406b2a4544855d2f4864a09f4f740f290e0e55dc9902fad45e4f056c",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce.htm"
+}

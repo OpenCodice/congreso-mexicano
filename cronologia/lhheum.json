@@ -1,0 +1,71 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2022-11-29",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum/LHHEUM_ref01_29nov22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum/LHHEUM_ref01_29nov22.doc"
+            }
+          ],
+          "fecha": "2022-11-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción II y se adiciona una fracción III al artículo 5 de la Ley de los Husos Horarios en los Estados Unidos Mexicanos."
+    }
+  ],
+  "documento": "lhheum",
+  "nombre": "Ley de los Husos Horarios en los Estados Unidos Mexicanos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2022-10-28",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum/LHHEUM_orig_28oct22.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum/LHHEUM_orig_28oct22.doc"
+          }
+        ],
+        "fecha": "2022-10-28"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum/LHHEUM_orig_fe_02nov22.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum/LHHEUM_orig_fe_02nov22.doc"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "2022-11-02"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:37:12Z",
+      "sha256": "ebb0d01c80a49c8c405b228666d7954518215610825e93b5a40a2738eb378e4d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum.htm"
+}

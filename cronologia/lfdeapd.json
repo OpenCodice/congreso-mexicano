@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd/LFDEAPD_ref01_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd/LFDEAPD_ref01_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd/LFDEAPD_ref02_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd/LFDEAPD_ref02_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lfdeapd",
+  "nombre": "Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2018-06-22",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd/LFDEAPD_orig_22jun18.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd/LFDEAPD_orig_22jun18.doc"
+          }
+        ],
+        "fecha": "2018-06-22"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:51:02Z",
+      "sha256": "dc6fc16024b0e7cfa24dfdffa1774e3b715deaff1f424e879205bdaa5d6b6080",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd.htm"
+}

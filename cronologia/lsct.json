@@ -1,0 +1,74 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct/LSCT_ref01_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct/LSCT_ref01_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct/LSCT_ref02_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct/LSCT_ref02_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lsct",
+  "nombre": "Ley sobre la Celebración de Tratados",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1992-01-02",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct/LSCT_orig_02ene92_ima.pdf"
+          }
+        ],
+        "fecha": "1992-01-02"
+      }
+    ],
+    "titulo": "LEY sobre la celebración de tratados."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:10:12Z",
+      "sha256": "20cb8b985cfbdf00b80aac9c09e58410a6827b69c3814478dd337d62ace6fceb",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct.htm"
+}

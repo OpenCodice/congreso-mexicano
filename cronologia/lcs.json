@@ -1,0 +1,200 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1946-04-15",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref01_15abr46_ima.pdf"
+            }
+          ],
+          "fecha": "1946-04-15"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_fe02_02ago46_ima.pdf"
+            }
+          ],
+          "etiqueta": "Fe de erratas",
+          "fecha": "1946-08-02"
+        }
+      ],
+      "titulo": "DECRETO que reforma y adiciona varios artículos de la Ley sobre el Contrato de Seguro."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1966-01-05",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref02_05ene66_ima.pdf"
+            }
+          ],
+          "fecha": "1966-01-05"
+        }
+      ],
+      "titulo": "REFORMAS a la Ley sobre el Contrato de Seguro."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2002-01-02",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref03_02ene02.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref03_02ene02.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref03_02ene02_ima.pdf"
+            }
+          ],
+          "fecha": "2002-01-02"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2006-04-24",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref04_24abr06.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref04_24abr06.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref04_24abr06_ima.zip"
+            }
+          ],
+          "fecha": "2006-04-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, de la Ley Federal de Instituciones de Fianzas y de la Ley sobre el Contrato de Seguro."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2009-05-06",
+      "numero": 5,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/170_DOF_06may09.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref05_06may09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref05_06may09.doc"
+            }
+          ],
+          "fecha": "2009-05-06"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro y de la Ley de Protección y Defensa al Usuario de Servicios Financieros."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref06_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref06_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2013-04-04",
+      "numero": 7,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref07_04abr13.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_ref07_04abr13.doc"
+            }
+          ],
+          "fecha": "2013-04-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro."
+    }
+  ],
+  "documento": "lcs",
+  "nombre": "Ley Sobre el Contrato de Seguro",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1935-08-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_orig_31ago35_ima.zip"
+          }
+        ],
+        "fecha": "1935-08-31"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs/LCS_fe01_13sep35_ima.pdf"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "1935-09-13"
+      }
+    ],
+    "titulo": "LEY sobre el Contrato de Seguro."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:31:16Z",
+      "sha256": "094dec058a48b6c75437e9d608325040f677327e0c2cc49ab164ff8f8273f7b1",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs.htm"
+}

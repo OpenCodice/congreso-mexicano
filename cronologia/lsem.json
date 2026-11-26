@@ -1,0 +1,162 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "1998-01-23",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref01_23ene98.pdf"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref01_23ene98_ima.pdf"
+            }
+          ],
+          "fecha": "1998-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2002-01-25",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref02_25ene02.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref02_25ene02.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref02_25ene02_ima.pdf"
+            }
+          ],
+          "fecha": "2002-01-25"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley del Servicio Exterior Mexicano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref03_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref03_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-06-01",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref04_01jun16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref04_01jun16.doc"
+            }
+          ],
+          "fecha": "2016-06-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción VI del artículo 32 de la Ley del Servicio Exterior Mexicano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-06-01",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref05_01jun16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref05_01jun16.doc"
+            }
+          ],
+          "fecha": "2016-06-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se adicionan un segundo, tercero y cuarto párrafos a la fracción III del artículo 44 de la Ley del Servicio Exterior Mexicano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2018-04-19",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref06_19abr18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_ref06_19abr18.doc"
+            }
+          ],
+          "fecha": "2018-04-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano."
+    }
+  ],
+  "documento": "lsem",
+  "nombre": "Ley del Servicio Exterior Mexicano",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1994-01-04",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem/LSEM_orig_04ene94_ima.pdf"
+          }
+        ],
+        "fecha": "1994-01-04"
+      }
+    ],
+    "titulo": "LEY del Servicio Exterior Mexicano."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:16:02Z",
+      "sha256": "91c7396a963690f2b6235dd566349359dc2190f2500d70551802d03e9a87efca",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem.htm"
+}

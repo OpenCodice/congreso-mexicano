@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lgn",
+  "nombre": "Ley de la Guardia Nacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-07-16",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgn/LGN_orig_16jul25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgn/LGN_orig_16jul25.doc"
+          }
+        ],
+        "fecha": "2025-07-16"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:25:02Z",
+      "sha256": "af20b190ae7a967ccf6494d8c711c32580297167abb9702e0a074d571f58200b",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgn.htm"
+}

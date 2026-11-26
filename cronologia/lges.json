@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lges",
+  "nombre": "Ley General de Educación Superior",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2021-04-20",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lges/LGES_orig_20abr21.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lges/LGES_orig_20abr21.doc"
+          }
+        ],
+        "fecha": "2021-04-20"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Educación Superior y se abroga la Ley para la Coordinación de la Educación Superior."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:20:05Z",
+      "sha256": "2fa368aa1eb80d14526de1f806544d4fdeceb99b5b455414245b91c72d5f7062",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lges.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lges.htm"
+}

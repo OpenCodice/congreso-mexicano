@@ -1,0 +1,116 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2010-03-26",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref01_26mar10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref01_26mar10.doc"
+            }
+          ],
+          "fecha": "2010-03-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona el Capítulo XXIV “De las Franquicias Postales”, con los artículos 69, 70, 71 y 72 a la Ley del Servicio Postal Mexicano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2015-06-04",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref02_04jun15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref02_04jun15.doc"
+            }
+          ],
+          "fecha": "2015-06-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un párrafo segundo al artículo 4o. de la Ley del Servicio Postal Mexicano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2018-05-31",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref03_31may18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref03_31may18.doc"
+            }
+          ],
+          "fecha": "2018-05-31"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 4o. de la Ley del Servicio Postal Mexicano."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-01-19",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref04_19ene23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_ref04_19ene23.doc"
+            }
+          ],
+          "fecha": "2023-01-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la fracción II y se adiciona una fracción VIII al artículo 15 de la Ley del Servicio Postal Mexicano."
+    }
+  ],
+  "documento": "lspm",
+  "nombre": "Ley del Servicio Postal Mexicano",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1986-12-24",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm/LSPM_orig_24dic86_ima.zip"
+          }
+        ],
+        "fecha": "1986-12-24"
+      }
+    ],
+    "titulo": "LEY del Servicio Postal Mexicano."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:16:09Z",
+      "sha256": "58ec5d47c71e6451a270fb60f4f960320c9287f77ee169f58a1ac8974f29e96d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm.htm"
+}

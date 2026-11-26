@@ -1,0 +1,162 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2022-04-12",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref01_12abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref01_12abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona una fracción VI Bis al artículo 8 de la Ley General de Comunicación Social."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-12-27",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref02_27dic22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref02_27dic22.doc"
+            }
+          ],
+          "fecha": "2022-12-27"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-06-02",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref03_02jun23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref03_02jun23.doc"
+            }
+          ],
+          "fecha": "2023-06-02"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el párrafo último del artículo 26 de la Ley General de Comunicación Social."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref04_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_ref04_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lgcs",
+  "nombre": "Ley General de Comunicación Social",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2018-05-11",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_orig_11may18.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_orig_11may18.doc"
+          }
+        ],
+        "fecha": "2018-05-11"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Comunicación Social."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2023-11-24",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_sent01_notifica_08may23.pdf"
+            }
+          ],
+          "etiqueta": "Notificación de Puntos Resolutivos para efectos legales",
+          "fecha": "2023-05-08"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_sent01_notifica_engrose_31may23.pdf"
+            }
+          ],
+          "etiqueta": "Notificación de Engrose con efectos de la declaratoria de invalidez",
+          "fecha": "2023-05-31"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_sent01_dof_24nov23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs/LGCS_sent01_dof_24nov23.doc"
+            }
+          ],
+          "fecha": "2023-11-24"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, así como los Votos Particulares de las señoras Ministras Yasmín Esquivel Mossa y Loretta Ortiz Ahlf, Particular y Concurrente del señor Ministro Arturo Zaldívar Lelo de Larrea, y Concurrentes de las señoras Ministras Ana Margarita Ríos Farjat y Presidenta Norma Lucía Piña Hernández y de los señores Ministros Alfredo Gutiérrez Ortiz Mena y Juan Luis González Alcántara Carrancá."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:13:10Z",
+      "sha256": "505d94bfea3b36ce7d3e0b95f82488bf03c380ac7ece6aae8ef37536ff93c2cb",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcs.htm"
+}

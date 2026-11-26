@@ -1,0 +1,162 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2020-04-13",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref01_13abr20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref01_13abr20.doc"
+            }
+          ],
+          "fecha": "2020-04-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas fracciones del artículo 7 de la Ley General de Desarrollo Forestal Sustentable."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-04-26",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref02_26abr21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref02_26abr21.doc"
+            }
+          ],
+          "fecha": "2021-04-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley General de Desarrollo Forestal Sustentable."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-04-11",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref03_11abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref03_11abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Desarrollo Forestal Sustentable."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-04-11",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref04_11abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref04_11abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Desarrollo Forestal Sustentable."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-04-28",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref05_28abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref05_28abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-28"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman el primer párrafo del artículo 139 y el penúltimo párrafo del artículo 140 de la Ley General de Desarrollo Forestal Sustentable."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref06_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_ref06_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lgdfs",
+  "nombre": "Ley General de Desarrollo Forestal Sustentable",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2018-06-05",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_orig_05jun18.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs/LGDFS_orig_05jun18.doc"
+          }
+        ],
+        "fecha": "2018-06-05"
+      }
+    ],
+    "titulo": "DECRETO por el que se abroga la Ley General de Desarrollo Forestal Sustentable, publicada en el Diario Oficial de la Federación, el 25 de febrero de 2003, se expide la Ley General de Desarrollo Forestal Sustentable; y se reforma el primer párrafo al artículo 105 y se adiciona un segundo párrafo al mismo artículo de la Ley General del Equilibrio Ecológico y la Protección al Ambiente."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:13:16Z",
+      "sha256": "176058714b8c4ac95d92a6bb14e5bca650f4e1116957186f9ab98c004e04d8dc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs.htm"
+}

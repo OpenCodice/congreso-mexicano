@@ -1,0 +1,49 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1977-12-30",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luach/LCUACh_ref01_30dic77_ima.pdf"
+            }
+          ],
+          "fecha": "1977-12-30"
+        }
+      ],
+      "titulo": "DECRETO de reformas a la Ley que crea la Universidad Autónoma de Chapingo, en los artículos 10, 12 y segundo, tercero y cuarto transitorios."
+    }
+  ],
+  "documento": "luach",
+  "nombre": "Ley que crea la Universidad Autónoma Chapingo",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1974-12-30",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luach/LCUACh_orig_30dic74_ima.pdf"
+          }
+        ],
+        "fecha": "1974-12-30"
+      }
+    ],
+    "titulo": "LEY que crea la Universidad Autónoma Chapingo."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:40:09Z",
+      "sha256": "0209019e6cb1ac1771235f5877b2eb0f93933032a70c753c42477ef56c1123a8",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luach.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luach.htm"
+}

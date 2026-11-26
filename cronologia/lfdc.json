@@ -1,0 +1,40 @@
+{
+  "decretos": [],
+  "documento": "lfdc",
+  "nombre": "Ley Federal de los Derechos del Contribuyente",
+  "notas_sin_decreto": [],
+  "original": {
+    "clase": "Original",
+    "escaneado": false,
+    "fecha": "2005-06-23",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc/LFDC_orig_23jun05.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc/LFDC_orig_23jun05.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc/LFDC_orig_23jun05_ima.pdf"
+          }
+        ],
+        "fecha": "2005-06-23"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de los Derechos del Contribuyente"
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:43:16Z",
+      "sha256": "48d8730b47305b1d12863bba3872ccd36f6f892de986d9dcc587ddfe5bfe6d49",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc.htm"
+}

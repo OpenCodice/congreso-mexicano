@@ -1,0 +1,95 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1986-01-13",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_ref01_13ene86_ima.pdf"
+            }
+          ],
+          "fecha": "1986-01-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma la Ley Orgánica del Instituto Nacional de Antropología e Historia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1998-01-23",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_ref02_23ene98.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_ref02_23ene98.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_ref02_23ene98_ima.pdf"
+            }
+          ],
+          "fecha": "1998-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2015-12-17",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_ref03_17dic15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_ref03_17dic15.doc"
+            }
+          ],
+          "fecha": "2015-12-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura."
+    }
+  ],
+  "documento": "loinah",
+  "nombre": "Ley Orgánica del Instituto Nacional de Antropología e Historia",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1939-02-03",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah/LOINAH_orig_03feb39_ima.pdf"
+          }
+        ],
+        "fecha": "1939-02-03"
+      }
+    ],
+    "titulo": "LEY Orgánica del Instituto Nacional de Antropología e Historia."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:55:02Z",
+      "sha256": "379fb205992a7414654a766371df687211bd9a6a7a604cb2e161288fae47b30c",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah.htm"
+}

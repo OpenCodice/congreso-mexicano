@@ -1,0 +1,181 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2005-12-26",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref01_26dic05.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref01_26dic05.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref01_26dic05_ima.pdf"
+            }
+          ],
+          "fecha": "2005-12-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 58 y se adiciona un segundo párrafo al artículo 56 de la Ley de Seguridad Nacional."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2019-11-08",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref02_08nov19.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref02_08nov19.doc"
+            }
+          ],
+          "fecha": "2019-11-08"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2020-12-18",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref03_18dic20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref03_18dic20.doc"
+            }
+          ],
+          "fecha": "2020-12-18"
+        }
+      ],
+      "titulo": "DECRETO por el que se adicionan diversas disposiciones a la Ley de Seguridad Nacional."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref04_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref04_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref05_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_ref05_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lsn",
+  "nombre": "Ley de Seguridad Nacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2005-01-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_orig_31ene05.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_orig_31ene05.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_orig_31ene05_ima.pdf"
+          }
+        ],
+        "fecha": "2005-01-31"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Seguridad Nacional; y se reforma el artículo 50 Bis de la Ley Orgánica del Poder Judicial de la Federación."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2025-08-20",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_sent01_notifica_25nov22.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2022-11-25"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_sent01_dof_20ago25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn/LSN_sent01_dof_20ago25.doc"
+            }
+          ],
+          "fecha": "2025-08-20"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, así como los Votos Concurrente y Particular de la señora Ministra Ana Margarita Ríos Farjat, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá y Concurrente de la señora Ministra Presidenta Norma Lucía Piña Hernández."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:13:05Z",
+      "sha256": "13453ab516a2723ea3307de5e667f5aabf48bc3e0c6cc5963628b13484b915a6",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn.htm"
+}

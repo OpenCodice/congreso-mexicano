@@ -1,0 +1,67 @@
+{
+  "decretos": [],
+  "documento": "lfrm",
+  "nombre": "Ley Federal de Revocación de Mandato",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2021-09-14",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm/LFRM_orig_14sep21.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm/LFRM_orig_14sep21.doc"
+          }
+        ],
+        "fecha": "2021-09-14"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Revocación de Mandato."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2022-09-26",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm/LFRM_orig_sent01_notifica_04feb22.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2022-02-04"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm/LFRM_orig_sent01_26sep22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm/LFRM_orig_sent01_26sep22.doc"
+            }
+          ],
+          "fecha": "2022-09-26"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 151/2021, así como los Votos Particulares de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Javier Laynez Potisek, Particulares y Concurrentes de la señora Ministra Loretta Ortiz Ahlf y del señor Ministro Juan Luis González Alcántara Carrancá y Concurrente y Particular del señor Ministro Alfredo Gutiérrez Ortiz Mena."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:03:12Z",
+      "sha256": "b8f2d7a94281045164823b81ca63893ebfce1ebdd49e5799e3980e2bfc75b080",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm.htm"
+}

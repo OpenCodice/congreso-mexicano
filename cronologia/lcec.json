@@ -1,0 +1,82 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2009-06-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_ref01_09jun09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_ref01_09jun09.doc"
+            }
+          ],
+          "fecha": "2009-06-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Cámaras Empresariales y sus Confederaciones y del Código de Comercio."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2019-04-12",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_ref02_12abr19.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_ref02_12abr19.doc"
+            }
+          ],
+          "fecha": "2019-04-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona la fracción XIV al artículo 7 de la Ley de Cámaras Empresariales y sus Confederaciones."
+    }
+  ],
+  "documento": "lcec",
+  "nombre": "Ley de Cámaras Empresariales y sus Confederaciones",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2005-01-20",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_orig_20ene05.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_orig_20ene05.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec/LCEC_orig_20ene05_ima.pdf"
+          }
+        ],
+        "fecha": "2005-01-20"
+      }
+    ],
+    "titulo": "LEY de Cámaras Empresariales y sus Confederaciones."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:26:05Z",
+      "sha256": "8b7624553dd8fb9e0d19ea69aa474c8ca7a06072cbaf98aa2bcb04ad4dc7b39f",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec.htm"
+}

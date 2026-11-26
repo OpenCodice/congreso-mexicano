@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lfiv",
+  "nombre": "Ley de Fomento a la Industria Vitivinícola",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2018-05-23",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiv/LFIV_orig_23may18.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiv/LFIV_orig_23may18.doc"
+          }
+        ],
+        "fecha": "2018-05-23"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Fomento a la Industria Vitivinícola."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:51:12Z",
+      "sha256": "fe6504b3a65f2a0e068d37c87cda93b981ba3bc5fed75922baf1bb26c413e471",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiv.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiv.htm"
+}

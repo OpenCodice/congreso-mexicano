@@ -1,0 +1,120 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "1998-01-23",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref01_23ene98.pdf"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref01_23ene98_ima.pdf"
+            }
+          ],
+          "fecha": "1998-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2006-05-23",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref02_23may06.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref02_23may06.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref02_23may06_ima.pdf"
+            }
+          ],
+          "fecha": "2006-05-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversos artículos de la Ley Federal de Correduría Pública."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2011-06-08",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref03_08jun11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref03_08jun11.doc"
+            }
+          ],
+          "fecha": "2011-06-08"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversos artículos de la Ley Federal de Correduría Pública."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref04_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_ref04_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "lfcp",
+  "nombre": "Ley Federal de Correduría Pública",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1992-12-29",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp/LFCP_orig_29dic92_ima.pdf"
+          }
+        ],
+        "fecha": "1992-12-29"
+      }
+    ],
+    "titulo": "LEY Federal de Correduría Pública."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:42:12Z",
+      "sha256": "ed6fde02d0dee9cdf4e65b254f96954e8d149ef5c73016c7a0db58e2eba5ec28",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp.htm"
+}

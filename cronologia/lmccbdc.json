@@ -1,0 +1,142 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1985-01-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref01_14ene85.pdf"
+            }
+          ],
+          "fecha": "1985-01-14"
+        }
+      ],
+      "titulo": "Decreto por el que se adiciona un segundo párrafo al Articulo 4o. de la Ley que aprueba la adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1988-01-19",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref02_19ene88.pdf"
+            }
+          ],
+          "fecha": "1988-01-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un tercer párrafo al Artículo 4o. de la Ley que Aprueba la Adhesión de México, al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1991-01-04",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref03_04ene91.pdf"
+            }
+          ],
+          "fecha": "1991-01-04"
+        }
+      ],
+      "titulo": "DECRETO por el cual se adiciona un segundo párrafo al artículo 3o. de la Ley que aprueba la adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su ejecución."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1991-12-24",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref04_24dic91.pdf"
+            }
+          ],
+          "fecha": "1991-12-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un cuarto párrafo al artículo 4o. de la Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2011-06-16",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref05_16jun11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref05_16jun11.doc"
+            }
+          ],
+          "fecha": "2011-06-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 4o. de la Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2014-12-29",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref06_29dic14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_ref06_29dic14.doc"
+            }
+          ],
+          "fecha": "2014-12-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un tercer párrafo al artículo 3o. y se reforma el artículo 4o. de la Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su ejecución."
+    }
+  ],
+  "documento": "lmccbdc",
+  "nombre": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1982-01-05",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc/LMCCBDC_orig_05ene82.pdf"
+          }
+        ],
+        "fecha": "1982-01-05"
+      }
+    ],
+    "titulo": "Ley que aprueba la adhesión de México al convenio constitutivo del Banco de Desarrollo del Caribe y su Ejecución."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:50:03Z",
+      "sha256": "b4d895556251aba8e871c3999682b8b598909705584bc6ca015b0792b129998a",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc.htm"
+}

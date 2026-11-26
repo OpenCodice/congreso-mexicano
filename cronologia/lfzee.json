@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee/LFZEE_ref01_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee/LFZEE_ref01_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lfzee",
+  "nombre": "Ley Federal de Zonas Económicas Especiales",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-06-01",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee/LFZEE_orig_01jun16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee/LFZEE_orig_01jun16.doc"
+          }
+        ],
+        "fecha": "2016-06-01"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Zonas Económicas Especiales y se adiciona un quinto párrafo al artículo 9 de la Ley General de Bienes Nacionales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:07:15Z",
+      "sha256": "18f90a9bf16ef98af17e3d7c1369b0dfb448172d7a7aae37f1886e5cc5f1ac62",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee.htm"
+}

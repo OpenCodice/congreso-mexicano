@@ -1,0 +1,170 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "1996-12-24",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref01_24dic96.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref01_24dic96.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref01_24dic96_ima.pdf"
+            }
+          ],
+          "fecha": "1996-12-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2005-04-28",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref02_28abr05.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref02_28abr05.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref02_28abr05_ima.pdf"
+            }
+          ],
+          "fecha": "2005-04-28"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Minera."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2006-06-26",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref03_26jun06.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref03_26jun06.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref03_26jun06_ima.pdf"
+            }
+          ],
+          "fecha": "2006-06-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma y adiciona la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo y la Ley Minera."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2014-08-11",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref04_11ago14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref04_11ago14.doc"
+            }
+          ],
+          "fecha": "2014-08-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-04-20",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref05_20abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref05_20abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Minera."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-05-08",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref06_08may23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref06_08may23.doc"
+            }
+          ],
+          "fecha": "2023-05-08"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Minera, de la Ley de Aguas Nacionales, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de concesiones para minería y agua."
+    }
+  ],
+  "documento": "lmin",
+  "nombre": "Ley de Minería",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1992-06-26",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_orig_26jun92_ima.pdf"
+          }
+        ],
+        "fecha": "1992-06-26"
+      }
+    ],
+    "titulo": "LEY Minera."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:47:06Z",
+      "sha256": "c6f30a82d55c269782974ea1bb2dc656ac992810a13ceac8a95cf7d95d26aff1",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin.htm"
+}

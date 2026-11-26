@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "locfcrl",
+  "nombre": "Ley Orgánica del Centro Federal de Conciliación y Registro Laboral",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2020-01-06",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/locfcrl/LOCFCRL_orig_06ene20.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/locfcrl/LOCFCRL_orig_06ene20.doc"
+          }
+        ],
+        "fecha": "2020-01-06"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:54:05Z",
+      "sha256": "9d51f4b60f0f23f2df9381485f43fbe1462965210921601556a125cc4241c56e",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/locfcrl.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/locfcrl.htm"
+}

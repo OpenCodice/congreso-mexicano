@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lfca",
+  "nombre": "Ley Federal de Cine y el Audiovisual",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2026-05-22",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfca/LFCA_orig_22may26.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfca/LFCA_orig_22may26.doc"
+          }
+        ],
+        "fecha": "2026-05-22"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Cine y el Audiovisual, y se abroga la Ley Federal de Cinematografía."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:41:16Z",
+      "sha256": "1c0a39e1b7b401a8973eb0c7099ec27422e8fbdab3623edae697cecc3cbc1c54",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfca.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfca.htm"
+}

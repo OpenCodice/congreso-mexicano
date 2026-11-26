@@ -1,0 +1,99 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2011-01-27",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_ref01_27ene11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_ref01_27ene11.doc"
+            }
+          ],
+          "fecha": "2011-01-27"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Seguridad Privada."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2011-08-05",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_ref02_05ago11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_ref02_05ago11.doc"
+            }
+          ],
+          "fecha": "2011-08-05"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Seguridad Privada."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2011-10-17",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_ref03_17oct11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_ref03_17oct11.doc"
+            }
+          ],
+          "fecha": "2011-10-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman las fracciones XV y XVII, y se adicionan las fracciones XXII y XXIII al artículo 25 de la Ley Federal de Seguridad Privada."
+    }
+  ],
+  "documento": "lfsp",
+  "nombre": "Ley Federal de Seguridad Privada",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2006-07-06",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_orig_06jul06.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp/LFSP_orig_06jul06.doc"
+          }
+        ],
+        "fecha": "2006-07-06"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Seguridad Privada."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:12:12Z",
+      "sha256": "679e109c68682a14a13ca2a597804bf973b7754f44b4a5352b8ca5e36d69d796",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp.htm"
+}

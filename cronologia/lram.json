@@ -1,0 +1,53 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-11-22",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram/LRAM_ref01_22nov21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram/LRAM_ref01_22nov21.doc"
+            }
+          ],
+          "fecha": "2021-11-22"
+        }
+      ],
+      "titulo": "DECRETO por el que se adicionan diversas disposiciones a la Ley de Recompensas de la Armada de México."
+    }
+  ],
+  "documento": "lram",
+  "nombre": "Ley de Recompensas de la Armada de México",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1985-01-14",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram/LRAM_orig_14ene85_ima.pdf"
+          }
+        ],
+        "fecha": "1985-01-14"
+      }
+    ],
+    "titulo": "Ley de recompensas de la Armada de México."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:02:09Z",
+      "sha256": "9f2024aa212e92690a21b71b49ad56a2dd90367a2e7025d3b475d75d96c33c76",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram.htm"
+}
