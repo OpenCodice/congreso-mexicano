@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a proponer al pleno la creación de una Comisión Especial para dar seguimiento a la ejecución presupuestaria, ingresos, subsidios, costos de operación, resultados financieros y desempeño del Tren Maya, el Aeropuerto Internacional Felipe Ángeles, Mexicana de Aviación, la Megafarmacia del Bienestar, el Corredor Interoceánico del Istmo de Tehuantepec y la Refinería Olmeca de Dos Bocas.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
+    "estado": "Pendiente en órgano(s) de gobierno",
     "fecha": "2026-10-06",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 06-OCT-2026"
+    "texto": "Pendiente en órgano(s) de gobierno el 06-OCT-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-10-06",
@@ -34,8 +34,8 @@
   "seguimiento": "5158893",
   "sources": [
     {
-      "archivo": "fuentes/ed/ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a.html.gz",
-      "consultado": "2026-11-17T08:07:54Z",
+      "archivo": "fuentes/b7/b77e6a171fda3997d0a60a2941d5ca5f97d8a486d483e3fd08e45f786df91436.html.gz",
+      "consultado": "2026-11-25T19:25:47Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "ed75e6e78df50f0b7584fce9a8dd316a74916d2c5513fdb30ce30223dc90158a",
+      "sha256": "b77e6a171fda3997d0a60a2941d5ca5f97d8a486d483e3fd08e45f786df91436",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

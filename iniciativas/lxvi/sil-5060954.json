@@ -19,12 +19,12 @@
   ],
   "denominacion": "Que reforma la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2026-04-08",
+    "estado": "De primera lectura en origen",
+    "fecha": "2026-11-24",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 08-ABR-2026"
+    "texto": "De primera lectura en origen el 24-NOV-2026"
   },
-  "expediente_id": null,
+  "expediente_id": "sil-5208763",
   "fecha_presentacion": "2026-04-08",
   "id": "sil-5060954",
   "legislative_period_id": "lxvi",
@@ -38,11 +38,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "5080476",
+  "seguimiento": "5208763",
   "sources": [
     {
-      "archivo": "fuentes/87/87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b.html.gz",
-      "consultado": "2026-11-17T07:57:22Z",
+      "archivo": "fuentes/4e/4efc52a766db6592b85f7771819e36f82547b269c1ea49d593a9d8c38c35a83e.html.gz",
+      "consultado": "2026-11-25T19:21:15Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "87eb9de85196a1e7321c1e76ddce54d0418d2d9a3c01aa25fe2c674ab7b5654b",
+      "sha256": "4efc52a766db6592b85f7771819e36f82547b269c1ea49d593a9d8c38c35a83e",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

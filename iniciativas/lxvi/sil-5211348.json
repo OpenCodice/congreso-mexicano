@@ -1,0 +1,70 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5211348",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Salud",
+      "referencia": "2085587",
+      "texto": "1.-Diputados -Salud .-Para dictamen",
+      "turno": "Para dictamen"
+    },
+    {
+      "camara": "Diputados",
+      "comision": "Presupuesto y Cuenta Pública",
+      "referencia": "2085558",
+      "texto": "2.-Diputados -Presupuesto y Cuenta Pública .-Para opinión",
+      "turno": "Para opinión"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto que reforma, adiciona y deroga diversas disposiciones de la Ley General de Salud y se expide la Ley de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-25",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 25-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-25",
+  "id": "sil-5211348",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "nombre_fuente": "Ejecutivo Federal",
+      "tipo": "ejecutivo_federal"
+    }
+  ],
+  "seguimiento": "5211356",
+  "sources": [
+    {
+      "archivo": "fuentes/a9/a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d.html.gz",
+      "consultado": "2026-11-26T00:16:07Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "26/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Salud"
+  ],
+  "tipo": "Iniciativa"
+}

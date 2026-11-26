@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que propone modificar el nombre del salón -Aurora Jiménez de Palacios- del vestíbulo del auditorio del edificio E del Palacio Legislativo de San Lázaro, por el de Aurora Jiménez Quevedo, en el marco de los 16 días de activismo contra las violencias de género.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
+    "estado": "Pendiente en órgano(s) de gobierno",
     "fecha": "2026-11-18",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 18-NOV-2026"
+    "texto": "Pendiente en órgano(s) de gobierno el 18-NOV-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-11-18",
@@ -34,15 +34,15 @@
   "seguimiento": "5208175",
   "sources": [
     {
-      "archivo": "fuentes/3f/3f34e9a1485ef187558287a0c94f4696cfddb07e1ac5678b69ce1b8a38e0cddc.html.gz",
-      "consultado": "2026-11-25T00:17:13Z",
+      "archivo": "fuentes/96/961c746d8417cfb4aa4ebe17e7cbeb05c7fa7d22a394ed8b677728f179cf0387.html.gz",
+      "consultado": "2026-11-26T00:16:11Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "25/11/2026",
+        "FECHA_FIN": "26/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "3f34e9a1485ef187558287a0c94f4696cfddb07e1ac5678b69ce1b8a38e0cddc",
+      "sha256": "961c746d8417cfb4aa4ebe17e7cbeb05c7fa7d22a394ed8b677728f179cf0387",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
