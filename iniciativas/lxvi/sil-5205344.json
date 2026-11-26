@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5205344",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Derechos de la Niñez y de la Adolescencia",
+      "referencia": "2085569",
+      "texto": "1.-Diputados -Derechos de la Niñez y de la Adolescencia.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley General del Sistema Nacional de Seguridad Pública.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-25",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 25-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-25",
+  "id": "sil-5205344",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": null,
+  "presentadores": [
+    {
+      "entidad": "chihuahua",
+      "nombre_fuente": "Congreso de Chihuahua",
+      "organization_id": "congreso-chihuahua",
+      "tipo": "congreso_local"
+    }
+  ],
+  "seguimiento": "5210283",
+  "sources": [
+    {
+      "archivo": "fuentes/a9/a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d.html.gz",
+      "consultado": "2026-11-26T00:16:07Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "26/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Desarrollo Social",
+    "Seguridad Pública"
+  ],
+  "tipo": "Iniciativa"
+}

@@ -12,10 +12,10 @@
   ],
   "denominacion": "Por el que exhorta a la Jucopo a someter a consideración del Pleno la creación de la Comisión Especial en materia de Inteligencia Artificial, Regulación Tecnológica y Ética Digital.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
+    "estado": "Pendiente en órgano(s) de gobierno",
     "fecha": "2026-09-08",
     "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 08-SEP-2026"
+    "texto": "Pendiente en órgano(s) de gobierno el 08-SEP-2026"
   },
   "expediente_id": null,
   "fecha_presentacion": "2026-09-08",
@@ -34,8 +34,8 @@
   "seguimiento": "5128704",
   "sources": [
     {
-      "archivo": "fuentes/ea/ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251.html.gz",
-      "consultado": "2026-11-17T08:07:44Z",
+      "archivo": "fuentes/ce/cecf1e740a6797edf97848e3ff46c268528c9227f40a237ac54ff71023a7277d.html.gz",
+      "consultado": "2026-11-25T19:25:41Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "ea9257f3a3d6ab15b834def40e1bf09221ff4a2a04f4ef558779ef6291be2251",
+      "sha256": "cecf1e740a6797edf97848e3ff46c268528c9227f40a237ac54ff71023a7277d",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

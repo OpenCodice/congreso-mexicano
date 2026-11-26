@@ -1,0 +1,66 @@
+{
+  "camara_origen": "diputados",
+  "clave": "5209920",
+  "comisiones": [
+    {
+      "camara": "Diputados",
+      "comision": "Hacienda y Crédito Público",
+      "referencia": "2085552",
+      "texto": "1.-Diputados -Hacienda y Crédito Público .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Que reforma el artículo 2o. de la Ley del Impuesto Especial Sobre Producción y Servicios.",
+  "estatus": {
+    "estado": "Pendiente en comisión(es) de origen",
+    "fecha": "2026-11-25",
+    "resultado": "pendiente",
+    "texto": "Pendiente en comisión(es) de origen el 25-NOV-2026"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-25",
+  "id": "sil-5209920",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PAN",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9228714",
+      "nombre_fuente": "Sen. Juan Antonio Martín del Campo Martín del Campo",
+      "person_id": "juan-antonio-martin-del-campo-martin-del-campo",
+      "referencia_sil": "9228714",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": "5210297",
+  "sources": [
+    {
+      "archivo": "fuentes/a9/a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d.html.gz",
+      "consultado": "2026-11-26T00:16:07Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "26/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "11"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Ley Secundaria",
+  "temas": [
+    "Hacienda Pública"
+  ],
+  "tipo": "Iniciativa"
+}

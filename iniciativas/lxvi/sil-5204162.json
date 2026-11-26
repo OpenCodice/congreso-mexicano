@@ -12,12 +12,12 @@
   ],
   "denominacion": "Que la Cámara de Diputados del Honorable Congreso de la Unión ordena el reacomodo de las Inscripciones de Honor, denominadas Letras de Oro, dispuestas en el Muro de Honor del Salón de Sesiones del Recinto Legislativo de San Lázaro.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2026-11-19",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 19-NOV-2026"
+    "estado": "Enviado para publicación en DOF",
+    "fecha": "2026-11-25",
+    "resultado": "aprobado",
+    "texto": "Enviado para publicación en DOF el 25-NOV-2026"
   },
-  "expediente_id": null,
+  "expediente_id": "sil-5210956",
   "fecha_presentacion": "2026-11-19",
   "id": "sil-5204162",
   "legislative_period_id": "lxvi",
@@ -45,18 +45,18 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "5204277",
+  "seguimiento": "5210956",
   "sources": [
     {
-      "archivo": "fuentes/11/11f5a1cb24e7a91aa3dc5eb9d17ee4b4ec9045421f1b9a83a5efeb9a4f454891.html.gz",
-      "consultado": "2026-11-20T00:12:05Z",
+      "archivo": "fuentes/a9/a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d.html.gz",
+      "consultado": "2026-11-26T00:16:07Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "20/11/2026",
+        "FECHA_FIN": "26/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "11f5a1cb24e7a91aa3dc5eb9d17ee4b4ec9045421f1b9a83a5efeb9a4f454891",
+      "sha256": "a9c3e2afcc051c80635e1b5781b9aca9d987b47bc743adad78c5d89848ed3b1d",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
