@@ -1,0 +1,141 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2006-04-24",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref01_24abr06.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref01_24abr06.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref01_24abr06_ima.pdf"
+            }
+          ],
+          "fecha": "2006-04-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma y adiciona el Artículo 8o. de la Ley de Asociaciones Religiosas y Culto Público."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2010-08-19",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref02_19ago10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref02_19ago10.doc"
+            }
+          ],
+          "fecha": "2010-08-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el Distrito Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2011-05-25",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref03_25may11.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref03_25may11.doc"
+            }
+          ],
+          "fecha": "2011-05-25"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan diversas disposiciones de la Ley General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2015-12-17",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref04_17dic15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref04_17dic15.doc"
+            }
+          ],
+          "fecha": "2015-12-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref05_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_ref05_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "larcp",
+  "nombre": "Ley de Asociaciones Religiosas y Culto Público",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1992-07-15",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp/LARCP_orig_15jul92_ima.zip"
+          }
+        ],
+        "fecha": "1992-07-15"
+      }
+    ],
+    "titulo": "Ley de asociaciones religiosas y culto público."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T15:06:03Z",
+      "sha256": "10488f804763265ea5c4f0d610a03d94fffb0223c79b67fc2f8211c91f388e86",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp.htm"
+}

@@ -1,0 +1,104 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2014-01-10",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_ref01_10ene14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_ref01_10ene14.doc"
+            }
+          ],
+          "fecha": "2014-01-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-01-24",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_ref02_24ene24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_ref02_24ene24.doc"
+            }
+          ],
+          "fecha": "2024-01-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en materia de procedimiento administrativo."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_ref03_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_ref03_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "luc",
+  "nombre": "Ley de Uniones de Crédito",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2008-08-20",
+    "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/109_DOF_20ago08.pdf",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_orig_20ago08.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_orig_20ago08.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc/LUC_orig_20ago08_ima.zip"
+          }
+        ],
+        "fecha": "2008-08-20"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Uniones de Crédito y se adiciona y reforma la Ley General de Títulos y Operaciones de Crédito."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:25:03Z",
+      "sha256": "b9b7480845003dde62a163910e1c4c981b51b53768eaf6e8185eb8114de5a98b",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc.htm"
+}

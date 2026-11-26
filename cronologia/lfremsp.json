@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lfremsp",
+  "nombre": "Ley Federal de Remuneraciones de los Servidores Públicos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2021-05-19",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp/LFRemSP_orig_19may21.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp/LFRemSP_orig_19may21.doc"
+          }
+        ],
+        "fecha": "2021-05-19"
+      }
+    ],
+    "titulo": "DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018, y se expide la Ley Federal de Remuneraciones de los Servidores Públicos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:24:03Z",
+      "sha256": "9986b3a1f167cb3f934cb2eff144395ed53d6a5066f659da9216f547a9a526e7",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp.htm"
+}

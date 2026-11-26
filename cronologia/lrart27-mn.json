@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "1998-01-23",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn/LRArt27_MN_ref01_23ene98.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn/LRArt27_MN_ref01_23ene98.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn/LRArt27_MN_ref01_23ene98_ima.pdf"
+            }
+          ],
+          "fecha": "1998-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn/LRArt27_MN_ref02_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn/LRArt27_MN_ref02_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "lrart27-mn",
+  "nombre": "Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1985-02-04",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn/LRArt27_MN_orig_04feb85_ima.pdf"
+          }
+        ],
+        "fecha": "1985-02-04"
+      }
+    ],
+    "titulo": "Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:02:12Z",
+      "sha256": "1401d679b52de21528c810767eacd6642d8700449343b14318ffe0274e10eeb2",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn.htm"
+}

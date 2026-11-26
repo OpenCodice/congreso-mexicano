@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-04",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd/LGPSVD_ref01_04may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd/LGPSVD_ref01_04may21.doc"
+            }
+          ],
+          "fecha": "2021-05-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Prevención Social de la Violencia y la Delincuencia."
+    }
+  ],
+  "documento": "lgpsvd",
+  "nombre": "Ley General para la Prevención Social de la Violencia y la Delincuencia",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2012-01-24",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd/LGPSVD_orig_24ene12.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd/LGPSVD_orig_24ene12.doc"
+          }
+        ],
+        "fecha": "2012-01-24"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General para la Prevención Social de la Violencia y la Delincuencia."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:29:09Z",
+      "sha256": "a6989d7e74a3af55bce8dd0eb5f117f4040962d21e41cf74fb565f9d30a4821e",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd.htm"
+}

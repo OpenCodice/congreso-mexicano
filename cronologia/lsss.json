@@ -1,0 +1,53 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-04-24",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss/LSSS_ref01_24abr18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss/LSSS_ref01_24abr18.doc"
+            }
+          ],
+          "fecha": "2018-04-24"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Sociedades de Solidaridad Social."
+    }
+  ],
+  "documento": "lsss",
+  "nombre": "Ley de Sociedades de Solidaridad Social",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1976-05-27",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss/LSSS_orig_27may76_ima.pdf"
+          }
+        ],
+        "fecha": "1976-05-27"
+      }
+    ],
+    "titulo": "LEY de Sociedades de Solidaridad Social."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:17:09Z",
+      "sha256": "35368dd99ad0f6eac5b1355d213fa37f92fb0b2b0fdb10a3bb639545c967c5f9",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss.htm"
+}

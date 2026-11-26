@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2023-11-29",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia/LFPPCPCIA_ref01_29nov23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia/LFPPCPCIA_ref01_29nov23.doc"
+            }
+          ],
+          "fecha": "2023-11-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona una fracción XI al artículo 46 de la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia/LFPPCPCIA_ref02_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia/LFPPCPCIA_ref02_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lfppcpcia",
+  "nombre": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2022-01-17",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia/LFPPCPCIA_orig_17ene22.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia/LFPPCPCIA_orig_17ene22.doc"
+          }
+        ],
+        "fecha": "2022-01-17"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:58:03Z",
+      "sha256": "937cd7b9a3d55017f67f1510ed4f7d527a0d8e3ebc41619bb6d510b3965b0324",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia.htm"
+}

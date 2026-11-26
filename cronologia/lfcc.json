@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lfcc",
+  "nombre": "Ley de Fomento a la Confianza Ciudadana",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2020-01-20",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcc/LFCC_orig_20ene20.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcc/LFCC_orig_20ene20.doc"
+          }
+        ],
+        "fecha": "2020-01-20"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Fomento a la Confianza Ciudadana."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:42:02Z",
+      "sha256": "5d88c95ae50d4ff2fb89a8e73443220b60c497e1fc6f0067e7001c48479788db",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcc.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcc.htm"
+}

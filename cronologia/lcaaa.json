@@ -1,0 +1,101 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1936-05-12",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_ref01_12may36_ima.pdf"
+            }
+          ],
+          "fecha": "1936-05-12"
+        }
+      ],
+      "titulo": "LEY de Asociaciones Ganaderas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2010-11-30",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_ref02_30nov10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_ref02_30nov10.doc"
+            }
+          ],
+          "fecha": "2010-11-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Asociaciones Agrícolas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_ref03_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_ref03_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "lcaaa",
+  "nombre": "Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1932-08-27",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_orig_27ago32_ima.pdf"
+          }
+        ],
+        "fecha": "1932-08-27"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa/LCAAA_orig_fe_01sep32_ima.pdf"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "1932-09-01"
+      }
+    ],
+    "titulo": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:25:02Z",
+      "sha256": "95c3ca0cda2d86e06e87beaa2c18da8d61bf06dd8db5dcf36a58f6d37c865e39",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa.htm"
+}

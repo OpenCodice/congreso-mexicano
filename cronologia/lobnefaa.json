@@ -1,0 +1,117 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2002-06-24",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref01_24jun02.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref01_24jun02.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref01_24jun02_ima.pdf"
+            }
+          ],
+          "fecha": "2002-06-24"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref01_fe_08jul02.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref01_fe_08jul02.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref01_fe_08jul02_ima.pdf"
+            }
+          ],
+          "etiqueta": "Fe de erratas",
+          "fecha": "2002-07-08"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref02_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref02_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2014-01-10",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref03_10ene14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_ref03_10ene14.doc"
+            }
+          ],
+          "fecha": "2014-01-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras."
+    }
+  ],
+  "documento": "lobnefaa",
+  "nombre": "Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1986-01-13",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa/LOBNEFAA_orig_13ene86_ima.pdf"
+          }
+        ],
+        "fecha": "1986-01-13"
+      }
+    ],
+    "titulo": "LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:53:12Z",
+      "sha256": "32c6b7643de95848d38b80fd485873286b43a579ed32082f7451c21c507308b4",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa.htm"
+}

@@ -1,0 +1,133 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1934-01-16",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref01_16ene34_ima.pdf"
+            }
+          ],
+          "fecha": "1934-01-16"
+        }
+      ],
+      "titulo": "DECRETO que modifica varias leyes del ramo de Guerra, fijando regias para el reingreso al Ejército o Armada Nacionales."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1995-12-11",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref02_11dic95_ima.pdf"
+            }
+          ],
+          "fecha": "1995-12-11"
+        }
+      ],
+      "titulo": "DECRETO que reforma y adiciona diversas disposiciones de la Ley de Disciplina del Ejército y Armada Nacionales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2004-12-10",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref03_10dic04.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref03_10dic04.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref03_10dic04_ima.pdf"
+            }
+          ],
+          "fecha": "2004-12-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-05-03",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref04_03may24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_ref04_03may24.doc"
+            }
+          ],
+          "fecha": "2024-05-03"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, en materia de disciplina de discentes."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-07-16",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAGN_ref05_16jul25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAGN_ref05_16jul25.doc"
+            }
+          ],
+          "fecha": "2025-07-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales."
+    }
+  ],
+  "documento": "ldefam",
+  "nombre": "Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1926-03-15",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam/LDEFAM_orig_15mar26_ima.pdf"
+          }
+        ],
+        "fecha": "1926-03-15"
+      }
+    ],
+    "titulo": "LEY de Disciplina del Ejército y de la Armada Nacionales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:32:12Z",
+      "sha256": "4ccf15a9a3fa5d674ecb2f2a93c58159e9c14ecb5b46ec8a87afb975f519939d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam.htm"
+}

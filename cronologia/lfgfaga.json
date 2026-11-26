@@ -1,0 +1,105 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1993-12-23",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_ref01_23dic93_ima.pdf"
+            }
+          ],
+          "fecha": "1993-12-23"
+        }
+      ],
+      "titulo": "LEY del Banco de México."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2005-05-12",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_ref02_12may05.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_ref02_12may05.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_ref02_12may05_ima.pdf"
+            }
+          ],
+          "fecha": "2005-05-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_ref03_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_ref03_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "lfgfaga",
+  "nombre": "Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1954-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_orig_31dic54_ima.pdf"
+          }
+        ],
+        "fecha": "1954-12-31"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga/LFGFAGA_orig_fe_04mar55_ima.pdf"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "1955-03-04"
+      }
+    ],
+    "titulo": "LEY que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura"
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:12:02Z",
+      "sha256": "77f2ba98291ff4858a6bc4e42880b29921f06d59ad29ad178de227edfa7c9b25",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga.htm"
+}

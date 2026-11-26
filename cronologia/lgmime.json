@@ -1,0 +1,67 @@
+{
+  "decretos": [],
+  "documento": "lgmime",
+  "nombre": "Ley General de los Medios de Impugnación en Materia Electoral",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2023-03-02",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime/LGMIME_orig_02mar23.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime/LGMIME_orig_02mar23.doc"
+          }
+        ],
+        "fecha": "2023-03-02"
+      }
+    ],
+    "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación y se expide la Ley General de los Medios de Impugnación en Materia Electoral."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2023-11-24",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime/LGMIME_sent01_notifica_23jun23.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2023-06-23"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime/LGMIME_sent01_dof_24nov23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime/LGMIME_sent01_dof_24nov23.doc"
+            }
+          ],
+          "fecha": "2023-11-24"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 71/2023 y sus acumuladas 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 y 93/2023, así como los Votos Particular de la señora Ministra Loretta Ortiz Ahlf, Concurrentes de las señoras Ministras Ana Margarita Ríos Farjat y Presidenta Norma Lucía Piña Hernández, y Concurrente y Particular del señor Ministro Arturo Zaldívar Lelo de Larrea."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:24:12Z",
+      "sha256": "697f5964ae321f522f45c05acb74607eecd3a675e78435bf8800578880472927",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime.htm"
+}

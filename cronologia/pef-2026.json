@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "pef-2026",
+  "nombre": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-11-21",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/pef_2026/PEF_2026_orig_21nov25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/pef_2026/PEF_2026_orig_21nov25.doc"
+          }
+        ],
+        "fecha": "2025-11-21"
+      }
+    ],
+    "titulo": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:22:03Z",
+      "sha256": "13278ab050d8838e32902433dbba5936d648686073a76fa4007870fe9544059f",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/pef_2026.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/pef_2026.htm"
+}

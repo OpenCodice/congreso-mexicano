@@ -1,0 +1,159 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-06-11",
+      "numero": 1,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lxi/251_DOF_11jun12.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref01_11jun12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref01_11jun12.doc"
+            }
+          ],
+          "fecha": "2012-06-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Puertos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2013-12-26",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref02_26dic13.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref02_26dic13.doc"
+            }
+          ],
+          "fecha": "2013-12-26"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2014-01-23",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref03_23ene14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref03_23ene14.doc"
+            }
+          ],
+          "fecha": "2014-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-06-08",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref04_08jun16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref04_08jun16.doc"
+            }
+          ],
+          "fecha": "2016-06-08"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de las Leyes de Caminos, Puentes y Autotransporte Federal, de Puertos, de Aeropuertos, y Reglamentaria del Servicio Ferroviario."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-12-19",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref05_19dic16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref05_19dic16.doc"
+            }
+          ],
+          "fecha": "2016-12-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2020-12-07",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref06_07dic20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_ref06_07dic20.doc"
+            }
+          ],
+          "fecha": "2020-12-07"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos."
+    }
+  ],
+  "documento": "lpue",
+  "nombre": "Ley de Puertos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1993-07-19",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue/LPue_orig_19jul93_ima.pdf"
+          }
+        ],
+        "fecha": "1993-07-19"
+      }
+    ],
+    "titulo": "LEY de Puertos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:02:02Z",
+      "sha256": "30eec70502dd6b4bba5661bf2f35d5d3b3e5b831e8da8f9f0b1a5018fff50afa",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue.htm"
+}

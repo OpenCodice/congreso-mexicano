@@ -1,0 +1,74 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1993-07-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota/LOTA_ref01_09jul93_ima.pdf"
+            }
+          ],
+          "fecha": "1993-07-09"
+        }
+      ],
+      "titulo": "DECRETO que reforma y adiciona diversas disposiciones de las Leyes Orgánica de los Tribunales Agrarios y Agraria."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1998-01-23",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota/LOTA_ref02_23ene98.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota/LOTA_ref02_23ene98.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota/LOTA_ref02_23ene98_ima.pdf"
+            }
+          ],
+          "fecha": "1998-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos legales."
+    }
+  ],
+  "documento": "lota",
+  "nombre": "Ley Orgánica de los Tribunales Agrarios",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1992-02-26",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota/LOTA_orig_26feb92_ima.pdf"
+          }
+        ],
+        "fecha": "1992-02-26"
+      }
+    ],
+    "titulo": "LEY Orgánica de los Tribunales Agrarios."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:03:02Z",
+      "sha256": "b1cdce6ea9fc679278ce4f426b045fc5f42dcc7aad5cb7ea7dbc4eb73f92ba4c",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota.htm"
+}

@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lgag",
+  "nombre": "Ley General de Aguas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-12-11",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgag/LGAg_orig_11dic25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgag/LGAg_orig_11dic25.doc"
+          }
+        ],
+        "fecha": "2025-12-11"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Aguas y, se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:08:08Z",
+      "sha256": "6fa70faa7404a3cac474833fc3a9260799b16ce0219bda38de8e7ba6dbb89705",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgag.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgag.htm"
+}

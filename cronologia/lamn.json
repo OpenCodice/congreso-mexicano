@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2024-06-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn/LAmn_ref01_14jun24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn/LAmn_ref01_14jun24.doc"
+            }
+          ],
+          "fecha": "2024-06-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un artículo 9 a la Ley de Amnistía, en materia de otorgamiento de amnistía de manera directa."
+    }
+  ],
+  "documento": "lamn",
+  "nombre": "Ley de Amnistía",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2020-04-22",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn/LAmn_orig_22abr20.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn/LAmn_orig_22abr20.doc"
+          }
+        ],
+        "fecha": "2020-04-22"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Amnistía."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:23:02Z",
+      "sha256": "c0628c4f1f2ff45686f0d3d7670b34c08f35d3d0d7954aabc33f2d75527cf873",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn.htm"
+}

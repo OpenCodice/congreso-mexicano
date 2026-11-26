@@ -1,0 +1,209 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1942-08-31",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref01_31ago42_ima.pdf"
+            }
+          ],
+          "fecha": "1942-08-31"
+        }
+      ],
+      "titulo": "DECRETO que pone en vigor la Ley del Servicio Militar."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1942-11-25",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref02_25nov42_ima.pdf"
+            }
+          ],
+          "fecha": "1942-11-25"
+        }
+      ],
+      "titulo": "DECRETO por el cual se reforma el artículo 1º de la Ley que establece el Servicio Militar."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1944-08-18",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref03_18ago44_ima.pdf"
+            }
+          ],
+          "fecha": "1944-08-18"
+        }
+      ],
+      "titulo": "DECRETO que reforma la fracción II del artículo 24 de la Ley del Servicio Militar."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1944-10-25",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref04_25oct44_ima.pdf"
+            }
+          ],
+          "fecha": "1944-10-25"
+        }
+      ],
+      "titulo": "DECRETO que reforma el artículo 63 de la Ley del Servicio Militar."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1998-01-23",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref05_23ene98.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref05_23ene98.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref05_23ene98_ima.pdf"
+            }
+          ],
+          "fecha": "1998-01-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2017-06-22",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref06_22jun17.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref06_22jun17.doc"
+            }
+          ],
+          "fecha": "2017-06-22"
+        }
+      ],
+      "titulo": "DECRETO por el que se deroga el artículo 2o. de la Ley del Servicio Militar."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-04-30",
+      "numero": 7,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref07_30abr21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref07_30abr21.doc"
+            }
+          ],
+          "fecha": "2021-04-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se deroga el artículo 60 de la Ley del Servicio Militar."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-01-17",
+      "numero": 8,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref08_17ene22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref08_17ene22.doc"
+            }
+          ],
+          "fecha": "2022-01-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se deroga el artículo 25 de la Ley del Servicio Militar."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-05-18",
+      "numero": 9,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref09_18may22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_ref09_18may22.doc"
+            }
+          ],
+          "fecha": "2022-05-18"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley del Servicio Militar."
+    }
+  ],
+  "documento": "lsm",
+  "nombre": "Ley del Servicio Militar",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1940-09-11",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm/LSM_orig_11sep40_ima.pdf"
+          }
+        ],
+        "fecha": "1940-09-11"
+      }
+    ],
+    "titulo": "LEY del Servicio Militar."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:13:02Z",
+      "sha256": "551e9171182e9e0544f0a4a1f58770543ee253891c79d647fee6526ed05b0398",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm.htm"
+}

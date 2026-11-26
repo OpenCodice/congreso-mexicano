@@ -1,0 +1,129 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1974-01-02",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref01_02ene74_ima.pdf"
+            }
+          ],
+          "fecha": "1974-01-02"
+        }
+      ],
+      "titulo": "DECRETO que reforma la Ley Reglamentaria de los Artículos 4o. y 5o. Constitucionales, relativos al ejercicio de las profesiones en el Distrito y Territorios Federales."
+    },
+    {
+      "escaneado": true,
+      "fecha": "1974-12-23",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref02_23dic74_ima.zip"
+            }
+          ],
+          "fecha": "1974-12-23"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "1993-12-22",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref03_22dic93.pdf"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref03_22dic93_ima.pdf"
+            }
+          ],
+          "fecha": "1993-12-22"
+        }
+      ],
+      "titulo": "DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2010-08-19",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref04_19ago10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref04_19ago10.doc"
+            }
+          ],
+          "fecha": "2010-08-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el Distrito Federal."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2018-01-19",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref05_19ene18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_ref05_19ene18.doc"
+            }
+          ],
+          "fecha": "2018-01-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Ley del Sistema Nacional de Información Estadística y Geográfica, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Materia Electoral, la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley General de la Infraestructura Física Educativa, la Ley General de Bibliotecas, la Ley General de Contabilidad Gubernamental, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley General de Pesca y Acuacultura Sustentables, la Ley General de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales."
+    }
+  ],
+  "documento": "lrart5-prof",
+  "nombre": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1945-05-26",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof/LRArt5_prof_orig_26may45_ima.zip"
+          }
+        ],
+        "fecha": "1945-05-26"
+      }
+    ],
+    "titulo": "LEY Reglamentaria de los artículos 4° y 5° constitucionales, relativos al ejercicio de las profesiones en el Distrito y Territorios Federales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:03:06Z",
+      "sha256": "046645c3299315aca9f80df8f9af05e436ee77634e5ca5bc33870cfac1cb28d1",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof.htm"
+}

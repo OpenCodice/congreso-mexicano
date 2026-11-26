@@ -1,0 +1,31 @@
+{
+  "decretos": [],
+  "documento": "lfjs",
+  "nombre": "Ley Federal de Juegos y Sorteos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1947-12-31",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfjs/LFJS_orig_31dic47_ima.pdf"
+          }
+        ],
+        "fecha": "1947-12-31"
+      }
+    ],
+    "titulo": "LEY Federal de Juegos y Sorteos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:51:16Z",
+      "sha256": "3ef7df2c5dbdc1eb9dbd360bbe2b53773c9e6d24eaa3c676aa1133c59284fb36",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfjs.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfjs.htm"
+}

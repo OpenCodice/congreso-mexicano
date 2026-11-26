@@ -1,0 +1,61 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar/LFAAR_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar/LFAAR_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lfaar",
+  "nombre": "Ley de Fondos de Aseguramiento Agropecuario y Rural",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2005-05-13",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar/LFAAR_orig_13may05.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar/LFAAR_orig_13may05.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar/LFAAR_orig_13may05_ima.pdf"
+          }
+        ],
+        "fecha": "2005-05-13"
+      }
+    ],
+    "titulo": "DECRETO por el que se reforma la Ley General de Instituciones y Sociedades Mutualistas de Seguros y se expide la Ley de Fondos de Aseguramiento Agropecuario y Rural."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:06:03Z",
+      "sha256": "702b796143f6a52258bcdccafcd2d462984d8b59f8e7fe8e533f2d466142e9d5",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar.htm"
+}

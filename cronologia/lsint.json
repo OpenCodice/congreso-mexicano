@@ -1,0 +1,67 @@
+{
+  "decretos": [],
+  "documento": "lsint",
+  "nombre": "Ley de Seguridad Interior",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2017-12-21",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint/LSInt_orig_21dic17.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint/LSInt_orig_21dic17.doc"
+          }
+        ],
+        "fecha": "2017-12-21"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Seguridad Interior."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2019-05-30",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint/LSInt_sent01_notifica_15nov18.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos jurídicos",
+          "fecha": "2018-11-15"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint/LSInt_sent01_dof_30may19.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint/LSInt_sent01_dof_30may19.doc"
+            }
+          ],
+          "fecha": "2019-05-30"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 6/2018 y sus acumuladas 8/2018, 9/2018, 10/2018 y 11/2018, así como los Votos Concurrentes formulados por los Ministros Alfredo Gutiérrez Ortiz Mena y José Fernando Franco González Salas y Particular y Concurrente formulados por la Ministra Norma Lucía Piña Hernández."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:17:03Z",
+      "sha256": "6be0ea156b5afdfd0d1f6c94c8665fe292b26f8d9ff3ab02d16008a4558e872b",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint.htm"
+}

@@ -1,0 +1,121 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-05-30",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_ref01_30may18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_ref01_30may18.doc"
+            }
+          ],
+          "fecha": "2018-05-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el segundo párrafo del artículo 10 de la Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_ref02_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_ref02_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_ref03_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_ref03_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lrart6-mdr",
+  "nombre": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2015-11-04",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_orig_04nov15.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_orig_04nov15.doc"
+          }
+        ],
+        "fecha": "2015-11-04"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica y reforma y adiciona el artículo 53 de la Ley Orgánica del Poder Judicial de la Federación."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2018-04-24",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_orig_sent01_24abr18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr/LRArt6_MDR_orig_sent01_24abr18.doc"
+            }
+          ],
+          "fecha": "2018-04-24"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 122/2015 y sus acumuladas 124/2015 y 125/2015, así como el Voto Particular formulado por el Ministro José Fernando Franco González Salas."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:03:09Z",
+      "sha256": "30f70ac570b05d52ed6600329aa8ea4f1d2e69cb7d35f0c35f7e6e2f20a882f6",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr.htm"
+}

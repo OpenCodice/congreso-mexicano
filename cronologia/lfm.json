@@ -1,0 +1,41 @@
+{
+  "decretos": [],
+  "documento": "lfm",
+  "nombre": "Ley Federal del Mar",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1986-01-08",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfm/LFM_orig_08ene86_ima.pdf"
+          }
+        ],
+        "fecha": "1986-01-08"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfm/LFM_orig_fe_09ene86_ima.pdf"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "1986-01-09"
+      }
+    ],
+    "titulo": "Ley Federal del Mar."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:52:29Z",
+      "sha256": "54dffe8f084ccc27ec216b416a60cd86d4fc43929dd3ad42289656335b56c13f",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfm.htm"
+}

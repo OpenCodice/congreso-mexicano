@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp/LNMASCMP_ref01_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp/LNMASCMP_ref01_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp/LNMASCMP_ref02_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp/LNMASCMP_ref02_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lnmascmp",
+  "nombre": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2014-12-29",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp/LNMASCMP_orig_29dic14.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp/LNMASCMP_orig_29dic14.doc"
+          }
+        ],
+        "fecha": "2014-12-29"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, se reforman diversas disposiciones del Código Nacional de Procedimientos Penales y se reforman y adicionan diversas disposiciones del Código Federal de Procedimientos Penales."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:50:06Z",
+      "sha256": "d7836a0873bf79b9d0a8ed73c7cdb7a9689436be5a25b941024237b5ac9423bd",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp.htm"
+}

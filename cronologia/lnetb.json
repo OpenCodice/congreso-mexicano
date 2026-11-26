@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lnetb",
+  "nombre": "Ley Nacional para Eliminar Trámites Burocráticos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-07-16",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnetb/LNETB_orig_16jul25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnetb/LNETB_orig_16jul25.doc"
+          }
+        ],
+        "fecha": "2025-07-16"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Nacional para Eliminar Trámites Burocráticos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:54:02Z",
+      "sha256": "0c22b45f67352301dddaa46ba99b546eb179af46f91ff08c9e3a1d3b9846e733",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnetb.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnetb.htm"
+}

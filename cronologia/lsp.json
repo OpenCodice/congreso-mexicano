@@ -1,0 +1,61 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp/LSP_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp/LSP_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lsp",
+  "nombre": "Ley de Sistemas de Pagos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2002-12-12",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp/LSP_orig_12dic02.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp/LSP_orig_12dic02.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp/LSP_orig_12dic02_ima.pdf"
+          }
+        ],
+        "fecha": "2002-12-12"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Sistemas de Pagos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:13:15Z",
+      "sha256": "91284137a3f115a3d14d5976c06677e38eab92c5160f3005cb470125c15b5201",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp.htm"
+}

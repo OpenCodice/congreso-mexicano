@@ -1,0 +1,69 @@
+{
+  "decretos": [
+    {
+      "escaneado": true,
+      "fecha": "1985-01-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga/OGA_ref01_14ene85_ima.pdf"
+            }
+          ],
+          "fecha": "1985-01-14"
+        }
+      ],
+      "titulo": "Ley de Ascensos de la Armada de México."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2000-10-19",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga/OGA_ref02_19oct00.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga/OGA_ref02_19oct00.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga/OGA_ref02_19oct00_ima.pdf"
+            }
+          ],
+          "fecha": "2000-10-19"
+        }
+      ],
+      "titulo": "REGLAMENTO de honores, banderas y luces de la Armada de México."
+    }
+  ],
+  "documento": "oga",
+  "nombre": "Ordenanza General de la Armada",
+  "notas_sin_decreto": [],
+  "original": {
+    "fecha": "1912-01-01",
+    "publicaciones": [
+      {
+        "archivos": [],
+        "fecha": "1912-01-01",
+        "fecha_fin": "1912-01-08"
+      }
+    ],
+    "titulo": "ORDENANZA General de la Armada."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:21:15Z",
+      "sha256": "4ea52ed336a5ee92f7ae6f69b1e0ca74d9fd617b9adfa8bc60e14fdfaa6d7cf1",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga.htm"
+}

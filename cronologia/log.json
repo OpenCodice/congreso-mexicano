@@ -1,0 +1,61 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log/LOG_ref01_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log/LOG_ref01_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "log",
+  "nombre": "Ley de Organizaciones Ganaderas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "1999-01-06",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log/LOG_orig_06ene99.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log/LOG_orig_06ene99.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log/LOG_orig_06ene99_ima.pdf"
+          }
+        ],
+        "fecha": "1999-01-06"
+      }
+    ],
+    "titulo": "LEY de Organizaciones Ganaderas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:54:16Z",
+      "sha256": "293134c619e77a20fe5bd50aee49f558263285d227c6ef46c75cb3038ccc33d5",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log.htm"
+}

@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2015-12-17",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid/LCID_ref01_17dic15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid/LCID_ref01_17dic15.doc"
+            }
+          ],
+          "fecha": "2015-12-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2020-11-06",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid/LCID_ref02_06nov20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid/LCID_ref02_06nov20.doc"
+            }
+          ],
+          "fecha": "2020-11-06"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios Mexicanos."
+    }
+  ],
+  "documento": "lcid",
+  "nombre": "Ley de Cooperación Internacional para el Desarrollo",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2011-04-06",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid/LCID_orig_06abr11.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid/LCID_orig_06abr11.doc"
+          }
+        ],
+        "fecha": "2011-04-06"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Cooperación Internacional para el Desarrollo."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:26:12Z",
+      "sha256": "29e507ebe2ed263998884991ef3cc6ee2125bba1b1b42c3a77edc8a48dd0b709",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid.htm"
+}

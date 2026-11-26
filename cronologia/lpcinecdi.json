@@ -1,0 +1,61 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi/LPCINECDI_ref01_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi/LPCINECDI_ref01_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    }
+  ],
+  "documento": "lpcinecdi",
+  "nombre": "Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "1996-10-23",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi/LPCINECDI_orig_23oct96.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi/LPCINECDI_orig_23oct96.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi/LPCINECDI_orig_23oct96_ima.pdf"
+          }
+        ],
+        "fecha": "1996-10-23"
+      }
+    ],
+    "titulo": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que contravengan el Derecho Internacional."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:00:02Z",
+      "sha256": "3e18a44e536b4c8063d5f8e23eacdb4c0046bca80e8e5c43a650bb1a27679f79",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi.htm"
+}

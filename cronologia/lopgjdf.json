@@ -1,0 +1,57 @@
+{
+  "decretos": [],
+  "documento": "lopgjdf",
+  "nombre": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2011-06-20",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf/LOPGJDF_orig_20jun11.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf/LOPGJDF_orig_20jun11.doc"
+          }
+        ],
+        "fecha": "2011-06-20"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2012-02-24",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf/LOPGJDF_sent01_24feb12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf/LOPGJDF_sent01_24feb12.doc"
+            }
+          ],
+          "fecha": "2012-02-24"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 20/2011, promovida por la Procuradora General de la República, así como los votos particular y concurrente formulados por los Ministros José Fernando Franco González Salas y Sergio A. Valls Hernández, respectivamente."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:55:16Z",
+      "sha256": "73c1dc805672a5c4727566b99ed3fabf1ba1a2e8ead346c1066a48febd4b8dbf",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf.htm"
+}

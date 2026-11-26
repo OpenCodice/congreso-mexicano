@@ -1,0 +1,41 @@
+{
+  "decretos": [],
+  "documento": "loipn",
+  "nombre": "Ley Orgánica del Instituto Politécnico Nacional",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1981-12-29",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loipn/LOIPN_orig_29dic81_ima.pdf"
+          }
+        ],
+        "fecha": "1981-12-29"
+      },
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loipn/LOIPN_orig_fe_28may82_ima.pdf"
+          }
+        ],
+        "etiqueta": "Fe de erratas",
+        "fecha": "1982-05-28"
+      }
+    ],
+    "titulo": "Ley Orgánica del Instituto Politécnico Nacional."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:55:05Z",
+      "sha256": "4675936ff58d1c4d8390cc9f160edecee05d1f7720a765f217d80f39a6aed082",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loipn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loipn.htm"
+}

@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lgeo",
+  "nombre": "Ley de Geotermia",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-03-18",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeo/LGeo_orig_18mar25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeo/LGeo_orig_18mar25.doc"
+          }
+        ],
+        "fecha": "2025-03-18"
+      }
+    ],
+    "titulo": "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:19:15Z",
+      "sha256": "2feda6c7c8c1ac74d653571aa175591b576c915dea7d03dd049b7cdce31bab81",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeo.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeo.htm"
+}

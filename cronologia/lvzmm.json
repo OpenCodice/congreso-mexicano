@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2020-04-13",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm/LVZMM_ref01_13abr20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm/LVZMM_ref01_13abr20.doc"
+            }
+          ],
+          "fecha": "2020-04-13"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Vertimientos en las Zonas Marinas Mexicanas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm/LVZMM_ref02_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm/LVZMM_ref02_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lvzmm",
+  "nombre": "Ley de Vertimientos en las Zonas Marinas Mexicanas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2014-01-17",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm/LVZMM_orig_17ene14.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm/LVZMM_orig_17ene14.doc"
+          }
+        ],
+        "fecha": "2014-01-17"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Vertimientos en las Zonas Marinas Mexicanas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:21:12Z",
+      "sha256": "9bda74ce0c4bf3bacbec8f5ee32a1329fd67f89d9bb6351af8a867329300a39d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm.htm"
+}

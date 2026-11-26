@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "ltf",
+  "nombre": "Ley de Tesorería de la Federación",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2015-12-30",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf/LTF_orig_30dic15.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf/LTF_orig_30dic15.doc"
+          }
+        ],
+        "fecha": "2015-12-30"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Tesorería de la Federación."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:17:12Z",
+      "sha256": "0c2e00de5d98d05654befe58ebe1c29d697e90363174c96228f3f3784b3080cb",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf.htm"
+}

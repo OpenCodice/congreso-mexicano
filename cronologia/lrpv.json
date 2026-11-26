@@ -1,0 +1,104 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-06-05",
+      "numero": 1,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lxi/239_DOF_05jun12.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_ref01_05jun12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_ref01_05jun12.doc"
+            }
+          ],
+          "fecha": "2012-06-05"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 13 de la Ley del Registro Público Vehicular."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2017-11-30",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_ref02_30nov17.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_ref02_30nov17.doc"
+            }
+          ],
+          "fecha": "2017-11-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos artículos de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley del Registro Público Vehicular y de la Ley Reglamentaria del Servicio Ferroviario."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_ref03_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_ref03_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    }
+  ],
+  "documento": "lrpv",
+  "nombre": "Ley del Registro Público Vehicular",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2004-09-01",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_orig_01sep04.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_orig_01sep04.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv/LRPV_orig_01sep04_ima.pdf"
+          }
+        ],
+        "fecha": "2004-09-01"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley del Registro Público Vehicular."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:07:05Z",
+      "sha256": "b3ad7f55b502f1c04e60f1e1921b6ba715f48d7f4a9afcbe605866b2ba999645",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv.htm"
+}

@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lical",
+  "nombre": "Ley de Infraestructura de la Calidad",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2020-07-01",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lical/LICal_orig_01jul20.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lical/LICal_orig_01jul20.doc"
+          }
+        ],
+        "fecha": "2020-07-01"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Infraestructura de la Calidad y se abroga la Ley Federal sobre Metrología y Normalización."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:43:02Z",
+      "sha256": "48d2000b9ae88d1442ab2514d8424c28e2be1ab9d4722b86e4ec893f63ff7c22",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lical.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lical.htm"
+}

@@ -1,0 +1,99 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2022-04-05",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_ref01_05abr22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_ref01_05abr22.doc"
+            }
+          ],
+          "fecha": "2022-04-05"
+        }
+      ],
+      "titulo": "DECRETO por el que se adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de Archivos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-01-19",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_ref02_19ene23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_ref02_19ene23.doc"
+            }
+          ],
+          "fecha": "2023-01-19"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 15 de la Ley General de Archivos."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_ref03_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_ref03_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lga",
+  "nombre": "Ley General de Archivos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2018-06-15",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_orig_15jun18.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga/LGA_orig_15jun18.doc"
+          }
+        ],
+        "fecha": "2018-06-15"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Archivos."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:08:02Z",
+      "sha256": "63d7ac679631e86219c86d731446e9a057b2987eef2ef60b426f6c78e6cecfc4",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga.htm"
+}

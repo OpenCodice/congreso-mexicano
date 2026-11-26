@@ -1,0 +1,68 @@
+{
+  "decretos": [],
+  "documento": "lnrd",
+  "nombre": "Ley Nacional del Registro de Detenciones",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2019-05-27",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd/LNRD_orig_27may19.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd/LNRD_orig_27may19.doc"
+          }
+        ],
+        "fecha": "2019-05-27"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Nacional del Registro de Detenciones."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2023-05-19",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd/LNRD_sent01_notifica_27ene23.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2023-01-27"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd/LNRD_sent01_dof_19may23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd/LNRD_sent01_dof_19may23.doc"
+            }
+          ],
+          "fecha": "2023-05-19"
+        }
+      ],
+      "seccion": "Sentencia de la SCJN con declaratoria de omisión legislativa",
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 63/2019, así como los Votos Particular del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Juan Luis González Alcántara Carrancá."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:50:09Z",
+      "sha256": "9116f05b033506faa09b6e972c374a9122cad4cdeb267aa72290e51fade98cac",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd.htm"
+}

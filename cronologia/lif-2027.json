@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lif-2027",
+  "nombre": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2026-11-13",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2027/LIF_2027_orig_13nov26.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2027/LIF_2027_orig_13nov26.doc"
+          }
+        ],
+        "fecha": "2026-11-13"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:40:05Z",
+      "sha256": "4eaa6ad3d6a5763cedd192332d6e88641aa5f7a52ca012305eb0389d86c8b30f",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2027.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2027.htm"
+}

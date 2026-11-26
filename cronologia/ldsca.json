@@ -1,0 +1,123 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_ref01_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_ref01_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "ldsca",
+  "nombre": "Ley de Desarrollo Sustentable de la Caña de Azúcar",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2005-08-22",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_orig_22ago05.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_orig_22ago05.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_orig_22ago05_ima.pdf"
+          }
+        ],
+        "fecha": "2005-08-22"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Desarrollo Sustentable de la Caña de Azúcar."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2007-12-07",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_07dic07.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_07dic07.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_07dic07_ima.pdf"
+            }
+          ],
+          "fecha": "2007-12-07"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_voto_23jul08.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_voto_23jul08.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_voto_23jul08_ima.pdf"
+            }
+          ],
+          "etiqueta": "Votos Particulares",
+          "fecha": "2008-07-23"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_voto_20oct08.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_voto_20oct08.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca/LDSCA_sent01_voto_20oct08_ima.pdf"
+            }
+          ],
+          "etiqueta": "Voto Particular",
+          "fecha": "2008-10-20"
+        }
+      ],
+      "titulo": "SENTENCIA de nueve de julio de dos mil siete dictada en la Acción de Inconstitucionalidad 27/2005 promovida por el Procurador General de la República en contra del Congreso de la Unión y el Presidente de la República."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:34:12Z",
+      "sha256": "d8a50258d5b0321f1dbaea3179205109f42ac0f485d46e16919172125ba80fe3",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca.htm"
+}

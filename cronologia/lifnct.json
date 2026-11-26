@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2014-01-10",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct/LIFNCT_ref01_10ene14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct/LIFNCT_ref01_10ene14.doc"
+            }
+          ],
+          "fecha": "2014-01-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2024-01-03",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct/LIFNCT_ref02_03ene24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct/LIFNCT_ref02_03ene24.doc"
+            }
+          ],
+          "fecha": "2024-01-03"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman las fracciones VIII del artículo 8 y VIII del artículo 18 de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores."
+    }
+  ],
+  "documento": "lifnct",
+  "nombre": "Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2006-04-24",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct/LIFNCT_orig_24abr06.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct/LIFNCT_orig_24abr06.doc"
+          }
+        ],
+        "fecha": "2006-04-24"
+      }
+    ],
+    "titulo": "DECRETO por el que se crea la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:40:09Z",
+      "sha256": "75c522cbdd13b2d0b9c576129dd32851b93045d67237a734d6818624bd3a6fa8",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct.htm"
+}

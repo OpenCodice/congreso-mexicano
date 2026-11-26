@@ -1,0 +1,78 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-01-30",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm/LDFEFM_ref01_30ene18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm/LDFEFM_ref01_30ene18.doc"
+            }
+          ],
+          "fecha": "2018-01-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-05-10",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm/LDFEFM_ref02_10may22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm/LDFEFM_ref02_10may22.doc"
+            }
+          ],
+          "fecha": "2022-05-10"
+        }
+      ],
+      "titulo": "DECRETO por el que se adicionan diversas disposiciones de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios."
+    }
+  ],
+  "documento": "ldfefm",
+  "nombre": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-04-27",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm/LDFEFM_orig_27abr16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm/LDFEFM_orig_27abr16.doc"
+          }
+        ],
+        "fecha": "2016-04-27"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:32:16Z",
+      "sha256": "13bad8c3f7f46e6567d2c46efec5ed7db32ad0a905dc1475340a6d9d6203c2ab",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm.htm"
+}

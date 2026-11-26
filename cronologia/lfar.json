@@ -1,0 +1,89 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2025-04-16",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_ref01_16abr25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_ref01_16abr25.doc"
+            }
+          ],
+          "fecha": "2025-04-16"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+    }
+  ],
+  "documento": "lfar",
+  "nombre": "Ley Federal de Austeridad Republicana",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2019-11-19",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_orig_19nov19.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_orig_19nov19.doc"
+          }
+        ],
+        "fecha": "2019-11-19"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Austeridad Republicana; y se reforman y adicionan diversas disposiciones de la Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2022-09-02",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_orig_sent01_notifica_06abr22.pdf"
+            }
+          ],
+          "etiqueta": "Notificación para efectos legales",
+          "fecha": "2022-04-06"
+        },
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_orig_sent01_02sep22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar/LFAR_orig_sent01_02sep22.doc"
+            }
+          ],
+          "fecha": "2022-09-02"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 139/2019, así como los Votos Concurrentes de los señores Ministros Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo y Presidente Arturo Zaldívar Lelo de Larrea, Concurrente y Particular del señor Ministro Juan Luis González Alcántara Carrancá y Concurrente de Minoría de la señora Ministra Loretta Ortiz Ahlf y del señor Ministro Presidente Arturo Zaldívar Lelo de Larrea."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:41:09Z",
+      "sha256": "377b42d44c06cbb6a6305fbdcbd6c7568a64e8d90e1ea1315b27365c01341ea8",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar.htm"
+}

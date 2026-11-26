@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "lffpmn",
+  "nombre": "Ley Federal para el Fomento y Protección del Maíz Nativo",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2020-04-13",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffpmn/LFFPMN_orig_13abr20.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffpmn/LFFPMN_orig_13abr20.doc"
+          }
+        ],
+        "fecha": "2020-04-13"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal para el Fomento y Protección del Maíz Nativo."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:48:16Z",
+      "sha256": "fa33bf385ca969724d5c68432891abbe0c21f1924347521e2256053b9e921dd7",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffpmn.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffpmn.htm"
+}

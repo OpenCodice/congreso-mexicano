@@ -1,0 +1,99 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2014-10-30",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPCAP_ref01_30oct14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPCAP_ref01_30oct14.doc"
+            }
+          ],
+          "fecha": "2014-10-30"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones, así como la denominación de la Ley sobre Refugiados y Protección Complementaria; y se reforman y adicionan diversos artículos de la Ley de Migración."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2020-11-11",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPCAP_ref02_11nov20.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPCAP_ref02_11nov20.doc"
+            }
+          ],
+          "fecha": "2020-11-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos artículos de la Ley de Migración y de la Ley sobre Refugiados, Protección Complementaria y Asilo Político, en materia de Infancia Migrante."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-02-18",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPCAP_ref03_18feb22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPCAP_ref03_18feb22.doc"
+            }
+          ],
+          "fecha": "2022-02-18"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley sobre Refugiados, Protección Complementaria y Asilo Político."
+    }
+  ],
+  "documento": "lrpcap",
+  "nombre": "Ley sobre Refugiados, Protección Complementaria y Asilo Político",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2011-01-27",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPC_orig_27ene11.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap/LRPC_orig_27ene11.doc"
+          }
+        ],
+        "fecha": "2011-01-27"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley sobre Refugiados y Protección Complementaria y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Población."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:07:02Z",
+      "sha256": "03839e794e7918bfc34bc4dcc4c2d48b4bf4d7de3c372d4110a7ed60bb881fa6",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap.htm"
+}

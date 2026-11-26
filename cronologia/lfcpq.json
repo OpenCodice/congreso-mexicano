@@ -1,0 +1,230 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_ref01_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_ref01_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_ref02_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_ref02_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2023-05-03",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_ref03_03may23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_ref03_03may23.doc"
+            }
+          ],
+          "fecha": "2023-05-03"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos."
+    }
+  ],
+  "documento": "lfcpq",
+  "nombre": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "1997-12-26",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_orig_26dic97.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_orig_26dic97.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_orig_26dic97_ima.pdf"
+          }
+        ],
+        "fecha": "1997-12-26"
+      }
+    ],
+    "titulo": "LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos."
+  },
+  "otras": [
+    {
+      "clase": "Listado de Sustancias",
+      "escaneado": false,
+      "fecha": "2009-11-23",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista01_23nov09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista01_23nov09.doc"
+            }
+          ],
+          "fecha": "2009-11-23"
+        }
+      ],
+      "titulo": "ACUERDO por el que se establecen medidas de control y vigilancia para el uso de ácido fenilacético, sus sales y derivados; metilamina; ácido yodhídrico y fósforo rojo."
+    },
+    {
+      "clase": "Listado de Sustancias",
+      "escaneado": false,
+      "fecha": "2010-12-23",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista02_23dic10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista02_23dic10.doc"
+            }
+          ],
+          "fecha": "2010-12-23"
+        }
+      ],
+      "titulo": "ACUERDO por el que se adiciona el diverso que establece medidas de control y vigilancia para el uso de ácido fenilacético, sus sales y derivados; metilamina; ácido yodhídrico y fósforo rojo."
+    },
+    {
+      "clase": "Listado de Sustancias",
+      "escaneado": false,
+      "fecha": "2015-10-28",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista03_28oct15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista03_28oct15.doc"
+            }
+          ],
+          "fecha": "2015-10-28"
+        }
+      ],
+      "titulo": "ACUERDO por el que se adicionan las substancias nitroetano, nitrometano, benzaldehído y cloruro de bencilo, al listado de la clasificación a que se refiere la fracción I del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos; y se consideran substancias psicotrópicas comprendidas en el artículo 245, fracción V, de la Ley General de Salud."
+    },
+    {
+      "clase": "Listado de Sustancias",
+      "escaneado": false,
+      "fecha": "2017-07-18",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista04_18jul17.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista04_18jul17.doc"
+            }
+          ],
+          "fecha": "2017-07-18"
+        }
+      ],
+      "titulo": "ACUERDO por el que se adicionan las substancias N-fenetil-4-piperidona (NPP) y 4-anilino-N-fenetilpiperidina (ANPP), al listado de la clasificación a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos; y se consideran estupefacientes comprendidos en el artículo 234, de la Ley General de Salud."
+    },
+    {
+      "clase": "Listado de Sustancias",
+      "escaneado": false,
+      "fecha": "2018-12-24",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista05_24dic18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista05_24dic18.doc"
+            }
+          ],
+          "fecha": "2018-12-24"
+        }
+      ],
+      "titulo": "ACUERDO por el que se adiciona la substancia alfa-Fenilacetoacetonitrilo (APAAN), a la fracción I del artículo 4 de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, y a la fracción I del artículo 245 de la Ley General de Salud."
+    },
+    {
+      "clase": "Listado de Sustancias",
+      "escaneado": false,
+      "fecha": "2021-05-13",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista06_13may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq/LFCPQ_lista06_13may21.doc"
+            }
+          ],
+          "fecha": "2021-05-13"
+        }
+      ],
+      "titulo": "ACUERDO por el que se adicionan las substancias N-Fenil-4-piperidinamina (4-AP), Diclorhidrato de N-Fenil-4-piperidinamina (4-AP), Anhídrido propiónico y Cloruro de propionilo), al listado de la clasificación a que se refiere a la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos; y se consideran estupefacientes comprendidos en el artículo 234, de la Ley General de Salud."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:43:03Z",
+      "sha256": "ad2ce013dc1ca33a5b5a3dd14dd74839f1970a59e836a71234ac649857b10c0a",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq.htm"
+}

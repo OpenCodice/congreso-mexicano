@@ -1,0 +1,31 @@
+{
+  "decretos": [],
+  "documento": "louam",
+  "nombre": "Ley Orgánica de la Universidad Autónoma Metropolitana",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": true,
+    "fecha": "1973-12-17",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/louam/LOUAM_orig_17dic73_ima.pdf"
+          }
+        ],
+        "fecha": "1973-12-17"
+      }
+    ],
+    "titulo": "Ley Orgánica de la Universidad Autónoma Metropolitana."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:59:09Z",
+      "sha256": "b3bf74d88b3901292318bd40e4485e238dea51d45d9898017cb4ca6ce0dc5daf",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/louam.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/louam.htm"
+}

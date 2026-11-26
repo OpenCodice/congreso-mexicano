@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "laem",
+  "nombre": "Ley que crea la Agencia Espacial Mexicana",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2010-07-30",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laem/LAEM_orig_30jul10.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laem/LAEM_orig_30jul10.doc"
+          }
+        ],
+        "fecha": "2010-07-30"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley que crea la Agencia Espacial Mexicana."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:20:09Z",
+      "sha256": "4a3caba625c53f2540a7a7e83919dc30bf6152601f57d5115901b9d2b70b1fd4",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laem.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laem.htm"
+}

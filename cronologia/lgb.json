@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2023-11-29",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb/LGB_ref01_29nov23.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb/LGB_ref01_29nov23.doc"
+            }
+          ],
+          "fecha": "2023-11-29"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman los artículos 33, 39 y 43 y se adiciona un artículo 34 Bis de la Ley General de Bibliotecas."
+    }
+  ],
+  "documento": "lgb",
+  "nombre": "Ley General de Bibliotecas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2021-06-01",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb/LGB_orig_01jun21.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb/LGB_orig_01jun21.doc"
+          }
+        ],
+        "fecha": "2021-06-01"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General de Bibliotecas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:14:05Z",
+      "sha256": "9094569c26ec063075b128d7f5b32bcd264dd7657960cbf69a2f04c70c3daf25",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb.htm"
+}

@@ -1,0 +1,167 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "1999-01-04",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref01_04ene99.pdf"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref01_04ene99_ima.pdf"
+            }
+          ],
+          "fecha": "1999-01-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2003-06-12",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref02_12jun03.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref02_12jun03.doc"
+            },
+            {
+              "formato": "imagen",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref02_12jun03_ima.zip"
+            }
+          ],
+          "fecha": "2003-06-12"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones contenidas en la Ley del Servicio de Administración Tributaria."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2009-05-06",
+      "numero": 3,
+      "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/167_DOF_06may09.pdf",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref03_06may09.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref03_06may09.doc"
+            }
+          ],
+          "fecha": "2009-05-06"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación y de la Ley del Servicio de Administración Tributaria."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2012-04-09",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref04_09abr12.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref04_09abr12.doc"
+            }
+          ],
+          "fecha": "2012-04-09"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2015-12-17",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref05_17dic15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref05_17dic15.doc"
+            }
+          ],
+          "fecha": "2015-12-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2018-12-04",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref06_04dic18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_ref06_04dic18.doc"
+            }
+          ],
+          "fecha": "2018-12-04"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 13 de la Ley del Servicio de Administración Tributaria."
+    }
+  ],
+  "documento": "lsat",
+  "nombre": "Ley del Servicio de Administración Tributaria",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "1995-12-15",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_orig_15dic95.pdf"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat/LSAT_orig_15dic95_ima.zip"
+          }
+        ],
+        "fecha": "1995-12-15"
+      }
+    ],
+    "titulo": "DECRETO por el que se expiden nuevas leyes fiscales y se modifican otras."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T11:31:02Z",
+      "sha256": "9c42f6e330a9b316d2ff92987952662ab46fd9bfe7fbcbfec26ed943ed1cc13d",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat.htm"
+}

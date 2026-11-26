@@ -1,0 +1,162 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2014-07-14",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref01_14jul14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref01_14jul14.doc"
+            }
+          ],
+          "fecha": "2014-07-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2014-08-11",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref02_11ago14.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref02_11ago14.doc"
+            }
+          ],
+          "fecha": "2014-08-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de Hidrocarburos y se reforman diversas disposiciones de la Ley de Inversión Extranjera; Ley Minera, y Ley de Asociaciones Público Privadas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2015-12-18",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref03_18dic15.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref03_18dic15.doc"
+            }
+          ],
+          "fecha": "2015-12-18"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2016-04-21",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref04_21abr16.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref04_21abr16.doc"
+            }
+          ],
+          "fecha": "2016-04-21"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley de Asociaciones Público Privadas."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2018-06-15",
+      "numero": 5,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref05_15jun18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref05_15jun18.doc"
+            }
+          ],
+          "fecha": "2018-06-15"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2025-11-14",
+      "numero": 6,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref06_14nov25.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_ref06_14nov25.doc"
+            }
+          ],
+          "fecha": "2025-11-14"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+    }
+  ],
+  "documento": "lapp",
+  "nombre": "Ley de Asociaciones Público Privadas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2012-01-16",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_orig_16ene12.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp/LAPP_orig_16ene12.doc"
+          }
+        ],
+        "fecha": "2012-01-16"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley de Asociaciones Público Privadas, y se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:20:16Z",
+      "sha256": "883f10b428a194a34b496a520a4bcab7464ad3292c84764dfa6e251117618138",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp.htm"
+}

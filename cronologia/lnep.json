@@ -1,0 +1,79 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2024-04-01",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep/LNEP_ref01_01abr24.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep/LNEP_ref01_01abr24.doc"
+            }
+          ],
+          "fecha": "2024-04-01"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+    }
+  ],
+  "documento": "lnep",
+  "nombre": "Ley Nacional de Ejecución Penal",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-06-16",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep/LNEP_orig_16jun16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep/LNEP_orig_16jun16.doc"
+          }
+        ],
+        "fecha": "2016-06-16"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal."
+  },
+  "otras": [
+    {
+      "clase": "Sentencia de la SCJN",
+      "escaneado": false,
+      "fecha": "2018-05-09",
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep/LNEP_orig_sent01_09may18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep/LNEP_orig_sent01_09may18.doc"
+            }
+          ],
+          "fecha": "2018-05-09"
+        }
+      ],
+      "titulo": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 61/2016, así como los Votos Particular del Ministro Arturo Zaldívar Lelo de Larrea y Concurrente del Ministro Javier Laynez Potisek."
+    }
+  ],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:48:15Z",
+      "sha256": "53aa721b64e37068b3c855f2a5ecf37350b62bbe79cbf31f3a532dbac7176b55",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep.htm"
+}

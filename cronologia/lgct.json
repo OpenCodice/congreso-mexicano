@@ -1,0 +1,125 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2010-01-06",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref01_06ene10.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref01_06ene10.doc"
+            }
+          ],
+          "fecha": "2010-01-06"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforma el artículo 27 de la Ley General para el Control del Tabaco."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2018-06-15",
+      "numero": 2,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref02_15jun18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref02_15jun18.doc"
+            }
+          ],
+          "fecha": "2018-06-15"
+        }
+      ],
+      "titulo": "DECRETO por el que se adiciona un Título Octavo, denominado “De los Delitos”, Capítulo Único, que comprende los artículos 56 y 57 a la Ley General para el Control del Tabaco."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 3,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref03_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref03_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    },
+    {
+      "escaneado": false,
+      "fecha": "2022-02-17",
+      "numero": 4,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref04_17feb22.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_ref04_17feb22.doc"
+            }
+          ],
+          "fecha": "2022-02-17"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para el Control del Tabaco."
+    }
+  ],
+  "documento": "lgct",
+  "nombre": "Ley General para el Control del Tabaco",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2008-05-30",
+    "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/087_DOF_30may08.pdf",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_orig_30may08.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_orig_30may08.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct/LGCT_orig_30may08_ima.pdf"
+          }
+        ],
+        "fecha": "2008-05-30"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General para el Control del Tabaco; y deroga y reforma diversas disposiciones de la Ley General de Salud."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T10:13:13Z",
+      "sha256": "ab9142e30d30d0488e4bcd3d20c1b8824788c22b01503060da27588b2a91dfb5",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct.htm"
+}

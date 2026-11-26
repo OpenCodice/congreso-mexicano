@@ -1,0 +1,62 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2018-05-11",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs/LFPCCS_ref01_11may18.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs/LFPCCS_ref01_11may18.doc"
+            }
+          ],
+          "fecha": "2018-05-11"
+        }
+      ],
+      "titulo": "DECRETO por el que se reforman los artículos 4 y 18 de la Ley Federal de Producción, Certificación y Comercio de Semillas."
+    }
+  ],
+  "documento": "lfpccs",
+  "nombre": "Ley Federal de Producción, Certificación y Comercio de Semillas",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2007-06-15",
+    "proceso_legislativo": "https://www.diputados.gob.mx/LeyesBiblio/proceso/lx/027_DOF_15jun07.pdf",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs/LFPCCS_orig_15jun07.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs/LFPCCS_orig_15jun07.doc"
+          },
+          {
+            "formato": "imagen",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs/LFPCCS_orig_15jun07_ima.pdf"
+          }
+        ],
+        "fecha": "2007-06-15"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Federal de Producción, Certificación y Comercio de Semillas."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T09:53:15Z",
+      "sha256": "beab4cc3f0a4ac648f68832cc3e609de91e0fb13ca867f712c64924056f72738",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs.htm"
+}
