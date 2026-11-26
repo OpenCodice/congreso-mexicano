@@ -3,7 +3,7 @@
     {
       "clave": "4825577",
       "denominacion": "Que reforma diversas disposiciones del artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2024-12-13",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825577_20241213_1725383763.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "4888843",
       "denominacion": "Que reforma los artículos 12, las fracciones I, II, III, y IV del artículo 14, las fracciones I, II, III, IV, V y VI del artículo 15 y las fracciones I, III, IV, V, VI, VII, VIII, IX, XI, XII, XIII y XIV del artículo 38 todos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2025-04-28",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4888843_20250428_1745518085.pdf",
       "tipo": "Iniciativa"
@@ -19,7 +19,7 @@
     {
       "clave": "4949786",
       "denominacion": "Que adiciona la fracción XV al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2025-10-15",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/10/asun_4949786_20251015_1759255448.pdf",
       "tipo": "Iniciativa"
@@ -27,7 +27,7 @@
     {
       "clave": "4986517",
       "denominacion": "Que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2025-11-27",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4986517_20251127_1762362627.pdf",
       "tipo": "Iniciativa"
@@ -35,7 +35,7 @@
     {
       "clave": "4986511",
       "denominacion": "Que reforma diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2025-11-27",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/11/asun_4986511_20251127_1762362596.pdf",
       "tipo": "Iniciativa"
@@ -43,7 +43,7 @@
     {
       "clave": "4999365",
       "denominacion": "Que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y de la Ley General para la Igualdad entre Mujeres y Hombres.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2025-12-10",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4999365_20251210_1765384325.pdf",
       "tipo": "Iniciativa"
@@ -51,7 +51,7 @@
     {
       "clave": "5199043",
       "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-11-17",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199043_20261117_1794939950.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -59,10 +59,18 @@
     {
       "clave": "5200536",
       "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-11-18",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5200536_20261118_1794939951.pdf",
       "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5205340",
+      "denominacion": "Que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5205340_20261125_1795620067.pdf",
+      "tipo": "Minuta"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -79,6 +87,14 @@
     {
       "estatus": "Turnado a revisora",
       "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-25"
     }
   ],
   "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y de la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.",
@@ -88,15 +104,15 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/76/7638332bb0e1ef19efb42390093bc2988364d19a3587d459a6ac42c56a9bc1bf.html",
-      "consultado": "2026-11-25T02:53:44Z",
-      "sha256": "7638332bb0e1ef19efb42390093bc2988364d19a3587d459a6ac42c56a9bc1bf",
+      "archivo": "fuentes/dd/dd11dbb3f9ac8061f0785588dabc5b125b9af4d998e098c30cef43f1f85c7354.html",
+      "consultado": "2026-11-26T03:58:08Z",
+      "sha256": "dd11dbb3f9ac8061f0785588dabc5b125b9af4d998e098c30cef43f1f85c7354",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199599&Asunto=5200536"
     },
     {
-      "archivo": "fuentes/32/32dfcd54b72005a4f4944d18cea48b6148db47101522679e225b5896e1829988.html",
-      "consultado": "2026-11-25T02:54:02Z",
-      "sha256": "32dfcd54b72005a4f4944d18cea48b6148db47101522679e225b5896e1829988",
+      "archivo": "fuentes/fb/fb762f29980d3a89efb73f04d55677c2155c6ed02a49e50daee639e671f251a7.html",
+      "consultado": "2026-11-26T03:58:14Z",
+      "sha256": "fb762f29980d3a89efb73f04d55677c2155c6ed02a49e50daee639e671f251a7",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5200536&Seguimiento=5199599"
     }
   ],
@@ -125,7 +141,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado a revisora Pendiente 18/11/2026",
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/11/2026",
   "votaciones": [
     "sil-5200536-1"
   ],

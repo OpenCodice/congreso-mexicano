@@ -1,0 +1,113 @@
+{
+  "asuntos": [
+    {
+      "clave": "5017364",
+      "denominacion": "Que reforma el Decreto publicado en el DOF del 29 de diciembre de 1966, mediante el cual se inscribió con letras de oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados el nombre de -Margarita Maza de Juárez- a efecto de modificar la inscripción para que se lea -Margarita Maza Parada-.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-02-18",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5017364_20260218_1771269494.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5049550",
+      "denominacion": "Que reforma los decretos publicados en el Diario Oficial de la Federación el 29 de diciembre de 1966 y el 27 de octubre de 1948, mediante los cuales se inscribieron con letras de oro en el Muro del Salón de Sesiones de la Cámara de Diputados los nombres de -Margarita Maza de Juárez- y -Josefa Ortiz de Domínguez-, respectivamente, a efecto de modificar las inscripciones para que se lea -Margarita Eustaquia Maza Parada- y -María Josefa Crescencia Ortiz Téllez-Girón-.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-03-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5049550_20260324_1773926423.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5086911",
+      "denominacion": "Que reforma el Decreto que dispone se inscriban con letras de oro en los muros del Congreso de la Union los nombres de las heroínas ilustres Josefa Ortiz de Domínguez, Leona Vicario, Mariana Rodríguez del Toro de Lazarín y Antonia Nava publicado en el Diario Oficial de la Federación del 27 de octubre de 1948.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-04-29",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5086911_20260429_1771980126.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5205355",
+      "denominacion": "Que reforma decretos para actualizar los nombres inscritos de Josefa Ortiz Téllez Girón, Margarita Maza Parada y Mariana Rodríguez del Toro.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5205355_20261125_1795629121.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5210112",
+      "denominacion": "Que reforma decretos para actualizar los nombres inscritos de Josefa Ortiz Téllez Girón, Margarita Maza Parada y Mariana Rodríguez del Toro.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5210112_20261125_1795629218.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2026-11-25"
+    }
+  ],
+  "denominacion": "Que reforma decretos para actualizar los nombres inscritos de Josefa Ortiz Téllez Girón, Margarita Maza Parada y Mariana Rodríguez del Toro.",
+  "id": "sil-5210943",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5210943",
+  "sources": [
+    {
+      "archivo": "fuentes/26/262f2cc5442ad21aad738f44d4b908621ea2cc20933a1a6f3560cd058b54c9bc.html",
+      "consultado": "2026-11-26T03:14:40Z",
+      "sha256": "262f2cc5442ad21aad738f44d4b908621ea2cc20933a1a6f3560cd058b54c9bc",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5210943&Asunto=5210112"
+    },
+    {
+      "archivo": "fuentes/d9/d9c379e6aa762fb795de750c8a0d9050becbaa0536c61df09531cdd4f94e0b24.html",
+      "consultado": "2026-11-26T03:15:02Z",
+      "sha256": "d9c379e6aa762fb795de750c8a0d9050becbaa0536c61df09531cdd4f94e0b24",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5210112&Seguimiento=5210943"
+    }
+  ],
+  "tramites": {
+    "5210112": [
+      {
+        "texto": "Aprobado para considerar suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 426
+        },
+        "texto": "Aprobado en lo general y en lo particular es mayoría calificada. A Favor: 426 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Enviado para publicación en DOF Aprobado 25/11/2026",
+  "votaciones": [
+    "sil-5210112-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5210112",
+      "camara": "diputados",
+      "fecha": "2026-11-25",
+      "result": "pass",
+      "texto": "Aprobado para considerar suficientemente discutido en lo general y en lo particular."
+    }
+  ]
+}

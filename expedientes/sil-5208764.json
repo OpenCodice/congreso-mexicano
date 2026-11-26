@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "4894725",
+      "denominacion": "Que reforma diversas disposiciones de la Ley de Desarrollo Rural Sustentable.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2025-04-30",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/04/asun_4894725_20250430_1744298511.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5208176",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de Desarrollo Rural Sustentable, en materia de impulso a las mujeres productoras del campo",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-11-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5208176_20261124_1795539420.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5209725",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de Desarrollo Rural Sustentable, en materia de impulso a las mujeres productoras del campo.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5209725_20261124_1795539421.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de Desarrollo Rural Sustentable, en materia de impulso a las mujeres productoras del campo.",
+  "id": "sil-5208764",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5208764",
+  "sources": [
+    {
+      "archivo": "fuentes/e0/e008a077319f01accf8427ee4b86f23afeda60a866cbce5ff2f0f0ac078b4ad5.html",
+      "consultado": "2026-11-26T03:14:15Z",
+      "sha256": "e008a077319f01accf8427ee4b86f23afeda60a866cbce5ff2f0f0ac078b4ad5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5208764&Asunto=5209725"
+    },
+    {
+      "archivo": "fuentes/06/067cffba376d6c8be76421cce7e67943134c9c825b436e12256f0d3c119a945c.html",
+      "consultado": "2026-11-26T03:14:21Z",
+      "sha256": "067cffba376d6c8be76421cce7e67943134c9c825b436e12256f0d3c119a945c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5209725&Seguimiento=5208764"
+    }
+  ],
+  "tramites": {
+    "5209725": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 97
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 97 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 25/11/2026",
+  "votaciones": [
+    "sil-5209725-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5209725",
+      "camara": "senado",
+      "fecha": "2026-11-25",
+      "result": "pass",
+      "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}

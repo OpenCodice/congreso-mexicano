@@ -3,7 +3,7 @@
     {
       "clave": "4825805",
       "denominacion": "Que declara el 9 de diciembre de cada año, como el -Día Nacional de las Personas Migrantes-.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2024-12-13",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/12/asun_4825805_20241213_1733857192.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "5042778",
       "denominacion": "Con proyecto de decreto por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-03-19",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/03/asun_5042778_20260319_1773942357.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -19,10 +19,18 @@
     {
       "clave": "5200540",
       "denominacion": "Por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-11-18",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5200540_20261118_1794949599.pdf",
       "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5205338",
+      "denominacion": "Que declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5205338_20261125_1795619774.pdf",
+      "tipo": "Minuta"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -39,6 +47,14 @@
     {
       "estatus": "Turnado a revisora",
       "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-25"
     }
   ],
   "denominacion": "Por el que se declara el 18 de diciembre de cada año como el -Día Nacional de las Personas Migrantes-.",
@@ -48,15 +64,15 @@
   "seguimiento": "5047899",
   "sources": [
     {
-      "archivo": "fuentes/3c/3ce7e27a83939b1349cf1816a6c3220cedc16b614cce2f992adf9e30c38041e6.html",
-      "consultado": "2026-11-25T02:52:20Z",
-      "sha256": "3ce7e27a83939b1349cf1816a6c3220cedc16b614cce2f992adf9e30c38041e6",
+      "archivo": "fuentes/be/be0116c16a178f631af32ae4533e04b7e4702c621463b185908a3d5c9a11d8a9.html",
+      "consultado": "2026-11-26T03:56:20Z",
+      "sha256": "be0116c16a178f631af32ae4533e04b7e4702c621463b185908a3d5c9a11d8a9",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5047899&Asunto=5200540"
     },
     {
-      "archivo": "fuentes/61/61e5f333650b3aabd7f9fd47ab5acd48d3df73df10d8cf46217b6f18885fe33d.html",
-      "consultado": "2026-11-25T02:52:26Z",
-      "sha256": "61e5f333650b3aabd7f9fd47ab5acd48d3df73df10d8cf46217b6f18885fe33d",
+      "archivo": "fuentes/56/566775926b392151d8916420430605d32dfd81c3c9633e16607bab9cd75f6b78.html",
+      "consultado": "2026-11-26T03:56:26Z",
+      "sha256": "566775926b392151d8916420430605d32dfd81c3c9633e16607bab9cd75f6b78",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5200540&Seguimiento=5047899"
     }
   ],
@@ -81,7 +97,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado a revisora Pendiente 18/11/2026",
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/11/2026",
   "votaciones": [
     "sil-5200540-1"
   ],

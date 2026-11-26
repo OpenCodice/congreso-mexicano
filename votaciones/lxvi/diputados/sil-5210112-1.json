@@ -1,0 +1,41 @@
+{
+  "asunto": "5210112",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 426
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5210943",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5210112-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Que reforma decretos para actualizar los nombres inscritos de Josefa Ortiz Téllez Girón, Margarita Maza Parada y Mariana Rodríguez del Toro.",
+    "text": "Aprobado en lo general y en lo particular es mayoría calificada. A Favor: 426 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/f5/f54b88b0c401d889e8c3f7a93e0a6ba5f5bb2d39311c638e0cc445b30323ea5f.html",
+      "consultado": "2026-11-26T03:15:08Z",
+      "sha256": "f54b88b0c401d889e8c3f7a93e0a6ba5f5bb2d39311c638e0cc445b30323ea5f",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5210112"
+    }
+  ],
+  "start_date": "2026-11-25",
+  "votes": [],
+  "votos_publicados": false
+}

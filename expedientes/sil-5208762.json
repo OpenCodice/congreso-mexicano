@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "4995785",
+      "denominacion": "Que reforma la fracción XIII del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2025-12-09",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/12/asun_4995785_20251208_1762362877.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5208164",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XIII del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-11-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5208164_20261124_1795539079.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5209717",
+      "denominacion": "Con proyecto de decreto por el que reforma la fracción XIII del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5209717_20261124_1795539080.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma la fracción XIII del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+  "id": "sil-5208762",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5208762",
+  "sources": [
+    {
+      "archivo": "fuentes/b2/b2d5165d0436a91de69e47ebf78dad5c320dd545adb8c4bb2b883e8157e54575.html",
+      "consultado": "2026-11-26T03:13:03Z",
+      "sha256": "b2d5165d0436a91de69e47ebf78dad5c320dd545adb8c4bb2b883e8157e54575",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5208762&Asunto=5209717"
+    },
+    {
+      "archivo": "fuentes/b3/b31da56894bf5202a52dc65baf6e8dfaa173811b75bdf460130b0caefb8123cd.html",
+      "consultado": "2026-11-26T03:13:09Z",
+      "sha256": "b31da56894bf5202a52dc65baf6e8dfaa173811b75bdf460130b0caefb8123cd",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5209717&Seguimiento=5208762"
+    }
+  ],
+  "tramites": {
+    "5209717": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 90
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 25/11/2026",
+  "votaciones": [
+    "sil-5209717-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5209717",
+      "camara": "senado",
+      "fecha": "2026-11-25",
+      "result": "pass",
+      "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}

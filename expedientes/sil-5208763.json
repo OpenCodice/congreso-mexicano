@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "5060954",
+      "denominacion": "Que reforma la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-04-08",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/04/asun_5060954_20260408_1774380156.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5208171",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-11-24",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5208171_20261124_1795539152.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5209721",
+      "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+      "estatus": "Turnado a revisora 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5209721_20261124_1795539153.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Senadores",
+  "camara_revisora": "Cámara de Diputados",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Aprobado en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Turnado a revisora",
+      "fecha": "2026-11-25"
+    }
+  ],
+  "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+  "id": "sil-5208763",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5208763",
+  "sources": [
+    {
+      "archivo": "fuentes/b6/b6dc9fde97a7d726cd66e93ded1a2a23fb2a1af0d2da668c7f2c4e99631ea633.html",
+      "consultado": "2026-11-26T03:13:28Z",
+      "sha256": "b6dc9fde97a7d726cd66e93ded1a2a23fb2a1af0d2da668c7f2c4e99631ea633",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5208763&Asunto=5209721"
+    },
+    {
+      "archivo": "fuentes/d0/d083c564eda82d5ce26f10db411439184d1e1cfdd29a1b47939eb594aa9e3c27.html",
+      "consultado": "2026-11-26T03:13:34Z",
+      "sha256": "d083c564eda82d5ce26f10db411439184d1e1cfdd29a1b47939eb594aa9e3c27",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5209721&Seguimiento=5208763"
+    }
+  ],
+  "tramites": {
+    "5209721": [
+      {
+        "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 94
+        },
+        "texto": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Túrnese a la Cámara de Diputados para sus efectos constitucionales"
+      }
+    ]
+  },
+  "ultimo_estatus": "Turnado a revisora Pendiente 25/11/2026",
+  "votaciones": [
+    "sil-5209721-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5209721",
+      "camara": "senado",
+      "fecha": "2026-11-25",
+      "result": "pass",
+      "texto": "Aprobado para omitir la lectura del dictamen con el objeto de someterlo a discusión de inmediato."
+    }
+  ]
+}

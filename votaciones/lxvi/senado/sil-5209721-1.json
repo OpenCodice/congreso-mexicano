@@ -1,0 +1,41 @@
+{
+  "asunto": "5209721",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 94
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5208763",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5209721-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 94 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/3f/3fd1f3ada1be3c725b86ca1a0fb424df8b5159525fd7a11c58ba3cdb2df065da.html",
+      "consultado": "2026-11-26T03:14:02Z",
+      "sha256": "3fd1f3ada1be3c725b86ca1a0fb424df8b5159525fd7a11c58ba3cdb2df065da",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5209721"
+    }
+  ],
+  "start_date": "2026-11-25",
+  "votes": [],
+  "votos_publicados": false
+}

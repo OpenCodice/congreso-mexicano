@@ -3,7 +3,7 @@
     {
       "clave": "5010740",
       "denominacion": "Que reforma los artículos 9, 10, 10 bis, 10 ter, 11, 12, 13, 14, 15, 16, 17, 19, 20, 22, 24, 24 ter, 35, 36, 44, 51, 52, 53 y octavo transitorio de la Ley de la Comisión Nacional de los Derechos Humanos.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-02-10",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/02/asun_5010740_20260210_1770144069.pdf",
       "tipo": "Iniciativa"
@@ -11,7 +11,7 @@
     {
       "clave": "5199039",
       "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-11-17",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5199039_20261117_1794938204.pdf",
       "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
@@ -19,10 +19,18 @@
     {
       "clave": "5200531",
       "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
-      "estatus": "Turnado a revisora 18/11/2026",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
       "fecha": "2026-11-18",
       "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5200531_20261118_1794938205.pdf",
       "tipo": "Dictamen a discusión"
+    },
+    {
+      "clave": "5205342",
+      "denominacion": "Que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos, en materia de lenguaje inclusivo.",
+      "estatus": "Pendiente en comisión(es) de revisora 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5205342_20261125_1795620311.pdf",
+      "tipo": "Minuta"
     }
   ],
   "camara_origen": "Cámara de Senadores",
@@ -39,6 +47,14 @@
     {
       "estatus": "Turnado a revisora",
       "fecha": "2026-11-18"
+    },
+    {
+      "estatus": "Minuta recibida en revisora",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Pendiente en comisión(es) de revisora",
+      "fecha": "2026-11-25"
     }
   ],
   "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.",
@@ -48,15 +64,15 @@
   "seguimiento": "5199597",
   "sources": [
     {
-      "archivo": "fuentes/b9/b9f98c927588f7e30e5088dfe8d3dddfc7ff71b3e5569be5294d3016eae7f8d6.html",
-      "consultado": "2026-11-25T02:53:14Z",
-      "sha256": "b9f98c927588f7e30e5088dfe8d3dddfc7ff71b3e5569be5294d3016eae7f8d6",
+      "archivo": "fuentes/2f/2fee41fc9c58329ee8051b81fd1eaeb1c07f715f4d81610a8071dcd5b237c143.html",
+      "consultado": "2026-11-26T03:57:14Z",
+      "sha256": "2fee41fc9c58329ee8051b81fd1eaeb1c07f715f4d81610a8071dcd5b237c143",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5199597&Asunto=5200531"
     },
     {
-      "archivo": "fuentes/20/2042296106391a3037bd63371d6727be74421d8147966f16cd13bf12707ac480.html",
-      "consultado": "2026-11-25T02:53:20Z",
-      "sha256": "2042296106391a3037bd63371d6727be74421d8147966f16cd13bf12707ac480",
+      "archivo": "fuentes/b2/b2189963bdd94bfdb71e5d61c2ef7ba8f83e02cc2e15412635dea9aa59bf0884.html",
+      "consultado": "2026-11-26T03:57:20Z",
+      "sha256": "b2189963bdd94bfdb71e5d61c2ef7ba8f83e02cc2e15412635dea9aa59bf0884",
       "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5200531&Seguimiento=5199597"
     }
   ],
@@ -81,7 +97,7 @@
       }
     ]
   },
-  "ultimo_estatus": "Turnado a revisora Pendiente 18/11/2026",
+  "ultimo_estatus": "Pendiente en comisión(es) de revisora Pendiente 25/11/2026",
   "votaciones": [
     "sil-5200531-1"
   ],

@@ -1,0 +1,97 @@
+{
+  "asuntos": [
+    {
+      "clave": "5204162",
+      "denominacion": "Que la Cámara de Diputados del Honorable Congreso de la Unión ordena el reacomodo de las Inscripciones de Honor, denominadas Letras de Oro, dispuestas en el Muro de Honor del Salón de Sesiones del Recinto Legislativo de San Lázaro.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-11-19",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5204162_20261119_1795128321.pdf",
+      "tipo": "Iniciativa"
+    },
+    {
+      "clave": "5205358",
+      "denominacion": "Por el que la Cámara de Diputados del Honorable Congreso de la Unión ordena el reacomodo de las Inscripciones de Honor, denominadas Letras de Oro, dispuestas en el Muro de Honor del Salón de Sesiones del Recinto Legislativo de San Lázaro.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5205358_20261125_1795629141.pdf",
+      "tipo": "Dictamen de primera lectura / Declaratoria de publicidad"
+    },
+    {
+      "clave": "5210115",
+      "denominacion": "Por el que la Cámara de Diputados del Honorable Congreso de la Unión ordena el reacomodo de las Inscripciones de Honor, denominadas Letras de Oro, dispuestas en el Muro de Honor del Salón de Sesiones del Recinto Legislativo de San Lázaro.",
+      "estatus": "Enviado para publicación en DOF 25/11/2026",
+      "fecha": "2026-11-25",
+      "pdf": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2026/11/asun_5210115_20261125_1795629244.pdf",
+      "tipo": "Dictamen a discusión"
+    }
+  ],
+  "camara_origen": "Cámara de Diputados",
+  "camara_revisora": "Cámara de Senadores",
+  "cronologia": [
+    {
+      "estatus": "Dictamen a discusión en origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Aprobado en pleno origen",
+      "fecha": "2026-11-25"
+    },
+    {
+      "estatus": "Enviado para publicación en DOF",
+      "fecha": "2026-11-25"
+    }
+  ],
+  "denominacion": "Por el que la Cámara de Diputados del Honorable Congreso de la Unión ordena el reacomodo de las Inscripciones de Honor, denominadas Letras de Oro, dispuestas en el Muro de Honor del Salón de Sesiones del Recinto Legislativo de San Lázaro.",
+  "id": "sil-5210956",
+  "legislatura": "LXVI",
+  "publicado_dof": null,
+  "seguimiento": "5210956",
+  "sources": [
+    {
+      "archivo": "fuentes/b2/b23d31ec39f1632faa35c63746c913576d4c3db6e13f6f1267d64a05e68f066c.html",
+      "consultado": "2026-11-26T03:15:21Z",
+      "sha256": "b23d31ec39f1632faa35c63746c913576d4c3db6e13f6f1267d64a05e68f066c",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_ReporteSeguimiento.php?SID=&Seguimiento=5210956&Asunto=5210115"
+    },
+    {
+      "archivo": "fuentes/3c/3cc8bb053b12a5f7bb32a205a3c54d15b803a56988a981d365cfba90cee931a5.html",
+      "consultado": "2026-11-26T03:15:27Z",
+      "sha256": "3cc8bb053b12a5f7bb32a205a3c54d15b803a56988a981d365cfba90cee931a5",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?SID=&Asunto=5210115&Seguimiento=5210956"
+    }
+  ],
+  "tramites": {
+    "5210115": [
+      {
+        "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular.",
+        "tipo": "Votación económica"
+      },
+      {
+        "conteos": {
+          "abstain": 0,
+          "no": 0,
+          "yes": 429
+        },
+        "texto": "Aprobado en lo general y en lo particular es mayoría calificada. A Favor: 429 En contra: 0 Abstenciones 0",
+        "tipo": "Votación nominal"
+      },
+      {
+        "texto": "",
+        "tipo": "Publíquese en el Diario Oficial de la Federación"
+      }
+    ]
+  },
+  "ultimo_estatus": "Enviado para publicación en DOF Aprobado 25/11/2026",
+  "votaciones": [
+    "sil-5210115-1"
+  ],
+  "votaciones_economicas": [
+    {
+      "asunto": "5210115",
+      "camara": "diputados",
+      "fecha": "2026-11-25",
+      "result": "pass",
+      "texto": "Aprobado para considerarlo suficientemente discutido en lo general y en lo particular."
+    }
+  ]
+}

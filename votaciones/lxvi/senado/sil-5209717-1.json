@@ -1,0 +1,41 @@
+{
+  "asunto": "5209717",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 90
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5208762",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5209717-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma la fracción XIII del artículo 4 de la Ley del Instituto Mexicano de la Juventud.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 90 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/a3/a30a98a8ae674fbcc59509c74a85318e5f89b8df77f660dc0b7bb4ad2284d9b1.html",
+      "consultado": "2026-11-26T03:13:15Z",
+      "sha256": "a30a98a8ae674fbcc59509c74a85318e5f89b8df77f660dc0b7bb4ad2284d9b1",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5209717"
+    }
+  ],
+  "start_date": "2026-11-25",
+  "votes": [],
+  "votos_publicados": false
+}

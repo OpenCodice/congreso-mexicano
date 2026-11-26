@@ -1,0 +1,41 @@
+{
+  "asunto": "5210115",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 429
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5210956",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5210115-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Otro",
+    "denominacion": "Por el que la Cámara de Diputados del Honorable Congreso de la Unión ordena el reacomodo de las Inscripciones de Honor, denominadas Letras de Oro, dispuestas en el Muro de Honor del Salón de Sesiones del Recinto Legislativo de San Lázaro.",
+    "text": "Aprobado en lo general y en lo particular es mayoría calificada. A Favor: 429 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/3e/3ed37c06211c93d7ea9f39789dab1f9de5d3c2b9a96db0f043dcc7a2e54e7d62.html",
+      "consultado": "2026-11-26T03:15:34Z",
+      "sha256": "3ed37c06211c93d7ea9f39789dab1f9de5d3c2b9a96db0f043dcc7a2e54e7d62",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5210115"
+    }
+  ],
+  "start_date": "2026-11-25",
+  "votes": [],
+  "votos_publicados": false
+}

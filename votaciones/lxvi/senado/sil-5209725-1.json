@@ -1,0 +1,41 @@
+{
+  "asunto": "5209725",
+  "camara": "senado",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 97
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5208764",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5209725-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Con proyecto de decreto por el que reforma diversas disposiciones de la Ley de Desarrollo Rural Sustentable, en materia de impulso a las mujeres productoras del campo.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 97 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "senado",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/cb/cb1f716423e486c3c12a300e7323396bcdf06f974a009dd53929ed75f2834b23.html",
+      "consultado": "2026-11-26T03:14:27Z",
+      "sha256": "cb1f716423e486c3c12a300e7323396bcdf06f974a009dd53929ed75f2834b23",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5209725"
+    }
+  ],
+  "start_date": "2026-11-25",
+  "votes": [],
+  "votos_publicados": false
+}

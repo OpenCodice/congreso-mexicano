@@ -1,0 +1,41 @@
+{
+  "asunto": "5210118",
+  "camara": "diputados",
+  "counts": [
+    {
+      "option": "yes",
+      "value": 433
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "expediente_id": "sil-5210957",
+  "fecha_fuente": "fecha del dictamen a discusión en el SIL",
+  "id": "sil-5210118-1",
+  "legislative_period_id": "lxvi",
+  "motion": {
+    "clasificacion": "Ley Secundaria",
+    "denominacion": "Que reforma y adiciona diversas disposiciones de la Ley General de Vida Silvestre y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en materia de reproducción, repoblación, reintroducción y translocación de vida silvestre en áreas naturales protegidas participativas.",
+    "text": "Aprobado en lo general y en lo particular A Favor: 433 En contra: 0 Abstenciones 0"
+  },
+  "orden": 1,
+  "organization_id": "camara-de-diputados",
+  "result": "pass",
+  "sources": [
+    {
+      "archivo": "fuentes/2f/2f80211f31482029a3ddd961dcaedaa7fa41f222a589f1691884eccd7b944b2e.html",
+      "consultado": "2026-11-26T03:16:15Z",
+      "sha256": "2f80211f31482029a3ddd961dcaedaa7fa41f222a589f1691884eccd7b944b2e",
+      "url": "http://sil.gobernacion.gob.mx/Librerias/pp_TramitesAnteriores.php?Asunto=5210118"
+    }
+  ],
+  "start_date": "2026-11-25",
+  "votes": [],
+  "votos_publicados": false
+}
