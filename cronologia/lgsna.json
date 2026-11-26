@@ -1,0 +1,57 @@
+{
+  "decretos": [
+    {
+      "escaneado": false,
+      "fecha": "2021-05-20",
+      "numero": 1,
+      "publicaciones": [
+        {
+          "archivos": [
+            {
+              "formato": "pdf",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna/LGSNA_ref01_20may21.pdf"
+            },
+            {
+              "formato": "word",
+              "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna/LGSNA_ref01_20may21.doc"
+            }
+          ],
+          "fecha": "2021-05-20"
+        }
+      ],
+      "titulo": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+    }
+  ],
+  "documento": "lgsna",
+  "nombre": "Ley General del Sistema Nacional Anticorrupción",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2016-07-18",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna/LGSNA_orig_18jul16.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna/LGSNA_orig_18jul16.doc"
+          }
+        ],
+        "fecha": "2016-07-18"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-26T16:18:03Z",
+      "sha256": "2c132c92c1511bd9208b02c4980e5daf706dfe5c5f9b5e85517d25b93278c0c1",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna.htm"
+}
