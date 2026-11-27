@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-18",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-25",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 18-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 25-NOV-2026"
   },
   "expediente_id": "sil-5199599",
   "fecha_presentacion": "2025-11-27",
@@ -41,8 +41,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/50/50c91fa872aa12e5a05879b02dc5f402e19c1a3694c5179e0fb9d3c05349dae5.html.gz",
-      "consultado": "2026-11-20T13:19:18Z",
+      "archivo": "fuentes/19/19f2b14d44638e2744f9516642924cda8cdecb7bd230b7e0ba913cf7d5928639.html.gz",
+      "consultado": "2026-11-26T18:32:18Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "50c91fa872aa12e5a05879b02dc5f402e19c1a3694c5179e0fb9d3c05349dae5",
+      "sha256": "19f2b14d44638e2744f9516642924cda8cdecb7bd230b7e0ba913cf7d5928639",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

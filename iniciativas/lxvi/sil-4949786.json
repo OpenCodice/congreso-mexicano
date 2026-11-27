@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que adiciona la fracción XV al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-18",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-25",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 18-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 25-NOV-2026"
   },
   "expediente_id": "sil-5199599",
   "fecha_presentacion": "2025-10-15",
@@ -41,8 +41,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/36/363600371b25c26e838eb3597980b3adf5ee08a23e1558cd8b9d41f70cce6035.html.gz",
-      "consultado": "2026-11-20T13:19:12Z",
+      "archivo": "fuentes/61/61fed2a26c57921e690d5af6e065b646c5a32ad496c8ae5916e065642a6a37ac.html.gz",
+      "consultado": "2026-11-26T18:32:12Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "363600371b25c26e838eb3597980b3adf5ee08a23e1558cd8b9d41f70cce6035",
+      "sha256": "61fed2a26c57921e690d5af6e065b646c5a32ad496c8ae5916e065642a6a37ac",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

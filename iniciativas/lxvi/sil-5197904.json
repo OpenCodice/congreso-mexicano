@@ -34,15 +34,15 @@
   "seguimiento": "5205265",
   "sources": [
     {
-      "archivo": "fuentes/78/78acd5b2b054d76f67c8cc350bbf49f9cd8b1488e06e6858683ec62968da35cd.html.gz",
-      "consultado": "2026-11-22T00:11:06Z",
+      "archivo": "fuentes/04/04d2d8b151d22592512ee7866cfb828f22ec8a412960ddc645259d467216d582.html.gz",
+      "consultado": "2026-11-27T00:14:09Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "22/11/2026",
+        "FECHA_FIN": "27/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -54,11 +54,13 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "78acd5b2b054d76f67c8cc350bbf49f9cd8b1488e06e6858683ec62968da35cd",
+      "sha256": "04d2d8b151d22592512ee7866cfb828f22ec8a412960ddc645259d467216d582",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
   "subclasificacion": "Ley Secundaria",
-  "temas": [],
+  "temas": [
+    "Economía"
+  ],
   "tipo": "Iniciativa"
 }

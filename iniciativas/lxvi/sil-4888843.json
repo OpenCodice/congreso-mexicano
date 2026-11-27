@@ -26,10 +26,10 @@
   ],
   "denominacion": "Que reforma los artículos 12, las fracciones I, II, III, y IV del artículo 14, las fracciones I, II, III, IV, V y VI del artículo 15 y las fracciones I, III, IV, V, VI, VII, VIII, IX, XI, XII, XIII y XIV del artículo 38 todos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-18",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-25",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 18-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 25-NOV-2026"
   },
   "expediente_id": "sil-5199599",
   "fecha_presentacion": "2025-04-28",
@@ -48,8 +48,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/13/13a558fee88c0878e0d1bd3665bf0e6583878713cf1f003d7769e39af6a1e2a9.html.gz",
-      "consultado": "2026-11-20T13:18:25Z",
+      "archivo": "fuentes/fd/fd02e6f86fd5f7327f209a61cbbe3cd8bcbeda59964bead0066cd86352f1e790.html.gz",
+      "consultado": "2026-11-26T18:31:19Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "13a558fee88c0878e0d1bd3665bf0e6583878713cf1f003d7769e39af6a1e2a9",
+      "sha256": "fd02e6f86fd5f7327f209a61cbbe3cd8bcbeda59964bead0066cd86352f1e790",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

@@ -1,0 +1,143 @@
+{
+  "camara_origen": "senado",
+  "clave": "5209813",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Energía",
+      "referencia": "2085519",
+      "texto": "1.-Senado -Energía.-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a diversas autoridades a realizar acciones relacionadas con los proyectos de plantas de gas natural licuado que pretenden instalarse en el Golfo de California.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-25",
+  "id": "sil-5209813",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229062",
+      "nombre_fuente": "Sen. Luis Donaldo Colosio Riojas",
+      "person_id": "luis-donaldo-colosio-riojas",
+      "referencia_sil": "9229062",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229030",
+      "nombre_fuente": "Sen. Miguel Pavel Jarero Velázquez",
+      "person_id": "miguel-pavel-jarero-velazquez",
+      "referencia_sil": "9229030",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229012",
+      "nombre_fuente": "Sen. Víctor Aureliano Mercado Salgado",
+      "person_id": "victor-aureliano-mercado-salgado",
+      "referencia_sil": "9229012",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229168",
+      "nombre_fuente": "Sen. Claudia Tello Espinosa",
+      "person_id": "claudia-tello-espinosa",
+      "referencia_sil": "9229168",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228922",
+      "nombre_fuente": "Sen. Gina Gerardina Campuzano González",
+      "person_id": "gina-gerardina-campuzano-gonzalez",
+      "referencia_sil": "9228922",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228890",
+      "nombre_fuente": "Sen. Sasil Dora Luz De León Villard",
+      "person_id": "sasil-dora-luz-de-leon-villard",
+      "referencia_sil": "9228890",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229264",
+      "nombre_fuente": "Sen. Susana Harp Iturribarría",
+      "person_id": "susana-harp-iturribarria",
+      "referencia_sil": "9229264",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229088",
+      "nombre_fuente": "Sen. Mayuli Latifa Martínez Simón",
+      "person_id": "mayuli-latifa-martinez-simon",
+      "referencia_sil": "9229088",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228960",
+      "nombre_fuente": "Sen. Alma Carolina Viggiano Austria",
+      "person_id": "alma-carolina-viggiano-austria",
+      "referencia_sil": "9228960",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9228748",
+      "nombre_fuente": "Sen. Susana del Carmen Zatarain García",
+      "person_id": "susana-del-carmen-zatarain-garcia",
+      "referencia_sil": "9228748",
+      "tipo": "legislador"
+    },
+    {
+      "mandato_id": "sil-9229397",
+      "nombre_fuente": "Sen. Maki Esther Ortiz Domínguez",
+      "person_id": "maki-esther-ortiz-dominguez",
+      "referencia_sil": "9229397",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a256da1e0e6460e1bb827a53db6f22a579b8215a40b6b74b227be4e10affe05.html.gz",
+      "consultado": "2026-11-27T00:14:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "27/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a256da1e0e6460e1bb827a53db6f22a579b8215a40b6b74b227be4e10affe05",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Otro",
+  "temas": [
+    "Medio Ambiente"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}
