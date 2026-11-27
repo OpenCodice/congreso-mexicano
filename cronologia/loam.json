@@ -1,0 +1,35 @@
+{
+  "decretos": [],
+  "documento": "loam",
+  "nombre": "Ley Orgánica de la Armada de México",
+  "notas_sin_decreto": [],
+  "original": {
+    "escaneado": false,
+    "fecha": "2025-11-07",
+    "publicaciones": [
+      {
+        "archivos": [
+          {
+            "formato": "pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loam/LOAM_orig_07nov25.pdf"
+          },
+          {
+            "formato": "word",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loam/LOAM_orig_07nov25.doc"
+          }
+        ],
+        "fecha": "2025-11-07"
+      }
+    ],
+    "titulo": "DECRETO por el que se expide la Ley Orgánica de la Armada de México."
+  },
+  "otras": [],
+  "sources": [
+    {
+      "consultado": "2026-11-27T09:41:02Z",
+      "sha256": "2e13b5a367fd9bc7d30f0e473a2cb7862831a22741b0e16358c49718fcd117e6",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loam.htm"
+    }
+  ],
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loam.htm"
+}
