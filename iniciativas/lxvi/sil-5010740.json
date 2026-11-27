@@ -26,10 +26,10 @@
   ],
   "denominacion": "Que reforma los artículos 9, 10, 10 bis, 10 ter, 11, 12, 13, 14, 15, 16, 17, 19, 20, 22, 24, 24 ter, 35, 36, 44, 51, 52, 53 y octavo transitorio de la Ley de la Comisión Nacional de los Derechos Humanos.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-18",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-25",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 18-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 25-NOV-2026"
   },
   "expediente_id": "sil-5199597",
   "fecha_presentacion": "2026-02-10",
@@ -48,8 +48,8 @@
   "seguimiento": "5199597",
   "sources": [
     {
-      "archivo": "fuentes/08/08077aee59cada8b04151b7a8335b861bc694984aa065ff696e9d42db322cf7b.html.gz",
-      "consultado": "2026-11-20T13:19:36Z",
+      "archivo": "fuentes/9a/9ae0b0040a3f15516bad77667f5e61a5a40eb7e4c3a9f4bfbb6102d322ae8b1e.html.gz",
+      "consultado": "2026-11-26T18:32:36Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -68,7 +68,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "08077aee59cada8b04151b7a8335b861bc694984aa065ff696e9d42db322cf7b",
+      "sha256": "9ae0b0040a3f15516bad77667f5e61a5a40eb7e4c3a9f4bfbb6102d322ae8b1e",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

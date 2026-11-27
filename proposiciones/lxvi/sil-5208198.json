@@ -1,0 +1,66 @@
+{
+  "camara_origen": "senado",
+  "clave": "5208198",
+  "comisiones": [
+    {
+      "camara": "Senado",
+      "comision": "Guardia Nacional",
+      "referencia": "2085595",
+      "texto": "1.-Senado -Guardia Nacional .-Para dictamen",
+      "turno": "Para dictamen"
+    }
+  ],
+  "denominacion": "Por el que exhorta a la Guardia Nacional, para promover reuniones de trabajo de carácter institucional con senadoras y senadores de la República a fin de fortalecer el diálogo, el control parlamentario y el fortalecimiento del marco jurídico de la Guardia Nacional.",
+  "estatus": {
+    "estado": "Pendiente",
+    "fecha": null,
+    "resultado": "pendiente",
+    "texto": "Pendiente"
+  },
+  "expediente_id": null,
+  "fecha_presentacion": "2026-11-24",
+  "id": "sil-5208198",
+  "legislative_period_id": "lxvi",
+  "partido_fuente": "PVEM",
+  "presentadores": [
+    {
+      "mandato_id": "sil-9229016",
+      "nombre_fuente": "Sen. Juanita Guerra Mena",
+      "person_id": "juanita-guerra-mena",
+      "referencia_sil": "9229016",
+      "tipo": "legislador"
+    }
+  ],
+  "seguimiento": null,
+  "sources": [
+    {
+      "archivo": "fuentes/6a/6a256da1e0e6460e1bb827a53db6f22a579b8215a40b6b74b227be4e10affe05.html.gz",
+      "consultado": "2026-11-27T00:14:13Z",
+      "datos": {
+        "CAMARA_PRESENTADOR[]": [
+          "1",
+          "2",
+          "5"
+        ],
+        "FECHA_FIN": "27/11/2026",
+        "FECHA_INIC": "01/11/2026",
+        "LEGISLATURA": "66",
+        "OPCION_TEXTO": "2",
+        "PAGINAS": "999",
+        "PRESENTADOR": "null",
+        "RESULTADO": "9",
+        "TASUNTO_AR[]": [
+          "19"
+        ],
+        "VALOR_TEXTO": ""
+      },
+      "sha256": "6a256da1e0e6460e1bb827a53db6f22a579b8215a40b6b74b227be4e10affe05",
+      "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
+    }
+  ],
+  "subclasificacion": "Exhorto al Poder Ejecutivo",
+  "temas": [
+    "Seguridad Pública"
+  ],
+  "tipo": "Proposición con punto de acuerdo"
+}

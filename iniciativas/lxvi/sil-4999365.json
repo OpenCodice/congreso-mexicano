@@ -19,10 +19,10 @@
   ],
   "denominacion": "Que reforma diversos artículos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y de la Ley General para la Igualdad entre Mujeres y Hombres.",
   "estatus": {
-    "estado": "Turnado a revisora",
-    "fecha": "2026-11-18",
+    "estado": "Pendiente en comisión(es) de revisora",
+    "fecha": "2026-11-25",
     "resultado": "pendiente",
-    "texto": "Turnado a revisora el 18-NOV-2026"
+    "texto": "Pendiente en comisión(es) de revisora el 25-NOV-2026"
   },
   "expediente_id": "sil-5199599",
   "fecha_presentacion": "2025-12-10",
@@ -41,8 +41,8 @@
   "seguimiento": "5199599",
   "sources": [
     {
-      "archivo": "fuentes/c3/c3137047aec85471723ae2d76b1f4f01e40571cd88a5f545afd29a55a6b4d24f.html.gz",
-      "consultado": "2026-11-20T13:19:25Z",
+      "archivo": "fuentes/4e/4e05730d76bf04e7a580c2915e931de8bb86bcec88589555e79c81dd6c0ead46.html.gz",
+      "consultado": "2026-11-26T18:32:26Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -61,7 +61,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "c3137047aec85471723ae2d76b1f4f01e40571cd88a5f545afd29a55a6b4d24f",
+      "sha256": "4e05730d76bf04e7a580c2915e931de8bb86bcec88589555e79c81dd6c0ead46",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

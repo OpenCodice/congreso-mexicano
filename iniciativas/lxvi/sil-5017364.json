@@ -12,12 +12,12 @@
   ],
   "denominacion": "Que reforma el Decreto publicado en el DOF del 29 de diciembre de 1966, mediante el cual se inscribió con letras de oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados el nombre de -Margarita Maza de Juárez- a efecto de modificar la inscripción para que se lea -Margarita Maza Parada-.",
   "estatus": {
-    "estado": "Pendiente en comisión(es) de origen",
-    "fecha": "2026-02-18",
-    "resultado": "pendiente",
-    "texto": "Pendiente en comisión(es) de origen el 18-FEB-2026"
+    "estado": "Enviado para publicación en DOF",
+    "fecha": "2026-11-25",
+    "resultado": "aprobado",
+    "texto": "Enviado para publicación en DOF el 25-NOV-2026"
   },
-  "expediente_id": null,
+  "expediente_id": "sil-5210943",
   "fecha_presentacion": "2026-02-18",
   "id": "sil-5017364",
   "legislative_period_id": "lxvi",
@@ -31,11 +31,11 @@
       "tipo": "legislador"
     }
   ],
-  "seguimiento": "5019571",
+  "seguimiento": "5210943",
   "sources": [
     {
-      "archivo": "fuentes/60/60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4.html.gz",
-      "consultado": "2026-11-17T07:56:45Z",
+      "archivo": "fuentes/9a/9ae0b0040a3f15516bad77667f5e61a5a40eb7e4c3a9f4bfbb6102d322ae8b1e.html.gz",
+      "consultado": "2026-11-26T18:32:36Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
@@ -54,7 +54,7 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "60197c9a96b9480fff6bd8fbc1f275afd678c98d600b6cf5b7c3aec39ffb64e4",
+      "sha256": "9ae0b0040a3f15516bad77667f5e61a5a40eb7e4c3a9f4bfbb6102d322ae8b1e",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],

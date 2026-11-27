@@ -69,15 +69,15 @@
   "seguimiento": "5208712",
   "sources": [
     {
-      "archivo": "fuentes/2a/2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea.html.gz",
-      "consultado": "2026-11-25T00:17:07Z",
+      "archivo": "fuentes/04/04d2d8b151d22592512ee7866cfb828f22ec8a412960ddc645259d467216d582.html.gz",
+      "consultado": "2026-11-27T00:14:09Z",
       "datos": {
         "CAMARA_PRESENTADOR[]": [
           "1",
           "2",
           "5"
         ],
-        "FECHA_FIN": "25/11/2026",
+        "FECHA_FIN": "27/11/2026",
         "FECHA_INIC": "01/11/2026",
         "LEGISLATURA": "66",
         "OPCION_TEXTO": "2",
@@ -89,12 +89,13 @@
         ],
         "VALOR_TEXTO": ""
       },
-      "sha256": "2a9f3ab0632cb6a1ee3d2ae183f69b27c522e9b419aca5b0ac985e8e7ac345ea",
+      "sha256": "04d2d8b151d22592512ee7866cfb828f22ec8a412960ddc645259d467216d582",
       "url": "http://sil.gobernacion.gob.mx/Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID="
     }
   ],
   "subclasificacion": "Ley Secundaria",
   "temas": [
+    "Economía",
     "Medio Ambiente"
   ],
   "tipo": "Iniciativa"
